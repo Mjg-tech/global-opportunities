@@ -161,9 +161,20 @@ with an `archive_id` and an `archived_on` date. Do not delete it.
 
 ## How to deploy GitHub Pages
 
-Already set up. The repository's Pages source is "GitHub Actions", and
+The intended setup: the repository's Pages source is "GitHub Actions", and
 `.github/workflows/refresh.yml` publishes on every push to `main`, every day at 05:17 UTC and
 on demand (Actions tab, "Refresh and publish", "Run workflow").
+
+If `.github/workflows/refresh.yml` is not in the repository yet, Pages serves the `main` branch
+directly and nothing refreshes by itself. The workflow file can only be pushed with a token
+that has the `workflow` scope. To finish the setup:
+
+```bash
+gh auth refresh -h github.com -s workflow
+git push
+gh api -X PUT repos/<owner>/<name>/pages -f build_type=workflow
+gh workflow run refresh.yml
+```
 
 To recreate it on a new repository:
 
