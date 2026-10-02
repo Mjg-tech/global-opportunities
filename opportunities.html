@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Opportunities - Global Opportunity Intelligence</title>
+  <meta name="description" content="Search and filter every tracked scholarship, fellowship, funded programme and travel opportunity.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">OI</span>Opportunity Intelligence</a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="index.html">Dashboard</a>
+        <a href="opportunities.html" aria-current="page">Opportunities</a>
+        <a href="leads.html">New leads</a>
+      </nav>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch theme"></button>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">All opportunities</h1>
+    <p class="page-lede">Search and filter every record. Entries with low relevance or failed eligibility stay visible so you can see why.</p>
+
+    <div class="toolbar">
+      <label class="search">
+        <span class="sr-only">Search opportunities</span>
+        <svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M9 4a5 5 0 100 10A5 5 0 009 4zM13 13l3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <input type="search" id="search" placeholder="Search by title, organiser, country or requirement" autocomplete="off">
+      </label>
+      <label class="field"><span>Sort by</span><select id="sort"></select></label>
+      <label class="check"><input type="checkbox" id="archive"> Include archive</label>
+    </div>
+
+    <details class="filters" id="filter-box" open>
+      <summary>Filters</summary>
+      <div class="filter-grid" id="filters"></div>
+    </details>
+
+    <div class="results-bar" aria-live="polite">
+      <span id="count"></span>
+      <span id="active" class="card-badges"></span>
+    </div>
+    <div class="grid" id="grid"><p class="muted">Loading the database.</p></div>
+  </main>
+
+  <footer class="site-footer">
+    <p>Information is checked against official sources but can change without notice. Always confirm on the organiser's website before applying.</p>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/explorer.js"></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>New leads - Global Opportunity Intelligence</title>
+  <meta name="description" content="Opportunities found automatically in feeds and not yet verified.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">OI</span>Opportunity Intelligence</a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="index.html">Dashboard</a>
+        <a href="opportunities.html">Opportunities</a>
+        <a href="leads.html" aria-current="page">New leads</a>
+      </nav>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch theme"></button>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">New leads</h1>
+    <p class="page-lede">This list fills itself. Once a day the site reads opportunity feeds in English, French, Portuguese and Spanish and keeps the titles it has not seen before.</p>
+
+    <div class="notice tone-serious" style="margin-top:18px">
+      <svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M10 3.5l7 12H3l7-12zM10 8.5v3.5M10 14.2v.3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <div>
+        <strong>Nothing on this page has been verified.</strong>
+        <p>A lead is a title and a link, mostly from aggregator sites. Deadlines, funding and eligibility have not been checked, and some listings charge an application fee. Go to the organiser's own website before trusting any of them. A lead becomes a full record only after a research cycle confirms it.</p>
+      </div>
+    </div>
+
+    <div class="lead-tools">
+      <label class="search">
+        <span class="sr-only">Search leads</span>
+        <svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M9 4a5 5 0 100 10A5 5 0 009 4zM13 13l3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <input type="search" id="search" placeholder="Search lead titles" autocomplete="off">
+      </label>
+      <label class="field"><span>Language</span><select id="f-lang"></select></label>
+      <label class="field"><span>Source</span><select id="f-source"></select></label>
+    </div>
+    <p class="muted small" id="count" aria-live="polite"></p>
+    <section class="panel"><div id="list"><p class="muted">Loading.</p></div></section>
+
+    <h2 class="section-title">Feeds watched</h2>
+    <p class="muted small" id="refreshed" style="margin:4px 0 12px"></p>
+    <section class="panel"><div id="feeds"></div></section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Feeds are listed in data/sources.json. Add or remove one there and the next daily refresh picks it up.</p>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/leads.js"></script>
+</body>
+</html>

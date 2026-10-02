@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Global Opportunity Intelligence</title>
+  <meta name="description" content="Scholarships, fellowships, funded programmes and travel opportunities, each checked against its official source and assessed for one applicant profile.">
+  <meta name="robots" content="noindex">
+  <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="inner">
+      <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">OI</span>Opportunity Intelligence</a>
+      <nav class="site-nav" aria-label="Main">
+        <a href="index.html" aria-current="page">Dashboard</a>
+        <a href="opportunities.html">Opportunities</a>
+        <a href="leads.html">New leads</a>
+      </nav>
+      <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch theme"></button>
+    </div>
+  </header>
+
+  <main>
+    <h1 class="page-title">Opportunity dashboard</h1>
+    <p class="page-lede">Scholarships, fellowships, funded programmes and travel opportunities, each checked against its official source and assessed for one applicant profile.</p>
+
+    <div class="filter-row" id="scope"></div>
+    <section class="hero" id="hero" aria-live="polite"><p class="muted">Loading the database.</p></section>
+    <section class="tiles" id="tiles" aria-label="Key numbers"></section>
+    <div id="flags" style="margin-top:20px"></div>
+
+    <div class="columns">
+      <section class="panel" aria-labelledby="queue-title">
+        <div class="panel-head">
+          <h2 id="queue-title">Action queue</h2>
+          <a href="opportunities.html?deadline=open">All open opportunities</a>
+        </div>
+        <p class="panel-sub">Open now and not ruled out, soonest deadline first.</p>
+        <div id="queue"></div>
+      </section>
+      <div class="stack">
+        <section class="panel" aria-labelledby="monitor-title">
+          <h2 id="monitor-title">Deadline monitor</h2>
+          <p class="panel-sub">Deadlines falling inside each window.</p>
+          <div id="monitor"></div>
+        </section>
+        <section class="panel" aria-labelledby="leads-title">
+          <h2 id="leads-title">New leads</h2>
+          <p class="panel-sub">Found automatically in opportunity feeds. Not verified.</p>
+          <div id="leads"></div>
+        </section>
+      </div>
+    </div>
+
+    <h2 class="section-title">What is in the database</h2>
+    <div class="charts" id="charts"></div>
+
+    <details class="method panel">
+      <summary>How to read the labels</summary>
+      <div class="method-body">
+        <div>
+          <h3>Verification</h3>
+          <ul>
+            <li><strong>Verified</strong> The deadline, eligibility and funding were read on the organiser's own page on the date shown as last verified.</li>
+            <li><strong>Partially verified</strong> Some facts were read on the official page. The rest come from secondary sources and are marked as such in the record.</li>
+            <li><strong>Needs verification</strong> The official page could not be read. Everything comes from secondary sources.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Eligibility</h3>
+          <ul>
+            <li><strong>Likely eligible</strong> Every stated criterion is met by the recorded profile.</li>
+            <li><strong>Possibly eligible</strong> At least one criterion depends on something the profile does not record, such as exact age or degree grade.</li>
+            <li><strong>Not eligible</strong> A stated criterion is clearly not met.</li>
+            <li><strong>Eligibility unknown</strong> The criteria could not be established.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Funding</h3>
+          <ul>
+            <li><strong>Fully funded</strong> Used only when the organiser's own page supports it.</li>
+            <li><strong>Substantially, partially, travel or participation funded</strong> Some costs stay with you. The detail view lists each expense.</li>
+            <li><strong>Funding unclear</strong> The official page read does not say what is paid.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Deadline status</h3>
+          <ul>
+            <li><strong>Closing soon</strong> 14 days or fewer remain.</li>
+            <li><strong>Upcoming</strong> Applications have not opened, or the next cycle is expected but not announced.</li>
+            <li><strong>Date unknown</strong> No deadline could be confirmed.</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Profile used</h3>
+          <ul id="profile"></ul>
+        </div>
+      </div>
+    </details>
+  </main>
+
+  <footer class="site-footer">
+    <p id="health"></p>
+    <p>Information is checked against official sources but can change without notice. Always confirm on the organiser's website before applying. Never pay an application fee without confirming who the organiser is.</p>
+  </footer>
+
+  <script src="assets/js/app.js"></script>
+  <script src="assets/js/dashboard.js"></script>
+</body>
+</html>

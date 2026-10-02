@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "note": "Anonymous applicant profile used by the eligibility analysis. No name, contact details, identity documents or CV are stored in this repository. Anything marked 'not recorded' must be treated as unknown, never assumed.",
+  "updated": "2026-10-02",
+  "nationality": "Democratic Republic of the Congo",
+  "country_of_residence": "Democratic Republic of the Congo",
+  "age_band": "Under 30. Exact age not recorded.",
+  "highest_degree": "Bachelor's degree (five-year Licence) in Business Administration, obtained in 2024.",
+  "degree_grade": "Not recorded.",
+  "currently_enrolled": "Not recorded as enrolled in any degree programme.",
+  "work_experience": "Three short internships and field assignments (logistics operations, public-sector research and budget evaluation, vaccination-campaign monitoring). Under one year in total. No full-time employment recorded.",
+  "languages": [
+    "French",
+    "English",
+    "Swahili",
+    "Lingala"
+  ],
+  "language_tests": "No IELTS, TOEFL or DELF score recorded.",
+  "business": "No registered business recorded.",
+  "passport": "Not recorded.",
+  "interests": [
+    "Operations and logistics",
+    "Business analysis",
+    "Project and programme coordination",
+    "Research and public-sector or policy analysis"
+  ],
+  "lead_filters": {
+    "comment": "Regular expressions matched against feed titles by scripts/refresh.py. A match means the item targets an audience this profile is not part of, so it is not stored as a lead.",
+    "exclude_title_patterns": [
+      "\\b(nigerian|kenyan|ghanaian|ugandan|rwandan|tanzanian|zambian|zimbabwean|malawian|ethiopian|cameroonian|south african|egyptian|moroccan|tunisian|indian|pakistani|bangladeshi|filipino|indonesian|american|british|canadian|australian|european|asian)s?\\b",
+      "\\b(au|du|en) (tchad|s[ée]n[ée]gal|mali|niger|togo|b[ée]nin|cameroun|burkina|gabon|guin[ée]e)\\b",
+      "\\b(women|woman|female|femmes|girls)\\b",
+      "\\b(phd|doctoral|doctorat|doctorales?|postdoctoral|researchers?|chercheurs?|economist program)\\b",
+      "\\bundergraduates?\\b|high school|secondary school",
+      "brasileir"
+    ]
+  }
+}

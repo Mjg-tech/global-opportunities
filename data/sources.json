@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "updated": "2026-10-02",
+  "note": "Feeds read by scripts/refresh.py every day. Tier 1 = the organisation offering the opportunity, tier 2 = institutional, tier 3 = aggregator (discovery only: every item becomes an unverified lead). A feed with filter 'strict' mixes general news with calls, so only titles that clearly name a call are kept.",
+  "feeds": [
+    {"name": "African Union announcements", "url": "https://au.int/en/rss.xml", "tier": 1, "lang": "en", "filter": "strict", "enabled": true},
+    {"name": "Organisation internationale de la Francophonie", "url": "https://www.francophonie.org/rss.xml", "tier": 1, "lang": "fr", "filter": "strict", "enabled": true},
+    {"name": "Opportunity Desk", "url": "https://opportunitydesk.org/feed/", "tier": 3, "lang": "en", "enabled": true},
+    {"name": "Opportunities for Africans", "url": "https://www.opportunitiesforafricans.com/feed/", "tier": 3, "lang": "en", "enabled": true},
+    {"name": "Global South Opportunities", "url": "https://www.globalsouthopportunities.com/feed/", "tier": 3, "lang": "en", "enabled": true},
+    {"name": "Opportunities for Youth", "url": "https://opportunitiesforyouth.org/feed/", "tier": 3, "lang": "en", "enabled": true},
+    {"name": "Mladiinfo", "url": "https://www.mladiinfo.eu/feed/", "tier": 3, "lang": "en", "enabled": true},
+    {"name": "OYA Opportunities", "url": "https://oyaop.com/feed/", "tier": 3, "lang": "en", "enabled": true},
+    {"name": "Opportunities Corners", "url": "https://opportunitiescorners.com/feed/", "tier": 3, "lang": "en", "enabled": true, "caution": "Lists paid-application conferences advertised as fully funded. Check for fees before anything else."},
+    {"name": "Opportunites du Monde", "url": "https://www.lesopportunites.com/feed/", "tier": 3, "lang": "fr", "enabled": true},
+    {"name": "Afri-Carrieres", "url": "https://afri-carrieres.com/feed/", "tier": 3, "lang": "fr", "enabled": true},
+    {"name": "Mastere.tn", "url": "https://www.mastere.tn/feed/", "tier": 3, "lang": "fr", "enabled": true},
+    {"name": "Partiu Intercambio", "url": "https://partiuintercambio.org/feed/", "tier": 3, "lang": "pt", "enabled": true},
+    {"name": "Becas para todos", "url": "https://becasparatodos.com/feed/", "tier": 3, "lang": "es", "enabled": true},
+    {"name": "Mas Oportunidades", "url": "https://www.masoportunidades.org/feed/", "tier": 3, "lang": "es", "enabled": true}
+  ],
+  "feeds_tested_and_rejected": [
+    {"url": "https://www.afterschoolafrica.com/feed/", "reason": "returns no items to automated readers (2026-10-02)"},
+    {"url": "https://www.scholars4dev.com/feed/", "reason": "returns no items to automated readers (2026-10-02)"},
+    {"url": "https://www.auf.org/feed/", "reason": "HTTP 403 (2026-10-02)"},
+    {"url": "https://greatyop.com/feed/", "reason": "items carry publication dates from 2019-2021, so freshness cannot be judged"}
+  ],
+  "research_watchlist": [
+    {"name": "Chinese Government Scholarship", "why": "Major government scholarship; campuschina.org returned HTTP 412 to automated readers", "next_step": "Read in a browser; check the Embassy of China in Kinshasa route"},
+    {"name": "Global Korea Scholarship (graduate)", "why": "Graduate round usually runs in February; DRC quota not confirmed", "next_step": "Read the GKS-G guidelines on studyinkorea.go.kr when published"},
+    {"name": "Gates Cambridge Scholarship", "why": "Open to all non-UK nationalities; deadline for 2027 entry not captured", "url": "https://www.gatescambridge.org/apply/how-to-apply/", "next_step": "Capture the course-specific deadlines"},
+    {"name": "Mastercard Foundation Scholars Program at Sciences Po", "why": "Secondary sources say it is limited to partner institutions and bridging programmes", "next_step": "Confirm on the official page"},
+    {"name": "Hamad Bin Khalifa University scholarships", "why": "Secondary sources: partial tuition waivers and stipends; international deadline 1 February 2027", "next_step": "Confirm on hbku.edu.qa"},
+    {"name": "Maastricht University NL-High Potential scholarship", "why": "Seen in feeds; deadline usually early in the year", "next_step": "Verify on the official page"},
+    {"name": "UN Young Professionals Programme", "why": "Only nationals of participating countries can sit the exam; the DRC was not in the list returned by search for 2026", "url": "https://careers.un.org/young-professionals-programme", "next_step": "Check the participating-country list each year"},
+    {"name": "IMF Fund Internship Program 2027", "why": "Seen in feeds on 2 October 2026; for students enrolled in graduate programmes; imf.org blocked the reader", "next_step": "Relevant only once enrolled in a master's"},
+    {"name": "UNLEASH Innovation Labs", "why": "Regional labs; none open for Africa was found", "url": "https://unleash.org/", "next_step": "Watch for an Africa lab"},
+    {"name": "Westerwelle Young Founders Programme", "why": "Requires an existing start-up", "next_step": "Skip unless a business is founded"},
+    {"name": "Echoing Green Fellowship", "why": "USD 100,000 over 18 months for leaders of early-stage social enterprises", "url": "https://echoinggreen.org/fellowship/", "next_step": "Skip unless leading an organisation"},
+    {"name": "Africa's Business Heroes", "why": "Prize competition for entrepreneurs from all 54 African countries", "url": "https://africabusinessheroes.org/en/", "next_step": "Skip unless running a business"},
+    {"name": "ITEC (Indian Technical and Economic Cooperation)", "why": "Funded short courses in India; eligibility and DRC procedure not captured", "url": "https://www.itecgoi.in/index", "next_step": "Read the 'How to apply' section; ask the Embassy of India in Kinshasa"},
+    {"name": "ICCR scholarships (India)", "why": "Portal says to contact the Indian Mission for updates", "url": "https://a2ascholarships.iccr.gov.in/", "next_step": "Ask the Embassy of India in Kinshasa"},
+    {"name": "Deep Learning Indaba", "why": "African machine-learning gathering; 2027 call not announced", "url": "https://deeplearningindaba.com/", "next_step": "Only relevant with a data or AI project"},
+    {"name": "GLODEP (Erasmus Mundus)", "why": "Calls for 2027-2029 open 5 November 2026, but EMJM scholarships are no longer listed and 60 ECTS in economics are required", "url": "https://glodep.eu/admission/criteria-and-requirements/", "next_step": "Recheck the funding page"},
+    {"name": "PIONEER (Erasmus Mundus)", "why": "'NO SCHOLARSHIPS FROM 2027 INTAKE ONWARDS'", "url": "https://pioneer-master.eu/", "next_step": "None"},
+    {"name": "Dalai Lama Fellows", "why": "Seen in feeds. The domain dalailamafellows.org now redirects to an unrelated magazine site, so do not use it.", "next_step": "Find the programme's current official host before reading further"},
+    {"name": "Global Shapers Community (Kinshasa hub)", "why": "Unpaid community with funded summits; site content not machine-readable", "url": "https://www.globalshapers.org/story", "next_step": "Read in a browser"},
+    {"name": "Fulbright, Campus France RDC, Canadian Francophonie Scholarship Programme, Wallonie-Bruxelles International, Enabel", "why": "Embassy and cooperation-agency programmes for the DRC not researched this cycle", "next_step": "Research in the next weekly cycle, starting from each embassy's official site"},
+    {"name": "Russia, India, Indonesia (KNB, Darmasiswa), Italy (MAECI), Romania, Azerbaijan, Mauritius-Africa, Ireland Fellows, Australia Awards", "why": "Government scholarships not researched this cycle; DRC eligibility differs by scheme", "next_step": "Check each official country list before anything else"}
+  ]
+}
