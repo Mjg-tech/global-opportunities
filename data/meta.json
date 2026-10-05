@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-02T16:31:51Z",
+  "last_refresh": "2026-10-05T07:05:58Z",
   "counts": {
     "total": 42,
     "archived": 0,
@@ -37,26 +37,25 @@
   "deadline_buckets": {
     "30": [
       "international-dialogue-sdg17-baku-2026",
-      "mastercard-foundation-scholars-edinburgh-2027",
       "one-young-world-leading-scholarship-2026"
     ],
     "14": [
       "aspire-leaders-program-2026-cohort-4",
-      "mandela-washington-fellowship-2027"
+      "mandela-washington-fellowship-2027",
+      "mastercard-foundation-scholars-edinburgh-2027"
     ],
-    "7": [
+    "7": [],
+    "3": [],
+    "1": [
       "chevening-scholarships-2027",
-      "knight-hennessy-scholars-2027"
-    ],
-    "3": [
+      "knight-hennessy-scholars-2027",
       "mckinsey-forward-fall-2026"
-    ],
-    "1": []
+    ]
   },
   "watch": {
     "checked": 41,
-    "ok": 31,
-    "blocked_or_unreachable": 10,
+    "ok": 32,
+    "blocked_or_unreachable": 9,
     "dead": 0
   },
   "flags": [],
@@ -75,7 +74,7 @@
       "tier": 1,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Opportunity Desk",
@@ -83,7 +82,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 6
+      "new": 5
     },
     {
       "name": "Opportunities for Africans",
@@ -91,7 +90,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 0
     },
     {
       "name": "Global South Opportunities",
@@ -99,7 +98,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 5
+      "new": 4
     },
     {
       "name": "Opportunities for Youth",
@@ -123,7 +122,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 7
+      "new": 2
     },
     {
       "name": "Opportunities Corners",
@@ -131,7 +130,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 2
+      "new": 4
     },
     {
       "name": "Opportunites du Monde",
@@ -139,7 +138,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 2
     },
     {
       "name": "Afri-Carrieres",
@@ -153,9 +152,9 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 10,
-      "new": 3
+      "status": 202,
+      "items": 0,
+      "new": 0
     },
     {
       "name": "Partiu Intercambio",
@@ -163,7 +162,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Becas para todos",
@@ -177,82 +176,26 @@
       "name": "Mas Oportunidades",
       "url": "https://www.masoportunidades.org/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 15,
+      "status": 403,
+      "items": 0,
       "new": 0
     }
   ],
   "reseen": [
     {
-      "id": "yenching-academy-2027",
-      "title": "Yenching Academy of Peking University Scholarship in China (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/yenching-academy-of-peking-university-scholarship-in-china-fully-funded/",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL Erasmus Mundus Scholarship 2027(Fully Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/glocal-erasmus-mundus-scholarship-2027fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-02"
-    },
-    {
-      "id": "chevening-scholarships-2027",
-      "title": "Chevening Scholarship 2027/28 in UK (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/chevening-scholarship-2027-28-in-uk-fully-funded/",
-      "source": "OYA Opportunities",
-      "seen": "2026-10-02"
+      "seen": "2026-10-05"
     },
     {
       "id": "international-dialogue-sdg17-baku-2026",
       "title": "International Dialogue on SDG 17-Baku 2026 (Fully Funded)",
       "url": "https://opportunitiescorners.com/international-dialogue-on-sdg-17-baku-2026/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-02"
-    },
-    {
-      "id": "global-leadership-challenge-2026",
-      "title": "Global Leadership Challenge 2027 (Fully Funded to Switzerland)",
-      "url": "https://opportunitiescorners.com/global-leadership-challenge-2027/",
-      "source": "Opportunities Corners",
-      "seen": "2026-10-02"
-    },
-    {
-      "id": "glocal-erasmus-mundus-2027",
-      "title": "Erasmus Mundus GLOCAL Scholarship 2027/29 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/erasmus-mundus-glocal-scholarship-2027/",
-      "source": "Opportunities Corners",
-      "seen": "2026-10-02"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses France Excellence Eiffel à l’EURECOM 2027-2028",
-      "url": "https://www.mastere.tn/bourses-eiffel-eurecom/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-02"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses Excellence Eiffel à l’Université de Montpellier 2027-2028",
-      "url": "https://www.mastere.tn/bourses-eiffel-universite-de-montpellier/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-02"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses Excellence Eiffel à l’Université Jean Moulin Lyon 3, 2027/2028",
-      "url": "https://www.mastere.tn/bourse-eiffel-a-luniversite-jean-moulin-lyon-3/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-02"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses France Excellence Eiffel à l’UTBM 2027-2028",
-      "url": "https://www.mastere.tn/bourses-excellence-eiffel-utbm/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-02"
-    },
-    {
-      "id": "jim-leech-mastercard-foundation-fellowship-2027",
-      "title": "Bourse Jim Leech de la Fondation Mastercard à l’Université Queen’s au Canada",
-      "url": "https://www.mastere.tn/bourse-fondation-mastercard-universite-queens/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-02"
+      "seen": "2026-10-05"
     }
   ],
-  "new_leads_last_run": 35
+  "new_leads_last_run": 23
 }

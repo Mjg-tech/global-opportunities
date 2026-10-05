@@ -1,7 +1,263 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-02",
+  "updated": "2026-10-05",
   "leads": [
+    {
+      "id": "2325d69bb632",
+      "title": "Call for Papers 2027: International Workshop on Governance, Migration & Humanitarianism in Poland — Travel Grants Available",
+      "url": "https://www.globalsouthopportunities.com/2026/10/05/governance-8/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "799f4b846def",
+      "title": "Harvard Belfer Center Fellowships 2027–2028: 14 Research Fellowships Open to Scholars and Professionals — Apply by December 1",
+      "url": "https://www.globalsouthopportunities.com/2026/10/05/harvard-18/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "57c85dae6e4d",
+      "title": "Swarovski Foundation Creatives for Our Future 2026: Global Grant and Education Programme for Young Creatives Advancing the Sustainable Development Goals",
+      "url": "https://opportunitiesforyouth.org/2026/10/05/swarovski-foundation-creatives-for-our-future-2026-global-grant-and-education-programme-for-young-creatives-advancing-the-sustainable-development-goals/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2177701aa377",
+      "title": "4th Youth Leadership & Innovation Award for Migration 2026: Seed Funding, Mentorship and Global Visibility for Youth-Led Migration Solutions",
+      "url": "https://opportunitiesforyouth.org/2026/10/05/4th-youth-leadership-award/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "63d53b55add6",
+      "title": "Paid Internships at the Council on Foreign Relations, USA",
+      "url": "https://opportunitiesforyouth.org/2026/10/05/council-of-foreign-relations-many-spring-2024-internship-programs-available/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e22229c65f64",
+      "title": "Bloomberg Harvard Visiting Scholars Program 2026 | Harvard University",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/bloomberg-harvard-visiting-scholars-program-2026-harvard-university/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cc1897d33370",
+      "title": "Appel à candidatures – Campagne Mondiale d’Innovation des Jeunes pour le développement durable CIPP 2026 de l’UNESCO",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/call-for-papers/developpement-durable/appel-a-candidatures-campagne-mondiale-dinnovation-des-jeunes-pour-le-developpement-durable-cipp-2026-de-lunesco/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "074928086b8d",
+      "title": "Appel à candidatures – Bourses de Mobilité Africa MOVES 2026-2027",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/recherche-innovationdeveloppt/appel-a-candidatures-bourses-de-mobilite-africa-moves-2026-2027/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "87a91c00f185",
+      "title": "US South Pacific Scholarship 2027: Study in Hawaii on a Fully Funded Scholarship — Bachelor’s & Master’s Students Can Apply",
+      "url": "https://www.globalsouthopportunities.com/2026/10/04/us-2/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-04",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e5fce313a67d",
+      "title": "AIMS South Africa Scholarship 2027: Fully Funded Master’s in Mathematical Sciences – Apply by 4 November",
+      "url": "https://www.globalsouthopportunities.com/2026/10/04/aims-6/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-04",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a49c9e76ca81",
+      "title": "Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voice for Community Change",
+      "url": "https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-04",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "68787eb36f01",
+      "title": "MIT Solve Global Challenges 2027 Open with Over USD 1 Million in Prize Funding and Nine Months of Support",
+      "url": "https://opportunitiesforyouth.org/2026/10/04/mit-solve-global-challenges-2027-open-with-over-usd-1-million-in-prize-funding-and-nine-months-of-support/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-04",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "462ec51d960a",
+      "title": "Anzisha Venture Building Fellowship 2027: Apply Now for Young African Entrepreneurs | Up to $40,000 in Prizes",
+      "url": "https://opportunitiesforyouth.org/2026/10/04/anzisha-venture-building-fellowship-2027-apply-now-for-young-african-entrepreneurs-up-to-40000-in-prizes/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-04",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3a73517fc689",
+      "title": "MOPGA 2027 Visiting Fellowship in France (Fully Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/mopga-2027-visiting-fellowship-in-france-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-04",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c84db2f92966",
+      "title": "Erasmus Mundus ILSPSD Scholarship 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/erasmus-mundus-ilspsd-scholarship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-04",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3957768ae49d",
+      "title": "Loeb Fellowship 2027-2028 at the Harvard Graduate School of Design (Funded)",
+      "url": "https://opportunitydesk.org/2026/10/03/loeb-fellowship-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-03",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
+    },
+    {
+      "id": "1f4f4dbf4645",
+      "title": "Google Engineering & Technical Internships 2027",
+      "url": "https://opportunitydesk.org/2026/10/03/google-engineering-technical-internships-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-03",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "fb7410595094",
+      "title": "citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026 ($500 stipend)",
+      "url": "https://opportunitydesk.org/2026/10/03/citiesrise-fellowship-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-03",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "52650ee0a51f",
+      "title": "Jasiri Growth Accelerator 2026 for Entrepreneurs from Kenya & Rwanda",
+      "url": "https://opportunitydesk.org/2026/10/03/jasiri-growth-accelerator-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-03",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "36697e6faa8d",
+      "title": "Iceland Writers Retreat Program 2027 (Fully Funded Trip)",
+      "url": "https://opportunitiescorners.com/iceland-writers-retreat-program-2027-fully-funded-trip/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-03",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ad90e63733bf",
+      "title": "USTC Winter Camp 2027 in China (Fully Funded)",
+      "url": "https://opportunitiescorners.com/ustc-winter-camp-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-03",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "92442e0ee314",
+      "title": "MOPGA Fellowship 2027 in Paris, France (Fully Funded)",
+      "url": "https://opportunitiescorners.com/mopga-fellowship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-03",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b9ca08d91b4b",
+      "title": "ITU Gender Champions Programme 2027",
+      "url": "https://opportunitydesk.org/2026/10/02/itu-gender-champions-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-02",
+      "first_seen": "2026-10-05",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "726d828d4fca",
       "title": "Unearthodox Exploration Co-Lab 2027 for Nature & Social Impact Innovators (CHF 10,000 Grant)",
@@ -60,7 +316,8 @@
       "first_seen": "2026-10-02",
       "status": "NEEDS VERIFICATION",
       "also_seen_in": [
-        "Opportunities for Africans"
+        "Opportunities for Africans",
+        "OYA Opportunities"
       ]
     },
     {
@@ -83,7 +340,10 @@
       "language": "en",
       "published": "2026-10-02",
       "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "c71e5bb1c4b2",
@@ -287,7 +547,10 @@
       "language": "en",
       "published": "2026-10-01",
       "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities Corners"
+      ]
     },
     {
       "id": "bd058700a1c0",
@@ -309,7 +572,10 @@
       "language": "en",
       "published": "2026-10-01",
       "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "38c88c9bd762",
