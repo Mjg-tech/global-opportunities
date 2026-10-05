@@ -2,6 +2,290 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-10-05",
+      "id": "open-doors-russian-scholarship-masters-2027",
+      "title": "Open Doors: Russian Scholarship Project, Master's track (2027/28 entry)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Cambridge (2027/28 master's)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "noha-erasmus-mundus-humanitarian-action-2027",
+      "title": "NOHA Erasmus Mundus Joint Master in International Humanitarian Action (2027-2029)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mastercard-foundation-scholars-sciences-po-2027",
+      "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "maastricht-nl-high-potential-2027",
+      "title": "Maastricht University NL-High Potential Scholarship (2027-2028)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "gates-cambridge-2027",
+      "title": "Gates Cambridge Scholarship (2027-28 entry)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "dalai-lama-fellows-2027",
+      "title": "Dalai Lama Fellows Program (2027-2028)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "ustc-international-winter-camp-2027",
+      "title": "USTC International Winter Camp 2027",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "deadline_text",
+      "old": "Applications are open until October 5",
+      "new": "Applications are open until October 5 (overview page). FAQ: 'Applications for the McKinsey.org Forward program are now open until October 5, 2026. ... in some cases, applications may close earlier than the deadline mentioned above in certain countries.' No time or time zone stated."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "participation_fee",
+      "old": "None",
+      "new": "None: 'Forward is free for eligible participants ... There are no fees to apply, register, or partake' (official FAQ)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "eligibility",
+      "old": [
+        "From career starters to job changers",
+        "Reported by secondary sources for the Africa cohort: resident on the African continent; working, with prior work experience (internships count), or about to start work within 12 months; under 5 years of total work experience; at least a high-school education; good command of English"
+      ],
+      "new": [
+        "Live in a country where Forward is available; the FAQ's Africa list includes the Democratic Republic of the Congo",
+        "Working or with prior work experience (including internships or apprenticeships), or preparing to start work in the next 12 months",
+        "Less than 5 years of total work experience (exceptions stated for nonprofit, non-corporate or non-managerial roles)",
+        "At least a high school education or equivalent",
+        "Command of English, French, Brazilian Portuguese, Latin American Spanish or Arabic"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "official_information_url",
+      "old": "https://www.mckinsey.org/our-programs/forward/overview",
+      "new": "https://www.mckinsey.org/our-programs/forward/faq"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "chevening-scholarships-2027",
+      "title": "Chevening Scholarships 2027/28",
+      "field": "deadline_text",
+      "old": "Open for applications until 6 October 2026, at 11:00 (UTC)",
+      "new": "The deadline for applications is 6 October 2026 at 11:00 UTC. You will not be able to access the online application system after this date."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "knight-hennessy-scholars-2027",
+      "title": "Knight-Hennessy Scholars (2027 cohort)",
+      "field": "deadline_text",
+      "old": "October 6, 2026, at 1 pm, Pacific Time",
+      "new": "The application closes on October 6, 2026, at 1 pm, Pacific Time."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "deadline_utc",
+      "old": "",
+      "new": "2026-10-13T16:00:00Z"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "deadline_text",
+      "old": "October 13, 2026 | Application deadline (application opened September 22, 2026)",
+      "new": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (application instructions). Apply page: 'September 22, 2026 | Application opens'; 'October 13, 2026 | Application deadline'."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Fully Funded"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Covered",
+        "visa": "Partially covered",
+        "insurance": "Partially covered",
+        "local_transport": "Covered"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "participation_fee",
+      "old": "No application fee",
+      "new": "None: 'There is no fee to apply for the Mandela Washington Fellowship.'"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "title": "Aspire Leaders Program (2026 Cohort 4)",
+      "field": "deadline_text",
+      "old": "Applications for Cohort 4 of the 2026 Aspire Leaders Program are OPEN! Apply here before the October 16 deadline.",
+      "new": "Applications for Cohort 4 of the 2026 Aspire Leaders Program are OPEN! Apply before the October 16 deadline. (No time or time zone stated.)"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "title": "Aspire Leaders Program (2026 Cohort 4)",
+      "field": "participation_fee",
+      "old": "None. Optional USD 5 e-credential.",
+      "new": "None: 'No tuition, no application fee, no cost at any point.' An optional verifiable e-credential bundle costs USD 5; a free certificate is still given."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "eligibility",
+      "old": [
+        "Attending an information session is mandatory for anyone who wishes to apply (sessions ran 15-24 September 2026)",
+        "English test results are not required for the scholarship application; the University may require one for admission",
+        "Reported by secondary sources: citizen and resident of an African country, born on or after 1 January 1992, UK 2:1 equivalent degree"
+      ],
+      "new": [
+        "Attending an information session is mandatory for anyone who wishes to apply (sessions ran 15-24 September 2026)",
+        "'Applicants must be residents and citizens or hold refugee status in an African country.'",
+        "'For the 2027/28 academic year, we accept applications from those born on or after 1 January 1992.'",
+        "'You will generally need to have achieved the equivalent of a UK Second Class (Upper) Bachelor's (Hons) degree or higher.'",
+        "'Applicants should not have previously completed a postgraduate degree.'",
+        "'Applicants will have faced significant barriers to education and in their early career (social, financial, personal, practical or health-related).'",
+        "Eligible 2027/28 on-campus programmes include MSc Entrepreneurship and Innovation, Operational Research, Data, Inequality and Society, Environment and Development, Climate Change Finance and Investment, Food Security, Sustainable Energy Systems and Environmental Sustainability",
+        "English test results are not required for the scholarship application; the University may require one for admission"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "international-dialogue-sdg17-baku-2026",
+      "title": "International Dialogue on SDG 17 - Baku 2026",
+      "field": "deadline_text",
+      "old": "24 October 2026, according to an aggregator listing. Results are said to be announced on 27 October 2026.",
+      "new": "Application Deadline: October 24, 2026; Final Results Announcement: October 27, 2026 (organiser page)."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "international-dialogue-sdg17-baku-2026",
+      "title": "International Dialogue on SDG 17 - Baku 2026",
+      "field": "program_dates",
+      "old": "23-26 November 2026, according to the listing",
+      "new": "Nov 23, 2026 - Nov 26, 2026 (organiser page), Baku"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "international-dialogue-sdg17-baku-2026",
+      "title": "International Dialogue on SDG 17 - Baku 2026",
+      "field": "participation_fee",
+      "old": "Application fee of USD 24.24, according to the listing",
+      "new": "Application fee charged: 'Ticket $ 29.97' on the organiser page, 'USD 24.24' on the aggregator. Self-funded and partially funded seats carry further costs not itemised here."
+    },
+    {
+      "date": "2026-10-05",
+      "id": "international-dialogue-sdg17-baku-2026",
+      "title": "International Dialogue on SDG 17 - Baku 2026",
+      "field": "eligibility",
+      "old": [
+        "Listed as open to applicants from all countries"
+      ],
+      "new": [
+        "'Eligibility: All countries' (organiser page; no country list)"
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "id": "international-dialogue-sdg17-baku-2026",
+      "title": "International Dialogue on SDG 17 - Baku 2026",
+      "field": "official_information_url",
+      "old": "",
+      "new": "https://www.vfri.ca/international-dialogue-on-sdg17-baku-2026/"
+    },
+    {
+      "date": "2026-10-05",
+      "id": "international-dialogue-sdg17-baku-2026",
+      "title": "International Dialogue on SDG 17 - Baku 2026",
+      "field": "eligibility_for_me",
+      "old": "INSUFFICIENT INFORMATION",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
       "date": "2026-10-02",
       "id": "chevening-scholarships-2027",
       "title": "Chevening Scholarships 2027/28",

@@ -1,0 +1,164 @@
+[
+ {
+  "id": "mckinsey-forward-fall-2026",
+  "deadline_text": "Applications are open until October 5 (overview page). FAQ: 'Applications for the McKinsey.org Forward program are now open until October 5, 2026. ... in some cases, applications may close earlier than the deadline mentioned above in certain countries.' No time or time zone stated.",
+  "eligibility": [
+   "Live in a country where Forward is available; the FAQ's Africa list includes the Democratic Republic of the Congo",
+   "Working or with prior work experience (including internships or apprenticeships), or preparing to start work in the next 12 months",
+   "Less than 5 years of total work experience (exceptions stated for nonprofit, non-corporate or non-managerial roles)",
+   "At least a high school education or equivalent",
+   "Command of English, French, Brazilian Portuguese, Latin American Spanish or Arabic"
+  ],
+  "participation_fee": "None: 'Forward is free for eligible participants ... There are no fees to apply, register, or partake' (official FAQ).",
+  "official_information_url": "https://www.mckinsey.org/our-programs/forward/faq",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {"label": "McKinsey.org Forward overview", "url": "https://www.mckinsey.org/our-programs/forward/overview", "type": "Official"},
+   {"label": "McKinsey.org Forward FAQ (deadline, eligibility, country list, no fees)", "url": "https://www.mckinsey.org/our-programs/forward/faq", "type": "Official"}
+  ],
+  "eligibility_reason": "The official FAQ lists the DRC among Forward countries; internships count as prior work experience, total experience is under 5 years, and the course can be followed in English or French.",
+  "potential_issues": ["Deadline is 5 October 2026 (today on re-verification); applications may close earlier in some countries", "Missed applicants can only register interest for the next cohort, whose date is not announced"],
+  "action": "Apply today if not already done. If the form has closed, register interest on the Forward site for the next cohort.",
+  "last_verified": "2026-10-05",
+  "notes": "Re-verified 5 October 2026: no extension and no spring 2027 cohort announced. Missed applicants 'can register their interest on the Forward website and will be contacted for the next cohort'."
+ },
+ {
+  "id": "chevening-scholarships-2027",
+  "deadline_text": "The deadline for applications is 6 October 2026 at 11:00 UTC. You will not be able to access the online application system after this date.",
+  "last_verified": "2026-10-05"
+ },
+ {
+  "id": "knight-hennessy-scholars-2027",
+  "deadline_text": "The application closes on October 6, 2026, at 1 pm, Pacific Time.",
+  "last_verified": "2026-10-05"
+ },
+ {
+  "id": "mandela-washington-fellowship-2027",
+  "deadline_text": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (application instructions). Apply page: 'September 22, 2026 | Application opens'; 'October 13, 2026 | Application deadline'.",
+  "deadline_timezone": "GMT",
+  "deadline_utc": "2026-10-13T16:00:00Z",
+  "funding_type": "Fully Funded",
+  "funding_details": [
+   "'If you are selected for the Fellowship, the U.S. Government will cover all program costs' (2027 application instructions)",
+   "Listed costs: J-1 visa support; round-trip travel from the Fellow's home city to the United States and domestic U.S. travel as required by the program; a six-week institute; a limited accident and sickness benefit plan; housing and meals during the program; an optional four-week Professional Development Experience (for up to 50 Fellows)",
+   "Not covered: salaries while away from work and personal purchases",
+   "'There is no fee to apply for the Mandela Washington Fellowship.'"
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Not specified",
+   "flight": "Covered",
+   "accommodation": "Covered",
+   "meals": "Covered",
+   "visa": "Partially covered",
+   "insurance": "Partially covered",
+   "local_transport": "Covered"
+  },
+  "participation_fee": "None: 'There is no fee to apply for the Mandela Washington Fellowship.'",
+  "sources": [
+   {"label": "Application and eligibility information", "url": "https://www.mandelawashingtonfellowship.org/apply/", "type": "Official"},
+   {"label": "Application FAQs", "url": "https://www.mandelawashingtonfellowship.org/apply-faqs/", "type": "Official"},
+   {"label": "2027 application instructions", "url": "https://www.mandelawashingtonfellowship.org/2027-application-instructions/", "type": "Official"},
+   {"label": "2027 application instructions (PDF: deadline time, financial provisions)", "url": "https://www.mandelawashingtonfellowship.org/wp-content/uploads/2026/09/2027-Mandela-Washington-Fellowship-Application-Instructions_Final_9.17.2026-1.pdf", "type": "Official"}
+  ],
+  "potential_issues": [
+   "Deadline is 13 October 2026 at 16:00 GMT",
+   "The track record expected (business, trade, technology, governance or security) is thin on the recorded profile",
+   "Nationals of countries under a full or partial U.S. entry or visa suspension can apply, but finalists are selected case by case: check travel.state.gov for the DRC's current status",
+   "Finalists need a passport valid through at least 28 February 2028; passport status is not recorded",
+   "'J-1 visa support' and a 'limited accident and sickness benefit plan' are the stated visa and insurance terms; no salary replacement"
+  ],
+  "action": "Decide this week. Draft the essays around concrete results from the internships and field assignments and submit before 13 October, 16:00 GMT.",
+  "last_verified": "2026-10-05"
+ },
+ {
+  "id": "aspire-leaders-program-2026-cohort-4",
+  "deadline_text": "Applications for Cohort 4 of the 2026 Aspire Leaders Program are OPEN! Apply before the October 16 deadline. (No time or time zone stated.)",
+  "participation_fee": "None: 'No tuition, no application fee, no cost at any point.' An optional verifiable e-credential bundle costs USD 5; a free certificate is still given.",
+  "last_verified": "2026-10-05"
+ },
+ {
+  "id": "mastercard-foundation-scholars-edinburgh-2027",
+  "eligibility": [
+   "Attending an information session is mandatory for anyone who wishes to apply (sessions ran 15-24 September 2026)",
+   "'Applicants must be residents and citizens or hold refugee status in an African country.'",
+   "'For the 2027/28 academic year, we accept applications from those born on or after 1 January 1992.'",
+   "'You will generally need to have achieved the equivalent of a UK Second Class (Upper) Bachelor's (Hons) degree or higher.'",
+   "'Applicants should not have previously completed a postgraduate degree.'",
+   "'Applicants will have faced significant barriers to education and in their early career (social, financial, personal, practical or health-related).'",
+   "Eligible 2027/28 on-campus programmes include MSc Entrepreneurship and Innovation, Operational Research, Data, Inequality and Society, Environment and Development, Climate Change Finance and Investment, Food Security, Sustainable Energy Systems and Environmental Sustainability",
+   "English test results are not required for the scholarship application; the University may require one for admission"
+  ],
+  "deadline_timezone": "Unknown / Not specified",
+  "funding_details": ["On-campus postgraduate scholarships cover 'full approved tuition, accommodation, travel, living cost stipend and study materials'"],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Covered",
+   "flight": "Covered",
+   "accommodation": "Covered",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "verification": "VERIFIED",
+  "sources": [
+   {"label": "Application timelines", "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/application-timelines", "type": "Official"},
+   {"label": "On-campus postgraduate scholarships", "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/on-campus-postgraduate-scholarships", "type": "Official"},
+   {"label": "Eligibility", "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/eligibility", "type": "Official"},
+   {"label": "Frequently asked questions", "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/frequently-asked-questions", "type": "Official"}
+  ],
+  "eligibility_reason": "Citizenship, residence and age rules are met. Whether the applicant attended a mandatory information session, holds a 2:1-equivalent grade and faced the significant barriers the programme requires is not recorded.",
+  "potential_issues": [
+   "The mandatory information sessions (15-24 September 2026) are over",
+   "The declaration form opens 13 October and closes 19 October 2026, 5pm, or earlier 'once we have reached the limit'",
+   "Degree grade not recorded; a UK 2:1 equivalent is generally needed",
+   "The timeline 'is subject to change depending on the volume of applications received'"
+  ],
+  "action": "Only if you attended an information session: complete the Applicant Declaration Form as soon as it opens on 13 October, then the main forms by 19 November. Choose a listed MSc such as Entrepreneurship and Innovation or Operational Research.",
+  "last_verified": "2026-10-05"
+ },
+ {
+  "id": "one-young-world-leading-scholarship-2026",
+  "last_verified": "2026-10-05",
+  "notes": "Re-verified 5 October 2026: the only Congo entry on the country list is 'Congo-Brazzaville'; the DRC is not listed. Summit: Cape Town, 3-6 November 2026."
+ },
+ {
+  "id": "international-dialogue-sdg17-baku-2026",
+  "organization": "Voice For Rights International Association (VFRI), Surrey, Canada",
+  "deadline_text": "Application Deadline: October 24, 2026; Final Results Announcement: October 27, 2026 (organiser page).",
+  "program_dates": "Nov 23, 2026 - Nov 26, 2026 (organiser page), Baku",
+  "eligibility": ["'Eligibility: All countries' (organiser page; no country list)"],
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "'Number of Seats: 10 Fully Funded / 40 Partially Funded / 50 Self-Funded' (organiser page)",
+   "Fully funded delegates: 'Round-Trip Airfare Compensation', conference-fee waiver, accommodation on a twin-sharing basis, two meals per day during the official programme (organiser page)",
+   "The organiser page shows a 'Ticket $ 29.97' price widget; the aggregator says 'The application fee is USD 24.24'"
+  ],
+  "participation_fee": "Application fee charged: 'Ticket $ 29.97' on the organiser page, 'USD 24.24' on the aggregator. Self-funded and partially funded seats carry further costs not itemised here.",
+  "official_information_url": "https://www.vfri.ca/international-dialogue-on-sdg17-baku-2026/",
+  "source_url": "https://www.vfri.ca/international-dialogue-on-sdg17-baku-2026/",
+  "source_type": "Official",
+  "source_confidence": "LOW",
+  "verification": "NEEDS VERIFICATION",
+  "sources": [
+   {"label": "Organiser page (VFRI)", "url": "https://www.vfri.ca/international-dialogue-on-sdg17-baku-2026/", "type": "Official"},
+   {"label": "Aggregator listing", "url": "https://opportunitiescorners.com/international-dialogue-on-sdg-17-baku-2026/", "type": "Aggregator"}
+  ],
+  "eligibility_for_me": "POSSIBLY ELIGIBLE",
+  "eligibility_reason": "The organiser says all countries may apply. Only 10 of 100 seats are fully funded, and every applicant pays a fee first.",
+  "potential_issues": [
+   "An application fee is charged before selection (USD 29.97 on the organiser page, USD 24.24 on the aggregator: the sources disagree)",
+   "Only 10 of 100 seats are fully funded; 50 are self-funded",
+   "Airfare is 'compensation', i.e. reimbursed after paying upfront, not a ticket provided",
+   "Results are promised three days after the deadline, about four weeks before the event",
+   "The organiser is a small association; the event's relationship with any UN body or the Government of Azerbaijan is not shown on the page"
+  ],
+  "upfront_cost_risk": "High: application fee, and airfare paid upfront before any compensation",
+  "action": "Do not pay the fee. This is listed as a warning: a paid application with few funded seats is a poor bet.",
+  "last_verified": "2026-10-05",
+  "notes": "5 October 2026: the aggregator's apply link led to the organiser site vfri.ca, which was read. The application form is hosted on cognitoforms.com and was not opened."
+ }
+]

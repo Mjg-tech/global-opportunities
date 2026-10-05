@@ -1,0 +1,557 @@
+[
+ {
+  "category": [
+   "Scholarship"
+  ],
+  "subcategory": [
+   "Master's degree"
+  ],
+  "education_levels": [
+   "Master's"
+  ],
+  "country": "Netherlands",
+  "city": "Maastricht",
+  "region": "Western Europe",
+  "continent": "Europe",
+  "location_type": "International travel",
+  "delivery_mode": "In-person",
+  "program_dates": "Master's programmes starting September 2027 (13 or 25 months of living allowance, by programme length)",
+  "application_deadline": "2026-12-10",
+  "deadline_utc": "",
+  "deadline_text": "Master's application file complete through Studielink 'before 10 December 2026'. Scholarship: 'Applications are open from 1 October 2026 until 1 February 2027 23:59 CET.'",
+  "deadline_timezone": "CET (scholarship deadline)",
+  "opens_on": "2026-10-01",
+  "open_now": false,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "funding_type": "Fully Funded",
+  "funding_details": [
+   "'offers 18 full scholarships, including tuition fee waiver and monthly stipend'",
+   "Living expenses EUR 1,550 per month: EUR 20,150 (13 months) or EUR 38,750 (25 months)",
+   "Health and liability insurance EUR 700; visa application costs, tuition fees and Pre-Academic Training 'At cost'",
+   "'air tickets are not included and must be paid by the candidate'; a mandatory UM room must be rented from the stipend; cleaning fee (about EUR 75) not included"
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Covered",
+   "flight": "Not covered",
+   "accommodation": "Partially covered",
+   "meals": "Not specified",
+   "visa": "Covered",
+   "insurance": "Covered",
+   "local_transport": "Not specified"
+  },
+  "participation_fee": "No scholarship fee stated; UM does not cover a programme 'handling fee' where one applies.",
+  "stipend": "EUR 1,550 per month",
+  "eligibility": [
+   "'You hold a nationality in a country outside the EU/EEA, Switzerland or Surinam and meet the requirements for obtaining an entry visa and residence permit for the Netherlands'",
+   "Not older than 35 on 1 September 2027",
+   "GPA of 7.5 out of 10 or higher, 'equivalent to a minimum of 75% out of 100% or 3 out of 4'",
+   "Never participated in a degree-seeking higher education programme in the Netherlands",
+   "'Preference will be given to candidates who have not yet obtained a Master's degree'",
+   "Meets the admission requirements of a participating UM master's programme (English requirements set per programme)"
+  ],
+  "nationality_requirements": [
+   "Any nationality outside the EU/EEA, Switzerland or Surinam"
+  ],
+  "age_requirement": "35 or younger on 1 September 2027",
+  "education_requirement": "Bachelor's degree with GPA of at least 7.5/10 (75%)",
+  "experience_requirement": "Unknown / Not specified",
+  "language_requirement": "Set by the chosen master's programme (not read)",
+  "other_requirements": [],
+  "documents_required": [
+   "CV (max. two A4 pages)",
+   "Motivation letter on the UM template",
+   "Transcript showing GPA of 7.5 or higher, with an explanation of the grading system",
+   "Personal statement of financial need",
+   "One reference letter dated no earlier than February 2026, with the referee's work email and phone"
+  ],
+  "application_process": [
+   "Apply to a participating master's through Studielink and complete the file before 10 December 2026",
+   "Log in with the UM student account and submit the scholarship form by 1 February 2027 (one submission only)"
+  ],
+  "official_application_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high",
+  "official_information_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high",
+  "source_url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "NL-High Potential Scholarship page",
+    "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high",
+    "type": "Official"
+   },
+   {
+    "label": "Participating programmes 2027-2028 (PDF, version 1, 31-08-2026)",
+    "url": "https://www.maastrichtuniversity.nl/file/um-hhpstudieprogrammas-2027-2028pdf-1",
+    "type": "Official"
+   }
+  ],
+  "eligibility_for_me": "POSSIBLY ELIGIBLE",
+  "eligibility_reason": "Nationality, age and degree level fit. The decisive unknowns are the degree grade (75% or higher is required and none is recorded) and the chosen programme's English requirement (no test score is recorded).",
+  "potential_issues": [
+   "Two deadlines: the master's file must be complete before 10 December 2026, long before the 1 February scholarship deadline",
+   "Only about 2% of applicants are awarded",
+   "Flights are not covered; accommodation is paid from the stipend",
+   "No Master of Public Policy or logistics MSc among participating programmes; business options include MSc International Business, Financial Economics and Learning and Development in Organisations"
+  ],
+  "benefits": [
+   "Tuition waiver and EUR 1,550 monthly stipend",
+   "Insurance and visa costs covered",
+   "Degree from a highly ranked European university"
+  ],
+  "relevance": {
+   "academic": "Very High",
+   "career": "High",
+   "travel": "High",
+   "networking": "High",
+   "funding": "Very High",
+   "accessibility": "Medium",
+   "profile_fit": "High"
+  },
+  "relevance_reason": "A business graduate fits the MSc International Business tracks; the GPA threshold and English requirement are the obstacles.",
+  "travel_value": "High",
+  "career_value": "High",
+  "academic_value": "Very High",
+  "networking_value": "High",
+  "visa": {
+   "required": "Yes (Dutch entry visa and residence permit)",
+   "support": "Visa application costs covered at cost"
+  },
+  "upfront_cost_risk": "Medium: the flight to the Netherlands is paid by the student",
+  "action": "Convert your Licence grade to a percentage. If it is 75% or higher, choose a participating MSc, check its English requirement, and complete the Studielink application before 10 December 2026.",
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "notes": "",
+  "match_keywords": [
+   "maastricht university",
+   "nl-high potential",
+   "maastricht university scholarship"
+  ],
+  "id": "maastricht-nl-high-potential-2027",
+  "title": "Maastricht University NL-High Potential Scholarship (2027-2028)",
+  "organization": "Maastricht University (UM Scholarship Fund) with the Dutch Ministry of Education, Culture and Science",
+  "overview": "18 scholarships a year for highly talented non-EU students admitted to a Maastricht University master's programme: tuition fee waiver, a monthly stipend, insurance and visa costs."
+ },
+ {
+  "category": [
+   "Scholarship"
+  ],
+  "subcategory": [
+   "Master's degree",
+   "PhD"
+  ],
+  "education_levels": [
+   "Master's",
+   "PhD"
+  ],
+  "country": "United Kingdom",
+  "city": "Cambridge",
+  "region": "Northern Europe",
+  "continent": "Europe",
+  "location_type": "International travel",
+  "delivery_mode": "In-person",
+  "program_dates": "Courses starting in the 2027-28 academic year",
+  "application_deadline": "2026-12-08",
+  "deadline_utc": "2026-12-08T23:59:00Z",
+  "deadline_text": "Main round: 'Tuesday 8th December 2026 or Wednesday 6th January 2027', depending on the course, at 11:59pm UK time. Results by 8 March 2027; interviews 22-23 March 2027; offers by early April 2027.",
+  "deadline_timezone": "UK time (GMT in December)",
+  "opens_on": "2026-09-11",
+  "open_now": false,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "funding_type": "Fully Funded",
+  "funding_details": [
+   "'A Gates Cambridge Scholarship covers the full cost of studying at Cambridge'",
+   "University Composition Fee at the appropriate rate",
+   "Maintenance GBP 23,152 for 12 months (2026-27 rate), pro rata for shorter courses",
+   "One economy single airfare at the beginning and the end of the course",
+   "Inbound visa costs and the Immigration Health Surcharge",
+   "Discretionary academic development funding GBP 750-4,000; child allowance where applicable"
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Covered",
+   "flight": "Covered",
+   "accommodation": "Partially covered",
+   "meals": "Not specified",
+   "visa": "Covered",
+   "insurance": "Covered",
+   "local_transport": "Not specified"
+  },
+  "participation_fee": "Cambridge charges GBP 85 per non-doctoral application; the fee waiver page lists 'Congo (DRC)' and waives it automatically for nationals who have lived there since birth.",
+  "stipend": "GBP 23,152 for 12 months (2026-27 rate)",
+  "eligibility": [
+   "A citizen of any country outside the United Kingdom",
+   "Applying to a full-time PhD, MLitt or one-year postgraduate course at Cambridge (with some exceptions)",
+   "Admission requirements (grade class, English test) are set by each Cambridge course",
+   "Selection on outstanding intellectual ability, leadership potential, commitment to improving the lives of others and fit with the chosen course"
+  ],
+  "nationality_requirements": [
+   "Any nationality except UK"
+  ],
+  "age_requirement": "No age limit stated",
+  "education_requirement": "Course-specific (not read)",
+  "experience_requirement": "Unknown / Not specified",
+  "language_requirement": "Course-specific (not read)",
+  "other_requirements": [],
+  "documents_required": [
+   "Cambridge graduate application with the Gates Cambridge funding section (four selection questions)",
+   "Two academic references",
+   "One Gates Cambridge reference"
+  ],
+  "application_process": [
+   "Choose an eligible course and its deadline (8 December 2026 or 6 January 2027)",
+   "Apply through the Cambridge Graduate Application Portal and complete the Gates Cambridge section"
+  ],
+  "official_application_url": "https://www.gatescambridge.org/apply/how-to-apply/",
+  "official_information_url": "https://www.gatescambridge.org/apply/eligibility/",
+  "source_url": "https://www.gatescambridge.org/apply/timeline/",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "How to apply",
+    "url": "https://www.gatescambridge.org/apply/how-to-apply/",
+    "type": "Official"
+   },
+   {
+    "label": "Timeline",
+    "url": "https://www.gatescambridge.org/apply/timeline/",
+    "type": "Official"
+   },
+   {
+    "label": "Eligibility",
+    "url": "https://www.gatescambridge.org/apply/eligibility/",
+    "type": "Official"
+   },
+   {
+    "label": "The scholarship (coverage)",
+    "url": "https://www.gatescambridge.org/programme/the-scholarship/",
+    "type": "Official"
+   },
+   {
+    "label": "Cambridge application fee",
+    "url": "https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee",
+    "type": "Institutional"
+   },
+   {
+    "label": "Cambridge application fee waiver (lists Congo DRC)",
+    "url": "https://www.postgraduate.study.cam.ac.uk/apply/how/application-fee-waiver",
+    "type": "Institutional"
+   }
+  ],
+  "eligibility_for_me": "POSSIBLY ELIGIBLE",
+  "eligibility_reason": "Any non-UK citizen may apply for a one-year master's. Admission depends on the course's grade and English-test requirements, and neither the grade nor a test score is recorded.",
+  "potential_issues": [
+   "Extremely competitive",
+   "Course deadlines differ (8 December 2026 or 6 January 2027): check the chosen course",
+   "Cambridge courses usually require an English test, and none is recorded"
+  ],
+  "benefits": [
+   "Full cost of study including flights and visa",
+   "Lifelong Gates Cambridge community"
+  ],
+  "relevance": {
+   "academic": "Very High",
+   "career": "Very High",
+   "travel": "High",
+   "networking": "Very High",
+   "funding": "Very High",
+   "accessibility": "Low",
+   "profile_fit": "Medium"
+  },
+  "relevance_reason": "One of the best-funded scholarships open to DRC citizens, but admission to Cambridge needs a strong grade and an English test, which makes it a long shot this cycle.",
+  "travel_value": "High",
+  "career_value": "Very High",
+  "academic_value": "Very High",
+  "networking_value": "Very High",
+  "visa": {
+   "required": "Yes (UK Student visa)",
+   "support": "Inbound visa costs and Immigration Health Surcharge covered"
+  },
+  "upfront_cost_risk": "Low",
+  "action": "Look at one-year MPhil courses that fit public policy or development and check their grade and English requirements. Apply only if both can be met before the course deadline.",
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "notes": "",
+  "match_keywords": [
+   "gates cambridge"
+  ],
+  "id": "gates-cambridge-2027",
+  "title": "Gates Cambridge Scholarship (2027-28 entry)",
+  "organization": "Gates Cambridge Trust, University of Cambridge",
+  "overview": "Full-cost scholarships for outstanding applicants from outside the UK to pursue a PhD, MLitt or one-year postgraduate course (such as an MPhil) at the University of Cambridge."
+ },
+ {
+  "category": [
+   "Fellowship",
+   "Leadership"
+  ],
+  "subcategory": [
+   "Changemakers",
+   "Social change"
+  ],
+  "education_levels": [
+   "Open to all"
+  ],
+  "country": "Online",
+  "city": "",
+  "region": "Global",
+  "continent": "Global",
+  "location_type": "Remote",
+  "delivery_mode": "Online",
+  "program_dates": "Fellowship year April 2027 to March 2028; Opening Assembly May 2027 via Zoom; Closing Assembly June 2028 (in person only if funding is secured)",
+  "application_deadline": "2026-11-11",
+  "deadline_utc": "2026-11-11T22:00:00Z",
+  "deadline_text": "November 11, 2026: Application deadline (applications and all accompanying materials must be submitted by 22:00 Coordinated Universal Time). Application opened October 1, 2026.",
+  "deadline_timezone": "UTC",
+  "opens_on": "2026-10-01",
+  "open_now": false,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "funding_type": "Participation Funded",
+  "funding_details": [
+   "'We do not offer funding for projects.'",
+   "The Fellowship page says they aim to give Fellows an in-person experience and 'cover all costs for attending the Assembly such as visa fees, travel, and lodging', but the 2027 Opening Assembly is on Zoom and the 2028 in-person Assembly depends on funding",
+   "No application fee mentioned"
+  ],
+  "coverage": {
+   "tuition": "Not applicable",
+   "stipend": "Not covered",
+   "flight": "Not applicable",
+   "accommodation": "Not applicable",
+   "meals": "Not applicable",
+   "visa": "Not applicable",
+   "insurance": "Not applicable",
+   "local_transport": "Not applicable"
+  },
+  "participation_fee": "None mentioned",
+  "stipend": "Unknown / Not specified",
+  "eligibility": [
+   "20 to 36 years old as of 1 April 2027",
+   "Fluency in written and spoken English",
+   "Current engagement with, or well-articulated plans for, a social change project",
+   "In-depth knowledge of the community, preferably at least one year of experience (the FAQ says at least six months)",
+   "About 12 hours per month",
+   "'Applicants can be enrolled in undergraduate or graduate studies, or not at all'"
+  ],
+  "nationality_requirements": [
+   "No nationality restriction: 'changemakers from around the world'"
+  ],
+  "age_requirement": "20-36 on 1 April 2027",
+  "education_requirement": "None",
+  "experience_requirement": "At least six months of experience with the community served",
+  "language_requirement": "Fluent English (no test named)",
+  "other_requirements": [],
+  "documents_required": [
+   "Background and overview",
+   "Short essays",
+   "Video",
+   "CV",
+   "One recommendation letter"
+  ],
+  "application_process": [
+   "Optional information sessions: 6 Oct 14:00 UTC, 16 Oct 13:30 UTC, 28 Oct 16:00 UTC",
+   "Apply on apply.dalailamafellows.com by 11 November 2026, 22:00 UTC",
+   "Interviews January 2027; notification February 2027"
+  ],
+  "official_application_url": "http://apply.dalailamafellows.com/",
+  "official_information_url": "https://dalailamafellows.com/apply/",
+  "source_url": "https://dalailamafellows.com/apply/",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "Apply",
+    "url": "https://dalailamafellows.com/apply/",
+    "type": "Official"
+   },
+   {
+    "label": "The Fellowship",
+    "url": "https://dalailamafellows.com/the-fellowship/",
+    "type": "Official"
+   }
+  ],
+  "eligibility_for_me": "POSSIBLY ELIGIBLE",
+  "eligibility_reason": "Age, English and the absence of any degree requirement are met. Eligibility hinges on having, or credibly planning, a community social-change project with at least six months of community experience, which the profile does not record.",
+  "potential_issues": [
+   "Not a travel opportunity in 2027: the Opening Assembly is on Zoom",
+   "No project funding",
+   "The old domain dalailamafellows.org redirects to an unrelated site; use dalailamafellows.com only"
+  ],
+  "benefits": [
+   "Year-long leadership and ethics curriculum",
+   "Global cohort and mentoring"
+  ],
+  "relevance": {
+   "academic": "Low",
+   "career": "Medium",
+   "travel": "Low",
+   "networking": "High",
+   "funding": "Low",
+   "accessibility": "High",
+   "profile_fit": "Medium"
+  },
+  "relevance_reason": "Free and open without degree conditions, but it rewards an existing community project and brings no money or travel in the first year.",
+  "travel_value": "Low",
+  "career_value": "Medium",
+  "academic_value": "Low",
+  "networking_value": "High",
+  "visa": {
+   "required": "No (online)",
+   "support": "Not applicable"
+  },
+  "upfront_cost_risk": "None identified",
+  "action": "Apply before 11 November 2026 only if you lead, or have a concrete plan for, a community project you have worked with for at least six months. Attend an information session first.",
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu).",
+  "match_keywords": [
+   "dalai lama fellows"
+  ],
+  "id": "dalai-lama-fellows-2027",
+  "title": "Dalai Lama Fellows Program (2027-2028)",
+  "organization": "Dalai Lama Fellows (hosted with the University of Virginia)",
+  "overview": "A one-year, largely virtual fellowship for 15-20 changemakers aged 20-36 who lead or plan a social change project in their community, with training in ethical and compassionate leadership."
+ },
+ {
+  "category": [
+   "Exchange",
+   "Travel",
+   "Cultural"
+  ],
+  "subcategory": [
+   "Winter school"
+  ],
+  "education_levels": [
+   "Bachelor's",
+   "Master's"
+  ],
+  "country": "China",
+  "city": "Hefei",
+  "region": "East Asia",
+  "continent": "Asia",
+  "location_type": "International travel",
+  "delivery_mode": "In-person",
+  "program_dates": "December 19, 2026 - January 1, 2027",
+  "application_deadline": "2026-11-08",
+  "deadline_utc": "",
+  "deadline_text": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8)",
+  "deadline_timezone": "UTC+8",
+  "opens_on": "",
+  "open_now": false,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "'Full Program Fee 3000 CNY. Program fee includes tuition, accommodation (twin room) and field trips. Insurance and travel expenses are NOT included.'",
+   "'Outstanding students will be supported by USTC Fellowship which may include a travel subsidy, medical insurance, local accommodation and stipend, fully or partially.'"
+  ],
+  "coverage": {
+   "tuition": "Partially covered",
+   "stipend": "Partially covered",
+   "flight": "Partially covered",
+   "accommodation": "Partially covered",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Partially covered",
+   "local_transport": "Not specified"
+  },
+  "participation_fee": "3000 CNY programme fee unless a USTC Fellowship covers it",
+  "stipend": "Unknown / Not specified",
+  "eligibility": [
+   "Non-Chinese citizens with a valid foreign passport, in good mental and physical health",
+   "Good command of English",
+   "Registered undergraduate or master's student, 'Or student who has completed an undergraduate or a master program and wishes to further his/her learning at USTC'",
+   "Not a previous participant in a USTC International Winter or Summer Camp"
+  ],
+  "nationality_requirements": [
+   "Any non-Chinese nationality"
+  ],
+  "age_requirement": "Unknown / Not specified",
+  "education_requirement": "Undergraduate or master's student, or graduate",
+  "experience_requirement": "Unknown / Not specified",
+  "language_requirement": "Good English (no test named)",
+  "other_requirements": [
+   "Valid passport"
+  ],
+  "documents_required": [],
+  "application_process": [
+   "Register on the USTC portal: Start Application, Non-Degree Programs Application, Winter Camp",
+   "Fill in the form, upload documents and submit by 8 November 2026"
+  ],
+  "official_application_url": "https://ustc.17gz.org/lxs/login.do",
+  "official_information_url": "https://ic.ustc.edu.cn/?abroad=179",
+  "source_url": "https://ic.ustc.edu.cn/?abroad=179",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "USTC International Winter Camp 2027",
+    "url": "https://ic.ustc.edu.cn/?abroad=179",
+    "type": "Official"
+   },
+   {
+    "label": "International College programme list",
+    "url": "https://ic.ustc.edu.cn/en/v7list.php?id=547",
+    "type": "Official"
+   }
+  ],
+  "eligibility_for_me": "POSSIBLY ELIGIBLE",
+  "eligibility_reason": "Graduates who wish to further their learning at USTC are eligible, and no country list applies. A valid passport is required and passport status is not recorded.",
+  "potential_issues": [
+   "The 3000 CNY fee applies unless a fellowship is awarded; whether one is awarded is not known before acceptance",
+   "Flights and insurance are not included in the fee",
+   "Content is science and technology, which is a weak match for a business profile",
+   "Required documents are not listed on the page"
+  ],
+  "benefits": [
+   "Two weeks in China at a leading university",
+   "Possible fellowship with travel subsidy and stipend"
+  ],
+  "relevance": {
+   "academic": "Medium",
+   "career": "Low",
+   "travel": "High",
+   "networking": "Medium",
+   "funding": "Low",
+   "accessibility": "Medium",
+   "profile_fit": "Low"
+  },
+  "relevance_reason": "Open to graduates of any country, but the funding is conditional and the science focus fits the profile poorly.",
+  "travel_value": "High",
+  "career_value": "Low",
+  "academic_value": "Medium",
+  "networking_value": "Medium",
+  "visa": {
+   "required": "Yes (Chinese visa)",
+   "support": "Unknown / Not specified"
+  },
+  "upfront_cost_risk": "High unless a fellowship is awarded: 3000 CNY fee plus flights",
+  "action": "Apply only if you would accept paying the 3000 CNY fee and flights should no fellowship be awarded. Otherwise skip.",
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "notes": "",
+  "match_keywords": [
+   "ustc winter camp",
+   "ustc international winter camp"
+  ],
+  "id": "ustc-international-winter-camp-2027",
+  "title": "USTC International Winter Camp 2027",
+  "organization": "International College, University of Science and Technology of China (USTC)",
+  "overview": "A two-week winter camp in Hefei for non-Chinese students and recent graduates, with lectures, labs and field trips. The programme fee is charged unless a USTC Fellowship is awarded."
+ }
+]

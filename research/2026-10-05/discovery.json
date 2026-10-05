@@ -1,0 +1,521 @@
+[
+ {
+  "category": [
+   "Scholarship"
+  ],
+  "subcategory": [
+   "Master's degree",
+   "Government quota"
+  ],
+  "education_levels": [
+   "Master's"
+  ],
+  "country": "Russia",
+  "city": "Various (HSE, MGIMO, RUDN, Plekhanov, ITMO and others)",
+  "region": "Eastern Europe",
+  "continent": "Europe",
+  "location_type": "International travel",
+  "delivery_mode": "In-person",
+  "program_dates": "First Stage 20 August - 13 November 2026; Second Stage (online, proctored, 180 min) 13 November - 21 December 2026; Master's winners announced 21 December 2026; studies from the 2027/28 academic year",
+  "application_deadline": "2026-11-01",
+  "deadline_utc": "",
+  "deadline_text": "1 November 2026 Open Doors registration deadline. Second Stage registration deadline: 16 November 2026.",
+  "deadline_timezone": "Unknown / Not specified",
+  "opens_on": "2026-08-20",
+  "open_now": false,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "funding_type": "Partially Funded",
+  "funding_details": [
+   "Tuition 'funded from the federal budget'",
+   "Winners receive a monthly stipend; 'The amount varies depending on the university'",
+   "'All other expenses — including transportation, food, accommodation, communication services, and medical insurance — must be covered by the student.'",
+   "A Russian-language preparatory year is federally funded if needed"
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Partially covered",
+   "flight": "Not covered",
+   "accommodation": "Not covered",
+   "meals": "Not covered",
+   "visa": "Not specified",
+   "insurance": "Not covered",
+   "local_transport": "Not covered"
+  },
+  "participation_fee": "None: 'No fee is charged for participation in the Open Doors.'",
+  "stipend": "Monthly; amount varies by university",
+  "eligibility": [
+   "'Foreign citizens and stateless persons ... are eligible' (no country list)",
+   "Master's track: aged between 20 and 33 as of the registration opening date",
+   "At least a Bachelor's degree, and no Specialist or Master's degree",
+   "Subject areas include Business and Management, Economics and Econometrics, and Politics and International Studies",
+   "Official competition languages: Russian and English"
+  ],
+  "nationality_requirements": [
+   "Any foreign citizen or stateless person"
+  ],
+  "age_requirement": "20-33 on the registration opening date",
+  "education_requirement": "Bachelor's degree; no Master's or Specialist degree",
+  "experience_requirement": "Unknown / Not specified",
+  "language_requirement": "Competition in Russian or English; no test score required to register",
+  "other_requirements": [],
+  "documents_required": [
+   "Portfolio: entry test, motivation letter, achievements, educational documents, passport"
+  ],
+  "application_process": [
+   "Register at od.globaluni.ru before 1 November 2026 and choose the Master's track and a subject area",
+   "Complete the First Stage portfolio by 13 November 2026",
+   "Register for and sit the online Second Stage (deadline to register 16 November 2026)"
+  ],
+  "official_application_url": "https://od.globaluni.ru/",
+  "official_information_url": "https://od.globaluni.ru/rules",
+  "source_url": "https://od.globaluni.ru/rules",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "Open Doors home page (dates, FAQ)",
+    "url": "https://od.globaluni.ru/",
+    "type": "Official"
+   },
+   {
+    "label": "Open Doors rules",
+    "url": "https://od.globaluni.ru/rules",
+    "type": "Official"
+   },
+   {
+    "label": "MISIS: separate Russian government quota route",
+    "url": "https://en.misis.ru/applicants/scholarships/quota/",
+    "type": "Institutional"
+   }
+  ],
+  "eligibility_for_me": "POSSIBLY ELIGIBLE",
+  "eligibility_reason": "Any foreign citizen with a bachelor's and no master's may enter, and Business and Management is an available subject. The age band is 20 to 33; the profile records only 'under 30', so the lower bound is not confirmed.",
+  "potential_issues": [
+   "Partial funding only: flights, housing, food and insurance are paid by the student",
+   "Stipend amount varies by university and is not stated",
+   "Teaching language may be Russian unless an English-taught programme is chosen"
+  ],
+  "benefits": [
+   "Free tuition at a leading Russian university",
+   "No application fee and no English test needed to enter the competition"
+  ],
+  "relevance": {
+   "academic": "High",
+   "career": "Medium",
+   "travel": "High",
+   "networking": "Medium",
+   "funding": "Medium",
+   "accessibility": "High",
+   "profile_fit": "High"
+  },
+  "relevance_reason": "One of the few master's routes open now with no fee and no language test up front, with a business track; the living costs are the drawback.",
+  "travel_value": "High",
+  "career_value": "Medium",
+  "academic_value": "High",
+  "networking_value": "Medium",
+  "visa": {
+   "required": "Yes (Russian student visa)",
+   "support": "Unknown / Not specified"
+  },
+  "upfront_cost_risk": "Medium: flights and living costs are the student's",
+  "action": "Register before 1 November 2026, choose 'Business and Management' or 'Politics and International Studies' on the Master's track, then complete the portfolio by 13 November. Budget for housing and flights before accepting.",
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "notes": "The separate Russian government quota (education-in-russia.com) could not be read; MISIS states 'by January 15, 2027 — for all other countries'.",
+  "match_keywords": [
+   "open doors",
+   "russian scholarship project",
+   "open doors olympiad"
+  ],
+  "id": "open-doors-russian-scholarship-masters-2027",
+  "title": "Open Doors: Russian Scholarship Project, Master's track (2027/28 entry)",
+  "organization": "'Global Universities' Association of Russian universities",
+  "overview": "A free two-stage online competition whose Master's-track winners receive federally funded tuition places and a monthly stipend at leading Russian universities. Living, travel and insurance costs are paid by the student."
+ },
+ {
+  "category": [
+   "Scholarship"
+  ],
+  "subcategory": [
+   "Master's degree"
+  ],
+  "education_levels": [
+   "Master's"
+  ],
+  "country": "United Kingdom",
+  "city": "Cambridge",
+  "region": "Northern Europe",
+  "continent": "Europe",
+  "location_type": "International travel",
+  "delivery_mode": "In-person",
+  "program_dates": "Master's courses starting in the 2027/28 academic year",
+  "application_deadline": "",
+  "deadline_utc": "",
+  "deadline_text": "'The deadline differs by course but is generally either the first week of December or the first week of January... it's the funding deadline you need to work towards.' Applications opened 11 September 2026; offers late March or early April 2027.",
+  "deadline_timezone": "UK time",
+  "opens_on": "2026-09-11",
+  "open_now": true,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "funding_type": "Fully Funded",
+  "funding_details": [
+   "Covers: 'Course fee; Maintenance / living allowance; Visa and health surcharge; Travel inc. flights and taxi into Cambridge; Laptop'",
+   "Application fee waived automatically for listed countries, including 'Congo (Dem. Rep.)'"
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Covered",
+   "flight": "Covered",
+   "accommodation": "Partially covered",
+   "meals": "Not specified",
+   "visa": "Covered",
+   "insurance": "Covered",
+   "local_transport": "Partially covered"
+  },
+  "participation_fee": "None for DRC applicants: the application fee is waived automatically ('Congo (Dem. Rep.)' is listed).",
+  "stipend": "Unknown / Not specified",
+  "eligibility": [
+   "Have a bachelor's degree",
+   "Meet the course's academic entry requirements: 'Some courses require the equivalent of a UK first-class honours degree and others an upper second-class degree'",
+   "'Be from, and live in, an African country'",
+   "Any full-time master's except MACC, MBA, MCL and MFIN",
+   "'There is no upper age limit'",
+   "IELTS not needed to apply ('conditional offer'); the required score is 'either 7.0 or 7.5 overall'"
+  ],
+  "nationality_requirements": [
+   "From and living in an African country"
+  ],
+  "age_requirement": "No upper age limit",
+  "education_requirement": "Bachelor's at UK 2:1 or first equivalent (course-dependent)",
+  "experience_requirement": "Unknown / Not specified",
+  "language_requirement": "IELTS 7.0 or 7.5 overall, can be met after a conditional offer",
+  "other_requirements": [],
+  "documents_required": [],
+  "application_process": [
+   "Choose an eligible full-time master's on postgraduate.study.cam.ac.uk/courses",
+   "Apply before that course's funding deadline (early December or early January); one application covers admission and funding",
+   "Outstanding documents (such as IELTS) due by 31 July 2027"
+  ],
+  "official_application_url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply",
+  "official_information_url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/eligibility",
+  "source_url": "https://www.mastercardfoundation.fund.cam.ac.uk/news/2027-applications-now-open",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "2027 applications now open (11 September 2026)",
+    "url": "https://www.mastercardfoundation.fund.cam.ac.uk/news/2027-applications-now-open",
+    "type": "Official"
+   },
+   {
+    "label": "Eligibility",
+    "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/eligibility",
+    "type": "Official"
+   },
+   {
+    "label": "How to apply",
+    "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply",
+    "type": "Official"
+   }
+  ],
+  "eligibility_for_me": "POSSIBLY ELIGIBLE",
+  "eligibility_reason": "A DRC citizen living in the DRC with a bachelor's meets the nationality, residence and degree rules, and IELTS can follow an offer. The deciding unknown is the degree grade (a UK 2:1 or first equivalent).",
+  "potential_issues": [
+   "No single deadline: the funding deadline of the chosen course applies (early December or early January)",
+   "IELTS 7.0-7.5 needed by 31 July 2027",
+   "The page warns: 'You should not pay anyone for support with your application.'"
+  ],
+  "benefits": [
+   "Full cost of a Cambridge master's, including flights and laptop",
+   "Application fee waived for DRC applicants"
+  ],
+  "relevance": {
+   "academic": "Very High",
+   "career": "Very High",
+   "travel": "High",
+   "networking": "Very High",
+   "funding": "Very High",
+   "accessibility": "Medium",
+   "profile_fit": "High"
+  },
+  "relevance_reason": "Targeted at Africans, fully funded, no IELTS needed to apply and no fee for DRC applicants; the grade threshold is the main question.",
+  "travel_value": "High",
+  "career_value": "Very High",
+  "academic_value": "Very High",
+  "networking_value": "Very High",
+  "visa": {
+   "required": "Yes (UK Student visa)",
+   "support": "Visa and health surcharge covered"
+  },
+  "upfront_cost_risk": "Low",
+  "action": "Pick one eligible one-year master's (for example in development or public policy), note its funding deadline, and check that your grade meets the 2:1 equivalent before applying.",
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "notes": "",
+  "match_keywords": [
+   "mastercard foundation scholars program at the university of cambridge",
+   "mastercard foundation cambridge"
+  ],
+  "id": "mastercard-foundation-scholars-cambridge-2027",
+  "title": "Mastercard Foundation Scholars Program at the University of Cambridge (2027/28 master's)",
+  "organization": "University of Cambridge, with the Mastercard Foundation",
+  "overview": "Full scholarships for people from and living in Africa to take a full-time master's at Cambridge, covering fees, living costs, visa and travel."
+ },
+ {
+  "category": [
+   "Scholarship"
+  ],
+  "subcategory": [
+   "Erasmus Mundus",
+   "Master's degree"
+  ],
+  "education_levels": [
+   "Master's"
+  ],
+  "country": "Multiple European countries",
+  "city": "",
+  "region": "Europe",
+  "continent": "Europe",
+  "location_type": "International travel",
+  "delivery_mode": "In-person",
+  "program_dates": "2027-2029 cohort (two years)",
+  "application_deadline": "2026-12-15",
+  "deadline_utc": "",
+  "deadline_text": "'The application for the 2027-2029 cohort is now open!... Deadlines: December 15th for Erasmus Mundus Grant Applications'. '1 April, 2027: Central application deadline for all ordinary candidates'.",
+  "deadline_timezone": "Unknown / Not specified",
+  "opens_on": "",
+  "open_now": false,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "funding_type": "Funding Unclear",
+  "funding_details": [
+   "Erasmus Mundus scholarship: '1.400€ per month x 24', which 'shall cover travel, visa, installation and subsistence costs'",
+   "For 2027-2029: '8 scholarships are targeted to students from Partner Countries' plus 4 for candidates from Targeted Regions 1, 3, 5, 7, 8, 9, 10 and 11",
+   "Participation costs '4.000€ per semester' (including insurance); whether scholarship holders are exempt is not stated on the page read",
+   "'In July 2026, the NOHA Master was once again selected as an Erasmus Mundus programme'"
+  ],
+  "coverage": {
+   "tuition": "Not specified",
+   "stipend": "Covered",
+   "flight": "Partially covered",
+   "accommodation": "Partially covered",
+   "meals": "Partially covered",
+   "visa": "Partially covered",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "participation_fee": "Participation costs EUR 4,000 per semester (waiver for scholarship holders not stated); application fee not mentioned",
+  "stipend": "EUR 1,400 per month for 24 months",
+  "eligibility": [
+   "Bachelor's of at least 180 ECTS 'in a discipline of relevance to humanitarian action (medical sciences, foods sciences, economics and management, ...)'",
+   "English at C1, for example IELTS minimum 6.5 overall with no component under 6.0, or TOEFL iBT",
+   "Erasmus Mundus applicants must submit full documentation before the 15 December deadline",
+   "Proof of residence issued within 12 months ('National IDs, passports and utility bills are not acceptable')"
+  ],
+  "nationality_requirements": [],
+  "age_requirement": "Unknown / Not specified",
+  "education_requirement": "Bachelor's (180 ECTS) in a relevant discipline, including economics and management",
+  "experience_requirement": "Unknown / Not specified",
+  "language_requirement": "C1 English (IELTS 6.5, no band under 6.0, or TOEFL iBT), in the file by 15 December 2026",
+  "other_requirements": [],
+  "documents_required": [],
+  "application_process": [
+   "Apply on apply.nohanet.org with complete documentation, including the English test, by 15 December 2026"
+  ],
+  "official_application_url": "http://apply.nohanet.org",
+  "official_information_url": "https://www.nohanet.org/masters",
+  "source_url": "https://www.nohanet.org/masters",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "NOHA Master's",
+    "url": "https://www.nohanet.org/masters",
+    "type": "Official"
+   }
+  ],
+  "eligibility_for_me": "POSSIBLY ELIGIBLE",
+  "eligibility_reason": "A business administration bachelor's falls under 'economics and management'. No English test is recorded, and C1 proof is required in the file by 15 December 2026.",
+  "potential_issues": [
+   "English test result must be in the file by 15 December 2026",
+   "Whether the EUR 4,000 per semester participation cost is waived for scholarship holders is not stated",
+   "Which Erasmus+ region the DRC falls in was not checked"
+  ],
+  "benefits": [
+   "EUR 1,400 monthly for 24 months",
+   "Study in several European countries",
+   "Direct fit with humanitarian logistics and coordination"
+  ],
+  "relevance": {
+   "academic": "High",
+   "career": "Very High",
+   "travel": "Very High",
+   "networking": "High",
+   "funding": "High",
+   "accessibility": "Medium",
+   "profile_fit": "High"
+  },
+  "relevance_reason": "Humanitarian programme coordination matches the vaccination-campaign and logistics experience; the English test deadline is the binding constraint.",
+  "travel_value": "Very High",
+  "career_value": "Very High",
+  "academic_value": "High",
+  "networking_value": "High",
+  "visa": {
+   "required": "Yes (Schengen student visas)",
+   "support": "Scholarship 'shall cover travel, visa, installation and subsistence costs'"
+  },
+  "upfront_cost_risk": "Medium",
+  "action": "Book an IELTS or TOEFL sitting with results before mid-December. Email NOHA to ask whether scholarship holders pay the EUR 4,000 semester participation costs before investing in the application.",
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "notes": "",
+  "match_keywords": [
+   "noha",
+   "international humanitarian action"
+  ],
+  "id": "noha-erasmus-mundus-humanitarian-action-2027",
+  "title": "NOHA Erasmus Mundus Joint Master in International Humanitarian Action (2027-2029)",
+  "organization": "NOHA Network on Humanitarian Action (university consortium)",
+  "overview": "Two-year joint master's in humanitarian action across European partner universities, with Erasmus Mundus scholarships of EUR 1,400 a month for the 2027-2029 cohort."
+ },
+ {
+  "category": [
+   "Scholarship"
+  ],
+  "subcategory": [
+   "Master's degree"
+  ],
+  "education_levels": [
+   "Master's"
+  ],
+  "country": "France",
+  "city": "Paris",
+  "region": "Western Europe",
+  "continent": "Europe",
+  "location_type": "International travel",
+  "delivery_mode": "In-person",
+  "program_dates": "Two-year master's starting September 2027",
+  "application_deadline": "",
+  "deadline_utc": "",
+  "deadline_text": "'Applications for the fee waiver will be open from October to mid-December 2026.' The exact scholarship deadline is not yet published. General master's deadline: '21 February 2027 (11.59pm, Paris time)', but Mastercard applicants 'must submit your application before the deadline of the scholarship'.",
+  "deadline_timezone": "Paris time",
+  "opens_on": "",
+  "open_now": true,
+  "rolling": false,
+  "recurring": true,
+  "expected_next_cycle": "",
+  "last_cycle_deadline": "",
+  "funding_type": "Fully Funded",
+  "funding_details": [
+   "'The Program covers the full financial needs of selected Scholars' (not itemised on the page read)",
+   "Application fee waived for eligible candidates"
+  ],
+  "coverage": {
+   "tuition": "Covered",
+   "stipend": "Not specified",
+   "flight": "Not specified",
+   "accommodation": "Not specified",
+   "meals": "Not specified",
+   "visa": "Not specified",
+   "insurance": "Not specified",
+   "local_transport": "Not specified"
+  },
+  "participation_fee": "Application fee waived for eligible candidates",
+  "stipend": "Unknown / Not specified",
+  "eligibility": [
+   "'Hold the citizenship of an African country'",
+   "'Be under 35 years of age on 1 September'",
+   "Not already holding, or pursuing, a master's degree; applying for the first time",
+   "Bachelor's from a listed partner institution, or a recognised bridge programme, or UNHCR refugee status; the only DRC institution listed is the Université de Kinshasa",
+   "Graduates of French higher education institutions are not eligible"
+  ],
+  "nationality_requirements": [
+   "Citizen of an African country"
+  ],
+  "age_requirement": "Under 35 on 1 September 2027",
+  "education_requirement": "Bachelor's from a partner institution (DRC: Université de Kinshasa only)",
+  "experience_requirement": "Unknown / Not specified",
+  "language_requirement": "Unknown / Not specified",
+  "other_requirements": [],
+  "documents_required": [],
+  "application_process": [
+   "Request the fee waiver between October and mid-December 2026",
+   "Submit the Sciences Po master's application before the scholarship deadline"
+  ],
+  "official_application_url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
+  "official_information_url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/mastercard-foundation-scholarships/graduate-study/",
+  "source_url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/mastercard-foundation-scholarships/graduate-study/",
+  "source_type": "Official",
+  "source_confidence": "HIGH",
+  "verification": "VERIFIED",
+  "sources": [
+   {
+    "label": "Mastercard Foundation Scholarships, graduate study",
+    "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/mastercard-foundation-scholarships/graduate-study/",
+    "type": "Official"
+   },
+   {
+    "label": "Graduate admissions deadlines",
+    "url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
+    "type": "Official"
+   },
+   {
+    "label": "Partner institutions list (PDF)",
+    "url": "https://www.sciencespo.fr/students/sites/sciencespo.fr.students/files/sciencespo-mastercard-foundation-institutions-partenaires-en.pdf",
+    "type": "Official"
+   }
+  ],
+  "eligibility_for_me": "INSUFFICIENT INFORMATION",
+  "eligibility_reason": "Citizenship, age and degree level fit, but eligibility depends on the bachelor's coming from a partner institution. The DRC's only one is the Université de Kinshasa, and the profile does not record the awarding university.",
+  "potential_issues": [
+   "Restricted to graduates of listed partner universities",
+   "Exact scholarship deadline not yet published (fee-waiver window October to mid-December 2026)",
+   "Funding is described as 'full financial needs' without an itemised list on the page read"
+  ],
+  "benefits": [
+   "Two-year Sciences Po master's in Paris",
+   "Full financial needs covered"
+  ],
+  "relevance": {
+   "academic": "Very High",
+   "career": "Very High",
+   "travel": "High",
+   "networking": "Very High",
+   "funding": "Very High",
+   "accessibility": "Low",
+   "profile_fit": "High"
+  },
+  "relevance_reason": "Public policy at Sciences Po, in French or English, is a strong thematic fit; access depends entirely on the awarding university.",
+  "travel_value": "High",
+  "career_value": "Very High",
+  "academic_value": "Very High",
+  "networking_value": "Very High",
+  "visa": {
+   "required": "Yes (French student visa)",
+   "support": "Unknown / Not specified"
+  },
+  "upfront_cost_risk": "Low",
+  "action": "If your Licence is from the Université de Kinshasa, request the fee waiver before mid-December 2026 and watch the page for the scholarship deadline. Otherwise skip.",
+  "last_verified": "2026-10-05",
+  "date_discovered": "2026-10-05",
+  "notes": "Previously on the research watchlist.",
+  "match_keywords": [
+   "mastercard foundation scholars program at sciences po",
+   "sciences po mastercard"
+  ],
+  "id": "mastercard-foundation-scholars-sciences-po-2027",
+  "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+  "organization": "Sciences Po, with the Mastercard Foundation",
+  "overview": "Full-need scholarships for African graduates of partner universities to take a two-year master's at Sciences Po in Paris. The only DRC partner institution is the Université de Kinshasa."
+ }
+]

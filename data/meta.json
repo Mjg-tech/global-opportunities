@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-05T07:16:06Z",
+  "last_refresh": "2026-10-05T08:10:17Z",
   "counts": {
-    "total": 42,
+    "total": 50,
     "archived": 0,
     "by_status": {
-      "OPEN": 12,
+      "OPEN": 20,
       "CLOSING SOON": 5,
       "UPCOMING": 16,
       "DEADLINE PASSED": 0,
@@ -13,31 +13,32 @@
       "DATE UNKNOWN": 9
     },
     "by_funding": {
-      "Fully Funded": 20,
+      "Fully Funded": 25,
       "Substantially Funded": 4,
-      "Partially Funded": 0,
+      "Partially Funded": 1,
       "Travel Funded": 2,
-      "Participation Funded": 2,
+      "Participation Funded": 3,
       "Self Funded": 0,
-      "Funding Unclear": 14
+      "Funding Unclear": 15
     },
     "by_eligibility": {
       "LIKELY ELIGIBLE": 15,
-      "POSSIBLY ELIGIBLE": 18,
+      "POSSIBLY ELIGIBLE": 26,
       "NOT ELIGIBLE": 4,
       "INSUFFICIENT INFORMATION": 5
     },
     "by_verification": {
-      "VERIFIED": 20,
-      "PARTIALLY VERIFIED": 18,
+      "VERIFIED": 30,
+      "PARTIALLY VERIFIED": 16,
       "NEEDS VERIFICATION": 4
     },
-    "travel_funded": 17
+    "travel_funded": 22
   },
   "deadline_buckets": {
     "30": [
       "international-dialogue-sdg17-baku-2026",
-      "one-young-world-leading-scholarship-2026"
+      "one-young-world-leading-scholarship-2026",
+      "open-doors-russian-scholarship-masters-2027"
     ],
     "14": [
       "aspire-leaders-program-2026-cohort-4",
