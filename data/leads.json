@@ -1,7 +1,318 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-05",
+  "updated": "2026-10-06",
   "leads": [
+    {
+      "id": "ce15547fc799",
+      "title": "Jerome R. Lewis Legislative Fellows Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/06/jerome-r-lewis-legislative-fellows-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "4bed5d735ee5",
+      "title": "Tomorrow’s Leaders Program 2027–2028 (Funded)",
+      "url": "https://opportunitydesk.org/2026/10/06/tomorrow-leaders-program-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a44f822fa248",
+      "title": "Chen Institute & Science Prize for AI Accelerated Research 2027",
+      "url": "https://www.globalsouthopportunities.com/2026/10/06/prize-6/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ab1b463a815c",
+      "title": "Jasiri Talent Investor Cohort 9 2027 – Fully Funded Food Systems Entrepreneurship Programme",
+      "url": "https://www.globalsouthopportunities.com/2026/10/06/jasiri-5/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "819669e8b59f",
+      "title": "Laurentian University Graduate Scholarships and Bursaries 2026–2027",
+      "url": "https://www.globalsouthopportunities.com/2026/10/06/laurentian/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b58091b8a7f4",
+      "title": "University of Toronto Presidents’ Impact Scholarship Program 2027 | Fully Funded",
+      "url": "https://www.globalsouthopportunities.com/2026/10/06/scholarship-86/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "413f1132c202",
+      "title": "Speculative Technologies Invites Applications for the Brains Fellowship 2027 – Apply By 26 October 2026",
+      "url": "https://www.globalsouthopportunities.com/2026/10/06/brains/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8a5a79e9090a",
+      "title": "Fellowship 2027 in Cambridge, UK (Fully Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/fellowship-2027-in-cambridge-uk-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3d648f1763b0",
+      "title": "Erasmus Mundus MESPOM Scholarship 2027/29 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/erasmus-mundus-mespom-scholarship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7e70b0bf41dc",
+      "title": "Appel à candidation pour la sélection et la formation des Journalistes Environnementaux en République Démocratique du Congo",
+      "url": "https://www.lesopportunites.com/opportunite/rdcongo/formation/journalisme/appel-a-candidation-pour-la-selection-et-la-formation-des-journalistes-environnementaux-en-republique-democratique-du-congo/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "44721e474d5e",
+      "title": "L’Agence Universitaire de la Francophonie (AUF) lance un appel à candidatures pour le Programme IFAV – Incubateur Francophone Africain Virtuel 2026",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/gestion/lagence-universitaire-de-la-francophonie-auf-lance-un-appel-a-candidatures-pour-le-programme-ifav-incubateur-francophone-africain-virtuel-2026/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7466c06cbaf2",
+      "title": "Appel à candidatures – Les jeunes créatifs africains sont invités à concevoir le logo officiel et l’identité visuelle du thème de l’Union Africaine (UA) pour l’année 2027",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/appel-doffres/design-graphique/appel-a-candidatures-les-jeunes-creatifs-africains-sont-invites-a-concevoir-le-logo-officiel-et-lidentite-visuelle-du-theme-de-lunion-africaine-ua-pour-lannee-2027/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-06",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "29f3271d9066",
+      "title": "AIxBio Fellowship 2027 at Cambridge (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/10/05/aixbio-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1655097f5403",
+      "title": "NetHope Humanitarian AI Research Fellowship 2026/2027",
+      "url": "https://opportunitydesk.org/2026/10/05/nethope-humanitarian-ai-research-fellowship-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "af0731ec4935",
+      "title": "Switzer Fellowships 2027 for Graduate Students in the U.S.",
+      "url": "https://opportunitydesk.org/2026/10/05/switzer-fellowships-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "f6162936b553",
+      "title": "America in the World Consortium Predoctoral Fellowship 2027-2028 (Stipend available)",
+      "url": "https://opportunitydesk.org/2026/10/05/america-in-the-world-consortium-predoctoral-fellowship-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "96206c7d7ede",
+      "title": "Alfred Friendly Press Partners Fellowship 2027 ($2,000 stipend)",
+      "url": "https://opportunitydesk.org/2026/10/05/alfred-friendly-press-partners-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Global South Opportunities"
+      ]
+    },
+    {
+      "id": "cd4ffbf0cb6c",
+      "title": "HP-UCL IOE Fellowship in AI in Education 2027",
+      "url": "https://opportunitydesk.org/2026/10/05/hp-ucl-ioe-fellowship-in-ai-in-education-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7b08dd882d0a",
+      "title": "The Jasiri Talent Investor Programme (Cohort 9) for young East African Entrepreneurs (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-jasiri-talent-investor-programme-cohort-9-for-young-east-african-entrepreneurs/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5aa84706c6ef",
+      "title": "Flour Mills of Nigeria (FMN) TEEP 2026: Apply for the Exclusive Engineering Programme Graduate Trainee Opportunity",
+      "url": "https://www.globalsouthopportunities.com/2026/10/05/engineering-7/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "eb6c1f691d4e",
+      "title": "Jasiri Cohort 9: Fully Funded Talent Investor Opportunity for Builders in Ethiopia, Kenya and Rwanda",
+      "url": "https://www.globalsouthopportunities.com/2026/10/05/jasiri-4/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6d93392ea218",
+      "title": "AU Emerging Global Leader Scholarship 2027 in USA | Fully Funded",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/au-emerging-global-leader-scholarship-2027-in-usa-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0e2df736165a",
+      "title": "Skoll Scholarship 2027 at Oxford University (Fully Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/skoll-scholarship-2027-at-oxford-university-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "76844f041f13",
+      "title": "Global Youth Impact Summit Paris 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/global-youth-impact-summit-paris/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1517d3859899",
+      "title": "EPFL Life Sciences Summer Research Program 2027 in Switzerland (Fully Funded)",
+      "url": "https://opportunitiescorners.com/epfl-life-sciences-summer-research-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0a4fc411f631",
+      "title": "Russia JINR START Winter Program 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/russia-jinr-start-winter-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-05",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ae18d51f89d5",
+      "title": "Programme de Bourses Africa MOVES 2026-2027",
+      "url": "https://www.mastere.tn/bourses-africa-moves/",
+      "source": "Mastere.tn",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-04",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d7c868c6bc84",
+      "title": "Bourses Erasmus Mundus GrEnFIn 2027-2029",
+      "url": "https://www.mastere.tn/erasmus-mundus-grenfin/",
+      "source": "Mastere.tn",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-03",
+      "first_seen": "2026-10-06",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "2325d69bb632",
       "title": "Call for Papers 2027: International Workshop on Governance, Migration & Humanitarianism in Poland — Travel Grants Available",
@@ -212,23 +523,15 @@
       "language": "en",
       "published": "2026-10-03",
       "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "36697e6faa8d",
       "title": "Iceland Writers Retreat Program 2027 (Fully Funded Trip)",
       "url": "https://opportunitiescorners.com/iceland-writers-retreat-program-2027-fully-funded-trip/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-03",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "ad90e63733bf",
-      "title": "USTC Winter Camp 2027 in China (Fully Funded)",
-      "url": "https://opportunitiescorners.com/ustc-winter-camp-2027/",
       "source": "Opportunities Corners",
       "source_tier": 3,
       "language": "en",
@@ -306,21 +609,6 @@
       "status": "NEEDS VERIFICATION"
     },
     {
-      "id": "d2c60a6ecd4e",
-      "title": "Dalai Lama Fellows Program 2027 for Emerging Changemakers",
-      "url": "https://opportunitydesk.org/2026/10/02/dalai-lama-fellows-program-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans",
-        "OYA Opportunities"
-      ]
-    },
-    {
       "id": "ed8c9c49d071",
       "title": "Africa Organization for Standardization (ARSO) 14th Continental Essay Competition 2026/2027 ($USD 2,300 Prize)",
       "url": "https://www.opportunitiesforafricans.com/africa-organization-for-standardization-arso-14th-continental-essay-competition-2026-2027/",
@@ -365,7 +653,10 @@
       "language": "en",
       "published": "2026-10-02",
       "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "d031be3bd815",
@@ -526,31 +817,6 @@
       "published": "2026-10-01",
       "first_seen": "2026-10-02",
       "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6571122c127f",
-      "title": "Mastercard Foundation Scholars Program 2027 (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-2027-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "4f7cb0259d28",
-      "title": "Maastricht University Scholarship 2027 in Netherlands (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/maastricht-university-scholarship-2027-in-netherlands-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities Corners"
-      ]
     },
     {
       "id": "bd058700a1c0",
