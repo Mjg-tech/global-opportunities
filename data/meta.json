@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-06T12:02:46Z",
+  "last_refresh": "2026-10-07T11:48:24Z",
   "counts": {
     "total": 50,
     "archived": 0,
     "by_status": {
       "OPEN": 20,
-      "CLOSING SOON": 4,
+      "CLOSING SOON": 2,
       "UPCOMING": 16,
-      "DEADLINE PASSED": 1,
+      "DEADLINE PASSED": 3,
       "ROLLING": 0,
       "DATE UNKNOWN": 9
     },
@@ -49,15 +49,12 @@
       "mandela-washington-fellowship-2027"
     ],
     "3": [],
-    "1": [
-      "chevening-scholarships-2027",
-      "knight-hennessy-scholars-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 50,
-    "ok": 43,
-    "blocked_or_unreachable": 7,
+    "ok": 42,
+    "blocked_or_unreachable": 8,
     "dead": 0
   },
   "flags": [],
@@ -76,7 +73,7 @@
       "tier": 1,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunity Desk",
@@ -84,7 +81,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 8
+      "new": 6
     },
     {
       "name": "Opportunities for Africans",
@@ -92,7 +89,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 4
     },
     {
       "name": "Global South Opportunities",
@@ -100,7 +97,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 7
+      "new": 5
     },
     {
       "name": "Opportunities for Youth",
@@ -122,9 +119,9 @@
       "name": "OYA Opportunities",
       "url": "https://oyaop.com/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 10,
-      "new": 3
+      "status": 0,
+      "items": 0,
+      "new": 0
     },
     {
       "name": "Opportunities Corners",
@@ -132,7 +129,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 4
+      "new": 0
     },
     {
       "name": "Opportunites du Monde",
@@ -140,7 +137,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 1
     },
     {
       "name": "Afri-Carrieres",
@@ -154,9 +151,9 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 10,
-      "new": 2
+      "status": 202,
+      "items": 0,
+      "new": 0
     },
     {
       "name": "Partiu Intercambio",
@@ -185,75 +182,19 @@
   ],
   "reseen": [
     {
-      "id": "glocal-erasmus-mundus-2027",
-      "title": "GLOCAL Erasmus Mundus Scholarship 2027(Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/glocal-erasmus-mundus-scholarship-2027fully-funded/",
-      "source": "OYA Opportunities",
-      "seen": "2026-10-06"
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "The University of Global Health Equity (UGHE) Mastercard Foundation Scholars Program 2027 for African healthcare professionals (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-university-of-global-health-equity-ughe-mastercard-foundation-scholars-program-2027/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-07"
     },
     {
-      "id": "dalai-lama-fellows-2027",
-      "title": "Dalai Lama Fellows 2027: Fully Funded",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/dalai-lama-fellows-2027-fully-funded/",
-      "source": "OYA Opportunities",
-      "seen": "2026-10-06"
-    },
-    {
-      "id": "maastricht-nl-high-potential-2027",
-      "title": "Maastricht University Scholarships 2027 in Netherlands (Fully Funded)",
-      "url": "https://opportunitiescorners.com/maastricht-university-scholarships-2027/",
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "title": "Harvard Aspire Leaders Program 2026 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/harvard-aspire-leaders-program/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-06"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses Excellence Eiffel à l’Université d’Artois, 2027-2028",
-      "url": "https://www.mastere.tn/bourses-eiffel-universite-dartois/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-06"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses Excellence Eiffel à l’ITECH Lyon 2027-2028",
-      "url": "https://www.mastere.tn/bourses-eiffel-itech-lyon/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-06"
-    },
-    {
-      "id": "noha-erasmus-mundus-humanitarian-action-2027",
-      "title": "Programme de Master Conjoint Erasmus Mundus NOHA 2027-2029",
-      "url": "https://www.mastere.tn/erasmus-mundus-noha/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-06"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses d’Excellence Eiffel à l’Université Paris-Saclay 2027/2028",
-      "url": "https://www.mastere.tn/bourses-eiffel-universite-paris-saclay/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-06"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Programme de Bourses France Excellence Eiffel 2027/2028",
-      "url": "https://www.mastere.tn/bourses-france-excellence-eiffel/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-06"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses France Excellence Eiffel à l’EURECOM 2027-2028",
-      "url": "https://www.mastere.tn/bourses-eiffel-eurecom/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-06"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourses Excellence Eiffel à l’Université de Montpellier 2027-2028",
-      "url": "https://www.mastere.tn/bourses-eiffel-universite-de-montpellier/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-06"
+      "seen": "2026-10-07"
     }
   ],
-  "new_leads_last_run": 28
+  "new_leads_last_run": 17
 }
