@@ -1,7 +1,219 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "leads": [
+    {
+      "id": "05c71e645a27",
+      "title": "AU Theme of the Year 2027 Logo Competition ($5,000 prize)",
+      "url": "https://opportunitydesk.org/2026/10/08/au-theme-of-the-year-2027-logo-competition/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "8a684a1dc94b",
+      "title": "HSC Youth Ambassador Program 2027 – Fully Funded Opportunity for Global South Youth",
+      "url": "https://www.globalsouthopportunities.com/2026/10/08/hsc/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d67c86eff932",
+      "title": "Call for Applications: Samsung South Africa Graduate Programme 2027",
+      "url": "https://www.globalsouthopportunities.com/2026/10/08/samsung/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "87d3cddfdb27",
+      "title": "Gulbenkian Institute for Advanced Study (GIAS) Opens Applications for 2027/28 Fellowship Programme",
+      "url": "https://www.globalsouthopportunities.com/2026/10/08/institute-8/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "fc0e9d77ea01",
+      "title": "Georg Arnhold Senior Fellowship 2028: €3,300 Monthly Stipend for Peace Education Research",
+      "url": "https://www.globalsouthopportunities.com/2026/10/08/fellowship-270/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c7264b01d1f8",
+      "title": "Paid Internship at Apple in USA",
+      "url": "https://oyaop.com/opportunity/internships/paid-internship-at-apple-in-usa/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b6cfc2b93712",
+      "title": "HSC Youth Ambassador Program 2027 in Germany (Fully Funded)",
+      "url": "https://opportunitiescorners.com/hsc-youth-ambassador-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "304f779e2495",
+      "title": "Cultural Futures Forum 2027 in Austria (Fully Funded)",
+      "url": "https://opportunitiescorners.com/cultural-futures-forum-2027-in-austria/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8a68a64d516e",
+      "title": "Formation gratuite en ligne sur la « Gouvernance des données en Afrique »",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/technologie/formation-gratuite-en-ligne-sur-la-gouvernance-des-donnees-en-afrique/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7198ef76527b",
+      "title": "Appel à candidatures – Programme de Formation gratuite et certifiante de la Banque Mondiale sur l’Intelligence Artificielle (IA)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/technologie/appel-a-candidatures-programme-de-formation-gratuite-et-certifiante-de-la-banque-mondiale-sur-lintelligence-artificielle-ia/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "09461c6f331e",
+      "title": "Appel à Candidatures : Erasmus Mundus EMMIR 2027-2029",
+      "url": "https://www.mastere.tn/erasmus-mundus-emmir/",
+      "source": "Mastere.tn",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "07aba374979b",
+      "title": "27 Scholarship Opportunities Closing in October – October 7, 2026",
+      "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "25e1c4470958",
+      "title": "Bipartisan Policy Center Internship Program – Spring 2027",
+      "url": "https://opportunitydesk.org/2026/10/07/bipartisan-policy-center-internship-program-spring-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6a9bdd5334dc",
+      "title": "Stanford University Center for International Security and Cooperation Fellowship 2027-2028",
+      "url": "https://opportunitydesk.org/2026/10/07/stanford-cisac-fellowship-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "f05ee1d43c3b",
+      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/07/hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8ce0e9537cf4",
+      "title": "University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027",
+      "url": "https://opportunitydesk.org/2026/10/07/university-of-global-health-equity-master-of-science-in-health-professions-education-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "125647b4bd49",
+      "title": "Rhodes Scholarship 2027 at Oxford University, UK (Fully Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/rhodes-scholarship-2027-at-oxford-university-uk-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8f56c9835581",
+      "title": "United Nations University Youth Summit 2026 in Malaysia (Fully Funded)",
+      "url": "https://opportunitiescorners.com/united-nations-university-youth-summit-2026-in-malaysia/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "eeacad089ce2",
+      "title": "Leadership and Peace Summit Morocco 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/leadership-and-peace-summit-morocco-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-07",
+      "first_seen": "2026-10-08",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "2e137ce8618d",
       "title": "Le lauréat 2026 du Prix des 5 continents à la rencontre des publics de l’océan Indien",
@@ -209,7 +421,10 @@
       "language": "en",
       "published": "2026-10-06",
       "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "a44f822fa248",
@@ -476,7 +691,10 @@
       "language": "en",
       "published": "2026-10-05",
       "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "ae18d51f89d5",
