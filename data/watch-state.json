@@ -2,7 +2,7 @@
   "abe-initiative-jica": {
     "url": "https://www.jica.go.jp/english/countries/africa/internship.html",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -10,7 +10,7 @@
   "afox-graduate-scholarships-oxford-mba-2027": {
     "url": "https://www.sbs.ox.ac.uk/oxford-experience/scholarships-and-funding/afox-graduate-scholarships",
     "status": 403,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -18,7 +18,7 @@
   "african-union-youth-volunteer-corps": {
     "url": "https://au.int/en/volunteer/african-union-youth-volunteer-corps",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "d990a578f3b32d39",
     "changed_on": "",
     "fail_streak": 0
@@ -26,7 +26,7 @@
   "alx-sponsored-programmes": {
     "url": "https://www.alxafrica.com/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -34,7 +34,7 @@
   "ares-formations-internationales": {
     "url": "https://form.ares-ac.be/formations_internationales_2027_2028",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -42,7 +42,7 @@
   "aspire-leaders-program-2026-cohort-4": {
     "url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "28916fb23b9ce38d",
     "changed_on": "",
     "fail_streak": 0
@@ -50,7 +50,7 @@
   "chevening-scholarships-2027": {
     "url": "https://www.chevening.org/scholarship/democratic-republic-of-the-congo/",
     "status": 0,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -58,7 +58,7 @@
   "daad-helmut-schmidt-programme": {
     "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/helmut-schmidt-programme/",
     "status": 403,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -66,7 +66,7 @@
   "daad-in-country-in-region-2027": {
     "url": "https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/in-countryin-region-programme-in-developing-countries/",
     "status": 403,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -74,7 +74,7 @@
   "erasmus-mundus-joint-masters-2027": {
     "url": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters-scholarships",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -82,7 +82,7 @@
   "european-forum-alpbach-scholarships": {
     "url": "https://www.alpbach.org/faq-scholarship-programme",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "419cd5a918401311",
     "changed_on": "",
     "fail_streak": 0
@@ -90,7 +90,7 @@
   "france-excellence-eiffel-2027": {
     "url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "fb408322c39450e0",
     "changed_on": "",
     "fail_streak": 0
@@ -98,7 +98,7 @@
   "french-african-foundation-young-leaders": {
     "url": "https://french-african.org/young-leaders/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -106,15 +106,15 @@
   "global-leadership-challenge-2026": {
     "url": "https://www.leadership-challenge.org/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "299bc31ef1ec9332",
     "changed_on": "",
     "fail_streak": 0
   },
   "glocal-erasmus-mundus-2027": {
     "url": "https://globallocal-erasmusmundus.eu/",
-    "status": 200,
-    "checked": "2026-10-08",
+    "status": 403,
+    "checked": "2026-10-09",
     "fingerprint": "2a120ea2e4592154",
     "changed_on": "",
     "fail_streak": 0
@@ -122,7 +122,7 @@
   "icann-fellowship": {
     "url": "https://www.icann.org/fellowshipprogram",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "cd8c58d25db973c5",
     "changed_on": "",
     "fail_streak": 0
@@ -130,7 +130,7 @@
   "internet-society-fellowship-2027": {
     "url": "https://www.internetsociety.org/fellowship/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "e960a7bfdf8924bd",
     "changed_on": "",
     "fail_streak": 0
@@ -138,7 +138,7 @@
   "irex-community-solutions-program": {
     "url": "https://www.irex.org/program/community-solutions-program-application-information",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -146,7 +146,7 @@
   "jim-leech-mastercard-foundation-fellowship-2027": {
     "url": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "1d0a9b6a5521dd97",
     "changed_on": "",
     "fail_streak": 0
@@ -154,7 +154,7 @@
   "kectil-program-2027": {
     "url": "https://kectil.com/program/who-can-apply",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "b1699920a2bb866e",
     "changed_on": "",
     "fail_streak": 0
@@ -162,7 +162,7 @@
   "knight-hennessy-scholars-2027": {
     "url": "https://knight-hennessy.stanford.edu/admission",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "a48ec24f83694d7f",
     "changed_on": "2026-10-08",
     "fail_streak": 0
@@ -170,7 +170,7 @@
   "mandela-rhodes-scholarship-2028": {
     "url": "https://www.mandelarhodes.org/scholarship/apply/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "8f2a36af89eeb3e0",
     "changed_on": "",
     "fail_streak": 0
@@ -178,7 +178,7 @@
   "mandela-washington-fellowship-2027": {
     "url": "https://www.mandelawashingtonfellowship.org/apply/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "efdb296c4b0b1fc3",
     "changed_on": "",
     "fail_streak": 0
@@ -186,7 +186,7 @@
   "mastercard-foundation-scholars-edinburgh-2027": {
     "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/on-campus-postgraduate-scholarships",
     "status": 403,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -194,7 +194,7 @@
   "mckinsey-forward-fall-2026": {
     "url": "https://www.mckinsey.org/our-programs/forward/faq",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "c86a6ba120731504",
     "changed_on": "",
     "fail_streak": 0
@@ -202,7 +202,7 @@
   "mext-scholarship-embassy-drc": {
     "url": "https://www.rdc.emb-japan.go.jp/itpr_ja/11_000001_00688.html",
     "status": 403,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -210,7 +210,7 @@
   "mundus-mapp-2027": {
     "url": "https://www.mundusmapp.org/admissions-calendar/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "afd636065e2f743a",
     "changed_on": "",
     "fail_streak": 0
@@ -218,7 +218,7 @@
   "nasser-fellowship-international-leadership": {
     "url": "https://nasseryouthmovement.net/Criteria",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -226,7 +226,7 @@
   "obama-foundation-leaders": {
     "url": "https://www.obama.org/programs/leaders/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "65d26e9eefa7262f",
     "changed_on": "",
     "fail_streak": 0
@@ -234,7 +234,7 @@
   "one-young-world-leading-scholarship-2026": {
     "url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "335cb58082a84a34",
     "changed_on": "",
     "fail_streak": 0
@@ -242,7 +242,7 @@
   "orange-digital-center-drc": {
     "url": "https://engageforchange.orange.com/en/programs/e1be1cd0-d5a6-494a-8ce7-e03cf6eb2205",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -250,7 +250,7 @@
   "pan-african-university-scholarships": {
     "url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "f6fd29eff271c271",
     "changed_on": "",
     "fail_streak": 0
@@ -258,7 +258,7 @@
   "rlc-east-africa": {
     "url": "https://www.rlceastafrica.org/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -266,15 +266,15 @@
   "si-scholarship-global-professionals": {
     "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
     "status": 200,
-    "checked": "2026-10-08",
-    "fingerprint": "939b3b02b841a9ff",
-    "changed_on": "",
+    "checked": "2026-10-09",
+    "fingerprint": "d0e9580b92054019",
+    "changed_on": "2026-10-09",
     "fail_streak": 0
   },
   "stipendium-hungaricum-2027": {
     "url": "https://stipendiumhungaricum.hu/apply/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "c171b1c6b9a25a00",
     "changed_on": "",
     "fail_streak": 0
@@ -282,7 +282,7 @@
   "tony-elumelu-entrepreneurship-programme-2027": {
     "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -290,7 +290,7 @@
   "turkiye-burslari-2027": {
     "url": "https://www.turkiyeburslari.gov.tr/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "6057cd20b5b40b84",
     "changed_on": "",
     "fail_streak": 0
@@ -298,7 +298,7 @@
   "vlir-uos-icp-connect-2027": {
     "url": "https://www.vliruos.be/get-funded/study-scholarships",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "d057c4a3727c28fe",
     "changed_on": "",
     "fail_streak": 0
@@ -306,7 +306,7 @@
   "volontaires-unis-pour-la-francophonie": {
     "url": "https://france-volontaires.org/volontaires-unis-pour-la-francophonie/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -314,7 +314,7 @@
   "world-forum-for-democracy-youth-delegation": {
     "url": "https://www.coe.int/en/web/youth/-/call-for-participants-world-forum-for-democracy-youth-delegation",
     "status": 403,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -322,7 +322,7 @@
   "yenching-academy-2027": {
     "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "07b35502104fc232",
     "changed_on": "",
     "fail_streak": 0
@@ -330,7 +330,7 @@
   "dalai-lama-fellows-2027": {
     "url": "https://dalailamafellows.com/apply/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "ad1fe7c30eb8693f",
     "changed_on": "",
     "fail_streak": 0
@@ -338,7 +338,7 @@
   "gates-cambridge-2027": {
     "url": "https://www.gatescambridge.org/apply/eligibility/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -346,7 +346,7 @@
   "international-dialogue-sdg17-baku-2026": {
     "url": "https://www.vfri.ca/international-dialogue-on-sdg17-baku-2026/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "dadf0621352b9da3",
     "changed_on": "",
     "fail_streak": 0
@@ -354,7 +354,7 @@
   "maastricht-nl-high-potential-2027": {
     "url": "https://www.maastrichtuniversity.nl/studeren/toelating-inschrijving/financing-your-studies/scholarships/maastricht-university-nl-high",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "15a07ec3f955942f",
     "changed_on": "",
     "fail_streak": 0
@@ -362,7 +362,7 @@
   "mastercard-foundation-scholars-cambridge-2027": {
     "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/eligibility",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "",
     "changed_on": "",
     "fail_streak": 0
@@ -370,7 +370,7 @@
   "mastercard-foundation-scholars-sciences-po-2027": {
     "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/mastercard-foundation-scholarships/graduate-study/",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "3a5ff8daa237a4fc",
     "changed_on": "",
     "fail_streak": 0
@@ -378,7 +378,7 @@
   "noha-erasmus-mundus-humanitarian-action-2027": {
     "url": "https://www.nohanet.org/masters",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "9f3e18e1d9a0777a",
     "changed_on": "",
     "fail_streak": 0
@@ -386,7 +386,7 @@
   "open-doors-russian-scholarship-masters-2027": {
     "url": "https://od.globaluni.ru/rules",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "72e82143918267a3",
     "changed_on": "",
     "fail_streak": 0
@@ -394,7 +394,7 @@
   "ustc-international-winter-camp-2027": {
     "url": "https://ic.ustc.edu.cn/?abroad=179",
     "status": 200,
-    "checked": "2026-10-08",
+    "checked": "2026-10-09",
     "fingerprint": "09412fc1a0aad383",
     "changed_on": "",
     "fail_streak": 0

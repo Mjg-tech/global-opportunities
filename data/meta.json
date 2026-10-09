@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-08T12:02:46Z",
+  "last_refresh": "2026-10-09T11:54:42Z",
   "counts": {
     "total": 50,
     "archived": 0,
@@ -39,13 +39,14 @@
       "global-leadership-challenge-2026",
       "international-dialogue-sdg17-baku-2026",
       "one-young-world-leading-scholarship-2026",
-      "open-doors-russian-scholarship-masters-2027"
+      "open-doors-russian-scholarship-masters-2027",
+      "ustc-international-winter-camp-2027"
     ],
     "14": [
-      "aspire-leaders-program-2026-cohort-4",
       "mastercard-foundation-scholars-edinburgh-2027"
     ],
     "7": [
+      "aspire-leaders-program-2026-cohort-4",
       "mandela-washington-fellowship-2027"
     ],
     "3": [],
@@ -53,8 +54,8 @@
   },
   "watch": {
     "checked": 50,
-    "ok": 43,
-    "blocked_or_unreachable": 7,
+    "ok": 42,
+    "blocked_or_unreachable": 8,
     "dead": 0
   },
   "flags": [
@@ -62,6 +63,12 @@
       "id": "knight-hennessy-scholars-2027",
       "type": "source_changed",
       "since": "2026-10-08",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "si-scholarship-global-professionals",
+      "type": "source_changed",
+      "since": "2026-10-09",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ],
@@ -88,7 +95,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 6
+      "new": 8
     },
     {
       "name": "Opportunities for Africans",
@@ -136,7 +143,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 4
+      "new": 2
     },
     {
       "name": "Opportunites du Monde",
@@ -144,7 +151,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 4
     },
     {
       "name": "Afri-Carrieres",
@@ -193,71 +200,64 @@
       "title": "The University of Global Health Equity (UGHE) Mastercard Foundation Scholars Program 2027 for African healthcare professionals (Fully Funded)",
       "url": "https://www.opportunitiesforafricans.com/the-university-of-global-health-equity-ughe-mastercard-foundation-scholars-program-2027/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-08"
+      "seen": "2026-10-09"
     },
     {
       "id": "aspire-leaders-program-2026-cohort-4",
       "title": "Aspire Leaders Program 2026 (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/aspire-leaders-program-2026-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-08"
+      "seen": "2026-10-09"
     },
     {
-      "id": "aspire-leaders-program-2026-cohort-4",
-      "title": "Harvard Aspire Leaders Program 2026 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/harvard-aspire-leaders-program/",
-      "source": "Opportunities Corners",
-      "seen": "2026-10-08"
+      "id": "france-excellence-eiffel-2027",
+      "title": "Bourse Eiffel à l’Institut Polytechnique de Paris 2027-2028",
+      "url": "https://www.mastere.tn/bourse-eiffel-a-linstitut-polytechnique-de-paris/",
+      "source": "Mastere.tn",
+      "seen": "2026-10-09"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Bourses Eiffel à l’Université de Montpellier Paul-Valéry, 2027/2028",
       "url": "https://www.mastere.tn/bourse-eiffel-paul-valery-montpellier-3/",
       "source": "Mastere.tn",
-      "seen": "2026-10-08"
+      "seen": "2026-10-09"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Bourses France Excellence Eiffel à l’ENSICAEN, 2027-2028",
       "url": "https://www.mastere.tn/bourses-eiffel-ensicaen/",
       "source": "Mastere.tn",
-      "seen": "2026-10-08"
+      "seen": "2026-10-09"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Bourses Excellence Eiffel à l’Université d’Artois, 2027-2028",
       "url": "https://www.mastere.tn/bourses-eiffel-universite-dartois/",
       "source": "Mastere.tn",
-      "seen": "2026-10-08"
+      "seen": "2026-10-09"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Bourses Excellence Eiffel à l’ITECH Lyon 2027-2028",
       "url": "https://www.mastere.tn/bourses-eiffel-itech-lyon/",
       "source": "Mastere.tn",
-      "seen": "2026-10-08"
+      "seen": "2026-10-09"
     },
     {
       "id": "noha-erasmus-mundus-humanitarian-action-2027",
       "title": "Programme de Master Conjoint Erasmus Mundus NOHA 2027-2029",
       "url": "https://www.mastere.tn/erasmus-mundus-noha/",
       "source": "Mastere.tn",
-      "seen": "2026-10-08"
+      "seen": "2026-10-09"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Bourses d’Excellence Eiffel à l’Université Paris-Saclay 2027/2028",
       "url": "https://www.mastere.tn/bourses-eiffel-universite-paris-saclay/",
       "source": "Mastere.tn",
-      "seen": "2026-10-08"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Programme de Bourses France Excellence Eiffel 2027/2028",
-      "url": "https://www.mastere.tn/bourses-france-excellence-eiffel/",
-      "source": "Mastere.tn",
-      "seen": "2026-10-08"
+      "seen": "2026-10-09"
     }
   ],
-  "new_leads_last_run": 19
+  "new_leads_last_run": 21
 }

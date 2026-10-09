@@ -1,7 +1,238 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "leads": [
+    {
+      "id": "2571b44d24e5",
+      "title": "World Bank Group Government Analytics Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/10/09/world-bank-group-government-analytics-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2dd35df0201f",
+      "title": "EQUALS in Tech Awards 2027",
+      "url": "https://opportunitydesk.org/2026/10/09/equals-in-tech-awards-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "859c5a84af85",
+      "title": "ICG Scholars-in-Residence Programme 2027 – Funded Writing and Research Residency in India",
+      "url": "https://www.globalsouthopportunities.com/2026/10/09/programme-78/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c0c86a24fc4d",
+      "title": "Training Initiative for Modelling Epidemic Response in Africa (TIMERA) Fellowship 2026–2029",
+      "url": "https://www.globalsouthopportunities.com/2026/10/09/africa-151/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7640ba01f571",
+      "title": "Heinz Heinen Fellowship Program 2026/2027 in Germany – Fully Funded",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/heinz-heinen-fellowship-program-2026-2027-in-germany-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e89ec7ae0882",
+      "title": "KAUST VSRP Internship 2027 in Saudi Arabia (Fully Funded)",
+      "url": "https://opportunitiescorners.com/kaust-vsrp-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e1703bf88263",
+      "title": "Appel à candidatures – Troisième édition du Prix international UNESCO – Al Fozan pour la promotion des jeunes scientifiques en sciences, technologies, ingénierie et mathématiques (STEM)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/ingenierie/appel-a-candidatures-troisieme-edition-du-prix-international-unesco-al-fozan-pour-la-promotion-des-jeunes-scientifiques-en-sciences-technologies-ingenierie-et-mathematiques-stem/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "684b82176546",
+      "title": "Appel à candidatures – Programme de Volontariat Régulier de la FAO pour l’Afrique 2026 (RAF)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/volontaires/agriculture/appel-a-candidatures-programme-de-volontariat-regulier-de-la-fao-pour-lafrique-2026-raf/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8bdbd986219b",
+      "title": "Bourses Erasmus Mundus PlantHealth 2027-2029",
+      "url": "https://www.mastere.tn/erasmus-mundus-planthealth/",
+      "source": "Mastere.tn",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "234d689b3a8e",
+      "title": "WISE EdTech Accelerator 2026-2027",
+      "url": "https://opportunitydesk.org/2026/10/08/wise-edtech-accelerator-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ce7e028addc6",
+      "title": "Atlantic Fellows for Social and Economic Equity (AFSEE) Programme 2027-2028 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/10/08/afsee-programme-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "40f119a60692",
+      "title": "Gloria’s Foundation Fellowship 2027 ($5,000 stipend)",
+      "url": "https://opportunitydesk.org/2026/10/08/gloria-foundation-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "096f3e2f983d",
+      "title": "Global Schools Prize 2027 ($500,000 prize)",
+      "url": "https://opportunitydesk.org/2026/10/08/global-schools-prize-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "211d52863008",
+      "title": "Global Teacher Prize 2027 ($1,000,000 prize)",
+      "url": "https://opportunitydesk.org/2026/10/08/global-teacher-prize-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "dfae8f4f1d8d",
+      "title": "YALI Rwanda Chapter Legacy Leaders Training Programme 2026",
+      "url": "https://opportunitydesk.org/2026/10/08/yali-rwanda-chapter-legacy-leaders-training-programme-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0583cee2b235",
+      "title": "Harvard LEAD Fellowship 2027–2028 – Fully Funded Global Health Leadership Fellowship",
+      "url": "https://www.globalsouthopportunities.com/2026/10/08/harvard-19/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3e20cf1f3742",
+      "title": "Dresden Nexus Conference 2027 in Barcelona: Call for Abstracts Opens October 2026 – Prepare to Apply",
+      "url": "https://www.globalsouthopportunities.com/2026/10/08/nexus/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ac74779d9cfc",
+      "title": "Jefferson Scholarship 2027 at University of Virginia – Fully Funded",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/jefferson-scholarship-2027-at-university-of-virginia-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c74dc5ee8aa3",
+      "title": "NextGen2030 2.0 Youth & AI Summit Riyadh 2026 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/nextgen2030-youth-summit-riyadh-2026/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "67f04cc24b3d",
+      "title": "Appel à candidatures – Programme de Formation gratuite et certifiante en ligne de l’OIF sur « L’Économie de l’environnement et gestion des ressources naturelles »",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/economie/appel-a-candidatures-programme-de-formation-gratuite-et-certifiante-en-ligne-de-loif-sur-leconomie-de-lenvironnement-et-gestion-des-ressources-naturelles/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "432a0929c008",
+      "title": "Inscrivez-vous à la Formation gratuite et certifiante en ligne de l’OIF sur les « Technologies de l’environnement »",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/environnement/inscrivez-vous-a-la-formation-gratuite-et-certifiante-en-ligne-de-loif-sur-les-technologies-de-lenvironnement/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "05c71e645a27",
       "title": "AU Theme of the Year 2027 Logo Competition ($5,000 prize)",
@@ -1072,7 +1303,10 @@
       "language": "en",
       "published": "2026-10-02",
       "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "4ca53e9137fc",
