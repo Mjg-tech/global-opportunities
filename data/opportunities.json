@@ -2464,7 +2464,7 @@
       "recurring": false,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "'Number of Seats: 10 Fully Funded / 40 Partially Funded / 50 Self-Funded' (organiser page)",
@@ -6755,5 +6755,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-10-09"
+  "status_computed_on": "2026-10-10"
 }

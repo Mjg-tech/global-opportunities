@@ -1,7 +1,131 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "leads": [
+    {
+      "id": "c13c377c4a0e",
+      "title": "WomanKind Creative Grant 2027",
+      "url": "https://opportunitydesk.org/2026/10/10/womankind-creative-grant-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-10",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ac57559c190c",
+      "title": "Pivotal AI Safety Research Fellowship 2027 in London: £15,000–£18,000 Stipend and Research Mentorship",
+      "url": "https://www.globalsouthopportunities.com/2026/10/10/safety-6/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-10",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d057fc86c3ae",
+      "title": "United Nations Young Professionals Programme (YPP) 2026: International Careers for Young Graduates",
+      "url": "https://www.globalsouthopportunities.com/2026/10/10/nations-4/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-10",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "75157f6c7559",
+      "title": "VICTAM Foundation Funding 2027: Grants for Animal Feed and Flour Milling Industry Innovation",
+      "url": "https://www.globalsouthopportunities.com/2026/10/10/foundation-90/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-10",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c7598a23db7b",
+      "title": "ClimateCAP MBA Fellowship 2027: Applications Open for MBA Students Interested in Climate Leadership",
+      "url": "https://www.globalsouthopportunities.com/2026/10/10/cap-3/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-10",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a7cf875cc57d",
+      "title": "YLabs Seeks a Grants Lead: Remote Opportunity Paying Up to $55,909 Annually",
+      "url": "https://www.globalsouthopportunities.com/2026/10/10/lead-15/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-10",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2e8244d171e4",
+      "title": "Shenzhen FinTech Competition 2026 in China (Fully Funded)",
+      "url": "https://opportunitiescorners.com/shenzhen-fintech-competition-2026/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-10",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7456cea862d0",
+      "title": "MENA Regenerative Agriculture Venture Programme 2026/2027",
+      "url": "https://opportunitydesk.org/2026/10/09/mena-regenerative-agriculture-venture-programme-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "3d48f82d2a45",
+      "title": "UN Voluntary Fund for Indigenous Peoples 2027",
+      "url": "https://opportunitydesk.org/2026/10/09/un-voluntary-fund-for-indigenous-peoples-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3893d168a20d",
+      "title": "Youth Diplomacy Convention 2027 in Belgium (Fully Funded)",
+      "url": "https://opportunitiescorners.com/youth-diplomacy-convention-2027-in-belgium/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d1b904e9419b",
+      "title": "SDG Innovation Summit Malaysia 2026 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/sdg-innovation-summit-malaysia-2026/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-09",
+      "first_seen": "2026-10-10",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "2571b44d24e5",
       "title": "World Bank Group Government Analytics Fellowship 2027",
@@ -11,7 +135,11 @@
       "language": "en",
       "published": "2026-10-09",
       "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans",
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "2dd35df0201f",
@@ -22,7 +150,10 @@
       "language": "en",
       "published": "2026-10-09",
       "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "859c5a84af85",
@@ -66,7 +197,10 @@
       "language": "en",
       "published": "2026-10-09",
       "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "e1703bf88263",
@@ -121,7 +255,11 @@
       "language": "en",
       "published": "2026-10-08",
       "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans",
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "40f119a60692",
@@ -176,7 +314,10 @@
       "language": "en",
       "published": "2026-10-08",
       "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities Corners"
+      ]
     },
     {
       "id": "3e20cf1f3742",
@@ -399,7 +540,10 @@
       "language": "en",
       "published": "2026-10-07",
       "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "8ce0e9537cf4",
