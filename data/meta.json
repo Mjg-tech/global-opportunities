@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-10T11:11:39Z",
+  "last_refresh": "2026-10-11T11:25:09Z",
   "counts": {
     "total": 50,
     "archived": 0,
@@ -96,7 +96,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 0
     },
     {
       "name": "Opportunities for Africans",
@@ -112,7 +112,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 5
+      "new": 1
     },
     {
       "name": "Opportunities for Youth",
@@ -136,7 +136,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunities Corners",
@@ -144,7 +144,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 3
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -201,15 +201,15 @@
       "title": "Aspire Leaders Program 2026 (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/aspire-leaders-program-2026-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-10"
+      "seen": "2026-10-11"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Eiffel Excellence Scholarship 2027 in France (Fully Funded)",
       "url": "https://opportunitiescorners.com/eiffel-excellence-scholarship-2027/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-10"
+      "seen": "2026-10-11"
     }
   ],
-  "new_leads_last_run": 11
+  "new_leads_last_run": 3
 }
