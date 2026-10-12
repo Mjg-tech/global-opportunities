@@ -1,0 +1,645 @@
+[
+  {
+    "id": "epog-jm-erasmus-mundus-2027",
+    "title": "EPOG-JM: Erasmus Mundus Joint Master in Economic Policies (2027-2029)",
+    "organization": "EPOG-JM consortium (Erasmus Mundus Joint Master in economics, EU-supported)",
+    "overview": "Two-year Erasmus Mundus Joint Master in economics focused on economic policies for the global transition. The application platform for the 2027-2029 cohort opens in October 2026; Erasmus Mundus scholarships and regional top-up scholarships (including for Sub-Saharan Africa) are awarded on this round.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Erasmus Mundus",
+      "Economics and public policy"
+    ],
+    "education_levels": [
+      "Master's"
+    ],
+    "country": "Multiple countries (EPOG-JM consortium)",
+    "city": "Varies by study track",
+    "region": "Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "2027-2029 cohort (two academic years); interviews March 2027, results end of March 2027",
+    "application_deadline": "2027-01-27",
+    "deadline_utc": "2027-01-27T12:00:00Z",
+    "deadline_text": "Application deadline: January 27, 2027, 13:00 Paris time (opening of the application platform: October 2026). A second call might be opened later for self-paying students.",
+    "deadline_timezone": "Paris time (CET, UTC+1)",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "status": "OPEN",
+    "funding_type": "Substantially Funded",
+    "funding_details": [
+      "Erasmus Mundus scholarship: monthly allowance of EUR 1,400 during both academic years",
+      "Erasmus Mundus scholarship covers student tuition fees, including a health and accident insurance scheme (complete fee waiver)",
+      "Regional top-up scholarships under NDICI-Global Europe; Region 9 (Sub-Saharan Africa) lists 'Congo - Democratic Republic of the'",
+      "Travel costs are not described as covered by the scholarship",
+      "Without scholarship: EUR 1,000/year if personal income is below EUR 26,400/year, otherwise EUR 9,600/year"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": false,
+    "participation_fee": "No application fee mentioned on the admission or tuition-fee pages",
+    "stipend": "EUR 1,400 per month (Erasmus Mundus scholarship holders)",
+    "eligibility": [
+      "Bachelor's or equivalent degree of 180 ECTS; economics degree, or another field with at least 24 ECTS in economics and 6 ECTS in statistics or econometrics",
+      "Bachelor's GPA of at least 70% of the maximum scale",
+      "English: CEFR C1 or more, TOEFL iBT 95 or more, or IELTS Academic 7.0 or more; proof due no later than June 10 (native speakers and holders of an all-English degree exempt)",
+      "Applicants who previously held an EMJM scholarship are not eligible for another"
+    ],
+    "nationality_requirements": [
+      "'All applicants, wherever they come from, are eligible' for an EMJM scholarship",
+      "Regional top-up scholarships: Region 9 (Sub-Saharan Africa) includes 'Congo - Democratic Republic of the'",
+      "No more than 10% of scholarship holders may share a nationality (does not apply to regional top-ups)"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Bachelor's degree (180 ECTS) with at least 24 ECTS in economics and 6 ECTS in statistics/econometrics if not an economics degree; GPA at least 70% of the scale",
+    "experience_requirement": "Not required (none stated)",
+    "language_requirement": "English C1 / TOEFL iBT 95 / IELTS 7.0, proof by June 10",
+    "other_requirements": [],
+    "documents_required": [
+      "Online application form with attachments (not by email)",
+      "Recommendation letters",
+      "Passport copy matching the nationality applied with",
+      "Proof of English"
+    ],
+    "application_process": [
+      "Complete the online form at application.epog.eu and upload documents in the Attachments section",
+      "Apply before 27 January 2027, 13:00 Paris time",
+      "Interviews in March 2027; results end of March 2027"
+    ],
+    "official_application_url": "https://application.epog.eu/",
+    "official_information_url": "https://www.epog.eu/admission-and-scholarships/admission/",
+    "source_url": "https://www.epog.eu/admission-and-scholarships/admission/",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "EPOG admission page (deadline, eligibility)",
+        "url": "https://www.epog.eu/admission-and-scholarships/admission/",
+        "type": "Official"
+      },
+      {
+        "label": "EPOG scholarships page (amounts, regional lists)",
+        "url": "https://www.epog.eu/admission-and-scholarships/scholarships/",
+        "type": "Official"
+      },
+      {
+        "label": "EPOG tuition fees page",
+        "url": "https://www.epog.eu/admission-and-scholarships/tuition-fees/",
+        "type": "Official"
+      },
+      {
+        "label": "EACEA Erasmus Mundus catalogue (programme listed)",
+        "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+        "type": "Institutional"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "DRC nationals are eligible and listed for the Sub-Saharan Africa top-up. It depends on whether the business degree contains 24 ECTS of economics and 6 of statistics, on a grade of at least 70% of the scale, and on a C1/IELTS 7.0 English proof, none of which the profile records.",
+    "potential_issues": [
+      "English proof at C1 / IELTS 7.0 / TOEFL 95 is required by June 10 and no test score is recorded",
+      "Economics and statistics credit requirement may not be met by a business administration degree",
+      "Travel and installation costs are not described as covered"
+    ],
+    "benefits": [
+      "Two-year joint master in economic policy across several European universities",
+      "EUR 1,400 monthly allowance and full fee waiver for scholarship holders"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "High",
+      "travel": "Very High",
+      "networking": "High",
+      "funding": "High",
+      "accessibility": "Medium",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Directly relevant to the profile's public-sector and policy-analysis interests, with strong funding, but the economics credit and C1 English requirements make access uncertain.",
+    "travel_value": "Very High",
+    "career_value": "High",
+    "academic_value": "High",
+    "networking_value": "High",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "English test fee before the deadline; no application fee mentioned",
+    "action": "Count the economics and statistics credits on the Licence transcript and convert the grade to a percentage; if both meet the thresholds, book an IELTS/TOEFL sitting and submit at application.epog.eu before 27 January 2027, 13:00 Paris time.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-12",
+    "notes": "Programme title in the EACEA catalogue: 'Economic POlicies for the Global bifurcation - Joint Master'.",
+    "match_keywords": [
+      "epog",
+      "economic policies for the global",
+      "epog-jm"
+    ]
+  },
+  {
+    "id": "clide-erasmus-mundus-intercultural-leadership-2027",
+    "title": "CLIDE: Erasmus Mundus Master in Intercultural Leadership in the Digital Era (2027-2029)",
+    "organization": "CLIDE consortium coordinated by Nicolaus Copernicus University in Torun (Poland), with universities in Spain, Austria, Ukraine and Morocco",
+    "overview": "Two-year Erasmus Mundus Joint Master in intercultural leadership and management in the digital era. Admission for 2027/2028 runs from 22 February to 7 March 2027 with 12 Erasmus Mundus scholarship places and 18 tuition-free places.",
+    "category": [
+      "Scholarship",
+      "Leadership"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Erasmus Mundus",
+      "Management and leadership"
+    ],
+    "education_levels": [
+      "Master's"
+    ],
+    "country": "Multiple countries (Poland, Spain, Austria, Ukraine, Morocco)",
+    "city": "Torun and partner cities",
+    "region": "Europe and North Africa",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Academic years 2027/2028 and 2028/2029 (two years, at least two mobility periods in two countries)",
+    "application_deadline": "2027-03-07",
+    "deadline_utc": "",
+    "deadline_text": "Admission for the 2027/2028 academic year will be open from 22 February 2027 to 7 March 2027. Scholarship applicants must submit all required documents by March 7th, 2027, 3:00 PM.",
+    "deadline_timezone": "Not stated (coordinating university in Poland, CET)",
+    "opens_on": "2027-02-22",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "status": "UPCOMING",
+    "funding_type": "Substantially Funded",
+    "funding_details": [
+      "Erasmus Mundus scholarship: no tuition fees, monthly stipend of EUR 1,400 for 24 months, comprehensive insurance",
+      "Travel and installation costs are not included",
+      "Tuition-free admission path without stipend also available",
+      "Self-funded tuition: EUR 4,000 per semester for students from non-consortium, non-EU countries",
+      "No more than five scholarships per nationality across four editions"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Not covered",
+      "accommodation": "Not covered",
+      "meals": "Not covered",
+      "visa": "Not covered",
+      "insurance": "Covered",
+      "local_transport": "Not covered"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": false,
+    "participation_fee": "No admission fee ('In accordance with the consortium agreement, no admission fee shall be charged')",
+    "stipend": "EUR 1,400 per month for 24 months (scholarship holders)",
+    "eligibility": [
+      "Bachelor's, Engineer's, Master's or equivalent degree in management, business administration, marketing, economics, tourism management, finance, communication, IT or related disciplines (management/business administration scores the maximum 20 points)",
+      "Very good to excellent academic performance",
+      "English: B2 certificate in the language of instruction (admission rules); FAQ asks for advanced English",
+      "One academic and one professional reference",
+      "Not previously an EMJM scholarship holder",
+      "Diploma recognition through NAWA where required"
+    ],
+    "nationality_requirements": [
+      "Erasmus Mundus scholarships are open to students from all regions of the world (no country exclusion list)",
+      "Maximum five scholarships per nationality over four editions"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Bachelor's degree in management, business administration or a related field",
+    "experience_requirement": "Not required; professional experience (including internships) scores up to 10 points",
+    "language_requirement": "English at B2 level with a certificate; advanced English expected",
+    "other_requirements": [],
+    "documents_required": [
+      "Online application in the IRK system",
+      "Motivation letter (3,000 characters) with CV",
+      "Video business card (about 2 minutes)",
+      "One academic and one professional reference",
+      "Diploma, transcript and NAWA recognition decision if required",
+      "Proof of residence",
+      "B2 English certificate"
+    ],
+    "application_process": [
+      "Check now whether the DRC diploma needs a NAWA decision (kwalifikator.nawa.gov.pl) and, if so, apply via the SYRENA portal (free, may take 60-120 days)",
+      "Register in the IRK system at irk.umk.pl between 22 February and 7 March 2027",
+      "Interview (50 of 150 points) for shortlisted candidates"
+    ],
+    "official_application_url": "https://clide.umk.pl/pages/apply",
+    "official_information_url": "https://clide.umk.pl/",
+    "source_url": "https://clide.umk.pl/pages/apply",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "CLIDE admissions page (2027/2028 dates, places)",
+        "url": "https://clide.umk.pl/pages/apply",
+        "type": "Official"
+      },
+      {
+        "label": "CLIDE participation cost and scholarships",
+        "url": "https://clide.umk.pl/pages/participation",
+        "type": "Official"
+      },
+      {
+        "label": "CLIDE FAQ (prerequisites)",
+        "url": "https://clide.umk.pl/pages/FAQ",
+        "type": "Official"
+      },
+      {
+        "label": "NCU Senate Resolution No. 49 of 23 June 2026: admission rules 2027/2028 (PDF)",
+        "url": "https://clide.umk.pl/pliki/202610%20admission%20rules.pdf",
+        "type": "Official"
+      },
+      {
+        "label": "EACEA Erasmus Mundus catalogue (programme listed)",
+        "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+        "type": "Institutional"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "A business administration Licence is the top-scored field and the scholarship is open to all regions. Eligibility still depends on a B2 English certificate and on the degree grade ('very good to excellent'), neither of which the profile records.",
+    "potential_issues": [
+      "English certificate at B2 is required and no test score is recorded",
+      "NAWA diploma recognition can take 60-120 days; start before February 2027",
+      "Deadline time zone not stated (assume Polish time)",
+      "Travel and installation costs are not covered by the scholarship"
+    ],
+    "benefits": [
+      "Two-year joint master in leadership and management across Europe and North Africa",
+      "EUR 1,400 monthly stipend, full tuition and insurance for scholarship holders",
+      "Internships count towards the score"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "High",
+      "travel": "Very High",
+      "networking": "High",
+      "funding": "High",
+      "accessibility": "High",
+      "profile_fit": "Very High"
+    },
+    "relevance_reason": "The programme names business administration as its preferred entry field, charges no admission fee and values internships, so it fits the profile closely; the main hurdles are the English certificate and diploma recognition.",
+    "travel_value": "Very High",
+    "career_value": "High",
+    "academic_value": "High",
+    "networking_value": "High",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "English test fee; translation/certification of documents",
+    "action": "Start the NAWA diploma check now (kwalifikator.nawa.gov.pl, SYRENA if needed) and book a B2+ English test, then apply in the IRK system between 22 February and 7 March 2027 (15:00).",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-12",
+    "notes": "Places for 2027/2028: 30 in total, 12 scholarship places and 18 fee-waiver places.",
+    "match_keywords": [
+      "clide",
+      "intercultural leadership in the digital era",
+      "intercultural leadership"
+    ]
+  },
+  {
+    "id": "mastercard-foundation-scholars-uct-2027",
+    "title": "Mastercard Foundation Scholars Program at the University of Cape Town (2027 postgraduate intake)",
+    "organization": "University of Cape Town (UCT) with the Mastercard Foundation",
+    "overview": "UCT's Mastercard Foundation Scholars Program for the 2027 intake funds African citizens with significant financial barriers for honours degrees, coursework master's programmes and Health Sciences postgraduate diplomas. Postgraduate scholarship applications close on 31 October 2026; a UCT academic application and offer are also required.",
+    "category": [
+      "Scholarship",
+      "Leadership"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Honours scholarship",
+      "Mastercard Foundation"
+    ],
+    "education_levels": [
+      "Master's",
+      "Graduate"
+    ],
+    "country": "South Africa",
+    "city": "Cape Town",
+    "region": "Southern Africa",
+    "continent": "Africa",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "2027 academic year intake (full-time study)",
+    "application_deadline": "2026-10-31",
+    "deadline_utc": "",
+    "deadline_text": "Postgraduate: applications close 31 October 2026 (undergraduate closed 30 September 2026). UCT academic applications for most postgraduate programmes containing coursework closed on 30 September 2026; exceptions are listed in the 2027 Directions for Postgraduate Applicants.",
+    "deadline_timezone": "Not stated (South Africa, SAST)",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "status": "OPEN",
+    "funding_type": "Funding Unclear",
+    "funding_details": [
+      "UCT pages say the programme 'provides scholarships and comprehensive support' plus mentoring, leadership development and career support, without itemising the costs covered",
+      "Reported by secondary sources: tuition, accommodation, living expenses, medical aid, laptop, study visa where applicable and annual travel"
+    ],
+    "coverage": {
+      "tuition": "Not specified",
+      "stipend": "Not specified",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Citizen of an African country, including South Africa",
+      "Limited in ability to access education owing to significant financial barriers",
+      "Academically talented with a demonstrated commitment to learning",
+      "Applying for a first bachelor's, a Health Sciences postgraduate diploma, an honours degree or a coursework master's at UCT (full-time)",
+      "Only applicants who receive a UCT admission offer are eligible"
+    ],
+    "nationality_requirements": [
+      "Citizens of any African country (DRC included)"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Admission to an eligible UCT honours or coursework master's programme",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [
+      "Part-time study and research-only qualifications are not covered"
+    ],
+    "documents_required": [],
+    "application_process": [
+      "Submit a UCT academic application at applyonline.uct.ac.za (check the programme's own closing date)",
+      "Submit the Mastercard Foundation Scholars Program application via uct.ac.za/mastercardfdn by 31 October 2026"
+    ],
+    "official_application_url": "https://www.uct.ac.za/mastercardfdn/how-apply",
+    "official_information_url": "https://www.uct.ac.za/node/648803",
+    "source_url": "https://www.uct.ac.za/node/648803",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "UCT: Apply to the Mastercard Foundation Scholars Program (2027 intake, eligibility, deadlines)",
+        "url": "https://www.uct.ac.za/node/648803",
+        "type": "Official"
+      },
+      {
+        "label": "UCT Mastercard Foundation Scholars Program home",
+        "url": "https://www.uct.ac.za/mastercardfdn",
+        "type": "Official"
+      },
+      {
+        "label": "UCT MCF How to apply",
+        "url": "https://www.uct.ac.za/mastercardfdn/how-apply",
+        "type": "Official"
+      },
+      {
+        "label": "UCT Applications and registration (postgraduate closing dates 2027)",
+        "url": "https://uct.ac.za/applications-and-registration",
+        "type": "Official"
+      },
+      {
+        "label": "Opportunities for Africans listing (benefits, secondary)",
+        "url": "https://www.opportunitiesforafricans.com/the-university-of-cape-town-mastercard-foundation-scholars-program-2027/",
+        "type": "Aggregator"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "DRC citizenship qualifies and a Licence can lead to an honours or coursework master's. Eligibility depends on obtaining a UCT offer (most coursework applications closed on 30 September 2026), on demonstrated financial need and on the academic record, none of which the profile records.",
+    "potential_issues": [
+      "UCT academic applications for most coursework postgraduate programmes closed on 30 September 2026; only programmes listed as exceptions may still be open",
+      "Benefits are not itemised on the UCT pages read; coverage comes from secondary sources",
+      "Deadline is 19 days away"
+    ],
+    "benefits": [
+      "Scholarship and comprehensive support at a leading African university",
+      "Mentoring, leadership development, career and entrepreneurship training",
+      "Access to the Mastercard Foundation alumni network"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "High",
+      "travel": "High",
+      "networking": "High",
+      "funding": "High",
+      "accessibility": "Low",
+      "profile_fit": "High"
+    },
+    "relevance_reason": "A strong, Africa-focused funded route to a postgraduate degree in business or policy, but timing is tight because most UCT coursework programmes have already closed for 2027.",
+    "travel_value": "High",
+    "career_value": "High",
+    "academic_value": "High",
+    "networking_value": "High",
+    "visa": {
+      "required": "Yes",
+      "support": "Reported by secondary sources: study visa support where applicable"
+    },
+    "upfront_cost_risk": "UCT application fee may apply (not checked)",
+    "action": "Check the 2027 Directions for Postgraduate Applicants for a Commerce honours or coursework master's still open after 30 September; if one is, apply to UCT and submit the scholarship application before 31 October 2026. Otherwise note the cycle for 2028.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-12",
+    "notes": "",
+    "match_keywords": [
+      "university of cape town mastercard",
+      "uct mastercard",
+      "mastercard foundation scholars program at the university of cape town"
+    ]
+  },
+  {
+    "id": "auc-african-graduate-fellowship-2027",
+    "title": "American University in Cairo African Graduate Fellowship (Fall 2027)",
+    "organization": "The American University in Cairo (AUC)",
+    "overview": "Annual graduate fellowship for non-Egyptian African nationals admitted to a full-time AUC master's or graduate diploma programme. It covers tuition (up to nine credits a semester), a stipend, fees, health insurance and housing, in exchange for 12 hours a week of academic work.",
+    "category": [
+      "Scholarship",
+      "Fellowship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Graduate fellowship"
+    ],
+    "education_levels": [
+      "Master's",
+      "Graduate"
+    ],
+    "country": "Egypt",
+    "city": "New Cairo",
+    "region": "North Africa",
+    "continent": "Africa",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Fall 2027 start; up to five semesters and one intervening summer session",
+    "application_deadline": "2026-12-15",
+    "deadline_utc": "",
+    "deadline_text": "Graduate admission, Fall 2027: December 15, 2026 (early admission); April 1, 2027 (regular admission). Fellowship applications, Fall 2027: Cycle 1 from 22 December to 17 January; Cycle 2 from 6 April to 6 May. The admission page also says international applicants wanting early Fall decisions should apply by the preceding October 1.",
+    "deadline_timezone": "Not stated (Cairo)",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "status": "OPEN",
+    "funding_type": "Substantially Funded",
+    "funding_details": [
+      "Tuition for up to nine credits per semester",
+      "A stipend",
+      "Student services and activities fees",
+      "Medical service and health insurance fees",
+      "A monthly housing allowance or University residence at the New Cairo campus",
+      "Possibly remedial English requirements",
+      "Travel is not mentioned"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Not specified",
+      "accommodation": "Covered",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": true,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": false,
+    "participation_fee": "Graduate application fee payable online (amount not stated on the page read)",
+    "stipend": "A stipend (amount not stated)",
+    "eligibility": [
+      "Non-Egyptian African national (dual nationals with a non-African nationality are not eligible)",
+      "Admitted to an AUC graduate programme and meeting graduate admission requirements",
+      "TOEFL iBT or Academic IELTS score required for this fellowship even where other applicants are exempt (minimums: TOEFL 79 total and 21 writing; IELTS 6.5 total and 7 writing; some programmes higher)",
+      "Financial need",
+      "Continuing fellows must maintain a 3.2 GPA and full-time status"
+    ],
+    "nationality_requirements": [
+      "Non-Egyptian African nationals (DRC included)"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Bachelor's degree meeting AUC graduate admission requirements",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "TOEFL iBT 79 (writing 21) or IELTS Academic 6.5 (writing 7), higher for some programmes",
+    "other_requirements": [
+      "12 hours per week of related academic work",
+      "Teaching Assistantship training if assigned teaching duties"
+    ],
+    "documents_required": [
+      "Online graduate application and fee",
+      "Statement of purpose (about 500 words per programme)",
+      "CV",
+      "Two online recommendation letters",
+      "Official transcripts and proof of degree",
+      "English test results",
+      "Passport information pages",
+      "Photo"
+    ],
+    "application_process": [
+      "Apply to an AUC graduate programme online (early admission by 15 December 2026)",
+      "Submit the separate online fellowship application (Cycle 1: 22 December 2026 - 17 January 2027)",
+      "Questions: gradserv@aucegypt.edu"
+    ],
+    "official_application_url": "https://www.aucegypt.edu/admissions/graduate/how-apply",
+    "official_information_url": "https://aucegypt.edu/admissions/fellowships/listings/african-graduate",
+    "source_url": "https://aucegypt.edu/admissions/fellowships/listings/african-graduate",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "AUC African Graduate Fellowships (eligibility, coverage)",
+        "url": "https://aucegypt.edu/admissions/fellowships/listings/african-graduate",
+        "type": "Official"
+      },
+      {
+        "label": "AUC fellowship deadlines",
+        "url": "https://www.aucegypt.edu/admissions/fellowships/deadlines",
+        "type": "Official"
+      },
+      {
+        "label": "AUC graduate How to Apply (admission deadlines, English minimums)",
+        "url": "https://www.aucegypt.edu/admissions/graduate/how-apply",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "As a non-Egyptian African national with a bachelor's degree the profile meets the nationality and level criteria. A TOEFL/IELTS score is mandatory for this fellowship and none is recorded; admission to a specific programme and financial need are also required.",
+    "potential_issues": [
+      "English test score is mandatory for this fellowship and none is recorded",
+      "Application fee payable (amount not checked)",
+      "Fellowship deadlines page does not name the African Graduate Fellowship explicitly; the dates shown are the general graduate-fellowship cycles",
+      "Admission page gives two different early dates (1 October and 15 December) for international applicants",
+      "Travel to Egypt is not covered"
+    ],
+    "benefits": [
+      "Tuition, stipend, insurance and housing for up to five semesters",
+      "Teaching or research assistant experience"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "High",
+      "travel": "High",
+      "networking": "Medium",
+      "funding": "High",
+      "accessibility": "Medium",
+      "profile_fit": "High"
+    },
+    "relevance_reason": "A substantially funded master's reserved for African nationals at a well-known university with business, economics and public policy programmes; the English test and the fee are the main barriers.",
+    "travel_value": "High",
+    "career_value": "High",
+    "academic_value": "High",
+    "networking_value": "Medium",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Application fee and English test fee",
+    "action": "Choose an AUC programme (for example in business, economics or public policy), book a TOEFL/IELTS sitting, apply for admission by 15 December 2026 and submit the fellowship application between 22 December 2026 and 17 January 2027.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-12",
+    "notes": "",
+    "match_keywords": [
+      "american university in cairo",
+      "auc african graduate fellowship",
+      "african graduate fellowship",
+      "auc fellowship"
+    ]
+  }
+]

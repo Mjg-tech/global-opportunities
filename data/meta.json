@@ -1,57 +1,61 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-11T11:25:09Z",
+  "last_refresh": "2026-10-12T07:26:31Z",
   "counts": {
-    "total": 50,
+    "total": 57,
     "archived": 0,
     "by_status": {
-      "OPEN": 19,
-      "CLOSING SOON": 3,
-      "UPCOMING": 16,
-      "DEADLINE PASSED": 3,
+      "OPEN": 24,
+      "CLOSING SOON": 5,
+      "UPCOMING": 17,
+      "DEADLINE PASSED": 2,
       "ROLLING": 0,
       "DATE UNKNOWN": 9
     },
     "by_funding": {
-      "Fully Funded": 25,
-      "Substantially Funded": 4,
+      "Fully Funded": 26,
+      "Substantially Funded": 7,
       "Partially Funded": 1,
       "Travel Funded": 2,
-      "Participation Funded": 3,
+      "Participation Funded": 4,
       "Self Funded": 0,
-      "Funding Unclear": 15
+      "Funding Unclear": 17
     },
     "by_eligibility": {
       "LIKELY ELIGIBLE": 15,
-      "POSSIBLY ELIGIBLE": 26,
+      "POSSIBLY ELIGIBLE": 32,
       "NOT ELIGIBLE": 4,
-      "INSUFFICIENT INFORMATION": 5
+      "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
-      "VERIFIED": 30,
-      "PARTIALLY VERIFIED": 16,
+      "VERIFIED": 34,
+      "PARTIALLY VERIFIED": 19,
       "NEEDS VERIFICATION": 4
     },
-    "travel_funded": 22
+    "travel_funded": 23
   },
   "deadline_buckets": {
     "30": [
+      "dalai-lama-fellows-2027",
       "global-leadership-challenge-2026",
+      "mastercard-foundation-scholars-uct-2027",
       "one-young-world-leading-scholarship-2026",
       "open-doors-russian-scholarship-masters-2027",
       "ustc-international-winter-camp-2027"
     ],
     "14": [
       "international-dialogue-sdg17-baku-2026",
-      "mastercard-foundation-scholars-edinburgh-2027"
+      "rlrh-graduate-horizons-2027"
     ],
     "7": [
-      "aspire-leaders-program-2026-cohort-4"
+      "aspire-leaders-program-2026-cohort-4",
+      "hsc-youth-ambassador-program-2027",
+      "mastercard-foundation-scholars-edinburgh-2027"
     ],
-    "3": [
+    "3": [],
+    "1": [
       "mandela-washington-fellowship-2027"
-    ],
-    "1": []
+    ]
   },
   "watch": {
     "checked": 50,

@@ -2,6 +2,434 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-10-12",
+      "id": "objectif-2030-ifdd-free-moocs",
+      "title": "Objectif 2030: free certified online courses on environment and sustainable development (IFDD / OIF)",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Participation Funded"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "epog-jm-erasmus-mundus-2027",
+      "title": "EPOG-JM: Erasmus Mundus Joint Master in Economic Policies (2027-2029)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "clide-erasmus-mundus-intercultural-leadership-2027",
+      "title": "CLIDE: Erasmus Mundus Master in Intercultural Leadership in the Digital Era (2027-2029)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "mastercard-foundation-scholars-uct-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Cape Town (2027 postgraduate intake)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "auc-african-graduate-fellowship-2027",
+      "title": "American University in Cairo African Graduate Fellowship (Fall 2027)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "hsc-youth-ambassador-program-2027",
+      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "rlrh-graduate-horizons-2027",
+      "title": "Graduate Horizons 2027: master's scholarship application mentorship for displaced African learners",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "objectif-2030-ifdd-free-moocs",
+      "title": "Objectif 2030: free certified online courses on environment and sustainable development (IFDD / OIF)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "france-excellence-eiffel-2027",
+      "title": "France Excellence Eiffel scholarship programme",
+      "field": "application_deadline",
+      "old": "",
+      "new": "2027-01-06"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "france-excellence-eiffel-2027",
+      "title": "France Excellence Eiffel scholarship programme",
+      "field": "deadline_text",
+      "old": "The 2027 campaign date is not yet on the official page, which still shows the previous campaign: 'Deadline for the reception of applications by Campus France: January 8, 2026 included.' Each French institution sets an earlier internal deadline.",
+      "new": "Session 2027 (official French page, updated 2 October 2026): 'Ouverture de l'appel à candidature : 2 octobre 2026'; 'Date limite de dépôt par les établissements des dossiers de candidatures auprès de Campus France : mercredi 6 janvier 2027 inclus'; results 'courant de la semaine du 12 avril 2027'. This deadline applies to French institutions; students must meet each institution's earlier internal deadline ('ce calendrier ne concerne pas les étudiants qui doivent se rapprocher des établissements français pour connaître leur date limite')."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "france-excellence-eiffel-2027",
+      "title": "France Excellence Eiffel scholarship programme",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-10-02"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "france-excellence-eiffel-2027",
+      "title": "France Excellence Eiffel scholarship programme",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not covered",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Covered",
+        "local_transport": "Covered"
+      },
+      "new": {
+        "tuition": "Partially covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Covered",
+        "local_transport": "Partially covered"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "id": "stipendium-hungaricum-2027",
+      "title": "Stipendium Hungaricum scholarship (2027/2028)",
+      "field": "deadline_text",
+      "old": "No 2027/2028 call seen yet. The previous call (2026/2027) closed on '15th January 2026, 2 pm (CET)'.",
+      "new": "No 2027/2028 call seen on 12 October 2026. The apply page still shows the 2026/2027 deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "deadline_text",
+      "old": "2027 dates are not stated on the official site (2 October 2026). A secondary source says the 2026 cycle ran from 10 January to 20 February 2026.",
+      "new": "2027 dates are not on the official site (12 October 2026). The official application calendar gives 'General Application Period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "nationality_requirements",
+      "old": [
+        "Developing and emerging countries; the DAAD country list was not read this cycle"
+      ],
+      "new": [
+        "Developing and emerging countries; 'Congo, Democratic Republic' is on the country list of the DAAD scholarship database entry"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "vlir-uos-icp-connect-2027",
+      "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+      "field": "nationality_requirements",
+      "old": [
+        "29 eligible countries. DR Congo is on the VLIR-UOS scholarship country list according to the search index of the official list page; the list text itself could not be read by the research tool on 2 October 2026."
+      ],
+      "new": [
+        "29 eligible countries; 'DR Congo' is on the official VLIR-UOS scholarship country list (Sub-Saharan Africa)"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "european-forum-alpbach-scholarships",
+      "title": "European Forum Alpbach scholarship programme",
+      "field": "program_dates",
+      "old": "The 2026 Forum covered 24 August to 4 September; 2027 dates not announced",
+      "new": "European Forum Alpbach 2027: 23 August to 3 September 2027, Conference Days open 29 August 2027"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "program_dates",
+      "old": "Unknown / Not specified",
+      "new": "Leaders Africa: six months, virtual (Leaders Asia-Pacific eight months hybrid; Europe and USA eight months virtual)"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "id": "nasser-fellowship-international-leadership",
+      "title": "Nasser Fellowship for International Leadership",
+      "field": "deadline_text",
+      "old": "Next batch not announced. The fellowship's site reported in a news item dated 28 March 2026 that it had closed its submissions.",
+      "new": "Next batch not announced on 12 October 2026. The home page's news (latest items dated October 2026) concerns alumni; no application form for a new batch is shown."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "deadline_text",
+      "old": "No 2027-2028 call published on 2 October 2026. For 2026-2027: 'The Call will be launched on 15 November and will close on 15 December 2025.'",
+      "new": "No 2027-2028 call published on 12 October 2026. The application platform states 'Applications closed on 15/12/2025'; the 2026-2027 call said 'The Call will be launched on 15 November and will close on 15 December 2025.'"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "tony-elumelu-entrepreneurship-programme-2027",
+      "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+      "field": "eligibility",
+      "old": [
+        "Entrepreneurs with business ideas, in all 54 African countries",
+        "A minimum score in the application's business assessment test",
+        "Personal and business details are verified by independent third parties"
+      ],
+      "new": [
+        "Africans aged 18 and above who reside in Africa and plan to establish their business in Africa",
+        "A business idea or a business no older than 5 years",
+        "Must not have previously benefited from any of the Foundation's earlier programmes",
+        "A minimum score in the application's business assessment test"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "tony-elumelu-entrepreneurship-programme-2027",
+      "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+      "field": "age_requirement",
+      "old": "Unknown / Not specified",
+      "new": "18 and above"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "title": "Aspire Leaders Program (2026 Cohort 4)",
+      "field": "eligibility",
+      "old": [
+        "Limited-income or first-generation university students and graduates, anywhere in the world",
+        "18 to 29 years old"
+      ],
+      "new": [
+        "Limited-income or first-generation university students and graduates, anywhere in the world",
+        "18 to 29 years old",
+        "Currently enrolled in or graduated from an undergraduate or postgraduate university programme",
+        "Eligibility is self-identified; no documentation is required (programme page)"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "deadline_utc",
+      "old": "",
+      "new": "2026-10-19T16:00:00Z"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "deadline_text",
+      "old": "Applicant Declaration Form by 19 October 2026, 5pm ('The form may close earlier once we have reached the limit'); main application forms by 19 November 2026, 5pm. Applications open 13 October 2026 for eligible attendees of the mandatory information sessions (15-24 September 2026).",
+      "new": "Timeline page (table headed 'Date (UK time)'): '19 October 2026, 5pm | Applicant Declaration Form closes' (the form may close earlier once the limit is reached); '19 November 2026, 5pm | Postgraduate Assessment and Scholarship Main Application forms close.' Applications open 13 October 2026 for eligible attendees of the mandatory information sessions (15-24 September 2026). FAQ: '19 October 2026, 5pm UK time'."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "nationality_requirements",
+      "old": [
+        "Reported by secondary sources: citizens and residents of African countries"
+      ],
+      "new": [
+        "'Applicants must be residents and citizens or hold refugee status in an African country.' (official eligibility page)"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "age_requirement",
+      "old": "Reported by secondary sources: born on or after 1 January 1992",
+      "new": "Born on or after 1 January 1992 ('Anyone born in 1991 and prior is not eligible')"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "one-young-world-leading-scholarship-2026",
+      "title": "One Young World Leading Scholarship 2026",
+      "field": "deadline_text",
+      "old": "Application deadline: 31 October 2026. Opening date: 11 June 2026. Scholars are selected on a rolling basis and notified between June and October 2026.",
+      "new": "Application deadline: 31 October 2026. Opening date: 11 June 2026. The same page also shows 'Application Deadline: Rolling' further down. 'Applications will be reviewed on a rolling basis'; selected candidates are notified 'between June to October 2026'."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "one-young-world-leading-scholarship-2026",
+      "title": "One Young World Leading Scholarship 2026",
+      "field": "nationality_requirements",
+      "old": [
+        "The listed countries include Congo-Brazzaville; the Democratic Republic of the Congo does not appear on the list read on 2 October 2026"
+      ],
+      "new": [
+        "The 51 listed countries include Congo-Brazzaville; the Democratic Republic of the Congo does not appear on the list re-read on 12 October 2026"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "field": "eligibility",
+      "old": [
+        "A student currently enrolled in a Master's or PhD programme, or a young professional aged between 21 and 30",
+        "Demonstrated commitment to responsible leadership through extra-curricular activities and/or work experience",
+        "Available for around five half-days from 10 to 14 December 2026"
+      ],
+      "new": [
+        "A student currently enrolled in a Master's or PhD programme, or a young professional aged between 21 and 30",
+        "'You have finished your undergraduate studies.'",
+        "Demonstrated commitment to responsible leadership through extra-curricular activities and/or work experience",
+        "Available for around five half-days from 10 to 14 December 2026; active participation in all sessions is required for the certificate"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "knight-hennessy-scholars-2027",
+      "title": "Knight-Hennessy Scholars (2027 cohort)",
+      "field": "application_deadline",
+      "old": "2026-10-06",
+      "new": ""
+    },
+    {
+      "date": "2026-10-12",
+      "id": "knight-hennessy-scholars-2027",
+      "title": "Knight-Hennessy Scholars (2027 cohort)",
+      "field": "deadline_utc",
+      "old": "2026-10-06T20:00:00Z",
+      "new": ""
+    },
+    {
+      "date": "2026-10-12",
+      "id": "knight-hennessy-scholars-2027",
+      "title": "Knight-Hennessy Scholars (2027 cohort)",
+      "field": "deadline_text",
+      "old": "The application closes on October 6, 2026, at 1 pm, Pacific Time.",
+      "new": "'The KHS application to join the 2027 cohort is now closed.' The 2027-cohort deadline was 'October 6, 2026, 1:00pm Pacific Time'. Admission page: 'The KHS application to join the 2028 cohort will open in June 2027.' Application Deadlines page: 'will open in summer 2027.' No 2028-cohort deadline is published."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "knight-hennessy-scholars-2027",
+      "title": "Knight-Hennessy Scholars (2027 cohort)",
+      "field": "program_dates",
+      "old": "Enrolment in autumn 2027",
+      "new": "2027 cohort enrols autumn 2027 (applications closed). 2028 cohort dates not published."
+    },
+    {
+      "date": "2026-10-12",
+      "id": "knight-hennessy-scholars-2027",
+      "title": "Knight-Hennessy Scholars (2027 cohort)",
+      "field": "eligibility",
+      "old": [
+        "First bachelor's degree earned in January 2020 or later (for the 2027 cohort)",
+        "Citizens and residents of all countries are encouraged to apply",
+        "Must apply to, and enrol in, a full-time Stanford graduate programme: DMA, JD, MA, MBA, MD, MFA, MPP, MS or PhD"
+      ],
+      "new": [
+        "2027 cohort rule: first bachelor's degree earned in January 2020 or later; the page says the requirements 'may change for future cohorts'",
+        "'We encourage citizens and residents of all countries to apply.'",
+        "Must apply to, be admitted to and enrol in a full-time Stanford graduate programme (e.g. DMA, JD, MA, MBA, MD, MFA, MPP, MS, PhD)"
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "id": "knight-hennessy-scholars-2027",
+      "title": "Knight-Hennessy Scholars (2027 cohort)",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "participation_fee",
+      "old": "Unknown / Not specified",
+      "new": "The University Admissions application fee for master's programmes is paid by the applicant and is not covered by SI (amount not stated on the SI page)"
+    },
+    {
+      "date": "2026-10-12",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "nationality_requirements",
+      "old": [
+        "Eligible: Armenia, Azerbaijan, Bangladesh, Belarus, Bolivia, Brazil, Colombia, Ecuador, Egypt, Ethiopia, Georgia, Guatemala, Indonesia, Iraq, Jordan, Kenya, Liberia, Malaysia, Mexico, Moldova, Morocco, Nigeria, Peru, Philippines, Rwanda, Senegal, South Africa, Tanzania, Thailand, Uganda, Ukraine, Uzbekistan, Vietnam, Zambia"
+      ],
+      "new": [
+        "Eligible (34 countries, unchanged on 12 October 2026): Armenia, Azerbaijan, Bangladesh, Belarus, Bolivia, Brazil, Colombia, Ecuador, Egypt, Ethiopia, Georgia, Guatemala, Indonesia, Iraq, Jordan, Kenya, Liberia, Malaysia, Mexico, Moldova, Morocco, Nigeria, Peru, Philippines, Rwanda, Senegal, South Africa, Tanzania, Thailand, Uganda, Ukraine, Uzbekistan, Vietnam, Zambia. The Democratic Republic of the Congo is not listed."
+      ]
+    },
+    {
       "date": "2026-10-05",
       "id": "open-doors-russian-scholarship-masters-2027",
       "title": "Open Doors: Russian Scholarship Project, Master's track (2027/28 entry)",

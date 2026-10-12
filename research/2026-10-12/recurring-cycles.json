@@ -1,0 +1,1380 @@
+[
+  {
+    "id": "france-excellence-eiffel-2027",
+    "title": "France Excellence Eiffel scholarship programme",
+    "organization": "French Ministry for Europe and Foreign Affairs (managed by Campus France)",
+    "overview": "French government scholarship for master's and PhD study in France. Students cannot apply themselves: a French university nominates candidates it has admitted.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Government-funded"
+    ],
+    "education_levels": [
+      "Master's",
+      "PhD"
+    ],
+    "country": "France",
+    "city": "Any French higher-education institution",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Study period must begin between 1 September and 30 November of the award year; up to 12 months (Master 2), 24 months (Master 1) or 36 months (engineering degree)",
+    "application_deadline": "2027-01-06",
+    "deadline_utc": "",
+    "deadline_text": "Session 2027 (official French page, updated 2 October 2026): 'Ouverture de l'appel à candidature : 2 octobre 2026'; 'Date limite de dépôt par les établissements des dossiers de candidatures auprès de Campus France : mercredi 6 janvier 2027 inclus'; results 'courant de la semaine du 12 avril 2027'. This deadline applies to French institutions; students must meet each institution's earlier internal deadline ('ce calendrier ne concerne pas les étudiants qui doivent se rapprocher des établissements français pour connaître leur date limite').",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "2026-10-02",
+    "open_now": true,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "2026-01-08",
+    "status": "OPEN",
+    "funding_type": "Substantially Funded",
+    "funding_details": [
+      "Master's level: monthly allowance of EUR 1,200 (from January 2026)",
+      "Doctoral level: EUR 2,000 per month on the implementation page",
+      "Tuition: recipients of French government scholarships are exempt from tuition charges for national diplomas (master, doctorate) or accredited engineering degrees in public institutions; 'Except as set forth above, program costs are not covered'",
+      "Airfare in the least-expensive class, reimbursed on receipts up to 50% of the Ministry's maximum rate for the country; return flight depends on academic results",
+      "Domestic travel to the academic location can be reimbursed; health insurance and housing assistance are provided"
+    ],
+    "coverage": {
+      "tuition": "Partially covered",
+      "stipend": "Covered",
+      "flight": "Partially covered",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Partially covered"
+    },
+    "travel_funded": true,
+    "flight_funded": true,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": true,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "EUR 1,200 per month at master's level",
+    "eligibility": [
+      "Applications are submitted exclusively by French higher-education institutions",
+      "Encourages applicants up to 29 years old at master's level and up to 35 at PhD level",
+      "Applications sent directly by students or by foreign institutions are ineligible"
+    ],
+    "nationality_requirements": [
+      "Foreign (non-French) applicants"
+    ],
+    "age_requirement": "Up to 29 years old at master's level",
+    "education_requirement": "Admission to a French master's or doctoral programme in a priority field",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply for admission to a French master's programme",
+      "Ask that institution's international relations office about its Eiffel nomination and internal deadline",
+      "The institution submits the file to Campus France"
+    ],
+    "official_application_url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program",
+    "official_information_url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program",
+    "source_url": "https://www.campusfrance.org/en/the-france-excellence-eiffel-scholarship-program",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Programme Eiffel, session 2027 calendar (Campus France, French)",
+        "url": "https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel",
+        "type": "Official"
+      },
+      {
+        "label": "Eiffel programme (Campus France, English)",
+        "url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program",
+        "type": "Official"
+      },
+      {
+        "label": "Eiffel implementation rules",
+        "url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-implementation",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "The age limit of 29 at master's level fits an applicant under 30. Everything else depends on being admitted to a French master's programme whose university agrees to nominate the candidate.",
+    "potential_issues": [
+      "The university applies, not the student",
+      "Internal university deadlines fall well before the 6 January 2027 Campus France deadline",
+      "Tuition is waived only for national diplomas at public institutions; other programme costs are not covered",
+      "Airfare reimbursement is capped at 50% of the Ministry's maximum rate"
+    ],
+    "benefits": [
+      "Monthly allowance",
+      "International and national transport",
+      "Insurance",
+      "French-taught options suit a French speaker"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "High",
+      "travel": "Very High",
+      "networking": "Medium",
+      "funding": "High",
+      "accessibility": "Medium",
+      "profile_fit": "High"
+    },
+    "relevance_reason": "French-language study removes the English-test barrier, and management is among the fields French universities nominate for.",
+    "travel_value": "Very High",
+    "career_value": "High",
+    "academic_value": "High",
+    "networking_value": "Medium",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Tuition and registration fees stay with the student.",
+    "action": "The 2027 call is open: apply now for admission to two or three French master's programmes and ask each international office for its internal Eiffel deadline, which will fall before 6 January 2027.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "The English programme page still showed the 2026 campaign on 12 October 2026; the French page (updated 2 October 2026) carries the 2027 calendar. The French page lists the institutions' webinar as 'mercredi 4 novembre 2027', probably a typo for 2026. Implementation page links 'Regulations Eiffel 2027'.",
+    "match_keywords": [
+      "eiffel",
+      "eiffel excellence",
+      "france excellence eiffel"
+    ]
+  },
+  {
+    "id": "stipendium-hungaricum-2027",
+    "title": "Stipendium Hungaricum scholarship (2027/2028)",
+    "organization": "Government of Hungary (Tempus Public Foundation)",
+    "overview": "Hungarian government scholarship for bachelor's, master's and doctoral study in Hungary, offered through partner countries. The DRC is listed as a sending partner. The 2027/2028 call was not yet published on 2 October 2026.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Government-funded"
+    ],
+    "education_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "country": "Hungary",
+    "city": "Varies by university",
+    "region": "Central Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "2027/2028 academic year for the next call",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "No 2027/2028 call seen on 12 October 2026. The apply page still shows the 2026/2027 deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
+    "deadline_timezone": "Central European Time (CET)",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "Next call expected with a mid-January 2027 deadline, by analogy with the previous one (15 January 2026). Not announced.",
+    "last_cycle_deadline": "2026-01-15",
+    "status": "UPCOMING",
+    "funding_type": "Substantially Funded",
+    "funding_details": [
+      "Tuition-free education",
+      "Monthly stipend at bachelor's and master's level: HUF 43,700 (about EUR 110)",
+      "Free dormitory place, or HUF 40,000 per month (about EUR 100) toward accommodation",
+      "Health care under Hungarian legislation plus supplementary medical insurance up to HUF 65,000 per year",
+      "Travel costs are not mentioned"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Not specified",
+      "accommodation": "Covered",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": true,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": false,
+    "participation_fee": "No application fee",
+    "stipend": "HUF 43,700 per month (about EUR 110) at master's level",
+    "eligibility": [
+      "Citizens of sending partners; 'Democratic Republic of the Congo' appears on the official partner list"
+    ],
+    "nationality_requirements": [
+      "Democratic Republic of the Congo is listed as a sending partner"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply online in the Stipendium Hungaricum system during the call",
+      "Check how the DRC sending partner nominates candidates"
+    ],
+    "official_application_url": "https://apply.stipendiumhungaricum.hu",
+    "official_information_url": "https://stipendiumhungaricum.hu/apply/",
+    "source_url": "https://stipendiumhungaricum.hu/apply/",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "How to apply",
+        "url": "https://stipendiumhungaricum.hu/apply/",
+        "type": "Official"
+      },
+      {
+        "label": "Sending partners",
+        "url": "https://stipendiumhungaricum.hu/partners",
+        "type": "Official"
+      },
+      {
+        "label": "About the scholarship (amounts)",
+        "url": "https://stipendiumhungaricum.hu/about/",
+        "type": "Official"
+      },
+      {
+        "label": "Stipendium Hungaricum news",
+        "url": "https://stipendiumhungaricum.hu/news/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "LIKELY ELIGIBLE",
+    "eligibility_reason": "The DRC is on the official list of sending partners and the profile holds the bachelor's degree needed for a master's application. The nomination step run by the DRC authority still has to be checked.",
+    "potential_issues": [
+      "The stipend is about EUR 110 per month, so living costs need other funds",
+      "Travel is not mentioned as covered",
+      "Nomination by the DRC sending partner: procedure not verified"
+    ],
+    "benefits": [
+      "Tuition-free degree",
+      "Dormitory place or housing contribution",
+      "Medical insurance"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "Medium",
+      "travel": "Very High",
+      "networking": "Medium",
+      "funding": "Medium",
+      "accessibility": "High",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Accessible on paper for a DRC bachelor's graduate, but the small stipend means it is only workable with savings or family support.",
+    "travel_value": "Very High",
+    "career_value": "Medium",
+    "academic_value": "High",
+    "networking_value": "Medium",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Flight and first months of living costs are likely to be self-funded.",
+    "action": "Look at the official site from November 2026 for the 2027/2028 call, and find out which DRC authority handles nominations.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "",
+    "match_keywords": [
+      "stipendium hungaricum"
+    ]
+  },
+  {
+    "id": "turkiye-burslari-2027",
+    "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+    "organization": "Government of Turkiye (Turkiye Scholarships)",
+    "overview": "Government scholarship for bachelor's, master's and PhD study in Turkiye, with a free online application. The 2027 dates are not yet on the official site.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Government-funded"
+    ],
+    "education_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "country": "Turkiye",
+    "city": "Varies by university",
+    "region": "Western Asia",
+    "continent": "Asia",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Unknown / Not specified",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "2027 dates are not on the official site (12 October 2026). The official application calendar gives 'General Application Period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "The official calendar lists the general application period as 10 January to 20 February (no year given), matching the 2026 cycle. 2027 dates not announced.",
+    "last_cycle_deadline": "2026-02-20",
+    "status": "UPCOMING",
+    "funding_type": "Fully Funded",
+    "funding_details": [
+      "The official 2026 announcement lists 'financial support, tuition fee, accommodation and health insurance', plus university placement",
+      "The official site also lists a flight ticket and a Turkish language course",
+      "Stipend amounts are not stated on the pages read"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Covered",
+      "accommodation": "Covered",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": true,
+    "flight_funded": true,
+    "accommodation_funded": true,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": false,
+    "participation_fee": "Applications are received online, free of charge",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "From pages of the official site found through search (not opened directly): citizens of all countries, except Turkish citizens",
+      "From the same pages: master's applicants must be under the age of 30",
+      "From the same pages and a secondary source: minimum academic achievement of 75% for master's and PhD applicants"
+    ],
+    "nationality_requirements": [
+      "Reported as open to citizens of all countries except Turkiye"
+    ],
+    "age_requirement": "Under 30 for master's programmes (official pages as indexed by search; not opened directly)",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply online in the Turkiye Scholarships application system",
+      "Evaluation, then interviews"
+    ],
+    "official_application_url": "https://tbbs.turkiyeburslari.gov.tr",
+    "official_information_url": "https://www.turkiyeburslari.gov.tr/",
+    "source_url": "https://www.turkiyeburslari.gov.tr/",
+    "source_type": "Official",
+    "source_confidence": "MEDIUM",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "Turkiye Scholarships (official site)",
+        "url": "https://www.turkiyeburslari.gov.tr/",
+        "type": "Official"
+      },
+      {
+        "label": "Application calendar",
+        "url": "https://www.turkiyeburslari.gov.tr/calendar",
+        "type": "Official"
+      },
+      {
+        "label": "Turkiye Scholarships 2026 applications (announcement)",
+        "url": "https://www.turkiyeburslari.gov.tr/announcements/turkiye-scholarships-2026-applications-121",
+        "type": "Official"
+      },
+      {
+        "label": "Secondary summary (75% minimum)",
+        "url": "https://www.globaladmissions.com/scholarship/turkiye-burslari",
+        "type": "Aggregator"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "An applicant under 30 fits the reported master's age limit today, but the limit is applied on a set date and the 75% grade minimum is not recorded in the profile. Neither criterion was read directly on the official site this cycle.",
+    "potential_issues": [
+      "2027 dates and criteria not yet published on the official site",
+      "Age limit is applied on a fixed reference date",
+      "Minimum grade not recorded in the profile"
+    ],
+    "benefits": [
+      "Stipend, accommodation, insurance and flight",
+      "One-year Turkish language course"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "Medium",
+      "travel": "Very High",
+      "networking": "Medium",
+      "funding": "Very High",
+      "accessibility": "High",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Free application, full coverage and no work-experience requirement make it accessible; the subject match depends on the university programme chosen.",
+    "travel_value": "Very High",
+    "career_value": "Medium",
+    "academic_value": "High",
+    "networking_value": "Medium",
+    "visa": {
+      "required": "Unknown / Not specified",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Check the official site in December 2026 for the 2027 announcement; the general window has been 10 January to 20 February.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "",
+    "match_keywords": [
+      "turkiye burslari",
+      "türkiye bursları",
+      "türkiye scholarships",
+      "turkiye scholarships"
+    ]
+  },
+  {
+    "id": "daad-helmut-schmidt-programme",
+    "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+    "organization": "DAAD (German Academic Exchange Service)",
+    "overview": "Scholarships for master's degrees in public policy, governance and development at selected German universities, for graduates from developing and emerging countries. The application period for the 2027 intake has passed.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Public policy"
+    ],
+    "education_levels": [
+      "Master's"
+    ],
+    "country": "Germany",
+    "city": "Passau, Duisburg-Essen, Erfurt and other participating universities",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Master's studies start in September or October of the intake year",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "Not stated on the official programme page. Secondary sources report an application period of 1 June to 31 July 2026 for the 2027 intake.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "Next application period expected June to July 2027 for the 2028 intake, if the yearly pattern holds.",
+    "last_cycle_deadline": "2026-07-31",
+    "status": "UPCOMING",
+    "funding_type": "Funding Unclear",
+    "funding_details": [
+      "The official page confirms German courses in Germany for up to six months before the degree",
+      "Amounts (monthly payment, travel allowance, insurance) are in the call PDF, which was not read this cycle",
+      "Secondary sources describe the scholarship as fully funded"
+    ],
+    "coverage": {
+      "tuition": "Not specified",
+      "stipend": "Not specified",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Candidates from developing and emerging countries",
+      "A first university degree (bachelor or equivalent)",
+      "Fields: social and political sciences, law, economics, public policy, administration",
+      "Open to young graduates without professional experience and to mid-career professionals",
+      "Reported by secondary sources: last degree obtained after 1 January 2020"
+    ],
+    "nationality_requirements": [
+      "Developing and emerging countries; 'Congo, Democratic Republic' is on the country list of the DAAD scholarship database entry"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "First university degree in social or political science, law, economics or administration",
+    "experience_requirement": "None required",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply to the participating universities during the application period, following the current DAAD call"
+    ],
+    "official_application_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
+    "official_information_url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/helmut-schmidt-programme/",
+    "source_url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/helmut-schmidt-programme/",
+    "source_type": "Official",
+    "source_confidence": "MEDIUM",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "DAAD programme page",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/helmut-schmidt-programme/",
+        "type": "Official"
+      },
+      {
+        "label": "DAAD scholarship database entry",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
+        "type": "Official"
+      },
+      {
+        "label": "Secondary summary of 2027 dates",
+        "url": "https://www.opportunitiesforafricans.com/daad-helmut-schmidt-programme-masters-scholarships-2027/",
+        "type": "Aggregator"
+      }
+    ],
+    "eligibility_for_me": "LIKELY ELIGIBLE",
+    "eligibility_reason": "A business administration degree falls under the economics and administration fields, the programme explicitly accepts young graduates without professional experience, and the DRC is on the DAAD country list for this programme. Grade and degree-date rules are in the call PDF, which was not read.",
+    "potential_issues": [
+      "Application period for the 2027 intake is over",
+      "Amounts and the degree-date rule come from secondary sources; the call PDF was not read",
+      "Dates come from secondary sources"
+    ],
+    "benefits": [
+      "Master's in public policy or governance in Germany",
+      "German language course before the degree"
+    ],
+    "relevance": {
+      "academic": "Very High",
+      "career": "Very High",
+      "travel": "Very High",
+      "networking": "High",
+      "funding": "High",
+      "accessibility": "Medium",
+      "profile_fit": "Very High"
+    },
+    "relevance_reason": "The subject area and the 'no experience required' rule match the profile better than almost any other scholarship in this database. The Ministry internship supports a governance application.",
+    "travel_value": "Very High",
+    "career_value": "Very High",
+    "academic_value": "Very High",
+    "networking_value": "High",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Use the winter to pick among the participating master's courses and gather documents, so the application is ready when the period opens in June 2027.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "On 12 October 2026 the programme page and database entry gave no dates; both defer to the 'Current Announcement'. WebFetch got HTTP 503 on the programme page; it was read with a direct request.",
+    "match_keywords": [
+      "helmut-schmidt",
+      "helmut schmidt"
+    ]
+  },
+  {
+    "id": "vlir-uos-icp-connect-2027",
+    "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+    "organization": "VLIR-UOS (Flemish Interuniversity Council, University Development Cooperation)",
+    "overview": "Scholarships for English-taught bachelor's and master's programmes at Flemish universities, for applicants from 29 countries in Africa, Asia and Latin America. The 2027-2028 call is expected to open in mid-November 2026.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Development cooperation"
+    ],
+    "education_levels": [
+      "Master's",
+      "Bachelor's"
+    ],
+    "country": "Belgium",
+    "city": "Flemish universities (various cities)",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "2027-2028 academic year; 12, 24 or 36 months depending on the programme",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "The ICP Connect scholarship call for the 2026-2027 academic year is now closed. The call for the 2027-2028 academic year is expected to open in mid-November 2026. Each programme sets its own deadline.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "Call for 2027-2028 expected to open in mid-November 2026; programme list and deadlines published then.",
+    "last_cycle_deadline": "",
+    "status": "UPCOMING",
+    "funding_type": "Fully Funded",
+    "funding_details": [
+      "Scholarships cover tuition fees, travel, insurance and living expenses (board and lodging)",
+      "Awarded only for the full duration of the programme",
+      "Scholarship costs may change in line with government funding decisions"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Covered",
+      "accommodation": "Covered",
+      "meals": "Covered",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": true,
+    "flight_funded": true,
+    "accommodation_funded": true,
+    "meals_funded": true,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": false,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Nationality of one of the 29 eligible countries, and residence in one of them at the time of application",
+      "Initial master: not older than 35 on 1 January of the intake year (advanced master: 45)",
+      "Preference for candidates working in higher education, government or civil society, or aiming at those sectors",
+      "Newly graduated candidates with no work experience may be considered with strong motivation and a compelling profile",
+      "Preference for candidates who have not yet studied in a higher-income country"
+    ],
+    "nationality_requirements": [
+      "29 eligible countries; 'DR Congo' is on the official VLIR-UOS scholarship country list (Sub-Saharan Africa)"
+    ],
+    "age_requirement": "Not older than 35 on 1 January of the intake year for an initial master",
+    "education_requirement": "Bachelor's degree for master's programmes; programme-specific requirements apply",
+    "experience_requirement": "None required; relevant experience preferred",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Wait for the programme list (mid-November 2026)",
+      "Apply to the chosen programme at the host university by that programme's deadline",
+      "Selected candidates are contacted by VLIR-UOS no later than mid-May"
+    ],
+    "official_application_url": "https://www.vliruos.be/get-funded/study-scholarships",
+    "official_information_url": "https://www.vliruos.be/get-funded/study-scholarships",
+    "source_url": "https://www.vliruos.be/get-funded/study-scholarships",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "Study scholarships",
+        "url": "https://www.vliruos.be/get-funded/study-scholarships",
+        "type": "Official"
+      },
+      {
+        "label": "Country list for scholarships",
+        "url": "https://www.vliruos.be/country-list-scholarships",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "LIKELY ELIGIBLE",
+    "eligibility_reason": "The profile is under 35, lives in the DRC and is a recent graduate, which VLIR-UOS accepts with a strong motivation. This rests on DR Congo being on the country list, which must be confirmed by opening the official list.",
+    "potential_issues": [
+      "Programme list and deadlines not published until mid-November 2026",
+      "Recent graduates compete against candidates with relevant work experience"
+    ],
+    "benefits": [
+      "Full scholarship for the whole programme",
+      "English-taught programmes focused on sustainable development"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "High",
+      "travel": "Very High",
+      "networking": "Medium",
+      "funding": "Very High",
+      "accessibility": "High",
+      "profile_fit": "High"
+    },
+    "relevance_reason": "Built for applicants from countries such as the DRC, with no experience requirement and full funding. Governance and development programmes suit the public-sector analyst track.",
+    "travel_value": "Very High",
+    "career_value": "High",
+    "academic_value": "High",
+    "networking_value": "Medium",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Return to the VLIR-UOS study scholarships page in mid-November 2026 to choose programmes and note their deadlines.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "",
+    "match_keywords": [
+      "vlir-uos",
+      "vliruos",
+      "icp connect"
+    ]
+  },
+  {
+    "id": "european-forum-alpbach-scholarships",
+    "title": "European Forum Alpbach scholarship programme",
+    "organization": "European Forum Alpbach",
+    "overview": "Scholarships to take part in the annual two-week European Forum Alpbach in the Austrian Alps. The scholarship pays the participation fee and accommodation, not travel.",
+    "category": [
+      "Conference",
+      "Leadership",
+      "Travel"
+    ],
+    "subcategory": [
+      "Forum",
+      "Partial scholarship"
+    ],
+    "education_levels": [
+      "Open to all"
+    ],
+    "country": "Austria",
+    "city": "Alpbach",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "European Forum Alpbach 2027: 23 August to 3 September 2027, Conference Days open 29 August 2027",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "No 2027 call yet. For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "The 2027 Forum dates are announced (23 August to 3 September 2027) but the scholarship application period is not. In 2026 the platform was open 2-22 March.",
+    "last_cycle_deadline": "2026-03-22",
+    "status": "UPCOMING",
+    "funding_type": "Participation Funded",
+    "funding_details": [
+      "A scholarship covers the participation fee for the entire Forum and accommodation",
+      "Travel to and from Alpbach, daily expenses, health care and travel insurance are paid by the participant",
+      "An 'advanced scholarship' adds a lump sum toward travel and on-site costs for applicants with the greatest need"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Not specified",
+      "flight": "Not covered",
+      "accommodation": "Covered",
+      "meals": "Not covered",
+      "visa": "Not specified",
+      "insurance": "Not covered",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": true,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Up to the age of 30; up to 35 for applicants from the Global South, which by the UNCTAD definition includes Africa",
+      "Applicants from all countries and professional or academic backgrounds"
+    ],
+    "nationality_requirements": [
+      "All countries"
+    ],
+    "age_requirement": "Up to 30, or up to 35 for applicants from the Global South",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply on the Forum's application platform during the March window",
+      "Ask for an advanced scholarship in the same application if travel costs are a barrier"
+    ],
+    "official_application_url": "https://www.alpbach.org/faq-scholarship-programme",
+    "official_information_url": "https://www.alpbach.org/faq-scholarship-programme",
+    "source_url": "https://www.alpbach.org/faq-scholarship-programme",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "FAQ: scholarship programme",
+        "url": "https://www.alpbach.org/faq-scholarship-programme",
+        "type": "Official"
+      },
+      {
+        "label": "European Forum Alpbach home page (2027 dates)",
+        "url": "https://www.alpbach.org/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "LIKELY ELIGIBLE",
+    "eligibility_reason": "Applicants from Africa are accepted up to age 35 and from any background, which the profile meets.",
+    "potential_issues": [
+      "Flights to Austria, the Schengen visa, insurance and daily expenses are not covered by a regular scholarship",
+      "The advanced scholarship lump sum is awarded only to those with the greatest need"
+    ],
+    "benefits": [
+      "Two weeks of seminars and debates",
+      "European and international network"
+    ],
+    "relevance": {
+      "academic": "Medium",
+      "career": "Medium",
+      "travel": "High",
+      "networking": "Very High",
+      "funding": "Medium",
+      "accessibility": "Medium",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Open to any background and to Africans up to 35, but the uncovered travel cost from Kinshasa is the real obstacle.",
+    "travel_value": "High",
+    "career_value": "Medium",
+    "academic_value": "Medium",
+    "networking_value": "Very High",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "High: flights, visa and insurance must be paid before travel unless an advanced scholarship is granted.",
+    "action": "Look again in February 2027 and apply for the advanced scholarship if you go ahead.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "",
+    "match_keywords": [
+      "forum alpbach"
+    ]
+  },
+  {
+    "id": "obama-foundation-leaders",
+    "title": "Obama Foundation Leaders programme",
+    "organization": "The Obama Foundation",
+    "overview": "Annual leadership programme for emerging leaders from Africa, Asia-Pacific, Europe and the United States. Applications open each November for the following year.",
+    "category": [
+      "Leadership",
+      "Fellowship"
+    ],
+    "subcategory": [
+      "Young leaders"
+    ],
+    "education_levels": [
+      "Open to all",
+      "Professional"
+    ],
+    "country": "Online (Africa cohort)",
+    "city": "Online",
+    "region": "Africa",
+    "continent": "Africa",
+    "location_type": "Remote",
+    "delivery_mode": "Online",
+    "program_dates": "Leaders Africa: six months, virtual (Leaders Asia-Pacific eight months hybrid; Europe and USA eight months virtual)",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "Applications expected to open in November 2026 for the next cohort; exact dates not announced.",
+    "last_cycle_deadline": "",
+    "status": "UPCOMING",
+    "funding_type": "Funding Unclear",
+    "funding_details": [
+      "Not stated on the page read."
+    ],
+    "coverage": {
+      "tuition": "Not specified",
+      "stipend": "Not specified",
+      "flight": "Not applicable",
+      "accommodation": "Not applicable",
+      "meals": "Not applicable",
+      "visa": "Not applicable",
+      "insurance": "Not applicable",
+      "local_transport": "Not applicable"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "From Africa, Asia-Pacific, Europe or the United States",
+      "Between the ages of 24 and 45 during the programme"
+    ],
+    "nationality_requirements": [
+      "Applicants from Africa are eligible"
+    ],
+    "age_requirement": "24 to 45 during the programme",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Sign up for Obama Foundation emails to be told when applications open"
+    ],
+    "official_application_url": "",
+    "official_information_url": "https://www.obama.org/programs/leaders/",
+    "source_url": "https://www.obama.org/programs/leaders/",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "Obama Foundation Leaders",
+        "url": "https://www.obama.org/programs/leaders/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "African applicants are eligible, but participants must be at least 24 during the programme, so the exact age decides. The programme also looks for people already leading community work.",
+    "potential_issues": [
+      "Minimum age of 24",
+      "Costs not stated on the page read",
+      "Expects an established record of community leadership",
+      "Leaders Africa is virtual, so no travel"
+    ],
+    "benefits": [
+      "Virtual group sessions, peer-led spaces and individual coaching",
+      "Continental network of peers"
+    ],
+    "relevance": {
+      "academic": "Low",
+      "career": "Medium",
+      "travel": "Low",
+      "networking": "Very High",
+      "funding": "Medium",
+      "accessibility": "Medium",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Valuable network, but selection rewards a visible leadership record that the profile does not yet document.",
+    "travel_value": "Low",
+    "career_value": "Medium",
+    "academic_value": "Low",
+    "networking_value": "Very High",
+    "visa": {
+      "required": "Unknown / Not specified",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Sign up for the Foundation's emails and look again in November 2026.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "On 12 October 2026 the page still gave no exact dates for the next application window.",
+    "match_keywords": [
+      "obama foundation leaders",
+      "obama leaders"
+    ]
+  },
+  {
+    "id": "nasser-fellowship-international-leadership",
+    "title": "Nasser Fellowship for International Leadership",
+    "organization": "Egyptian Ministry of Youth and Sports (Nasser Youth Movement)",
+    "overview": "Leadership fellowship held in Egypt for young leaders from all countries. The 2026 batch has closed its submissions and the next batch has not been announced.",
+    "category": [
+      "Fellowship",
+      "Leadership",
+      "Travel"
+    ],
+    "subcategory": [
+      "Government-funded",
+      "Young leaders"
+    ],
+    "education_levels": [
+      "Open to all",
+      "Professional"
+    ],
+    "country": "Egypt",
+    "city": "Unknown / Not specified",
+    "region": "North Africa",
+    "continent": "Africa",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Unknown / Not specified",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "Next batch not announced on 12 October 2026. The home page's news (latest items dated October 2026) concerns alumni; no application form for a new batch is shown.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "Next batch expected in 2027 if the yearly pattern holds; the 2026 batch closed its submissions by late March 2026.",
+    "last_cycle_deadline": "",
+    "status": "UPCOMING",
+    "funding_type": "Funding Unclear",
+    "funding_details": [
+      "The criteria page read does not state which costs are covered."
+    ],
+    "coverage": {
+      "tuition": "Not specified",
+      "stipend": "Not specified",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Aged between 18 and 40",
+      "Open to youth from all countries worldwide",
+      "Proficiency in English, the official language of the fellowship",
+      "Targets decision-makers, civil society activists, youth council leaders and similar profiles; international experience is one of the evaluation criteria"
+    ],
+    "nationality_requirements": [
+      "All countries"
+    ],
+    "age_requirement": "18 to 40",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "English",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Application form published on the Nasser Youth Movement site when a batch opens"
+    ],
+    "official_application_url": "",
+    "official_information_url": "https://nasseryouthmovement.net/Criteria",
+    "source_url": "https://nasseryouthmovement.net/",
+    "source_type": "Official",
+    "source_confidence": "MEDIUM",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "Selection criteria",
+        "url": "https://nasseryouthmovement.net/Criteria",
+        "type": "Official"
+      },
+      {
+        "label": "Nasser Youth Movement",
+        "url": "https://nasseryouthmovement.net/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "LIKELY ELIGIBLE",
+    "eligibility_reason": "Age, nationality and language criteria are met. Selection favours people who already hold leadership roles or have international experience.",
+    "potential_issues": [
+      "No open call",
+      "Cost coverage not verified",
+      "Selection favours established youth leaders"
+    ],
+    "benefits": [
+      "Leadership programme in Egypt",
+      "International network of young leaders"
+    ],
+    "relevance": {
+      "academic": "Low",
+      "career": "Medium",
+      "travel": "High",
+      "networking": "High",
+      "funding": "Medium",
+      "accessibility": "Medium",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "A travel opportunity with broad eligibility that standard scholarship searches miss.",
+    "travel_value": "High",
+    "career_value": "Medium",
+    "academic_value": "Low",
+    "networking_value": "High",
+    "visa": {
+      "required": "Unknown / Not specified",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Look at the site again in January 2027 for the next batch.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "",
+    "match_keywords": [
+      "nasser fellowship"
+    ]
+  },
+  {
+    "id": "pan-african-university-scholarships",
+    "title": "Pan African University scholarships (master's and PhD)",
+    "organization": "African Union Commission (Pan African University)",
+    "overview": "African Union scholarships for master's and doctoral study at the Pan African University institutes. No 2027-2028 call has been published yet; the previous call ran from mid-November to mid-December.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "African Union"
+    ],
+    "education_levels": [
+      "Master's",
+      "PhD"
+    ],
+    "country": "Multiple countries (Africa)",
+    "city": "PAU institutes",
+    "region": "Africa",
+    "continent": "Africa",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Unknown / Not specified",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "No 2027-2028 call published on 12 October 2026. The application platform states 'Applications closed on 15/12/2025'; the 2026-2027 call said 'The Call will be launched on 15 November and will close on 15 December 2025.'",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "If the pattern repeats, the next call opens around mid-November 2026. Not announced.",
+    "last_cycle_deadline": "2025-12-15",
+    "status": "UPCOMING",
+    "funding_type": "Fully Funded",
+    "funding_details": [
+      "'The African Union Commission will offer full scholarships to successful candidates.' The call text read does not itemise the components."
+    ],
+    "coverage": {
+      "tuition": "Not specified",
+      "stipend": "Not specified",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Applicants from African countries and the Diaspora",
+      "Master's: undergraduate degree from a recognised university with at least a second-class upper division or equivalent, in a relevant field",
+      "Master's: 'Not older than 25 years for male and 28 years for female applicants.'",
+      "PhD: maximum 28 years old for male and 30 for female applicants, with a master's degree in a relevant field"
+    ],
+    "nationality_requirements": [
+      "African countries and the Diaspora"
+    ],
+    "age_requirement": "Master's: not older than 25 (men) or 28 (women). PhD: 28 (men) or 30 (women).",
+    "education_requirement": "Bachelor's degree with at least second-class upper division or equivalent",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Online application during the call window announced on au.int"
+    ],
+    "official_application_url": "",
+    "official_information_url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
+    "source_url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "African Union: PAU call for 2026-2027",
+        "url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
+        "type": "Official"
+      },
+      {
+        "label": "PAU scholarships application platform",
+        "url": "https://www.au-pau.org/submission/",
+        "type": "Official"
+      },
+      {
+        "label": "Pan African University website",
+        "url": "https://pau-au.africa/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "The master's age limit is 25 for men and 28 for women, so 'under 30' is not enough to decide: the exact age settles it. The degree must also be at least a second-class upper.",
+    "potential_issues": [
+      "Strict age limit that differs by gender",
+      "Degree classification not recorded in the profile"
+    ],
+    "benefits": [
+      "Full scholarship from the African Union Commission",
+      "Pan-African cohort"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "Medium",
+      "travel": "High",
+      "networking": "High",
+      "funding": "Very High",
+      "accessibility": "Medium",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Fully funded and open to all African nationals, but the age ceiling may already exclude the profile.",
+    "travel_value": "High",
+    "career_value": "Medium",
+    "academic_value": "High",
+    "networking_value": "High",
+    "visa": {
+      "required": "Unknown / Not specified",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Check your exact age against the limit first. If you are within it, watch au.int announcements from mid-November 2026.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "https://www.au-pau.org/submission/ is the official application platform (read 12 October 2026).",
+    "match_keywords": [
+      "pan african university"
+    ]
+  },
+  {
+    "id": "tony-elumelu-entrepreneurship-programme-2027",
+    "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+    "organization": "The Tony Elumelu Foundation",
+    "overview": "Training, mentorship and USD 5,000 of non-returnable seed capital for African entrepreneurs in all 54 countries. The application portal opens every year from 1 January to 1 March.",
+    "category": [
+      "Entrepreneurship",
+      "Training"
+    ],
+    "subcategory": [
+      "Seed funding",
+      "Online training"
+    ],
+    "education_levels": [
+      "Open to all"
+    ],
+    "country": "Online (all 54 African countries)",
+    "city": "Online",
+    "region": "Africa",
+    "continent": "Africa",
+    "location_type": "Remote",
+    "delivery_mode": "Online",
+    "program_dates": "Yearly cycle starting with applications from 1 January",
+    "application_deadline": "2027-03-01",
+    "deadline_utc": "",
+    "deadline_text": "Every year, the application portal opens on the 1st of January till midnight on the 1st of March, on www.TEFConnect.com.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "2027-01-01",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "status": "UPCOMING",
+    "funding_type": "Fully Funded",
+    "funding_details": [
+      "Non-returnable seed capital of USD 5,000 for selected entrepreneurs",
+      "Business training on TEFConnect and mentorship"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Not applicable",
+      "accommodation": "Not applicable",
+      "meals": "Not applicable",
+      "visa": "Not applicable",
+      "insurance": "Not applicable",
+      "local_transport": "Not applicable"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "USD 5,000 non-returnable seed capital",
+    "eligibility": [
+      "Africans aged 18 and above who reside in Africa and plan to establish their business in Africa",
+      "A business idea or a business no older than 5 years",
+      "Must not have previously benefited from any of the Foundation's earlier programmes",
+      "A minimum score in the application's business assessment test"
+    ],
+    "nationality_requirements": [
+      "All 54 African countries"
+    ],
+    "age_requirement": "18 and above",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [
+      "Valid identity card",
+      "Photo headshot"
+    ],
+    "application_process": [
+      "Register on TEFConnect and complete the application form between 1 January and 1 March",
+      "Eligibility notification after the business assessment test",
+      "Due diligence, shortlisting, training, then seed capital disbursement"
+    ],
+    "official_application_url": "https://www.tefconnect.com/",
+    "official_information_url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+    "source_url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "TEF Entrepreneurship Programme",
+        "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+        "type": "Official"
+      },
+      {
+        "label": "The Tony Elumelu Foundation",
+        "url": "https://www.tonyelumelufoundation.org/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "An African resident aged 18 or over qualifies on nationality, residence and age, but the programme requires a business idea or a business under 5 years old, which the profile does not record.",
+    "potential_issues": [
+      "Requires a business idea or a business under 5 years old",
+      "Seed capital disbursed only after document review"
+    ],
+    "benefits": [
+      "USD 5,000 seed capital",
+      "Training and mentorship",
+      "Alumni network across Africa"
+    ],
+    "relevance": {
+      "academic": "Low",
+      "career": "Medium",
+      "travel": "Low",
+      "networking": "High",
+      "funding": "High",
+      "accessibility": "High",
+      "profile_fit": "Low"
+    },
+    "relevance_reason": "Relevant only if self-employment becomes part of the plan; otherwise it does not advance the job-search tracks.",
+    "travel_value": "Low",
+    "career_value": "Medium",
+    "academic_value": "Low",
+    "networking_value": "High",
+    "visa": {
+      "required": "No",
+      "support": "Not applicable (online)"
+    },
+    "upfront_cost_risk": "None stated.",
+    "action": "Optional. If you have a business idea, prepare it for the 1 January 2027 opening.",
+    "last_verified": "2026-10-12",
+    "date_discovered": "2026-10-02",
+    "notes": "The official programme page still carries the 2025 title; the 1 January to 1 March window is stated as a yearly rule.",
+    "match_keywords": [
+      "tony elumelu",
+      "tef entrepreneurship"
+    ]
+  }
+]
