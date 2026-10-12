@@ -1,7 +1,51 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-11",
+  "updated": "2026-10-12",
   "leads": [
+    {
+      "id": "e200114fa9d1",
+      "title": "Branco Weiss Fellowship – Society in Science 2027 (up to CHF600,000)",
+      "url": "https://opportunitydesk.org/2026/10/12/branco-weiss-fellowship-society-in-science-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c5097d084703",
+      "title": "True Story Award 2027 for Journalists ($20,000 prize)",
+      "url": "https://opportunitydesk.org/2026/10/12/true-story-award-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0de6a7e8f5cb",
+      "title": "Digital Brand Architects HBCU Summer Talent Management Internship 2026",
+      "url": "https://opportunitydesk.org/2026/10/12/hbcu-summer-talent-management-internship-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "fb5dc125b1d6",
+      "title": "Clinton School International Public Service Projects (IPSP) 2027 (Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/clinton-school-international-public-service-projects-ipsp-2027-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-12",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "b81910f292cc",
       "title": "AIxBio Research Fellowship 2027 in UK (Fully Funded)",
@@ -177,7 +221,8 @@
       "status": "NEEDS VERIFICATION",
       "also_seen_in": [
         "Opportunities for Africans",
-        "OYA Opportunities"
+        "OYA Opportunities",
+        "Opportunities Corners"
       ]
     },
     {
@@ -395,28 +440,6 @@
       "status": "NEEDS VERIFICATION"
     },
     {
-      "id": "67f04cc24b3d",
-      "title": "Appel à candidatures – Programme de Formation gratuite et certifiante en ligne de l’OIF sur « L’Économie de l’environnement et gestion des ressources naturelles »",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/economie/appel-a-candidatures-programme-de-formation-gratuite-et-certifiante-en-ligne-de-loif-sur-leconomie-de-lenvironnement-et-gestion-des-ressources-naturelles/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "432a0929c008",
-      "title": "Inscrivez-vous à la Formation gratuite et certifiante en ligne de l’OIF sur les « Technologies de l’environnement »",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/environnement/inscrivez-vous-a-la-formation-gratuite-et-certifiante-en-ligne-de-loif-sur-les-technologies-de-lenvironnement/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
       "id": "05c71e645a27",
       "title": "AU Theme of the Year 2027 Logo Competition ($5,000 prize)",
       "url": "https://opportunitydesk.org/2026/10/08/au-theme-of-the-year-2027-logo-competition/",
@@ -429,17 +452,6 @@
       "also_seen_in": [
         "Opportunities for Africans"
       ]
-    },
-    {
-      "id": "8a684a1dc94b",
-      "title": "HSC Youth Ambassador Program 2027 – Fully Funded Opportunity for Global South Youth",
-      "url": "https://www.globalsouthopportunities.com/2026/10/08/hsc/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
     },
     {
       "id": "d67c86eff932",
@@ -486,17 +498,6 @@
       "status": "NEEDS VERIFICATION"
     },
     {
-      "id": "b6cfc2b93712",
-      "title": "HSC Youth Ambassador Program 2027 in Germany (Fully Funded)",
-      "url": "https://opportunitiescorners.com/hsc-youth-ambassador-program-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
       "id": "304f779e2495",
       "title": "Cultural Futures Forum 2027 in Austria (Fully Funded)",
       "url": "https://opportunitiescorners.com/cultural-futures-forum-2027-in-austria/",
@@ -505,7 +506,10 @@
       "language": "en",
       "published": "2026-10-08",
       "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "8a68a64d516e",
@@ -572,20 +576,6 @@
       "published": "2026-10-07",
       "first_seen": "2026-10-08",
       "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "f05ee1d43c3b",
-      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
-      "url": "https://opportunitydesk.org/2026/10/07/hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
     },
     {
       "id": "8ce0e9537cf4",
@@ -800,17 +790,6 @@
       "id": "500cd53a3f8f",
       "title": "Fully Funded Mastercard Foundation Scholarship 2026 at the University of Global Health Equity (UGHE): MSc Opportunity for Young Africans",
       "url": "https://www.globalsouthopportunities.com/2026/10/06/mastercard-24/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "19ac53a85b45",
-      "title": "Graduate Horizons 2027: Master’s Scholarship Application Support for African Students Affected by Displacement",
-      "url": "https://www.globalsouthopportunities.com/2026/10/06/graduate-29/",
       "source": "Global South Opportunities",
       "source_tier": 3,
       "language": "en",

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-12T07:26:31Z",
+  "last_refresh": "2026-10-12T13:11:09Z",
   "counts": {
     "total": 57,
     "archived": 0,
@@ -58,25 +58,12 @@
     ]
   },
   "watch": {
-    "checked": 50,
-    "ok": 42,
+    "checked": 57,
+    "ok": 49,
     "blocked_or_unreachable": 8,
     "dead": 0
   },
-  "flags": [
-    {
-      "id": "knight-hennessy-scholars-2027",
-      "type": "source_changed",
-      "since": "2026-10-08",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "si-scholarship-global-professionals",
-      "type": "source_changed",
-      "since": "2026-10-09",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    }
-  ],
+  "flags": [],
   "feeds": [
     {
       "name": "African Union announcements",
@@ -100,7 +87,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 3
     },
     {
       "name": "Opportunities for Africans",
@@ -114,9 +101,9 @@
       "name": "Global South Opportunities",
       "url": "https://www.globalsouthopportunities.com/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 10,
-      "new": 1
+      "status": 0,
+      "items": 0,
+      "new": 0
     },
     {
       "name": "Opportunities for Youth",
@@ -148,7 +135,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Opportunites du Monde",
@@ -201,19 +188,19 @@
   ],
   "reseen": [
     {
-      "id": "aspire-leaders-program-2026-cohort-4",
-      "title": "Aspire Leaders Program 2026 (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/aspire-leaders-program-2026-fully-funded/",
-      "source": "OYA Opportunities",
-      "seen": "2026-10-11"
+      "id": "hsc-youth-ambassador-program-2027",
+      "title": "The Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027 for young community leaders (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-12"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Eiffel Excellence Scholarship 2027 in France (Fully Funded)",
       "url": "https://opportunitiescorners.com/eiffel-excellence-scholarship-2027/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-11"
+      "seen": "2026-10-12"
     }
   ],
-  "new_leads_last_run": 3
+  "new_leads_last_run": 4
 }
