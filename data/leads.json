@@ -1,7 +1,145 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-13",
   "leads": [
+    {
+      "id": "31b40cbeab96",
+      "title": "Afreximbank Group Internship Programme 2027",
+      "url": "https://opportunitydesk.org/2026/10/13/afreximbank-group-internship-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "64396711a298",
+      "title": "Global Investigative Journalism Conference (GIJC) Fellowship 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/10/13/global-investigative-journalism-conference-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "37a756ef2cc5",
+      "title": "Five Light Impact Foundation Project Intern 2026: Fully Remote Nonprofit Internship for 3 Months — Apply Now",
+      "url": "https://www.globalsouthopportunities.com/2026/10/13/project-18/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "adddbcb004d7",
+      "title": "Apply for the Citadel Associate Program 2028: Earn Up to $3,000 Per Week in a New York Summer Investment Internship",
+      "url": "https://www.globalsouthopportunities.com/2026/10/13/citadel/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2beead3d9db7",
+      "title": "WHO Ethics Internship 2027 in Switzerland (PAID)",
+      "url": "https://opportunitiescorners.com/who-ethics-internship-2027-in-switzerland/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e808171c2686",
+      "title": "Formation gratuite en ligne de l’OIM sur la Santé Mentale et le Soutien Psychosocial (MHPSS)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/genre/formation-gratuite-en-ligne-de-loim-sur-la-sante-mentale-et-le-soutien-psychosocial-mhpss/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "514071d0839a",
+      "title": "L’Institut des Nations Unies pour la Formation et la Recherche (UNITAR) propose une formation gratuite en ligne intitulée « Eau propre et Assainissement »",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/assainissement/linstitut-des-nations-unies-pour-la-formation-et-la-recherche-unitar-propose-une-formation-gratuite-en-ligne-intitulee-eau-propre-et-assainissement/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d47f210e1178",
+      "title": "Echidna Global Scholars Visiting Fellowship 2027 ($26,500 stipend)",
+      "url": "https://opportunitydesk.org/2026/10/12/echidna-global-scholars-visiting-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "a26efa61deed",
+      "title": "The African Export -Import Bank (Afreximbank) Internship Program 2027/2028 for young Africans (Monthly tax-free stipend of USD 1000)",
+      "url": "https://www.opportunitiesforafricans.com/the-african-export-import-bank-afreximbank-internship-program-2027-2028/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "4cb82a6a9ee7",
+      "title": "The 2027 United Nations Regional Course in International Law for Africa – Addis Ababa, Ethiopia (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-2027-united-nations-regional-course-in-international-law-for-africa/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2753325315d5",
+      "title": "The UNDP Timbuktoo Pan-African MineTech Exploration Technology Pre-Incubation Programme 2026 for African MineTech startup.",
+      "url": "https://www.opportunitiesforafricans.com/the-undp-timbuktoo-pan-african-minetech-exploration-technology-pre-incubation-programme-2026/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "03c1a76703a0",
+      "title": "The Ban Ki-moon Centre for Global Citizens Your Future in GreenJobs Mentorship Program 2026",
+      "url": "https://www.opportunitiesforafricans.com/the-ban-ki-moon-centre-for-global-citizens-your-future-in-greenjobs-mentorship-program-2026/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-12",
+      "first_seen": "2026-10-13",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "e200114fa9d1",
       "title": "Branco Weiss Fellowship – Society in Science 2027 (up to CHF600,000)",

@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-12T13:11:09Z",
+  "last_refresh": "2026-10-13T12:43:23Z",
   "counts": {
     "total": 57,
     "archived": 0,
     "by_status": {
       "OPEN": 24,
-      "CLOSING SOON": 5,
-      "UPCOMING": 17,
+      "CLOSING SOON": 6,
+      "UPCOMING": 16,
       "DEADLINE PASSED": 2,
       "ROLLING": 0,
       "DATE UNKNOWN": 9
@@ -48,11 +48,12 @@
       "rlrh-graduate-horizons-2027"
     ],
     "7": [
-      "aspire-leaders-program-2026-cohort-4",
       "hsc-youth-ambassador-program-2027",
       "mastercard-foundation-scholars-edinburgh-2027"
     ],
-    "3": [],
+    "3": [
+      "aspire-leaders-program-2026-cohort-4"
+    ],
     "1": [
       "mandela-washington-fellowship-2027"
     ]
@@ -63,7 +64,20 @@
     "blocked_or_unreachable": 8,
     "dead": 0
   },
-  "flags": [],
+  "flags": [
+    {
+      "id": "turkiye-burslari-2027",
+      "type": "source_changed",
+      "since": "2026-10-13",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "vlir-uos-icp-connect-2027",
+      "type": "source_changed",
+      "since": "2026-10-13",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    }
+  ],
   "feeds": [
     {
       "name": "African Union announcements",
@@ -95,15 +109,15 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 4
     },
     {
       "name": "Global South Opportunities",
       "url": "https://www.globalsouthopportunities.com/feed/",
       "tier": 3,
-      "status": 0,
-      "items": 0,
-      "new": 0
+      "status": 200,
+      "items": 10,
+      "new": 2
     },
     {
       "name": "Opportunities for Youth",
@@ -127,7 +141,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Opportunities Corners",
@@ -135,7 +149,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -143,7 +157,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 2
     },
     {
       "name": "Afri-Carrieres",
@@ -188,19 +202,12 @@
   ],
   "reseen": [
     {
-      "id": "hsc-youth-ambassador-program-2027",
-      "title": "The Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027 for young community leaders (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/the-hamburg-sustainability-conference-hsc-youth-ambassador-program-2027/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-10-12"
-    },
-    {
       "id": "france-excellence-eiffel-2027",
       "title": "Eiffel Excellence Scholarship 2027 in France (Fully Funded)",
       "url": "https://opportunitiescorners.com/eiffel-excellence-scholarship-2027/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-12"
+      "seen": "2026-10-13"
     }
   ],
-  "new_leads_last_run": 4
+  "new_leads_last_run": 12
 }
