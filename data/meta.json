@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-13T12:43:23Z",
+  "last_refresh": "2026-10-14T10:14:16Z",
   "counts": {
     "total": 57,
     "archived": 0,
     "by_status": {
       "OPEN": 24,
-      "CLOSING SOON": 6,
+      "CLOSING SOON": 5,
       "UPCOMING": 16,
-      "DEADLINE PASSED": 2,
+      "DEADLINE PASSED": 3,
       "ROLLING": 0,
       "DATE UNKNOWN": 9
     },
@@ -54,9 +54,7 @@
     "3": [
       "aspire-leaders-program-2026-cohort-4"
     ],
-    "1": [
-      "mandela-washington-fellowship-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 57,
@@ -65,6 +63,12 @@
     "dead": 0
   },
   "flags": [
+    {
+      "id": "si-scholarship-global-professionals",
+      "type": "source_changed",
+      "since": "2026-10-14",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
     {
       "id": "turkiye-burslari-2027",
       "type": "source_changed",
@@ -75,6 +79,12 @@
       "id": "vlir-uos-icp-connect-2027",
       "type": "source_changed",
       "since": "2026-10-13",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "noha-erasmus-mundus-humanitarian-action-2027",
+      "type": "source_changed",
+      "since": "2026-10-14",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ],
@@ -101,7 +111,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 1
     },
     {
       "name": "Opportunities for Africans",
@@ -109,7 +119,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4
+      "new": 0
     },
     {
       "name": "Global South Opportunities",
@@ -117,7 +127,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 5
     },
     {
       "name": "Opportunities for Youth",
@@ -139,8 +149,8 @@
       "name": "OYA Opportunities",
       "url": "https://oyaop.com/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 10,
+      "status": 0,
+      "items": 0,
       "new": 0
     },
     {
@@ -149,7 +159,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 1
+      "new": 2
     },
     {
       "name": "Opportunites du Monde",
@@ -157,7 +167,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 1
     },
     {
       "name": "Afri-Carrieres",
@@ -200,14 +210,6 @@
       "new": 0
     }
   ],
-  "reseen": [
-    {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Eiffel Excellence Scholarship 2027 in France (Fully Funded)",
-      "url": "https://opportunitiescorners.com/eiffel-excellence-scholarship-2027/",
-      "source": "Opportunities Corners",
-      "seen": "2026-10-13"
-    }
-  ],
-  "new_leads_last_run": 12
+  "reseen": [],
+  "new_leads_last_run": 9
 }

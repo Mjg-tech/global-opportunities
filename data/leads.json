@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "leads": [
+    {
+      "id": "6513fe956ce5",
+      "title": "CERI Genomics and Bioinformatics Fellowships 2027 at Stellenbosch University, South Africa",
+      "url": "https://www.globalsouthopportunities.com/2026/10/14/fellow-36/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2331d92a9b24",
+      "title": "AmaliTech Apprenticeship Programme 2026: Paid Software and Data Engineering Training in Rwanda",
+      "url": "https://www.globalsouthopportunities.com/2026/10/14/apprenticeship/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "82e7c6a5669f",
+      "title": "Fatima Institute for Global AI Research Fellowship 2026: AI Research Mentorship, Computing Resources and Graduate School Support",
+      "url": "https://www.globalsouthopportunities.com/2026/10/14/fellowship-302/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "27ddf8b227ef",
+      "title": "UNU Junior Fellows Internship 2027 in Japan (PAID)",
+      "url": "https://opportunitiescorners.com/unu-junior-fellows-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ec1eccf3ec03",
+      "title": "Appel à candidatures – Programme de Bourses d’excellence 2026 de la Fondation Banque Ouest-Africaine de Développement (BOAD)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/droit/appel-a-candidatures-programme-de-bourses-dexcellence-2026-de-la-fondation-banque-ouest-africaine-de-developpement-boad/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cb47f49f29da",
+      "title": "World Food Forum (WFF) Young Scientists Group 2027-2029",
+      "url": "https://opportunitydesk.org/2026/10/13/wff-young-scientists-group-2027-2029/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "65751c09a347",
+      "title": "Rescate Wildlife Rescue Center Conservation Internship Opportunity: Gain Hands-On Experience with Endangered Animals",
+      "url": "https://www.globalsouthopportunities.com/2026/10/13/conservation-7/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "72ecde4f6933",
+      "title": "Explore the Beit Trust Postgraduate Scholarships 2027: Fully Funded Master’s Study in the UK and South Africa",
+      "url": "https://www.globalsouthopportunities.com/2026/10/13/trust-7/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a18de2a4a702",
+      "title": "Vancouver Digital Diplomacy Forum 2027 in Canada",
+      "url": "https://opportunitiescorners.com/vancouver-digital-diplomacy-forum-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-13",
+      "first_seen": "2026-10-14",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "31b40cbeab96",
       "title": "Afreximbank Group Internship Programme 2027",
@@ -127,7 +226,10 @@
       "language": "en",
       "published": "2026-10-12",
       "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "03c1a76703a0",
