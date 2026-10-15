@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-14T10:14:16Z",
+  "last_refresh": "2026-10-15T09:55:33Z",
   "counts": {
     "total": 57,
     "archived": 0,
@@ -51,10 +51,10 @@
       "hsc-youth-ambassador-program-2027",
       "mastercard-foundation-scholars-edinburgh-2027"
     ],
-    "3": [
+    "3": [],
+    "1": [
       "aspire-leaders-program-2026-cohort-4"
-    ],
-    "1": []
+    ]
   },
   "watch": {
     "checked": 57,
@@ -86,6 +86,12 @@
       "type": "source_changed",
       "since": "2026-10-14",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "epog-jm-erasmus-mundus-2027",
+      "type": "source_changed",
+      "since": "2026-10-15",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ],
   "feeds": [
@@ -111,7 +117,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 7
     },
     {
       "name": "Opportunities for Africans",
@@ -119,7 +125,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Global South Opportunities",
@@ -159,7 +165,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Opportunites du Monde",
@@ -181,7 +187,7 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 403,
+      "status": 202,
       "items": 0,
       "new": 0
     },
@@ -210,6 +216,28 @@
       "new": 0
     }
   ],
-  "reseen": [],
-  "new_leads_last_run": 9
+  "reseen": [
+    {
+      "id": "france-excellence-eiffel-2027",
+      "title": "France Excellence Eiffel Scholarship Program 2026-2027",
+      "url": "https://opportunitydesk.org/2026/10/14/france-excellence-eiffel-scholarship-program-2026-2027/",
+      "source": "Opportunity Desk",
+      "seen": "2026-10-15"
+    },
+    {
+      "id": "france-excellence-eiffel-2027",
+      "title": "The French Government Eiffel Excellence Scholarship Programme 2027 for Masters & Ph.D. Study in France (Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-french-government-eiffel-excellence-scholarship-programme-2027/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-15"
+    },
+    {
+      "id": "mext-scholarship-embassy-drc",
+      "title": "University of Tokyo MEXT Scholarship 2027 in Japan (Fully Funded)",
+      "url": "https://opportunitiescorners.com/university-of-tokyo-mext-scholarship-2027/",
+      "source": "Opportunities Corners",
+      "seen": "2026-10-15"
+    }
+  ],
+  "new_leads_last_run": 14
 }

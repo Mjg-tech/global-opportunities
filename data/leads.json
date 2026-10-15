@@ -1,7 +1,164 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-14",
+  "updated": "2026-10-15",
   "leads": [
+    {
+      "id": "3073974b4059",
+      "title": "Call for Applications: 2027 African Peacebuilding and Developmental Dynamics (APDD) Fellowship Awards – Research Fellowships and Opportunities",
+      "url": "https://www.globalsouthopportunities.com/2026/10/15/african-56/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6036d2b7b360",
+      "title": "UN DPoA MTR Journalism Fellowship 2027: Fully Funded Opportunity for Journalists from Least Developed Countries",
+      "url": "https://www.globalsouthopportunities.com/2026/10/15/fellowship-303/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "726f106cd782",
+      "title": "Marine Conservation Internships in Zanzibar 2027: International Applicants Invited",
+      "url": "https://www.globalsouthopportunities.com/2026/10/15/marine/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "605339c3ee53",
+      "title": "Highly Paying Microsoft Research Internship 2026: Machine Learning and Statistics Interns Earn Up to $14,610 Monthly",
+      "url": "https://www.globalsouthopportunities.com/2026/10/15/microsoft-4/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a65483eb92ce",
+      "title": "Symrise South Africa Internships 2026/2027: 8 Opportunities in Engineering, Marketing, Research and Business Support",
+      "url": "https://www.globalsouthopportunities.com/2026/10/15/symrise/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a1dd8505098d",
+      "title": "Appel à candidatures – Programme de Stages 2026 de la Banque Africaine d’Import-Export (une allocation de 1000 USD/mois + allocation logement de 500 USD pour les Stagiaires qui déménagent de leur pays d’origine)",
+      "url": "https://www.lesopportunites.com/opportunite/egypte/stages/comptabilite-audit/appel-a-candidatures-programme-de-stages-2026-de-la-banque-africaine-dimport-export-une-allocation-de-1000-usd-mois-allocation-logement-de-500-usd-pour-les-stagiaires-qui-demenagent-de-leur-pay/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "50dc7c44fe77",
+      "title": "Changemakers for Youth Programme 2027 (Stipend available)",
+      "url": "https://opportunitydesk.org/2026/10/14/changemakers-for-youth-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7e354414f2f6",
+      "title": "Tyler Prize Student Ambassador 2027",
+      "url": "https://opportunitydesk.org/2026/10/14/tyler-prize-student-ambassador-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "62966af6a8cd",
+      "title": "OD Impact Challenge 2026: Get Ready to Share Your Impact!",
+      "url": "https://opportunitydesk.org/2026/10/14/od-impact-challenge-2026-get-ready-to-share-your-impact/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6f3c64a2d6f5",
+      "title": "From Rejections to ‘Congratulations’ : What to Do After Winning a Life-Changing Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/14/from-rejections-to-congratulations-what-to-do-after-winning-a-life-changing-scholarship/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b0a18d08dcac",
+      "title": "Call for Volunteers: Atlantic Dialogues Conference 2026",
+      "url": "https://opportunitydesk.org/2026/10/14/call-for-volunteers-atlantic-dialogues-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "fafcca27ec6f",
+      "title": "World Economic Forum Technology Pioneers 2027",
+      "url": "https://opportunitydesk.org/2026/10/14/world-economic-forum-technology-pioneers-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "61fdacb37cff",
+      "title": "International Funders for Indigenous Peoples (IFIP) Global Conference 2027 Scholarship",
+      "url": "https://opportunitydesk.org/2026/10/14/ifip-global-conference-2027-scholarship/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "078c433ccd32",
+      "title": "The Deutsche Welle (DW) Akademie International Journalism Traineeship 2028/2029 for Journalists Worldwide (18-month paid journalism program)",
+      "url": "https://www.opportunitiesforafricans.com/the-deutsche-welle-dw-akademie-international-journalism-traineeship-2028-2029/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-14",
+      "first_seen": "2026-10-15",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "6513fe956ce5",
       "title": "CERI Genomics and Bioinformatics Fellowships 2027 at Stellenbosch University, South Africa",
@@ -22,7 +179,10 @@
       "language": "en",
       "published": "2026-10-14",
       "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "82e7c6a5669f",
