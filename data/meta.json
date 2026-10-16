@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-15T09:55:33Z",
+  "last_refresh": "2026-10-16T09:49:55Z",
   "counts": {
     "total": 57,
     "archived": 0,
@@ -38,6 +38,7 @@
     "30": [
       "dalai-lama-fellows-2027",
       "global-leadership-challenge-2026",
+      "kectil-program-2027",
       "mastercard-foundation-scholars-uct-2027",
       "one-young-world-leading-scholarship-2026",
       "open-doors-russian-scholarship-masters-2027",
@@ -47,19 +48,19 @@
       "international-dialogue-sdg17-baku-2026",
       "rlrh-graduate-horizons-2027"
     ],
-    "7": [
+    "7": [],
+    "3": [
       "hsc-youth-ambassador-program-2027",
       "mastercard-foundation-scholars-edinburgh-2027"
     ],
-    "3": [],
     "1": [
       "aspire-leaders-program-2026-cohort-4"
     ]
   },
   "watch": {
     "checked": 57,
-    "ok": 49,
-    "blocked_or_unreachable": 8,
+    "ok": 48,
+    "blocked_or_unreachable": 9,
     "dead": 0
   },
   "flags": [
@@ -117,7 +118,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 7
+      "new": 4
     },
     {
       "name": "Opportunities for Africans",
@@ -133,7 +134,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 5
+      "new": 3
     },
     {
       "name": "Opportunities for Youth",
@@ -155,8 +156,8 @@
       "name": "OYA Opportunities",
       "url": "https://oyaop.com/feed/",
       "tier": 3,
-      "status": 0,
-      "items": 0,
+      "status": 200,
+      "items": 10,
       "new": 0
     },
     {
@@ -165,7 +166,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -173,7 +174,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Afri-Carrieres",
@@ -187,7 +188,7 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 202,
+      "status": 520,
       "items": 0,
       "new": 0
     },
@@ -219,25 +220,25 @@
   "reseen": [
     {
       "id": "france-excellence-eiffel-2027",
-      "title": "France Excellence Eiffel Scholarship Program 2026-2027",
-      "url": "https://opportunitydesk.org/2026/10/14/france-excellence-eiffel-scholarship-program-2026-2027/",
-      "source": "Opportunity Desk",
-      "seen": "2026-10-15"
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
       "title": "The French Government Eiffel Excellence Scholarship Programme 2027 for Masters & Ph.D. Study in France (Funded)",
       "url": "https://www.opportunitiesforafricans.com/the-french-government-eiffel-excellence-scholarship-programme-2027/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-15"
+      "seen": "2026-10-16"
+    },
+    {
+      "id": "france-excellence-eiffel-2027",
+      "title": "France Excellence Eiffel Scholarship 2027 in France | Fully Funded",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/france-excellence-eiffel-scholarship-2027-in-france-fully-funded/",
+      "source": "OYA Opportunities",
+      "seen": "2026-10-16"
     },
     {
       "id": "mext-scholarship-embassy-drc",
       "title": "University of Tokyo MEXT Scholarship 2027 in Japan (Fully Funded)",
       "url": "https://opportunitiescorners.com/university-of-tokyo-mext-scholarship-2027/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-15"
+      "seen": "2026-10-16"
     }
   ],
-  "new_leads_last_run": 14
+  "new_leads_last_run": 9
 }

@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "leads": [
+    {
+      "id": "244ea6b09f90",
+      "title": "United Nations University (UNU) Junior Fellows Internship 2027",
+      "url": "https://opportunitydesk.org/2026/10/16/unu-junior-fellows-internship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e02c8812b661",
+      "title": "WWF Russell E. Train Fellowships 2027 (up to $15,000)",
+      "url": "https://opportunitydesk.org/2026/10/16/wwf-russell-e-train-fellowships-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "797738d56bfe",
+      "title": "UNICEF Yutopia Intrapreneur Fellowship Programme 2026: A Six-Month Leadership Opportunity for Young HR Professionals",
+      "url": "https://www.globalsouthopportunities.com/2026/10/16/fellowship-304/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6e6a13de9852",
+      "title": "Stanford University John S. Knight Journalism Fellowships 2027–28: Receive a $135,000 Stipend",
+      "url": "https://www.globalsouthopportunities.com/2026/10/16/stanford-8/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "511fe6946942",
+      "title": "Toronto Metropolitan University Global Migration Institute Scholarships 2027-2028",
+      "url": "https://opportunitydesk.org/2026/10/15/tmu-global-migration-institute-scholarships-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "eed3db856ff4",
+      "title": "Harrison Middleton University (HMU) Fellowship in Ideas 2027",
+      "url": "https://opportunitydesk.org/2026/10/15/hmu-fellowship-in-ideas-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a1acd3f6c638",
+      "title": "The Changemakers for Youth Programme 2027 for young changemakers and social entrepreneurs.",
+      "url": "https://www.opportunitiesforafricans.com/the-changemakers-for-youth-programme-2027-for-young-changemakers-and-social-entrepreneurs/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5f52e50d6fa9",
+      "title": "Anthropic Fellows Program 2027: AI Safety and Security Research Fellowship",
+      "url": "https://www.globalsouthopportunities.com/2026/10/15/anthropic-9/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "27289da2aca9",
+      "title": "Universal Youth Leadership Summit Malaysia 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/universal-youth-leadership-summit-malaysia-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-15",
+      "first_seen": "2026-10-16",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "3073974b4059",
       "title": "Call for Applications: 2027 African Peacebuilding and Developmental Dynamics (APDD) Fellowship Awards – Research Fellowships and Opportunities",
@@ -11,7 +110,10 @@
       "language": "en",
       "published": "2026-10-15",
       "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "6036d2b7b360",
@@ -204,7 +306,10 @@
       "language": "en",
       "published": "2026-10-14",
       "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "ec1eccf3ec03",
@@ -317,7 +422,10 @@
       "language": "en",
       "published": "2026-10-13",
       "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "e808171c2686",
@@ -375,7 +483,10 @@
       "language": "en",
       "published": "2026-10-12",
       "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "2753325315d5",
