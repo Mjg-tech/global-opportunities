@@ -1,7 +1,131 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-16",
+  "updated": "2026-10-17",
   "leads": [
+    {
+      "id": "b88185028555",
+      "title": "Bloomberg CTO AI Research Internship 2027: Graduate Students Can Apply for AI Research Opportunities — Deadline October 19",
+      "url": "https://www.globalsouthopportunities.com/2026/10/17/bloomberg-3/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-17",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "9d4524104b66",
+      "title": "Fully Funded African Studies Visiting Fellowship at Oxford 2027-28: Applications Now Open for Sub-Saharan African Scholars",
+      "url": "https://www.globalsouthopportunities.com/2026/10/17/visiting-2/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-17",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0c4211ba89c3",
+      "title": "Appel à Candidatures – Programme de Bourses d’Analyse Gouvernementale 2027 de la Banque Mondiale",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/cooperation-internationale/appel-a-candidatures-programme-de-bourses-danalyse-gouvernementale-2027-de-la-banque-mondiale/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-17",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "41d9cacb0432",
+      "title": "Apply Now: Allianz x Social Shifters MoveNow Social Innovation Challenge 2026 | $90,000 in Funding for Young Innovators",
+      "url": "https://opportunitydesk.org/2026/10/16/allianz-x-social-shifters-movenow-social-innovation-challenge-2026-for-young-innovators/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "43ae3a49180f",
+      "title": "EJN Reporting Fellowships 2026 for Journalists to Cover BBNJ COP1 in New York City, USA",
+      "url": "https://opportunitydesk.org/2026/10/16/ejn-reporting-fellowships-2026-for-journalists-to-cover-bbnj-cop1/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "eba4f4c17dbd",
+      "title": "Harvard Kennedy School Center for Public Leadership Equity Fellowship 2027-2028",
+      "url": "https://opportunitydesk.org/2026/10/16/hks-cpl-equity-fellowship-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "fe5a00ca3abd",
+      "title": "Weidenfeld-Hoffmann Scholarships and Leadership Programme 2027-2028",
+      "url": "https://opportunitydesk.org/2026/10/16/weidenfeld-hoffmann-scholarships-and-leadership-programme-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ec952f7b7b0c",
+      "title": "The Knight-Wallace Journalism Fellowship 2027/2028 for mid-career Journalists to study at the University of Michighan-USA (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/knight-wallace-journalism-fellowship-2027-2028/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3d8a2e056eb0",
+      "title": "The MTN Y’ello Mums Reintegration Programme 2026 for career-oriented mothers.",
+      "url": "https://www.opportunitiesforafricans.com/the-mtn-yello-mums-reintegration-programme-2026-for-career-oriented-mothers/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b05224968e17",
+      "title": "THE DO IncuVersity Program 2027 (Two-year global entrepreneurship program) – Full and partial tuition scholarships available.",
+      "url": "https://www.opportunitiesforafricans.com/the-do-incuversity-program-2027-two-year-global-entrepreneurship-program/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e90d5babb602",
+      "title": "The World Intellectual Property Organization (WIPO) Intellectual Property Moot Court Competition 2027 for law students ( Fully Funded to In-person finals at WIPO Headquarters in Geneva, Switzerland)",
+      "url": "https://www.opportunitiesforafricans.com/world-intellectual-property-organization-wipo-intellectual-property-moot-court-competition-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-16",
+      "first_seen": "2026-10-17",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "244ea6b09f90",
       "title": "United Nations University (UNU) Junior Fellows Internship 2027",
@@ -44,7 +168,11 @@
       "language": "en",
       "published": "2026-10-16",
       "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk",
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "511fe6946942",
@@ -308,7 +436,8 @@
       "first_seen": "2026-10-14",
       "status": "NEEDS VERIFICATION",
       "also_seen_in": [
-        "Opportunities for Africans"
+        "Opportunities for Africans",
+        "OYA Opportunities"
       ]
     },
     {

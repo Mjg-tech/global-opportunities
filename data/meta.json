@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-16T09:49:55Z",
+  "last_refresh": "2026-10-17T09:21:52Z",
   "counts": {
     "total": 57,
     "archived": 0,
     "by_status": {
-      "OPEN": 24,
-      "CLOSING SOON": 5,
+      "OPEN": 22,
+      "CLOSING SOON": 6,
       "UPCOMING": 16,
-      "DEADLINE PASSED": 3,
+      "DEADLINE PASSED": 4,
       "ROLLING": 0,
       "DATE UNKNOWN": 9
     },
@@ -39,23 +39,22 @@
       "dalai-lama-fellows-2027",
       "global-leadership-challenge-2026",
       "kectil-program-2027",
-      "mastercard-foundation-scholars-uct-2027",
-      "one-young-world-leading-scholarship-2026",
       "open-doors-russian-scholarship-masters-2027",
       "ustc-international-winter-camp-2027"
     ],
     "14": [
-      "international-dialogue-sdg17-baku-2026",
+      "mastercard-foundation-scholars-uct-2027",
+      "one-young-world-leading-scholarship-2026",
       "rlrh-graduate-horizons-2027"
     ],
-    "7": [],
+    "7": [
+      "international-dialogue-sdg17-baku-2026"
+    ],
     "3": [
       "hsc-youth-ambassador-program-2027",
       "mastercard-foundation-scholars-edinburgh-2027"
     ],
-    "1": [
-      "aspire-leaders-program-2026-cohort-4"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 57,
@@ -80,6 +79,12 @@
       "id": "vlir-uos-icp-connect-2027",
       "type": "source_changed",
       "since": "2026-10-13",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "mastercard-foundation-scholars-sciences-po-2027",
+      "type": "source_changed",
+      "since": "2026-10-17",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -126,7 +131,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 4
     },
     {
       "name": "Global South Opportunities",
@@ -134,7 +139,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 2
     },
     {
       "name": "Opportunities for Youth",
@@ -166,7 +171,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Opportunites du Monde",
@@ -174,7 +179,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Afri-Carrieres",
@@ -219,26 +224,33 @@
   ],
   "reseen": [
     {
-      "id": "france-excellence-eiffel-2027",
-      "title": "The French Government Eiffel Excellence Scholarship Programme 2027 for Masters & Ph.D. Study in France (Funded)",
-      "url": "https://www.opportunitiesforafricans.com/the-french-government-eiffel-excellence-scholarship-programme-2027/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-10-16"
+      "id": "mext-scholarship-embassy-drc",
+      "title": "University of Tokyo Scholarship 2027 in Japan | Fully Funded MEXT Scholarship",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-tokyo-scholarship-2027-in-japan-fully-funded-mext-scholarship/",
+      "source": "OYA Opportunities",
+      "seen": "2026-10-17"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "France Excellence Eiffel Scholarship 2027 in France | Fully Funded",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/france-excellence-eiffel-scholarship-2027-in-france-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-16"
+      "seen": "2026-10-17"
     },
     {
       "id": "mext-scholarship-embassy-drc",
       "title": "University of Tokyo MEXT Scholarship 2027 in Japan (Fully Funded)",
       "url": "https://opportunitiescorners.com/university-of-tokyo-mext-scholarship-2027/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-16"
+      "seen": "2026-10-17"
+    },
+    {
+      "id": "france-excellence-eiffel-2027",
+      "title": "Appel à Candidatures 2027 – Programme de Bourses France Excellence Eiffel",
+      "url": "https://www.lesopportunites.com/opportunite/france/bourses/recherche-innovationdeveloppt/appel-a-candidatures-2027-programme-de-bourses-france-excellence-eiffel/",
+      "source": "Opportunites du Monde",
+      "seen": "2026-10-17"
     }
   ],
-  "new_leads_last_run": 9
+  "new_leads_last_run": 11
 }
