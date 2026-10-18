@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-17T09:21:52Z",
+  "last_refresh": "2026-10-18T09:39:03Z",
   "counts": {
     "total": 57,
     "archived": 0,
     "by_status": {
-      "OPEN": 22,
-      "CLOSING SOON": 6,
+      "OPEN": 21,
+      "CLOSING SOON": 7,
       "UPCOMING": 16,
       "DEADLINE PASSED": 4,
       "ROLLING": 0,
@@ -39,27 +39,27 @@
       "dalai-lama-fellows-2027",
       "global-leadership-challenge-2026",
       "kectil-program-2027",
-      "open-doors-russian-scholarship-masters-2027",
       "ustc-international-winter-camp-2027"
     ],
     "14": [
       "mastercard-foundation-scholars-uct-2027",
       "one-young-world-leading-scholarship-2026",
-      "rlrh-graduate-horizons-2027"
+      "open-doors-russian-scholarship-masters-2027"
     ],
     "7": [
-      "international-dialogue-sdg17-baku-2026"
+      "international-dialogue-sdg17-baku-2026",
+      "rlrh-graduate-horizons-2027"
     ],
-    "3": [
+    "3": [],
+    "1": [
       "hsc-youth-ambassador-program-2027",
       "mastercard-foundation-scholars-edinburgh-2027"
-    ],
-    "1": []
+    ]
   },
   "watch": {
     "checked": 57,
-    "ok": 48,
-    "blocked_or_unreachable": 9,
+    "ok": 46,
+    "blocked_or_unreachable": 11,
     "dead": 0
   },
   "flags": [
@@ -123,7 +123,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4
+      "new": 0
     },
     {
       "name": "Opportunities for Africans",
@@ -131,7 +131,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4
+      "new": 0
     },
     {
       "name": "Global South Opportunities",
@@ -139,7 +139,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 4
     },
     {
       "name": "Opportunities for Youth",
@@ -171,7 +171,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -228,29 +228,29 @@
       "title": "University of Tokyo Scholarship 2027 in Japan | Fully Funded MEXT Scholarship",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-tokyo-scholarship-2027-in-japan-fully-funded-mext-scholarship/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-17"
+      "seen": "2026-10-18"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "France Excellence Eiffel Scholarship 2027 in France | Fully Funded",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/france-excellence-eiffel-scholarship-2027-in-france-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-17"
+      "seen": "2026-10-18"
     },
     {
       "id": "mext-scholarship-embassy-drc",
       "title": "University of Tokyo MEXT Scholarship 2027 in Japan (Fully Funded)",
       "url": "https://opportunitiescorners.com/university-of-tokyo-mext-scholarship-2027/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-17"
+      "seen": "2026-10-18"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Appel à Candidatures 2027 – Programme de Bourses France Excellence Eiffel",
       "url": "https://www.lesopportunites.com/opportunite/france/bourses/recherche-innovationdeveloppt/appel-a-candidatures-2027-programme-de-bourses-france-excellence-eiffel/",
       "source": "Opportunites du Monde",
-      "seen": "2026-10-17"
+      "seen": "2026-10-18"
     }
   ],
-  "new_leads_last_run": 11
+  "new_leads_last_run": 6
 }

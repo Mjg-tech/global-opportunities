@@ -1,7 +1,73 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "leads": [
+    {
+      "id": "a2ebf6551e45",
+      "title": "Palantir Meritocracy Fellowship 2026: Five-Week Programme Offers Intensive Learning and Software Engineering Experience",
+      "url": "https://www.globalsouthopportunities.com/2026/10/18/palantir-2/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-18",
+      "first_seen": "2026-10-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1ad8f2aa514c",
+      "title": "Apple Machine Learning Research Internship 2026 in Switzerland: Computer Vision and LLM Efficiency",
+      "url": "https://www.globalsouthopportunities.com/2026/10/18/internship-130/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-18",
+      "first_seen": "2026-10-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b632df8c2cca",
+      "title": "Restless Development People and Performance Internship 2026 in Uganda: Earn UGX 700,000 Monthly",
+      "url": "https://www.globalsouthopportunities.com/2026/10/18/development-53/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-18",
+      "first_seen": "2026-10-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e83bb207989a",
+      "title": "Kroc Institute Visiting Research Fellowships 2027–28: Earn $30,000 Per Semester and Receive Free Housing",
+      "url": "https://www.globalsouthopportunities.com/2026/10/18/institute-9/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-18",
+      "first_seen": "2026-10-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cd23449014b3",
+      "title": "Japan Youth Summit 2027 | JYS Osaka (10-13 May)",
+      "url": "https://opportunitiescorners.com/japan-youth-summit-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-17",
+      "first_seen": "2026-10-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "21feec7be71d",
+      "title": "Appel à candidatures – Programme de Bourses de leadership Mo Ibrahim 2027 au siège de la BAD",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/banque/appel-a-candidatures-programme-de-bourses-de-leadership-mo-ibrahim-2027-au-siege-de-la-bad/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-17",
+      "first_seen": "2026-10-18",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "b88185028555",
       "title": "Bloomberg CTO AI Research Internship 2027: Graduate Students Can Apply for AI Research Opportunities — Deadline October 19",
@@ -517,7 +583,8 @@
       "first_seen": "2026-10-13",
       "status": "NEEDS VERIFICATION",
       "also_seen_in": [
-        "Opportunities for Africans"
+        "Opportunities for Africans",
+        "Opportunities Corners"
       ]
     },
     {
@@ -753,7 +820,10 @@
       "language": "en",
       "published": "2026-10-10",
       "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities Corners"
+      ]
     },
     {
       "id": "75157f6c7559",
@@ -1539,7 +1609,8 @@
       "first_seen": "2026-10-06",
       "status": "NEEDS VERIFICATION",
       "also_seen_in": [
-        "OYA Opportunities"
+        "OYA Opportunities",
+        "Global South Opportunities"
       ]
     },
     {
