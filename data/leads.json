@@ -1,7 +1,62 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "leads": [
+    {
+      "id": "ed10091f7c65",
+      "title": "Emerging Leaders Programme 2026: Fully Sponsored Leadership Opportunity for Mid-Level Executives Across Africa",
+      "url": "https://www.globalsouthopportunities.com/2026/10/19/emerging-2/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-19",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5763a7b4fa45",
+      "title": "Apply for the FAO Internship Programme for Africa 2026–2027: Apply for Paid UN Internships",
+      "url": "https://www.globalsouthopportunities.com/2026/10/19/internship-70/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-19",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a05f80147c56",
+      "title": "CrossCulture Program 2027 in Germany (Fully Funded)",
+      "url": "https://opportunitiescorners.com/crossculture-program-2027-in-germany/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-19",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "28d01aaa6c35",
+      "title": "Scout Adventures Volunteer Program 2026 UK (Fully Funded)",
+      "url": "https://opportunitiescorners.com/scout-adventures-volunteer-program/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-19",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "22f24a8d6710",
+      "title": "Keio University Japan ADB Scholarship 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/keio-university-japan-adb-scholarship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-18",
+      "first_seen": "2026-10-19",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "a2ebf6551e45",
       "title": "Palantir Meritocracy Fellowship 2026: Five-Week Programme Offers Intensive Learning and Software Engineering Experience",
@@ -130,17 +185,6 @@
       "id": "eba4f4c17dbd",
       "title": "Harvard Kennedy School Center for Public Leadership Equity Fellowship 2027-2028",
       "url": "https://opportunitydesk.org/2026/10/16/hks-cpl-equity-fellowship-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "fe5a00ca3abd",
-      "title": "Weidenfeld-Hoffmann Scholarships and Leadership Programme 2027-2028",
-      "url": "https://opportunitydesk.org/2026/10/16/weidenfeld-hoffmann-scholarships-and-leadership-programme-2027-2028/",
       "source": "Opportunity Desk",
       "source_tier": 3,
       "language": "en",
@@ -559,17 +603,6 @@
       "language": "en",
       "published": "2026-10-13",
       "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "31b40cbeab96",
-      "title": "Afreximbank Group Internship Programme 2027",
-      "url": "https://opportunitydesk.org/2026/10/13/afreximbank-group-internship-programme-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-13",
       "status": "NEEDS VERIFICATION"
     },
     {
@@ -2240,7 +2273,10 @@
       "language": "en",
       "published": "2026-10-02",
       "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Global South Opportunities"
+      ]
     },
     {
       "id": "2a8f4e376729",

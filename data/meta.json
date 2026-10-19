@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-19T07:36:54Z",
+  "last_refresh": "2026-10-19T10:47:17Z",
   "counts": {
     "total": 61,
     "archived": 0,
@@ -57,46 +57,16 @@
     ]
   },
   "watch": {
-    "checked": 57,
-    "ok": 46,
+    "checked": 61,
+    "ok": 50,
     "blocked_or_unreachable": 11,
     "dead": 0
   },
   "flags": [
     {
-      "id": "si-scholarship-global-professionals",
+      "id": "african-union-youth-volunteer-corps",
       "type": "source_changed",
-      "since": "2026-10-14",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "turkiye-burslari-2027",
-      "type": "source_changed",
-      "since": "2026-10-13",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "vlir-uos-icp-connect-2027",
-      "type": "source_changed",
-      "since": "2026-10-13",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "mastercard-foundation-scholars-sciences-po-2027",
-      "type": "source_changed",
-      "since": "2026-10-17",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "noha-erasmus-mundus-humanitarian-action-2027",
-      "type": "source_changed",
-      "since": "2026-10-14",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "epog-jm-erasmus-mundus-2027",
-      "type": "source_changed",
-      "since": "2026-10-15",
+      "since": "2026-10-19",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ],
@@ -139,7 +109,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4
+      "new": 2
     },
     {
       "name": "Opportunities for Youth",
@@ -171,7 +141,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 1
+      "new": 3
     },
     {
       "name": "Opportunites du Monde",
@@ -179,7 +149,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Afri-Carrieres",
@@ -193,7 +163,7 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 520,
+      "status": 202,
       "items": 0,
       "new": 0
     },
@@ -224,33 +194,33 @@
   ],
   "reseen": [
     {
+      "id": "weidenfeld-hoffmann-scholarships-oxford-2027",
+      "title": "Weidenfeld-Hoffmann Scholarships and Leadership Programme 2027-2028",
+      "url": "https://opportunitydesk.org/2026/10/16/weidenfeld-hoffmann-scholarships-and-leadership-programme-2027-2028/",
+      "source": "Opportunity Desk",
+      "seen": "2026-10-19"
+    },
+    {
       "id": "mext-scholarship-embassy-drc",
       "title": "University of Tokyo Scholarship 2027 in Japan | Fully Funded MEXT Scholarship",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-tokyo-scholarship-2027-in-japan-fully-funded-mext-scholarship/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-18"
+      "seen": "2026-10-19"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "France Excellence Eiffel Scholarship 2027 in France | Fully Funded",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/france-excellence-eiffel-scholarship-2027-in-france-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-18"
-    },
-    {
-      "id": "mext-scholarship-embassy-drc",
-      "title": "University of Tokyo MEXT Scholarship 2027 in Japan (Fully Funded)",
-      "url": "https://opportunitiescorners.com/university-of-tokyo-mext-scholarship-2027/",
-      "source": "Opportunities Corners",
-      "seen": "2026-10-18"
+      "seen": "2026-10-19"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Appel à Candidatures 2027 – Programme de Bourses France Excellence Eiffel",
       "url": "https://www.lesopportunites.com/opportunite/france/bourses/recherche-innovationdeveloppt/appel-a-candidatures-2027-programme-de-bourses-france-excellence-eiffel/",
       "source": "Opportunites du Monde",
-      "seen": "2026-10-18"
+      "seen": "2026-10-19"
     }
   ],
-  "new_leads_last_run": 6
+  "new_leads_last_run": 5
 }
