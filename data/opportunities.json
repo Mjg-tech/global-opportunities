@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-10-19",
   "opportunities": [
     {
       "id": "abe-initiative-jica",
@@ -267,6 +267,167 @@
       "notes": "",
       "match_keywords": [
         "afox"
+      ]
+    },
+    {
+      "id": "afreximbank-internship-programme",
+      "title": "Afreximbank Group Internship Programme",
+      "organization": "African Export-Import Bank (Afreximbank)",
+      "overview": "Paid in-person internship of three to six months, mostly at Afreximbank headquarters in Cairo (also other Group entities such as FEDA in Kigali). Applications are received throughout the year; cohorts start in January and June. The Bank pays a USD 1,000 monthly stipend, a USD 500 housing allowance for relocating interns, return airfare and a residence visa.",
+      "category": [
+        "Internship",
+        "Travel"
+      ],
+      "subcategory": [
+        "Paid internship",
+        "Development finance institution"
+      ],
+      "education_levels": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "country": "Egypt",
+      "city": "Cairo (or another Group entity headquarters, e.g. Kigali)",
+      "region": "North Africa",
+      "continent": "Africa",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "Three to six months; cohorts start in January and June.",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "'Open-ended.' 'Applications for internships are received throughout the year.'",
+      "deadline_timezone": "Not applicable",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": true,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "ROLLING",
+      "funding_type": "Substantially Funded",
+      "funding_details": [
+        "Monthly tax-free stipend of USD 1,000 and housing allowance of USD 500 for interns relocating from their home countries, paid at the end of each month",
+        "Reasonable return fare to the internship location, most economical direct routing from the institution of learning",
+        "One week of hotel accommodation (bed and breakfast) during induction; transfer to the hotel on arrival and at departure",
+        "Residence visa for the internship, if required",
+        "Interns pay their own accommodation (after induction), meals, transport, clothing, medical and group personal accident insurance"
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Partially covered",
+        "meals": "Not covered",
+        "visa": "Covered",
+        "insurance": "Not covered",
+        "local_transport": "Partially covered"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": true,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "None stated",
+      "stipend": "USD 1,000 per month tax-free, plus USD 500 housing allowance for relocating interns",
+      "eligibility": [
+        "Students with proof of enrolment in full-time undergraduate or postgraduate study",
+        "Preferred fields include economics, business administration, finance, accounting, social sciences, statistics, law, sciences, engineering",
+        "Nationals of Afreximbank Group member states, or students of African descent in the diaspora, or non-African students sharing the Bank's vision",
+        "Fluency in English or French and a working knowledge of the other",
+        "Aged between 20 and 32 in the year of application",
+        "Children of Afreximbank staff are not eligible"
+      ],
+      "nationality_requirements": [
+        "Nationals of Afreximbank Group member states (the DRC joined in December 2016 according to a news report; the Bank's member list was not read)"
+      ],
+      "age_requirement": "20 to 32 in the year of application",
+      "education_requirement": "Enrolled in full-time undergraduate or postgraduate study, with proof of enrolment",
+      "experience_requirement": "None stated",
+      "language_requirement": "Fluent English or French and working knowledge of the other; Arabic or Portuguese an advantage",
+      "other_requirements": [
+        "Recommendation from the institution of learning stating the proposed internship period (maximum six months)",
+        "Proof of medical and group personal accident insurance before starting"
+      ],
+      "documents_required": [
+        "Online application form",
+        "Letter of application",
+        "Current CV",
+        "Valid passport copy",
+        "Certified copies of academic certificates",
+        "Recommendation from the institution of learning",
+        "Statement of intent (maximum one A4 page)"
+      ],
+      "application_process": [
+        "Complete the online internship application form and upload documents",
+        "Applications are handled by the Bank's recruitment partner",
+        "No response within two weeks means the application was unsuccessful"
+      ],
+      "official_application_url": "https://www.afreximbank.com/careers/vacancies/internship/internship-opportunities/",
+      "official_information_url": "https://www.afreximbank.com/careers/vacancies/internship/internship-opportunities/",
+      "source_url": "https://www.afreximbank.com/careers/vacancies/internship/internship-opportunities/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Afreximbank: Internship Opportunities",
+          "url": "https://www.afreximbank.com/careers/vacancies/internship/internship-opportunities/",
+          "type": "Official"
+        },
+        {
+          "label": "Financial Afrik: L'Afreximbank accueille une nouvelle adhesion (DRC membership, 6 Dec 2016)",
+          "url": "https://www.financialafrik.com/2016/12/06/lafreximbank-accueille-une-nouvelle-adhesion/",
+          "type": "News"
+        },
+        {
+          "label": "Opportunity Desk: Afreximbank Group Internship Programme 2027",
+          "url": "https://opportunitydesk.org/2026/10/13/afreximbank-group-internship-programme-2027/",
+          "type": "Aggregator"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "Nationality (DRC is a member state per a news report), business administration field and English/French fit. The programme asks for proof of current enrolment and a recommendation from the institution of learning; the profile records no current enrolment, and the exact age (20-32 rule) is not recorded.",
+      "potential_issues": [
+        "Requires proof of current full-time enrolment; a 2024 graduate not enrolled may not qualify",
+        "Insurance, meals and most accommodation are at the intern's expense",
+        "No response within two weeks means rejection"
+      ],
+      "benefits": [
+        "USD 1,000 monthly stipend",
+        "USD 500 housing allowance",
+        "Return airfare",
+        "Residence visa",
+        "Rotation across departments of a pan-African development bank"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "Very High",
+        "travel": "High",
+        "networking": "High",
+        "funding": "High",
+        "accessibility": "Medium",
+        "profile_fit": "High"
+      },
+      "relevance_reason": "A paid trade-finance internship that matches business administration and operations interests; access depends on the enrolment requirement.",
+      "travel_value": "High",
+      "career_value": "Very High",
+      "academic_value": "Low",
+      "networking_value": "High",
+      "visa": {
+        "required": "Depends on placement (Egypt or Rwanda); not stated per nationality",
+        "support": "Residence visa provided by the Bank if required"
+      },
+      "upfront_cost_risk": "Medium: medical and personal accident insurance and first-month living costs must be paid before the stipend arrives at month end.",
+      "action": "Check whether you can obtain proof of enrolment and an institutional recommendation (for example through a current course); if so, apply on the Afreximbank internship page before the January or June cohort.",
+      "last_verified": "2026-10-19",
+      "date_discovered": "2026-10-19",
+      "notes": "Leads from Opportunity Desk (2026-10-13) and Opportunities for Africans (2026-10-12). Aggregators reported a 31 October 2026 deadline; the official page says open-ended.",
+      "match_keywords": [
+        "afreximbank internship",
+        "afreximbank group internship",
+        "african export-import bank internship"
       ]
     },
     {
@@ -1616,7 +1777,7 @@
         "One recommendation letter"
       ],
       "application_process": [
-        "Remaining optional information sessions: Friday 16 October 13:30-14:30 UTC and Wednesday 28 October 16:00-17:00 UTC (recordings available)",
+        "Remaining optional information session: Wednesday 28 October 16:00-17:00 UTC (a recording of an earlier session is available)",
         "Apply on apply.dalailamafellows.com by 11 November 2026, 22:00 UTC",
         "Interviews January 2027; notification February 2027"
       ],
@@ -1668,10 +1829,10 @@
         "support": "Not applicable"
       },
       "upfront_cost_risk": "None identified",
-      "action": "Apply before 11 November 2026, 22:00 UTC only if you lead, or have a concrete plan for, a community project you have worked with for at least six months. Attend the 16 or 28 October information session first.",
-      "last_verified": "2026-10-12",
+      "action": "Apply before 11 November 2026, 22:00 UTC only if you lead, or have a concrete plan for, a community project you have worked with for at least six months. Join the 28 October information session or watch the recording first.",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-05",
-      "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 October 2026: dates and requirements unchanged.",
+      "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed).",
       "match_keywords": [
         "dalai lama fellows"
       ]
@@ -1782,6 +1943,11 @@
           "type": "Official"
         },
         {
+          "label": "EPOG application platform (campaign and closing time)",
+          "url": "https://application.epog.eu/",
+          "type": "Official"
+        },
+        {
           "label": "EPOG tuition fees page",
           "url": "https://www.epog.eu/admission-and-scholarships/tuition-fees/",
           "type": "Official"
@@ -1823,9 +1989,9 @@
       },
       "upfront_cost_risk": "English test fee before the deadline; no application fee mentioned",
       "action": "Count the economics and statistics credits on the Licence transcript and convert the grade to a percentage; if both meet the thresholds, book an IELTS/TOEFL sitting and submit at application.epog.eu before 27 January 2027, 13:00 Paris time.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-12",
-      "notes": "Programme title in the EACEA catalogue: 'Economic POlicies for the Global bifurcation - Joint Master'.",
+      "notes": "Programme title in the EACEA catalogue: 'Economic POlicies for the Global bifurcation - Joint Master'. 19 October 2026 (source_changed flag): deadline 27 January 2027 13:00 Paris time, interviews March 2027 and results end of March 2027 unchanged; the application platform now lists the campaign 'EPOG-JM & GLOBAL COOP (2-year programme - 2027-2029)' with 'Closing: 27/01/2027 at 13:00', 'Time zone: Europe/Paris'. The admission page also states the separate 1-year programme is closed, with opening 'expected in March or April'.",
       "match_keywords": [
         "epog",
         "economic policies for the global",
@@ -1965,6 +2131,160 @@
       "notes": "See the separate records for Mundus MAPP and GLOCAL, the two programmes verified individually this cycle.",
       "match_keywords": [
         "erasmus mundus joint master"
+      ]
+    },
+    {
+      "id": "eric-bleumink-fellowship-groningen-2027",
+      "title": "Eric Bleumink Fellowship, University of Groningen (master's starting September 2027)",
+      "organization": "University of Groningen",
+      "overview": "University of Groningen grant for nationals of listed developing countries (DR Congo included) admitted to a one- or two-year master's programme starting in September. It covers tuition, international travel, subsistence, books and health insurance. There is no direct application: the Admission Office nominates candidates among applicants admitted before February.",
+      "category": [
+        "Scholarship"
+      ],
+      "subcategory": [
+        "Master's scholarship"
+      ],
+      "education_levels": [
+        "Master's"
+      ],
+      "country": "Netherlands",
+      "city": "Groningen",
+      "region": "Western Europe",
+      "continent": "Europe",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "One- or two-year master's programmes starting in September (2027 for this cycle)",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "'It is not possible to actively apply for an Eric Bleumink Fellowship Scholarship.' Only applicants with a provisional or unconditional admission offer 'before February' are considered, and the master application 'should be completed by the applicant before 1st of December' (no year stated on the page; for September 2027 entry this would be 1 December 2026, but no page states that year, so no date is recorded). The general FEB master's application deadline for September 2027 is 1 May 2027.",
+      "deadline_timezone": "Not stated (Netherlands)",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Substantially Funded",
+      "funding_details": [
+        "Tuition fee",
+        "Costs of international travel",
+        "Subsistence",
+        "Books",
+        "Health insurance",
+        "Limited number of grants; many applicants each year"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": true,
+      "local_transport_funded": false,
+      "participation_fee": "University of Groningen application fee for applicants with a non-Dutch qualification (amount not stated on the pages read; secondary search snippets mention EUR 100)",
+      "stipend": "Subsistence covered (amount not stated)",
+      "eligibility": [
+        "Nationality of a country in Appendix 1 (includes 'Congo (Dem Rep.)')",
+        "Provisional or unconditional admission to a University of Groningen master's programme before February",
+        "Excellent academic performance and excellent bachelor's grades, preferably confirmed by recommendation letters",
+        "Excellent English proficiency per the programme's admission requirements",
+        "Available for the whole programme; in good health for Dutch health insurance",
+        "No other means of financing the study"
+      ],
+      "nationality_requirements": [
+        "Nationals of the listed developing countries, DR Congo included"
+      ],
+      "age_requirement": "Unknown / Not specified",
+      "education_requirement": "Bachelor's degree meeting the admission requirements of the chosen master's, with excellent grades",
+      "experience_requirement": "Unknown / Not specified",
+      "language_requirement": "English test per programme: common baseline IELTS Academic 6.5 (6.0 per section) or TOEFL iBT 90; some programmes IELTS 7.0. IELTS Online and One Skill Retake not accepted. Exemptions do not cover French-taught degrees from the DRC.",
+      "other_requirements": [
+        "Nomination by the Admission Office with faculty Admission Boards; candidates cannot apply directly"
+      ],
+      "documents_required": [
+        "University of Groningen master's application (via Studielink and the university portal)",
+        "Transcripts and degree",
+        "English test result",
+        "Recommendation letters (preferred for the fellowship)"
+      ],
+      "application_process": [
+        "Choose a master's programme starting September 2027",
+        "Complete the master's application before 1 December 2026",
+        "Obtain an admission offer before February 2027; suitable candidates are informed of a nomination"
+      ],
+      "official_application_url": "https://www.rug.nl/feb/education/admission-application/apply-msc/int-diploma/",
+      "official_information_url": "https://www.rug.nl/education/scholarships/eric-bleumink-fund",
+      "source_url": "https://www.rug.nl/education/scholarships/eric-bleumink-fund",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "University of Groningen: Eric Bleumink Fellowship (countries, criteria, coverage, timing; last modified 11 August 2026)",
+          "url": "https://www.rug.nl/education/scholarships/eric-bleumink-fund",
+          "type": "Official"
+        },
+        {
+          "label": "University of Groningen FEB: Apply with an international diploma (application fee, 1 May 2027 deadline)",
+          "url": "https://www.rug.nl/feb/education/admission-application/apply-msc/int-diploma/",
+          "type": "Official"
+        },
+        {
+          "label": "University of Groningen: Master's language requirements",
+          "url": "https://www.rug.nl/education/application-enrolment-tuition-fees/admission/procedures/application-informatie/with-non-dutch-diploma/entry-requirements/master-language-requirements",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "DR Congo is on the eligible country list and the profile holds a bachelor's degree. The fellowship needs excellent grades (not recorded), an English test score (none recorded) and admission to a master's before February 2027.",
+      "potential_issues": [
+        "English test score required and none recorded; test must be booked quickly to meet the 1 December master application date",
+        "Selection by nomination only, with a limited number of grants",
+        "Application fee payable",
+        "'Before 1st of December' and 'before February' are stated without a year on the fellowship page",
+        "Accommodation is not itemised (subsistence is covered)"
+      ],
+      "benefits": [
+        "Tuition, international travel, subsistence, books and health insurance for a one- or two-year master's"
+      ],
+      "relevance": {
+        "academic": "High",
+        "career": "High",
+        "travel": "High",
+        "networking": "Medium",
+        "funding": "Very High",
+        "accessibility": "Medium",
+        "profile_fit": "High"
+      },
+      "relevance_reason": "Near-complete funding for a master's in the Netherlands, explicitly open to DRC nationals, with business, economics and public-administration programmes that match the profile; the English test and the short timeline are the barriers.",
+      "travel_value": "High",
+      "career_value": "High",
+      "academic_value": "High",
+      "networking_value": "Medium",
+      "visa": {
+        "required": "Yes",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Application fee and English test fee",
+      "action": "Book an IELTS Academic or TOEFL iBT test now, choose a Groningen master's (for example in the Faculty of Economics and Business), and complete the master's application before 1 December (the page gives no year; for September 2027 entry treat it as this December) so an admission offer can arrive before February.",
+      "last_verified": "2026-10-19",
+      "date_discovered": "2026-10-19",
+      "notes": "",
+      "match_keywords": [
+        "eric bleumink",
+        "bleumink fellowship",
+        "university of groningen scholarship",
+        "groningen eric bleumink"
       ]
     },
     {
@@ -2236,7 +2556,7 @@
       },
       "upfront_cost_risk": "Tuition and registration fees stay with the student.",
       "action": "The 2027 call is open: apply now for admission to two or three French master's programmes and ask each international office for its internal Eiffel deadline, which will fall before 6 January 2027.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "The English programme page still showed the 2026 campaign on 12 October 2026; the French page (updated 2 October 2026) carries the 2027 calendar. The French page lists the institutions' webinar as 'mercredi 4 novembre 2027', probably a typo for 2026. Implementation page links 'Regulations Eiffel 2027'.",
       "match_keywords": [
@@ -2661,7 +2981,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Apply early, since review is rolling, and keep 10 to 14 December free.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "12 October 2026: the About page calls it 'the fully virtual five-day challenge'; members 'can participate virtually from around the world'. All active participants receive a Certificate of Achievement from the University of Oxford and the St. Gallen Symposium; mentoring is by the Oxford Character Project. Challenge partners listed: Swiss Re, Schwarzman Scholars, one to be announced.",
       "match_keywords": [
@@ -2946,7 +3266,7 @@
       },
       "upfront_cost_risk": "Low",
       "action": "Apply on the official form before October 19, 2026 only if you can describe concrete sustainability or community work; keep December 7-11, 2026 free for the Roundtables.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-12",
       "notes": "Lead from Opportunity Desk / Opportunities for Africans. Facts read on the organiser's 2027 pages; aggregators' 'program fees covered' wording was not found on the official pages.",
       "match_keywords": [
@@ -3205,7 +3525,7 @@
       },
       "upfront_cost_risk": "High: application fee, and airfare paid upfront before any compensation",
       "action": "Do not pay the fee. This is listed as a warning: a paid application with few funded seats is a poor bet.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "12 October 2026: organiser page and aggregator re-read; deadline 24 October, results 27 October, event 23-26 November 2026 unchanged. Organiser page still shows 'Ticket $29.97' without saying what it pays for; aggregator still says 'The application fee is USD 24.24' and titles the event 'Fully Funded'. The application form on cognitoforms.com was not opened.",
       "match_keywords": [
@@ -3723,7 +4043,7 @@
       },
       "upfront_cost_risk": "None stated.",
       "action": "If you are 26 or younger, apply before 15 November 2026.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -4342,12 +4662,12 @@
       "location_type": "International travel",
       "delivery_mode": "In-person",
       "program_dates": "Master's courses starting in the 2027/28 academic year",
-      "application_deadline": "",
-      "deadline_utc": "",
-      "deadline_text": "'The deadline differs by course but is generally either the first week of December or the first week of January... it's the funding deadline you need to work towards.' Applications opened 11 September 2026; offers late March or early April 2027.",
-      "deadline_timezone": "UK time",
+      "application_deadline": "2026-12-08",
+      "deadline_utc": "2026-12-08T23:59:00Z",
+      "deadline_text": "Funding deadline depends on the course: 'December deadline: Tuesday 8 December 2026'; 'January deadline: Wednesday 6 January 2027'. 'Your complete application, including references, must be submitted by 23:59 GMT on that deadline.' Check the chosen course page. Offer letters 'late March or early April'.",
+      "deadline_timezone": "UK time (GMT)",
       "opens_on": "2026-09-11",
-      "open_now": true,
+      "open_now": false,
       "rolling": false,
       "recurring": true,
       "expected_next_cycle": "",
@@ -4355,8 +4675,8 @@
       "status": "OPEN",
       "funding_type": "Fully Funded",
       "funding_details": [
-        "Covers: 'Course fee; Maintenance / living allowance; Visa and health surcharge; Travel inc. flights and taxi into Cambridge; Laptop'",
-        "Application fee waived automatically for listed countries, including 'Congo (Dem. Rep.)'"
+        "'In addition to course fees, a monthly living allowance and a return flight, the programme covers other expenses including the student visa and Immigration Health Surcharge (IHS).'",
+        "Application fee waived automatically for listed countries, including 'Congo (Dem. Rep.)'; other countries must file the fee-waiver form by 20 November 2026"
       ],
       "coverage": {
         "tuition": "Covered",
@@ -4395,8 +4715,9 @@
       "other_requirements": [],
       "documents_required": [],
       "application_process": [
-        "Choose an eligible full-time master's on postgraduate.study.cam.ac.uk/courses",
-        "Apply before that course's funding deadline (early December or early January); one application covers admission and funding",
+        "Choose an eligible full-time master's on postgraduate.study.cam.ac.uk/courses and check whether its funding deadline is 8 December 2026 or 6 January 2027",
+        "Opt in for funding, select the Mastercard Foundation Scholars Program and write the scholarship statement; submit with references by 23:59 GMT on the funding deadline",
+        "Departmental offers December to February; scholarship offers late March or early April",
         "Outstanding documents (such as IELTS) due by 31 July 2027"
       ],
       "official_application_url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply",
@@ -4407,8 +4728,18 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "2027 applications now open (11 September 2026)",
-          "url": "https://www.mastercardfoundation.fund.cam.ac.uk/news/2027-applications-now-open",
+          "label": "How to apply",
+          "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply",
+          "type": "Official"
+        },
+        {
+          "label": "Application process timeline",
+          "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/application-process-timeline",
+          "type": "Official"
+        },
+        {
+          "label": "What we offer",
+          "url": "https://www.mastercardfoundation.fund.cam.ac.uk/about-us/what-we-offer",
           "type": "Official"
         },
         {
@@ -4417,15 +4748,25 @@
           "type": "Official"
         },
         {
-          "label": "How to apply",
-          "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply",
+          "label": "2027 applications now open (11 September 2026)",
+          "url": "https://www.mastercardfoundation.fund.cam.ac.uk/news/2027-applications-now-open",
+          "type": "Official"
+        },
+        {
+          "label": "Cambridge postgraduate funding (2027/28 funding deadlines)",
+          "url": "https://www.postgraduate.study.cam.ac.uk/finance/funding",
+          "type": "Official"
+        },
+        {
+          "label": "Cambridge postgraduate application deadlines",
+          "url": "https://www.postgraduate.study.cam.ac.uk/applying/application-deadlines",
           "type": "Official"
         }
       ],
       "eligibility_for_me": "POSSIBLY ELIGIBLE",
       "eligibility_reason": "A DRC citizen living in the DRC with a bachelor's meets the nationality, residence and degree rules, and IELTS can follow an offer. The deciding unknown is the degree grade (a UK 2:1 or first equivalent).",
       "potential_issues": [
-        "No single deadline: the funding deadline of the chosen course applies (early December or early January)",
+        "Two funding deadlines (8 December 2026 or 6 January 2027) depending on the course; references must also be in by then",
         "IELTS 7.0-7.5 needed by 31 July 2027",
         "The page warns: 'You should not pay anyone for support with your application.'"
       ],
@@ -4452,8 +4793,8 @@
         "support": "Visa and health surcharge covered"
       },
       "upfront_cost_risk": "Low",
-      "action": "Pick one eligible one-year master's (for example in development or public policy), note its funding deadline, and check that your grade meets the 2:1 equivalent before applying.",
-      "last_verified": "2026-10-05",
+      "action": "Pick one eligible one-year master's, check on its course page whether its funding deadline is 8 December 2026 or 6 January 2027, confirm your grade meets the 2:1 equivalent, and line up references early.",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-05",
       "notes": "",
       "match_keywords": [
@@ -4483,17 +4824,17 @@
       "location_type": "International travel",
       "delivery_mode": "In-person",
       "program_dates": "2027/28 academic year",
-      "application_deadline": "2026-10-19",
-      "deadline_utc": "2026-10-19T16:00:00Z",
-      "deadline_text": "Timeline page (table headed 'Date (UK time)'): '19 October 2026, 5pm | Applicant Declaration Form closes' (the form may close earlier once the limit is reached); '19 November 2026, 5pm | Postgraduate Assessment and Scholarship Main Application forms close.' Applications open 13 October 2026 for eligible attendees of the mandatory information sessions (15-24 September 2026). FAQ: '19 October 2026, 5pm UK time'.",
-      "deadline_timezone": "UK time (British Summer Time on 19 October 2026)",
-      "opens_on": "2026-10-13",
+      "application_deadline": "2026-10-26",
+      "deadline_utc": "2026-10-26T17:00:00Z",
+      "deadline_text": "Timeline page (table headed 'Date (UK time)'), as read on 19 October 2026: '20 October 2026 | Mastercard Foundation Scholars Program applications open – Eligible applicants are invited to apply. Must complete the Applicant Declaration Form by 19th October.'; '26 October 2026, 5pm | Applicant Declaration Form closes. The form may close earlier once we have reached the limit.'; '19 November 2026, 5pm | Postgraduate Assessment and Scholarship Main Application forms close.' FAQ: 'Receive an invitation to apply (from Survey Monkey Apply) from 20 October ... Complete the Applicant Declaration Form by 26 October 2026, 5pm UK time. Complete and submit the Main Application by 19 November 2026, 5pm UK time.' The earlier timeline (read 12 October) had the declaration form opening 13 October and closing 19 October 2026, 5pm.",
+      "deadline_timezone": "UK time (GMT on 26 October 2026, after clocks change on 25 October)",
+      "opens_on": "2026-10-20",
       "open_now": false,
       "rolling": false,
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "UPCOMING",
       "funding_type": "Fully Funded",
       "funding_details": [
         "On-campus postgraduate scholarships cover 'full approved tuition, accommodation, travel, living cost stipend and study materials'"
@@ -4576,9 +4917,11 @@
       "eligibility_for_me": "POSSIBLY ELIGIBLE",
       "eligibility_reason": "Citizenship, residence and age rules are met. Whether the applicant attended a mandatory information session, holds a 2:1-equivalent grade and faced the significant barriers the programme requires is not recorded.",
       "potential_issues": [
-        "The mandatory information sessions (15-24 September 2026) are over",
-        "The declaration form opens 13 October and closes 19 October 2026, 5pm UK time, or earlier 'once we have reached the limit'",
-        "Degree grade not recorded; a UK 2:1 equivalent is generally needed",
+        "The mandatory information sessions (15-24 September 2026) are over; per the FAQ, anyone who did not attend 'will not be eligible to receive an invitation to apply'",
+        "The timeline was changed since 12 October: invitations now go out from 20 October and the declaration form closes 26 October 2026, 5pm UK time, but the 20 October row still says 'Must complete the Applicant Declaration Form by 19th October' (contradictory, probably a leftover)",
+        "The declaration form 'may close earlier once we have reached the limit'",
+        "Degree grade not recorded; 'the equivalent of a UK Second Class (Upper) Bachelor's (Hons) degree or higher' is generally needed",
+        "Degree certificate and official final transcript must be uploaded by 19 November 2026",
         "The timeline 'is subject to change depending on the volume of applications received'",
         "The on-campus programme list on the official page carries no year and is 'subject to change'"
       ],
@@ -4605,8 +4948,8 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "Only if you attended an information session: complete the Applicant Declaration Form as soon as it opens on 13 October, then the main forms by 19 November. Choose a listed MSc such as Entrepreneurship and Innovation or Operational Research.",
-      "last_verified": "2026-10-12",
+      "action": "Only if you attended a September information session: watch for the Survey Monkey Apply invitation from 20 October, complete the Applicant Declaration Form as early as possible (closes 26 October 2026, 5pm UK time, or earlier if the limit is reached), then the main forms by 19 November. Choose a listed MSc such as Entrepreneurship and Innovation.",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "12 October 2026: eligibility now read on the official eligibility page (previously secondary). deadline_utc converts 5pm UK time on 19 October 2026 (BST, UTC+1).",
       "match_keywords": [
@@ -4635,12 +4978,12 @@
       "location_type": "International travel",
       "delivery_mode": "In-person",
       "program_dates": "Two-year master's starting September 2027",
-      "application_deadline": "",
+      "application_deadline": "2026-11-23",
       "deadline_utc": "",
-      "deadline_text": "'Applications for the fee waiver will be open from October to mid-December 2026.' The exact scholarship deadline is not yet published. General master's deadline: '21 February 2027 (11.59pm, Paris time)', but Mastercard applicants 'must submit your application before the deadline of the scholarship'.",
-      "deadline_timezone": "Paris time",
+      "deadline_text": "Scholarship application deadlines: '23 November 2026 if you wish to receive your master's admission decision by 11 February 2027' and '14 December 2026 if you wish to receive your master's admission decision by 1 April 2027.' No time of day given. Scholars Program results 'will be communicated in April 2027'. (General master's deadline 21 February 2027, 11:59pm Paris time, does not apply: Mastercard applicants 'must submit your application before the deadline of the scholarship'.)",
+      "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
-      "open_now": true,
+      "open_now": false,
       "rolling": false,
       "recurring": true,
       "expected_next_cycle": "",
@@ -4687,8 +5030,9 @@
       "other_requirements": [],
       "documents_required": [],
       "application_process": [
-        "Request the fee waiver between October and mid-December 2026",
-        "Submit the Sciences Po master's application before the scholarship deadline"
+        "Submit the two-year Sciences Po master's application with the Mastercard Foundation scholarship application by 23 November 2026 (decision by 11 February 2027) or 14 December 2026 (decision by 1 April 2027)",
+        "Interviews on Zoom, approximately 25 minutes",
+        "Scholars Program results April 2027"
       ],
       "official_application_url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
       "official_information_url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/mastercard-foundation-scholarships/graduate-study/",
@@ -4717,8 +5061,9 @@
       "eligibility_reason": "Citizenship, age and degree level fit, but eligibility depends on the bachelor's coming from a partner institution. The DRC's only one is the Université de Kinshasa, and the profile does not record the awarding university.",
       "potential_issues": [
         "Restricted to graduates of listed partner universities",
-        "Exact scholarship deadline not yet published (fee-waiver window October to mid-December 2026)",
-        "Funding is described as 'full financial needs' without an itemised list on the page read"
+        "Two scholarship deadlines (23 November and 14 December 2026); no time of day is stated",
+        "Funding is described as 'full financial needs' without an itemised list on the page read",
+        "Deferring admission makes the applicant ineligible"
       ],
       "benefits": [
         "Two-year Sciences Po master's in Paris",
@@ -4743,10 +5088,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Low",
-      "action": "If your Licence is from the Université de Kinshasa, request the fee waiver before mid-December 2026 and watch the page for the scholarship deadline. Otherwise skip.",
-      "last_verified": "2026-10-05",
+      "action": "If your Licence is from the Université de Kinshasa, apply to a two-year master's with the scholarship by 23 November 2026 (or 14 December 2026 at the latest). Otherwise skip.",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-05",
-      "notes": "Previously on the research watchlist.",
+      "notes": "Previously on the research watchlist. 19 October 2026 (source_changed flag): the page now publishes two scholarship deadlines (23 November and 14 December 2026) and an April 2027 results date; the earlier 'October to mid-December 2026' fee-waiver wording is no longer on the page.",
       "match_keywords": [
         "mastercard foundation scholars program at sciences po",
         "sciences po mastercard"
@@ -4899,7 +5244,7 @@
       },
       "upfront_cost_risk": "UCT application fee may apply (not checked)",
       "action": "Check the 2027 Directions for Postgraduate Applicants for a Commerce honours or coursework master's still open after 30 September; if one is, apply to UCT and submit the scholarship application before 31 October 2026. Otherwise note the cycle for 2028.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-12",
       "notes": "",
       "match_keywords": [
@@ -5476,9 +5821,9 @@
       "delivery_mode": "In-person",
       "program_dates": "2027-2029 cohort (two years)",
       "application_deadline": "2026-12-15",
-      "deadline_utc": "",
-      "deadline_text": "'The application for the 2027-2029 cohort is now open!... Deadlines: December 15th for Erasmus Mundus Grant Applications'. '1 April, 2027: Central application deadline for all ordinary candidates'.",
-      "deadline_timezone": "Unknown / Not specified",
+      "deadline_utc": "2026-12-15T23:59:00Z",
+      "deadline_text": "'15 December 2026, 23.59pm GMT: Deadline for Erasmus Mundus scholarship applications'. '1 April, 2027: Central application deadline for all ordinary candidates.' '1 July, 2027: Application deadline for those without EU citizenship or valid EU residence permits.' (Page timeline is headed '2026-2028 cohort' while the banner says 'the 2027-2029 cohort is now open'.)",
+      "deadline_timezone": "GMT",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
@@ -5488,9 +5833,10 @@
       "status": "OPEN",
       "funding_type": "Funding Unclear",
       "funding_details": [
-        "Erasmus Mundus scholarship: '1.400€ per month x 24', which 'shall cover travel, visa, installation and subsistence costs'",
-        "For 2027-2029: '8 scholarships are targeted to students from Partner Countries' plus 4 for candidates from Targeted Regions 1, 3, 5, 7, 8, 9, 10 and 11",
-        "Participation costs '4.000€ per semester' (including insurance); whether scholarship holders are exempt is not stated on the page read",
+        "Erasmus Mundus scholarship: '1.400€ per month x 24', which covers 'travel, visa, installation and subsistence costs'",
+        "For the 2027-2029 intake: '4 scholarships from candidates from Programme Countries', '8 scholarships are targeted to students from Partner Countries' and '4 scholarships from candidates from concrete Targeted Regions' (Regions 1, 3, 5, 7, 8, 9, 10 and 11)",
+        "Region 9 (Sub-Saharan Africa) includes 'Congo - Democratic Republic of the' according to the Erasmus Mundus regional list reproduced on the EPOG-JM scholarships page",
+        "Participation costs '4.000€ per semester (4 semester)'; whether scholarship holders are exempt is not stated on the page read",
         "'In July 2026, the NOHA Master was once again selected as an Erasmus Mundus programme'"
       ],
       "coverage": {
@@ -5526,7 +5872,9 @@
       "other_requirements": [],
       "documents_required": [],
       "application_process": [
-        "Apply on apply.nohanet.org with complete documentation, including the English test, by 15 December 2026"
+        "Apply on apply.nohanet.org with complete documentation, including the English test, by 15 December 2026, 23:59 GMT (Erasmus Mundus scholarship applicants)",
+        "Documents: passport copy, diploma and transcripts, CV, two references dated within two years, proof of residence issued within 12 months of the deadline",
+        "Selected candidates notified in March"
       ],
       "official_application_url": "http://apply.nohanet.org",
       "official_information_url": "https://www.nohanet.org/masters",
@@ -5539,14 +5887,19 @@
           "label": "NOHA Master's",
           "url": "https://www.nohanet.org/masters",
           "type": "Official"
+        },
+        {
+          "label": "EPOG-JM scholarships page (Erasmus Mundus Region 9 country list)",
+          "url": "https://www.epog.eu/admission-and-scholarships/scholarships/",
+          "type": "Institutional"
         }
       ],
       "eligibility_for_me": "POSSIBLY ELIGIBLE",
-      "eligibility_reason": "A business administration bachelor's falls under 'economics and management'. No English test is recorded, and C1 proof is required in the file by 15 December 2026.",
+      "eligibility_reason": "A business administration bachelor's falls under 'economics and management', and DRC nationals fall in Targeted Region 9, which has dedicated scholarships. No English test is recorded, and C1 proof (for example IELTS 6.5, no band under 6.0) must be in the file by 15 December 2026, 23:59 GMT.",
       "potential_issues": [
-        "English test result must be in the file by 15 December 2026",
+        "English test result must be in the file by 15 December 2026, 23:59 GMT",
         "Whether the EUR 4,000 per semester participation cost is waived for scholarship holders is not stated",
-        "Which Erasmus+ region the DRC falls in was not checked"
+        "The page is internally inconsistent: timeline headed '2026-2028 cohort' and one mention of results in 'summer 2025', while the banner and scholarship section refer to 2027-2029"
       ],
       "benefits": [
         "EUR 1,400 monthly for 24 months",
@@ -5572,8 +5925,8 @@
         "support": "Scholarship 'shall cover travel, visa, installation and subsistence costs'"
       },
       "upfront_cost_risk": "Medium",
-      "action": "Book an IELTS or TOEFL sitting with results before mid-December. Email NOHA to ask whether scholarship holders pay the EUR 4,000 semester participation costs before investing in the application.",
-      "last_verified": "2026-10-05",
+      "action": "Book an IELTS or TOEFL sitting with results before 15 December 2026 and apply on apply.nohanet.org by 23:59 GMT that day. Email NOHA to ask whether scholarship holders pay the EUR 4,000 semester participation costs.",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-05",
       "notes": "",
       "match_keywords": [
@@ -5606,13 +5959,13 @@
       "program_dates": "Leaders Africa: six months, virtual (Leaders Asia-Pacific eight months hybrid; Europe and USA eight months virtual)",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced.",
+      "deadline_text": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced (checked 19 October 2026).",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Applications expected to open in November 2026 for the next cohort; exact dates not announced.",
+      "expected_next_cycle": "Applications expected to open in November 2026 for the next cohort, per the official page's general wording; exact dates not announced as of 19 October 2026.",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -5668,7 +6021,7 @@
         }
       ],
       "eligibility_for_me": "POSSIBLY ELIGIBLE",
-      "eligibility_reason": "African applicants are eligible, but participants must be at least 24 during the programme, so the exact age decides. The programme also looks for people already leading community work.",
+      "eligibility_reason": "African applicants are eligible, but 'Leaders must be between the ages of 24-45 during their time in the program', so the exact age decides. The programme is aimed at changemakers already active in the public, civil or private sector.",
       "potential_issues": [
         "Minimum age of 24",
         "Costs not stated on the page read",
@@ -5699,7 +6052,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Sign up for the Foundation's emails and look again in November 2026.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "On 12 October 2026 the page still gave no exact dates for the next application window.",
       "match_keywords": [
@@ -5980,7 +6333,7 @@
       },
       "upfront_cost_risk": "Visa costs, and possibly travel and hotel.",
       "action": "No action. Other One Young World scholarships open through the year: check the scholarships page in early 2027 for one that lists the DRC.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "Re-verified 12 October 2026: the only Congo entry on the country list is still 'Congo-Brazzaville'; the DRC is not listed. Summit: Cape Town, 3-6 November 2026. The general scholarships page lists only this scholarship as open.",
       "match_keywords": [
@@ -6123,7 +6476,7 @@
       },
       "upfront_cost_risk": "Medium: flights and living costs are the student's",
       "action": "Register before 1 November 2026, choose 'Business and Management' or 'Politics and International Studies' on the Master's track, then complete the portfolio by 13 November. Budget for housing and flights before accepting.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-05",
       "notes": "The separate Russian government quota is not this record; MISIS (read 12 October 2026) states 'by December 15, 2026 — for CIS countries' and 'by January 15, 2027 — for all other countries'. Open Doors dates unchanged on 12 October 2026.",
       "match_keywords": [
@@ -6285,13 +6638,13 @@
       "program_dates": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No 2027-2028 call published on 12 October 2026. The application platform states 'Applications closed on 15/12/2025'; the 2026-2027 call said 'The Call will be launched on 15 November and will close on 15 December 2025.'",
+      "deadline_text": "No 2027-2028 call published on 19 October 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item. The application platform states 'Applications closed on 15/12/2025'; the previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "If the pattern repeats, the next call opens around mid-November 2026. Not announced.",
+      "expected_next_cycle": "If the pattern repeats, the next call opens around mid-November 2026. Not announced as of 19 October 2026.",
       "last_cycle_deadline": "2025-12-15",
       "status": "UPCOMING",
       "funding_type": "Fully Funded",
@@ -6343,6 +6696,11 @@
       "verification": "VERIFIED",
       "sources": [
         {
+          "label": "African Union announcements (no 2027-2028 PAU call listed)",
+          "url": "https://au.int/en/announcements",
+          "type": "Official"
+        },
+        {
           "label": "African Union: PAU call for 2026-2027",
           "url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
           "type": "Official"
@@ -6388,7 +6746,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Check your exact age against the limit first. If you are within it, watch au.int announcements from mid-November 2026.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "https://www.au-pau.org/submission/ is the official application platform (read 12 October 2026).",
       "match_keywords": [
@@ -6626,6 +6984,7 @@
       "potential_issues": [
         "Only for learners with a forced displacement background",
         "The RLRH/Oxford Refugee Studies Centre pages and the Google Form could not be read (403 / login required); details come from UNHCR Rwanda's republication of the call",
+        "Re-check on 19 October 2026 failed: the UNHCR Rwanda page and the RSC news page both returned HTTP 403 (bot check), so the 25 October deadline was not re-confirmed",
         "Mentorship only: it does not itself fund study"
       ],
       "benefits": [
@@ -6662,6 +7021,170 @@
       ]
     },
     {
+      "id": "sciences-po-emile-boutmy-masters-2027",
+      "title": "Sciences Po Émile Boutmy Scholarship for two-year master's programmes (2027 entry)",
+      "organization": "Sciences Po",
+      "overview": "Merit-based tuition scholarship for first-time applicants from outside the European Union admitted to a Sciences Po two-year master's programme in Paris. At master's level it is a EUR 18,500 tuition exemption for each of the two years; the 2026-2027 non-EEA master's tuition is EUR 20,640 a year. Applicants request it in the 'Financial information' section of the admission application.",
+      "category": [
+        "Scholarship"
+      ],
+      "subcategory": [
+        "Master's scholarship",
+        "Tuition waiver"
+      ],
+      "education_levels": [
+        "Master's"
+      ],
+      "country": "France",
+      "city": "Paris",
+      "region": "Western Europe",
+      "continent": "Europe",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "Two-year master's programmes starting in autumn 2027",
+      "application_deadline": "2026-11-29",
+      "deadline_utc": "",
+      "deadline_text": "Émile Boutmy page: 'Deadline for master programme: 18 October (1st committee, results before December 20) or 29 November (2nd committee, results before March 2)'; the page gives no year. The international graduate deadlines page lists '29 Nov 2026' as an application-completion date (decision by 11 Feb 2027) and says Boutmy/Mastercard applicants must submit a complete application before the scholarship deadline. The general two-year master's deadline is 21 February 2027, 11:59pm Paris time, but that is too late for the scholarship.",
+      "deadline_timezone": "Not stated for the scholarship (Paris time is used for programme deadlines)",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Partially Funded",
+      "funding_details": [
+        "Tuition exemption of EUR 18,500 for each of the two years of the master's",
+        "2026-2027 master's tuition for fiscal residents outside the EEA: EUR 20,640 a year, so about EUR 2,140 a year remains payable",
+        "Living costs and travel are not mentioned (the page covers tuition only)"
+      ],
+      "coverage": {
+        "tuition": "Partially covered",
+        "stipend": "Not covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "Application fee is mandatory ('It is mandatory to pay the application fees'); amount not stated on the pages read; some applicants may be exempted",
+      "stipend": "None (tuition exemption only)",
+      "eligibility": [
+        "First-time applicant to Sciences Po",
+        "National of a non-European Union state whose household does not file taxes within the European Union",
+        "Admitted to a two-year master's programme (one-year master's, PhD and exchange candidates are excluded; dual EU citizens, Swiss and Norwegian applicants excluded)",
+        "Awarded on merit and the profile sought by the programme, assessed within the admission review",
+        "Undergraduate degree of 180 ECTS (bachelor's or equivalent)"
+      ],
+      "nationality_requirements": [
+        "Non-EU nationals (the DRC qualifies as a non-EU state); no country list"
+      ],
+      "age_requirement": "Unknown / Not specified",
+      "education_requirement": "Bachelor's degree or equivalent (180 ECTS); minimum grade averages are set in a spreadsheet that was not read",
+      "experience_requirement": "Unknown / Not specified",
+      "language_requirement": "Language test or exemption required according to the programme's language. French test exemption: at least two consecutive years in the same degree programme taught entirely in French, with proof that French was the only medium of instruction. Native language is not taken into account. A C1 English level must be proven by the end of the master's.",
+      "other_requirements": [
+        "Complete admission file (all documents) by the scholarship deadline; incomplete files are not assessed"
+      ],
+      "documents_required": [
+        "Online application with 'Financial information' section completed",
+        "Transcripts for every year of higher education",
+        "CV in French or English depending on the programme",
+        "Motivation letter (up to 1,000 words) typed in the form",
+        "Academic and professional references through the online form",
+        "Language test result or proof of exemption"
+      ],
+      "application_process": [
+        "Choose a two-year master's programme and check its language and minimum-grade requirements",
+        "Apply online and indicate the Émile Boutmy request in the 'Financial information' section",
+        "Submit the complete file, fee included, before 29 November"
+      ],
+      "official_application_url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
+      "official_information_url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+      "source_url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Sciences Po: The Émile Boutmy scholarship (eligibility, amount, deadlines)",
+          "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+          "type": "Official"
+        },
+        {
+          "label": "Sciences Po: Deadlines - International graduate admissions (2027 intake)",
+          "url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
+          "type": "Official"
+        },
+        {
+          "label": "Sciences Po: Tuition fees 2026-2027",
+          "url": "https://www.sciencespo.fr/students/en/fees-funding/tuition-fees/",
+          "type": "Official"
+        },
+        {
+          "label": "Sciences Po: Graduate admissions FAQ (documents, minimum degree)",
+          "url": "https://www.sciencespo.fr/admissions/en/graduate/faq/",
+          "type": "Official"
+        },
+        {
+          "label": "Sciences Po: Language requirements - International graduate admissions",
+          "url": "https://www.sciencespo.fr/admissions/en/graduate/language-requirements/",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "As a DRC national with a bachelor's degree the profile meets the non-EU nationality and degree-level criteria. Award depends on admission and merit (grades not recorded), and the French test exemption depends on proof that the Licence was taught entirely in French, which is not recorded.",
+      "potential_issues": [
+        "Covers tuition only: about EUR 2,140 a year of tuition plus all Paris living costs, travel and visa remain at the applicant's expense",
+        "Application fee amount not stated",
+        "Scholarship page gives deadline dates without a year; the 29 November 2026 date is matched from the deadlines page",
+        "Results date differs between pages (before 2 March on the scholarship page, 11 February 2027 on the admissions page)",
+        "The Mastercard Foundation Scholars Program at Sciences Po (separate record) offers fuller funding for African applicants"
+      ],
+      "benefits": [
+        "EUR 37,000 of tuition exemption over two years",
+        "Master's at a leading public-policy and international-affairs school"
+      ],
+      "relevance": {
+        "academic": "High",
+        "career": "High",
+        "travel": "High",
+        "networking": "High",
+        "funding": "Medium",
+        "accessibility": "Medium",
+        "profile_fit": "High"
+      },
+      "relevance_reason": "Strong academic and career fit for policy and public-sector analysis, open to DRC nationals and possibly accessible in French, but it leaves living costs uncovered, so it is useful mainly combined with other funding.",
+      "travel_value": "High",
+      "career_value": "High",
+      "academic_value": "High",
+      "networking_value": "High",
+      "visa": {
+        "required": "Yes",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Application fee, possible language test, then living costs in Paris and the remaining tuition",
+      "action": "Pick a Sciences Po two-year master's taught in French or bilingually, get a university certificate that the Licence was taught entirely in French, and submit a complete application with the Boutmy request before 29 November 2026; apply in the same cycle to the Mastercard Foundation programme at Sciences Po.",
+      "last_verified": "2026-10-19",
+      "date_discovered": "2026-10-19",
+      "notes": "",
+      "match_keywords": [
+        "emile boutmy",
+        "émile boutmy",
+        "boutmy scholarship",
+        "sciences po scholarship"
+      ]
+    },
+    {
       "id": "si-scholarship-global-professionals",
       "title": "Swedish Institute Scholarship for Global Professionals",
       "organization": "Swedish Institute (SI)",
@@ -6685,13 +7208,13 @@
       "program_dates": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "'Application closed.' Last round: SI application portal open 9-25 February 2026, after applying to master's programmes through University Admissions (16 October 2025 to 15 January 2026).",
+      "deadline_text": "'Application closed.' The official page (read 19 October 2026) says: 'Information about the application round for academic year 2027/2028 will be published on this page on 19 October.' When read, the page still showed only the 2025/26 round: University Admissions 16 October 2025 to 15 January 2026; SI portal open 9-25 February 2026, closing 14:59 CET on the final day.",
       "deadline_timezone": "Central European Time (CET)",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "On 12 October 2026 the page still says 'Application closed' and shows only the 2025/26 round dates. 2027 round dates are not published; the scholarship opens 'once every year, for master's studies beginning in the autumn semester'.",
+      "expected_next_cycle": "The official page announces that information on the 2027/2028 round 'will be published on this page on 19 October' (2026). It was not yet published when read on 19 October 2026. The scholarship opens 'once every year, for master's studies beginning in the autumn semester'.",
       "last_cycle_deadline": "2026-02-25",
       "status": "UPCOMING",
       "funding_type": "Fully Funded",
@@ -6747,13 +7270,13 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "SI Scholarship for Global Professionals",
+          "label": "SI Scholarship for Global Professionals (WebFetch returned 403; page read with a direct HTTP request on 19 October 2026)",
           "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
           "type": "Official"
         }
       ],
       "eligibility_for_me": "NOT ELIGIBLE",
-      "eligibility_reason": "The Democratic Republic of the Congo is not among the 34 countries whose citizens can apply.",
+      "eligibility_reason": "The Democratic Republic of the Congo is still not among the 34 countries whose citizens can apply (list read 19 October 2026). The scholarship also requires at least 3,000 hours of work experience, which the profile does not have.",
       "potential_issues": [
         "Nationality not on the eligible list",
         "Also requires work and leadership experience"
@@ -6780,8 +7303,8 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "No action. Recheck the country list once a year in case it changes.",
-      "last_verified": "2026-10-12",
+      "action": "No action: the DRC is not eligible. When the 2027/2028 call text appears, check whether the country list changed.",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "12 October 2026: read via direct download (WebFetch got HTTP 403). Corrected earlier errors: the page says insurance and the University Admissions fee are NOT covered.",
       "match_keywords": [
@@ -6815,13 +7338,13 @@
       "program_dates": "2027/2028 academic year for the next call",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No 2027/2028 call seen on 12 October 2026. The apply page still shows the 2026/2027 deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
+      "deadline_text": "No 2027/2028 call seen on 19 October 2026. The apply page still shows the 'Call for Applications 2026/2027' with the deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
       "deadline_timezone": "Central European Time (CET)",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Next call expected with a mid-January 2027 deadline, by analogy with the previous one (15 January 2026). Not announced.",
+      "expected_next_cycle": "Next call expected with a mid-January 2027 deadline, by analogy with the previous one (15 January 2026). Not announced as of 19 October 2026.",
       "last_cycle_deadline": "2026-01-15",
       "status": "UPCOMING",
       "funding_type": "Substantially Funded",
@@ -6927,7 +7450,7 @@
       },
       "upfront_cost_risk": "Flight and first months of living costs are likely to be self-funded.",
       "action": "Look at the official site from November 2026 for the 2027/2028 call, and find out which DRC authority handles nominations.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -7098,13 +7621,13 @@
       "program_dates": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "2027 dates are not on the official site (12 October 2026). The official application calendar gives 'General Application Period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'.",
+      "deadline_text": "2027 dates are not on the official site (checked 19 October 2026). The homepage lists only the 'Türkiye Scholarships 2026 Applications' announcement. The official application calendar gives 'General application period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "The official calendar lists the general application period as 10 January to 20 February (no year given), matching the 2026 cycle. 2027 dates not announced.",
+      "expected_next_cycle": "The official calendar lists the general application period as 10 January to 20 February (no year given), matching the 2026 cycle. 2027 dates not announced as of 19 October 2026.",
       "last_cycle_deadline": "2026-02-20",
       "status": "UPCOMING",
       "funding_type": "Fully Funded",
@@ -7209,7 +7732,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Check the official site in December 2026 for the 2027 announcement; the general window has been 10 January to 20 February.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -7344,9 +7867,9 @@
       },
       "upfront_cost_risk": "High unless a fellowship is awarded: 3000 CNY fee plus flights",
       "action": "Apply only if you would accept paying the 3000 CNY fee and flights should no fellowship be awarded. Otherwise skip.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-05",
-      "notes": "12 October 2026: official page re-read; deadline, dates, fee and fellowship wording unchanged.",
+      "notes": "19 October 2026: official page re-read; dates (19 December 2026 - 1 January 2027), deadline (8 November 2026, UTC+8), 3000 CNY fee, fellowship wording and eligibility unchanged. 12 October 2026: unchanged.",
       "match_keywords": [
         "ustc winter camp",
         "ustc international winter camp"
@@ -7377,13 +7900,13 @@
       "program_dates": "2027-2028 academic year; 12, 24 or 36 months depending on the programme",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "The ICP Connect scholarship call for the 2026-2027 academic year is now closed. The call for the 2027-2028 academic year is expected to open in mid-November 2026. Each programme sets its own deadline.",
+      "deadline_text": "'The ICP Connect scholarship call for the 2026–2027 academic year is now closed. The call for the 2027–2028 academic year is expected to open by the end of October 2026.' 'Each programme sets its own deadlines'; the programme list and deadlines 'will be updated then'.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Call for 2027-2028 expected to open in mid-November 2026; programme list and deadlines published then.",
+      "expected_next_cycle": "Official page (19 October 2026): the 2027-2028 call is 'expected to open by the end of October 2026' (earlier wording said mid-November). Programme list and deadlines published then.",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Fully Funded",
@@ -7445,13 +7968,13 @@
           "type": "Official"
         },
         {
-          "label": "Country list for scholarships",
+          "label": "ICP Connect scholarship country list",
           "url": "https://www.vliruos.be/country-list-scholarships",
           "type": "Official"
         }
       ],
       "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "The profile is under 35, lives in the DRC and is a recent graduate, which VLIR-UOS accepts with a strong motivation. This rests on DR Congo being on the country list, which must be confirmed by opening the official list.",
+      "eligibility_reason": "DR Congo is on the official ICP Connect country list, and applicants must hold a listed nationality and reside in a listed country, which the profile meets. Bachelor or initial master candidates must be no older than 35 on 1 January of the intake year, and 'newly graduated candidates ... with no work experience may also be considered', although preference goes to people employed in higher education, government or civil society.",
       "potential_issues": [
         "Programme list and deadlines not published until mid-November 2026",
         "Recent graduates compete against candidates with relevant work experience"
@@ -7479,8 +8002,8 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "Return to the VLIR-UOS study scholarships page in mid-November 2026 to choose programmes and note their deadlines.",
-      "last_verified": "2026-10-12",
+      "action": "Check the VLIR-UOS study scholarships page from the end of October 2026, then choose programmes and note each one's deadline.",
+      "last_verified": "2026-10-19",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -7618,6 +8141,165 @@
       "match_keywords": [
         "volontaires unis pour la francophonie",
         "v-francophonie"
+      ]
+    },
+    {
+      "id": "weidenfeld-hoffmann-scholarships-oxford-2027",
+      "title": "Weidenfeld-Hoffmann Scholarships and Leadership Programme (Oxford, 2027-28)",
+      "organization": "Weidenfeld-Hoffmann Trust with the University of Oxford",
+      "overview": "Scholarship for a one-year master's course at the University of Oxford combined with a year-long Leadership Programme (about 200 hours of training). The Trust describes the Oxford-Weidenfeld and Hoffmann scholarship as fully funded. Application is made through the Oxford graduate application by the course's January (or earlier) deadline.",
+      "category": [
+        "Scholarship",
+        "Leadership"
+      ],
+      "subcategory": [
+        "Master's scholarship",
+        "University scholarship"
+      ],
+      "education_levels": [
+        "Master's"
+      ],
+      "country": "United Kingdom",
+      "city": "Oxford",
+      "region": "Northern Europe",
+      "continent": "Europe",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "Course of 9-12 months; Leadership Programme from mid-September to early July (2027-28 academic year).",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "WHT: 'Applications must be submitted by the January deadline to the University of Oxford for the course to be considered... Deadlines vary according to the course.' Reported by secondary sources: 'Deadline: January 6, 2027' (Opportunity Desk); the course's own deadline may be earlier (December).",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "WHT FAQ: 'The Oxford-Weidenfeld and Hoffmann scholarship is fully funded and covers 100% of course fees, a grant for living costs or stipend (of GBP 21,805 in 2026-27) and the full cost of your individual Leadership Programme place.'",
+        "Accommodation and expenses for the compulsory introductory days in Oxford are to be covered from the stipend.",
+        "The WHT pages read do not mention flights, visa costs or health surcharge.",
+        "Partner awards (e.g. WHT-Chevening) may have a different package."
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Not specified",
+        "accommodation": "Partially covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "None stated by WHT. Oxford graduate application fee rules were not readable (Oxford page blocked).",
+      "stipend": "GBP 21,805 for 2026-27 (WHT FAQ); 2027-28 figure not stated on the pages read.",
+      "eligibility": [
+        "Offer of a place on an eligible one-year master's course at the University of Oxford (DPhil not supported)",
+        "Ordinarily resident in one of the eligible countries listed on the University of Oxford website",
+        "Intend to return to the home country or region to make a difference in the chosen field",
+        "Meet Oxford's English language requirement (test must be passed to be accepted onto the Programme)",
+        "Select the scholarship in the Oxford application and submit the WHT application form at the same time"
+      ],
+      "nationality_requirements": [
+        "Ordinary residence in an eligible country on Oxford's list (list not readable this cycle; DRC not confirmed)"
+      ],
+      "age_requirement": "No age limit (WHT FAQ).",
+      "education_requirement": "Admission to an eligible one-year master's course at Oxford (implies a first degree).",
+      "experience_requirement": "Not required (WHT FAQ: 'you don't have to have job experience to apply'), but most scholars are early-career professionals with five or more years of experience.",
+      "language_requirement": "Oxford English language requirement; evidence of proficiency needed.",
+      "other_requirements": [
+        "Commitment to return to home country or region"
+      ],
+      "documents_required": [
+        "University of Oxford graduate application",
+        "Weidenfeld-Hoffmann Trust application form / scholarship statement submitted with the graduate application"
+      ],
+      "application_process": [
+        "September: applications open on the University of Oxford website",
+        "Submit the graduate application, selecting the Weidenfeld-Hoffmann Scholarships, by the course's January (or earlier) deadline",
+        "Only candidates offered a place are considered",
+        "March to June: shortlisted candidates have virtual interviews with the Trust",
+        "May: successful applicants informed by the University"
+      ],
+      "official_application_url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/fees-funding-and-scholarship-search/weidenfeld-hoffmann-scholarships-and-leadership-programme",
+      "official_information_url": "https://whtrust.org/scholarship-application/",
+      "source_url": "https://whtrust.org/scholarship-application/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "Weidenfeld-Hoffmann Trust: Scholarship Application",
+          "url": "https://whtrust.org/scholarship-application/",
+          "type": "Official"
+        },
+        {
+          "label": "Weidenfeld-Hoffmann Trust: Check Eligibility",
+          "url": "https://whtrust.org/scholarship-application/check-eligibility/",
+          "type": "Official"
+        },
+        {
+          "label": "Weidenfeld-Hoffmann Trust: FAQs",
+          "url": "https://whtrust.org/scholarship-application/faqs/",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunity Desk: Weidenfeld-Hoffmann Scholarships 2027-2028",
+          "url": "https://opportunitydesk.org/2026/10/16/weidenfeld-hoffmann-scholarships-and-leadership-programme-2027-2028/",
+          "type": "Aggregator"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The bachelor's degree, interests and absence of an age or experience requirement fit. Not confirmed: whether the DRC is on Oxford's eligible-country list (the Oxford page returned HTTP 403), and no English test score is recorded; an Oxford offer is also required first.",
+      "potential_issues": [
+        "Eligible-country list could not be read this cycle (ox.ac.uk returned HTTP 403)",
+        "Course-specific deadlines may fall in December",
+        "Requires admission to Oxford and an English test",
+        "Most scholars have five or more years of work experience, so competition is strong"
+      ],
+      "benefits": [
+        "100% of course fees",
+        "Living stipend",
+        "Year-long Leadership Programme (about 200 hours)",
+        "Alumni network"
+      ],
+      "relevance": {
+        "academic": "Very High",
+        "career": "High",
+        "travel": "High",
+        "networking": "Very High",
+        "funding": "Very High",
+        "accessibility": "Low",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "A fully funded Oxford master's with leadership training in policy-relevant fields; highly competitive and dependent on an Oxford offer and the country list.",
+      "travel_value": "High",
+      "career_value": "High",
+      "academic_value": "Very High",
+      "networking_value": "Very High",
+      "visa": {
+        "required": "Yes (UK student visa for a DRC national); not discussed on the pages read",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Medium: Oxford application fee and English test cost likely; flights and visa not stated as covered.",
+      "action": "Open the Oxford Weidenfeld-Hoffmann page in a browser to confirm that the DRC is on the eligible-country list and which courses qualify, then check the chosen course's deadline (December or January).",
+      "last_verified": "2026-10-19",
+      "date_discovered": "2026-10-19",
+      "notes": "Lead from Opportunity Desk (2026-10-16). Oxford pages blocked automated reading this cycle.",
+      "match_keywords": [
+        "weidenfeld-hoffmann",
+        "weidenfeld hoffmann",
+        "weidenfeld scholarship"
       ]
     },
     {
@@ -7874,5 +8556,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-10-18"
+  "status_computed_on": "2026-10-19"
 }

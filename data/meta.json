@@ -1,21 +1,21 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-18T09:39:03Z",
+  "last_refresh": "2026-10-19T07:36:54Z",
   "counts": {
-    "total": 57,
+    "total": 61,
     "archived": 0,
     "by_status": {
-      "OPEN": 21,
-      "CLOSING SOON": 7,
-      "UPCOMING": 16,
+      "OPEN": 24,
+      "CLOSING SOON": 6,
+      "UPCOMING": 17,
       "DEADLINE PASSED": 4,
-      "ROLLING": 0,
+      "ROLLING": 1,
       "DATE UNKNOWN": 9
     },
     "by_funding": {
-      "Fully Funded": 26,
-      "Substantially Funded": 7,
-      "Partially Funded": 1,
+      "Fully Funded": 27,
+      "Substantially Funded": 9,
+      "Partially Funded": 2,
       "Travel Funded": 2,
       "Participation Funded": 4,
       "Self Funded": 0,
@@ -23,16 +23,16 @@
     },
     "by_eligibility": {
       "LIKELY ELIGIBLE": 15,
-      "POSSIBLY ELIGIBLE": 32,
+      "POSSIBLY ELIGIBLE": 36,
       "NOT ELIGIBLE": 4,
       "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
-      "VERIFIED": 34,
-      "PARTIALLY VERIFIED": 19,
+      "VERIFIED": 37,
+      "PARTIALLY VERIFIED": 20,
       "NEEDS VERIFICATION": 4
     },
-    "travel_funded": 23
+    "travel_funded": 25
   },
   "deadline_buckets": {
     "30": [
@@ -48,12 +48,12 @@
     ],
     "7": [
       "international-dialogue-sdg17-baku-2026",
+      "mastercard-foundation-scholars-edinburgh-2027",
       "rlrh-graduate-horizons-2027"
     ],
     "3": [],
     "1": [
-      "hsc-youth-ambassador-program-2027",
-      "mastercard-foundation-scholars-edinburgh-2027"
+      "hsc-youth-ambassador-program-2027"
     ]
   },
   "watch": {

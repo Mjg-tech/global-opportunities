@@ -2,6 +2,174 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-10-19",
+      "id": "sciences-po-emile-boutmy-masters-2027",
+      "title": "Sciences Po Émile Boutmy Scholarship for two-year master's programmes (2027 entry)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "eric-bleumink-fellowship-groningen-2027",
+      "title": "Eric Bleumink Fellowship, University of Groningen (master's starting September 2027)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "weidenfeld-hoffmann-scholarships-oxford-2027",
+      "title": "Weidenfeld-Hoffmann Scholarships and Leadership Programme (Oxford, 2027-28)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "afreximbank-internship-programme",
+      "title": "Afreximbank Group Internship Programme",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "deadline_text",
+      "old": "'Application closed.' Last round: SI application portal open 9-25 February 2026, after applying to master's programmes through University Admissions (16 October 2025 to 15 January 2026).",
+      "new": "'Application closed.' The official page (read 19 October 2026) says: 'Information about the application round for academic year 2027/2028 will be published on this page on 19 October.' When read, the page still showed only the 2025/26 round: University Admissions 16 October 2025 to 15 January 2026; SI portal open 9-25 February 2026, closing 14:59 CET on the final day."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "deadline_text",
+      "old": "2027 dates are not on the official site (12 October 2026). The official application calendar gives 'General Application Period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'.",
+      "new": "2027 dates are not on the official site (checked 19 October 2026). The homepage lists only the 'Türkiye Scholarships 2026 Applications' announcement. The official application calendar gives 'General application period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "vlir-uos-icp-connect-2027",
+      "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+      "field": "deadline_text",
+      "old": "The ICP Connect scholarship call for the 2026-2027 academic year is now closed. The call for the 2027-2028 academic year is expected to open in mid-November 2026. Each programme sets its own deadline.",
+      "new": "'The ICP Connect scholarship call for the 2026–2027 academic year is now closed. The call for the 2027–2028 academic year is expected to open by the end of October 2026.' 'Each programme sets its own deadlines'; the programme list and deadlines 'will be updated then'."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "deadline_text",
+      "old": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced.",
+      "new": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced (checked 19 October 2026)."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "deadline_text",
+      "old": "No 2027-2028 call published on 12 October 2026. The application platform states 'Applications closed on 15/12/2025'; the 2026-2027 call said 'The Call will be launched on 15 November and will close on 15 December 2025.'",
+      "new": "No 2027-2028 call published on 19 October 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item. The application platform states 'Applications closed on 15/12/2025'; the previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "stipendium-hungaricum-2027",
+      "title": "Stipendium Hungaricum scholarship (2027/2028)",
+      "field": "deadline_text",
+      "old": "No 2027/2028 call seen on 12 October 2026. The apply page still shows the 2026/2027 deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
+      "new": "No 2027/2028 call seen on 19 October 2026. The apply page still shows the 'Call for Applications 2026/2027' with the deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "application_deadline",
+      "old": "2026-10-19",
+      "new": "2026-10-26"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "deadline_utc",
+      "old": "2026-10-19T16:00:00Z",
+      "new": "2026-10-26T17:00:00Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "deadline_text",
+      "old": "Timeline page (table headed 'Date (UK time)'): '19 October 2026, 5pm | Applicant Declaration Form closes' (the form may close earlier once the limit is reached); '19 November 2026, 5pm | Postgraduate Assessment and Scholarship Main Application forms close.' Applications open 13 October 2026 for eligible attendees of the mandatory information sessions (15-24 September 2026). FAQ: '19 October 2026, 5pm UK time'.",
+      "new": "Timeline page (table headed 'Date (UK time)'), as read on 19 October 2026: '20 October 2026 | Mastercard Foundation Scholars Program applications open – Eligible applicants are invited to apply. Must complete the Applicant Declaration Form by 19th October.'; '26 October 2026, 5pm | Applicant Declaration Form closes. The form may close earlier once we have reached the limit.'; '19 November 2026, 5pm | Postgraduate Assessment and Scholarship Main Application forms close.' FAQ: 'Receive an invitation to apply (from Survey Monkey Apply) from 20 October ... Complete the Applicant Declaration Form by 26 October 2026, 5pm UK time. Complete and submit the Main Application by 19 November 2026, 5pm UK time.' The earlier timeline (read 12 October) had the declaration form opening 13 October and closing 19 October 2026, 5pm."
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-edinburgh-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "field": "opens_on",
+      "old": "2026-10-13",
+      "new": "2026-10-20"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "noha-erasmus-mundus-humanitarian-action-2027",
+      "title": "NOHA Erasmus Mundus Joint Master in International Humanitarian Action (2027-2029)",
+      "field": "deadline_utc",
+      "old": "",
+      "new": "2026-12-15T23:59:00Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "noha-erasmus-mundus-humanitarian-action-2027",
+      "title": "NOHA Erasmus Mundus Joint Master in International Humanitarian Action (2027-2029)",
+      "field": "deadline_text",
+      "old": "'The application for the 2027-2029 cohort is now open!... Deadlines: December 15th for Erasmus Mundus Grant Applications'. '1 April, 2027: Central application deadline for all ordinary candidates'.",
+      "new": "'15 December 2026, 23.59pm GMT: Deadline for Erasmus Mundus scholarship applications'. '1 April, 2027: Central application deadline for all ordinary candidates.' '1 July, 2027: Application deadline for those without EU citizenship or valid EU residence permits.' (Page timeline is headed '2026-2028 cohort' while the banner says 'the 2027-2029 cohort is now open'.)"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-sciences-po-2027",
+      "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+      "field": "application_deadline",
+      "old": "",
+      "new": "2026-11-23"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-sciences-po-2027",
+      "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+      "field": "deadline_text",
+      "old": "'Applications for the fee waiver will be open from October to mid-December 2026.' The exact scholarship deadline is not yet published. General master's deadline: '21 February 2027 (11.59pm, Paris time)', but Mastercard applicants 'must submit your application before the deadline of the scholarship'.",
+      "new": "Scholarship application deadlines: '23 November 2026 if you wish to receive your master's admission decision by 11 February 2027' and '14 December 2026 if you wish to receive your master's admission decision by 1 April 2027.' No time of day given. Scholars Program results 'will be communicated in April 2027'. (General master's deadline 21 February 2027, 11:59pm Paris time, does not apply: Mastercard applicants 'must submit your application before the deadline of the scholarship'.)"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Cambridge (2027/28 master's)",
+      "field": "application_deadline",
+      "old": "",
+      "new": "2026-12-08"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Cambridge (2027/28 master's)",
+      "field": "deadline_utc",
+      "old": "",
+      "new": "2026-12-08T23:59:00Z"
+    },
+    {
+      "date": "2026-10-19",
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Cambridge (2027/28 master's)",
+      "field": "deadline_text",
+      "old": "'The deadline differs by course but is generally either the first week of December or the first week of January... it's the funding deadline you need to work towards.' Applications opened 11 September 2026; offers late March or early April 2027.",
+      "new": "Funding deadline depends on the course: 'December deadline: Tuesday 8 December 2026'; 'January deadline: Wednesday 6 January 2027'. 'Your complete application, including references, must be submitted by 23:59 GMT on that deadline.' Check the chosen course page. Offer letters 'late March or early April'."
+    },
+    {
       "date": "2026-10-12",
       "id": "objectif-2030-ifdd-free-moocs",
       "title": "Objectif 2030: free certified online courses on environment and sustainable development (IFDD / OIF)",

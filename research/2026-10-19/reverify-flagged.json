@@ -1,0 +1,145 @@
+[
+  {
+    "id": "ustc-international-winter-camp-2027",
+    "last_verified": "2026-10-19",
+    "verification": "VERIFIED",
+    "notes": "19 October 2026: official page re-read; dates (19 December 2026 - 1 January 2027), deadline (8 November 2026, UTC+8), 3000 CNY fee, fellowship wording and eligibility unchanged. 12 October 2026: unchanged.",
+    "sources": [
+      {"label": "USTC International Winter Camp 2027", "url": "https://ic.ustc.edu.cn/?abroad=179", "type": "Official"}
+    ]
+  },
+  {
+    "id": "dalai-lama-fellows-2027",
+    "last_verified": "2026-10-19",
+    "verification": "VERIFIED",
+    "application_process": [
+      "Remaining optional information session: Wednesday 28 October 16:00-17:00 UTC (a recording of an earlier session is available)",
+      "Apply on apply.dalailamafellows.com by 11 November 2026, 22:00 UTC",
+      "Interviews January 2027; notification February 2027"
+    ],
+    "action": "Apply before 11 November 2026, 22:00 UTC only if you lead, or have a concrete plan for, a community project you have worked with for at least six months. Join the 28 October information session or watch the recording first.",
+    "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed).",
+    "sources": [
+      {"label": "Apply", "url": "https://dalailamafellows.com/apply/", "type": "Official"},
+      {"label": "The Fellowship", "url": "https://dalailamafellows.com/the-fellowship/", "type": "Official"}
+    ]
+  },
+  {
+    "id": "kectil-program-2027",
+    "last_verified": "2026-10-19",
+    "verification": "VERIFIED",
+    "sources": [
+      {"label": "Kectil Program", "url": "https://kectil.com/", "type": "Official"},
+      {"label": "Who can apply", "url": "https://kectil.com/program/who-can-apply", "type": "Official"}
+    ]
+  },
+  {
+    "id": "epog-jm-erasmus-mundus-2027",
+    "last_verified": "2026-10-19",
+    "verification": "VERIFIED",
+    "notes": "Programme title in the EACEA catalogue: 'Economic POlicies for the Global bifurcation - Joint Master'. 19 October 2026 (source_changed flag): deadline 27 January 2027 13:00 Paris time, interviews March 2027 and results end of March 2027 unchanged; the application platform now lists the campaign 'EPOG-JM & GLOBAL COOP (2-year programme - 2027-2029)' with 'Closing: 27/01/2027 at 13:00', 'Time zone: Europe/Paris'. The admission page also states the separate 1-year programme is closed, with opening 'expected in March or April'.",
+    "sources": [
+      {"label": "EPOG admission page (deadline, eligibility)", "url": "https://www.epog.eu/admission-and-scholarships/admission/", "type": "Official"},
+      {"label": "EPOG scholarships page (amounts, regional lists)", "url": "https://www.epog.eu/admission-and-scholarships/scholarships/", "type": "Official"},
+      {"label": "EPOG application platform (campaign and closing time)", "url": "https://application.epog.eu/", "type": "Official"},
+      {"label": "EPOG tuition fees page", "url": "https://www.epog.eu/admission-and-scholarships/tuition-fees/", "type": "Official"},
+      {"label": "EACEA Erasmus Mundus catalogue (programme listed)", "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en", "type": "Institutional"}
+    ]
+  },
+  {
+    "id": "noha-erasmus-mundus-humanitarian-action-2027",
+    "application_deadline": "2026-12-15",
+    "deadline_utc": "2026-12-15T23:59:00Z",
+    "deadline_timezone": "GMT",
+    "deadline_text": "'15 December 2026, 23.59pm GMT: Deadline for Erasmus Mundus scholarship applications'. '1 April, 2027: Central application deadline for all ordinary candidates.' '1 July, 2027: Application deadline for those without EU citizenship or valid EU residence permits.' (Page timeline is headed '2026-2028 cohort' while the banner says 'the 2027-2029 cohort is now open'.)",
+    "funding_details": [
+      "Erasmus Mundus scholarship: '1.400€ per month x 24', which covers 'travel, visa, installation and subsistence costs'",
+      "For the 2027-2029 intake: '4 scholarships from candidates from Programme Countries', '8 scholarships are targeted to students from Partner Countries' and '4 scholarships from candidates from concrete Targeted Regions' (Regions 1, 3, 5, 7, 8, 9, 10 and 11)",
+      "Region 9 (Sub-Saharan Africa) includes 'Congo - Democratic Republic of the' according to the Erasmus Mundus regional list reproduced on the EPOG-JM scholarships page",
+      "Participation costs '4.000€ per semester (4 semester)'; whether scholarship holders are exempt is not stated on the page read",
+      "'In July 2026, the NOHA Master was once again selected as an Erasmus Mundus programme'"
+    ],
+    "eligibility_reason": "A business administration bachelor's falls under 'economics and management', and DRC nationals fall in Targeted Region 9, which has dedicated scholarships. No English test is recorded, and C1 proof (for example IELTS 6.5, no band under 6.0) must be in the file by 15 December 2026, 23:59 GMT.",
+    "application_process": [
+      "Apply on apply.nohanet.org with complete documentation, including the English test, by 15 December 2026, 23:59 GMT (Erasmus Mundus scholarship applicants)",
+      "Documents: passport copy, diploma and transcripts, CV, two references dated within two years, proof of residence issued within 12 months of the deadline",
+      "Selected candidates notified in March"
+    ],
+    "potential_issues": [
+      "English test result must be in the file by 15 December 2026, 23:59 GMT",
+      "Whether the EUR 4,000 per semester participation cost is waived for scholarship holders is not stated",
+      "The page is internally inconsistent: timeline headed '2026-2028 cohort' and one mention of results in 'summer 2025', while the banner and scholarship section refer to 2027-2029"
+    ],
+    "action": "Book an IELTS or TOEFL sitting with results before 15 December 2026 and apply on apply.nohanet.org by 23:59 GMT that day. Email NOHA to ask whether scholarship holders pay the EUR 4,000 semester participation costs.",
+    "last_verified": "2026-10-19",
+    "verification": "VERIFIED",
+    "sources": [
+      {"label": "NOHA Master's", "url": "https://www.nohanet.org/masters", "type": "Official"},
+      {"label": "EPOG-JM scholarships page (Erasmus Mundus Region 9 country list)", "url": "https://www.epog.eu/admission-and-scholarships/scholarships/", "type": "Institutional"}
+    ]
+  },
+  {
+    "id": "mastercard-foundation-scholars-sciences-po-2027",
+    "application_deadline": "2026-11-23",
+    "deadline_utc": "",
+    "deadline_timezone": "Unknown / Not specified",
+    "deadline_text": "Scholarship application deadlines: '23 November 2026 if you wish to receive your master's admission decision by 11 February 2027' and '14 December 2026 if you wish to receive your master's admission decision by 1 April 2027.' No time of day given. Scholars Program results 'will be communicated in April 2027'. (General master's deadline 21 February 2027, 11:59pm Paris time, does not apply: Mastercard applicants 'must submit your application before the deadline of the scholarship'.)",
+    "open_now": false,
+    "status": "OPEN",
+    "application_process": [
+      "Submit the two-year Sciences Po master's application with the Mastercard Foundation scholarship application by 23 November 2026 (decision by 11 February 2027) or 14 December 2026 (decision by 1 April 2027)",
+      "Interviews on Zoom, approximately 25 minutes",
+      "Scholars Program results April 2027"
+    ],
+    "potential_issues": [
+      "Restricted to graduates of listed partner universities",
+      "Two scholarship deadlines (23 November and 14 December 2026); no time of day is stated",
+      "Funding is described as 'full financial needs' without an itemised list on the page read",
+      "Deferring admission makes the applicant ineligible"
+    ],
+    "action": "If your Licence is from the Université de Kinshasa, apply to a two-year master's with the scholarship by 23 November 2026 (or 14 December 2026 at the latest). Otherwise skip.",
+    "last_verified": "2026-10-19",
+    "verification": "VERIFIED",
+    "notes": "Previously on the research watchlist. 19 October 2026 (source_changed flag): the page now publishes two scholarship deadlines (23 November and 14 December 2026) and an April 2027 results date; the earlier 'October to mid-December 2026' fee-waiver wording is no longer on the page.",
+    "sources": [
+      {"label": "Mastercard Foundation Scholarships, graduate study", "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/mastercard-foundation-scholarships/graduate-study/", "type": "Official"},
+      {"label": "Graduate admissions deadlines", "url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/", "type": "Official"},
+      {"label": "Partner institutions list (PDF)", "url": "https://www.sciencespo.fr/students/sites/sciencespo.fr.students/files/sciencespo-mastercard-foundation-institutions-partenaires-en.pdf", "type": "Official"}
+    ]
+  },
+  {
+    "id": "mastercard-foundation-scholars-cambridge-2027",
+    "application_deadline": "2026-12-08",
+    "deadline_utc": "2026-12-08T23:59:00Z",
+    "deadline_timezone": "UK time (GMT)",
+    "deadline_text": "Funding deadline depends on the course: 'December deadline: Tuesday 8 December 2026'; 'January deadline: Wednesday 6 January 2027'. 'Your complete application, including references, must be submitted by 23:59 GMT on that deadline.' Check the chosen course page. Offer letters 'late March or early April'.",
+    "open_now": false,
+    "funding_details": [
+      "'In addition to course fees, a monthly living allowance and a return flight, the programme covers other expenses including the student visa and Immigration Health Surcharge (IHS).'",
+      "Application fee waived automatically for listed countries, including 'Congo (Dem. Rep.)'; other countries must file the fee-waiver form by 20 November 2026"
+    ],
+    "application_process": [
+      "Choose an eligible full-time master's on postgraduate.study.cam.ac.uk/courses and check whether its funding deadline is 8 December 2026 or 6 January 2027",
+      "Opt in for funding, select the Mastercard Foundation Scholars Program and write the scholarship statement; submit with references by 23:59 GMT on the funding deadline",
+      "Departmental offers December to February; scholarship offers late March or early April",
+      "Outstanding documents (such as IELTS) due by 31 July 2027"
+    ],
+    "potential_issues": [
+      "Two funding deadlines (8 December 2026 or 6 January 2027) depending on the course; references must also be in by then",
+      "IELTS 7.0-7.5 needed by 31 July 2027",
+      "The page warns: 'You should not pay anyone for support with your application.'"
+    ],
+    "action": "Pick one eligible one-year master's, check on its course page whether its funding deadline is 8 December 2026 or 6 January 2027, confirm your grade meets the 2:1 equivalent, and line up references early.",
+    "last_verified": "2026-10-19",
+    "verification": "VERIFIED",
+    "sources": [
+      {"label": "How to apply", "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply", "type": "Official"},
+      {"label": "Application process timeline", "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/application-process-timeline", "type": "Official"},
+      {"label": "What we offer", "url": "https://www.mastercardfoundation.fund.cam.ac.uk/about-us/what-we-offer", "type": "Official"},
+      {"label": "Eligibility", "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/eligibility", "type": "Official"},
+      {"label": "2027 applications now open (11 September 2026)", "url": "https://www.mastercardfoundation.fund.cam.ac.uk/news/2027-applications-now-open", "type": "Official"},
+      {"label": "Cambridge postgraduate funding (2027/28 funding deadlines)", "url": "https://www.postgraduate.study.cam.ac.uk/finance/funding", "type": "Official"},
+      {"label": "Cambridge postgraduate application deadlines", "url": "https://www.postgraduate.study.cam.ac.uk/applying/application-deadlines", "type": "Official"}
+    ]
+  }
+]

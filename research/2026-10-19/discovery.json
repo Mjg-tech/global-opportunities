@@ -1,0 +1,320 @@
+[
+  {
+    "id": "sciences-po-emile-boutmy-masters-2027",
+    "title": "Sciences Po Émile Boutmy Scholarship for two-year master's programmes (2027 entry)",
+    "organization": "Sciences Po",
+    "overview": "Merit-based tuition scholarship for first-time applicants from outside the European Union admitted to a Sciences Po two-year master's programme in Paris. At master's level it is a EUR 18,500 tuition exemption for each of the two years; the 2026-2027 non-EEA master's tuition is EUR 20,640 a year. Applicants request it in the 'Financial information' section of the admission application.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Tuition waiver"
+    ],
+    "education_levels": [
+      "Master's"
+    ],
+    "country": "France",
+    "city": "Paris",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Two-year master's programmes starting in autumn 2027",
+    "application_deadline": "2026-11-29",
+    "deadline_utc": "",
+    "deadline_text": "Émile Boutmy page: 'Deadline for master programme: 18 October (1st committee, results before December 20) or 29 November (2nd committee, results before March 2)'; the page gives no year. The international graduate deadlines page lists '29 Nov 2026' as an application-completion date (decision by 11 Feb 2027) and says Boutmy/Mastercard applicants must submit a complete application before the scholarship deadline. The general two-year master's deadline is 21 February 2027, 11:59pm Paris time, but that is too late for the scholarship.",
+    "deadline_timezone": "Not stated for the scholarship (Paris time is used for programme deadlines)",
+    "opens_on": "",
+    "open_now": true,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "status": "OPEN",
+    "funding_type": "Partially Funded",
+    "funding_details": [
+      "Tuition exemption of EUR 18,500 for each of the two years of the master's",
+      "2026-2027 master's tuition for fiscal residents outside the EEA: EUR 20,640 a year, so about EUR 2,140 a year remains payable",
+      "Living costs and travel are not mentioned (the page covers tuition only)"
+    ],
+    "coverage": {
+      "tuition": "Partially covered",
+      "stipend": "Not covered",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "Application fee is mandatory ('It is mandatory to pay the application fees'); amount not stated on the pages read; some applicants may be exempted",
+    "stipend": "None (tuition exemption only)",
+    "eligibility": [
+      "First-time applicant to Sciences Po",
+      "National of a non-European Union state whose household does not file taxes within the European Union",
+      "Admitted to a two-year master's programme (one-year master's, PhD and exchange candidates are excluded; dual EU citizens, Swiss and Norwegian applicants excluded)",
+      "Awarded on merit and the profile sought by the programme, assessed within the admission review",
+      "Undergraduate degree of 180 ECTS (bachelor's or equivalent)"
+    ],
+    "nationality_requirements": [
+      "Non-EU nationals (the DRC qualifies as a non-EU state); no country list"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Bachelor's degree or equivalent (180 ECTS); minimum grade averages are set in a spreadsheet that was not read",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Language test or exemption required according to the programme's language. French test exemption: at least two consecutive years in the same degree programme taught entirely in French, with proof that French was the only medium of instruction. Native language is not taken into account. A C1 English level must be proven by the end of the master's.",
+    "other_requirements": [
+      "Complete admission file (all documents) by the scholarship deadline; incomplete files are not assessed"
+    ],
+    "documents_required": [
+      "Online application with 'Financial information' section completed",
+      "Transcripts for every year of higher education",
+      "CV in French or English depending on the programme",
+      "Motivation letter (up to 1,000 words) typed in the form",
+      "Academic and professional references through the online form",
+      "Language test result or proof of exemption"
+    ],
+    "application_process": [
+      "Choose a two-year master's programme and check its language and minimum-grade requirements",
+      "Apply online and indicate the Émile Boutmy request in the 'Financial information' section",
+      "Submit the complete file, fee included, before 29 November"
+    ],
+    "official_application_url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
+    "official_information_url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+    "source_url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Sciences Po: The Émile Boutmy scholarship (eligibility, amount, deadlines)",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+        "type": "Official"
+      },
+      {
+        "label": "Sciences Po: Deadlines - International graduate admissions (2027 intake)",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
+        "type": "Official"
+      },
+      {
+        "label": "Sciences Po: Tuition fees 2026-2027",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/tuition-fees/",
+        "type": "Official"
+      },
+      {
+        "label": "Sciences Po: Graduate admissions FAQ (documents, minimum degree)",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate/faq/",
+        "type": "Official"
+      },
+      {
+        "label": "Sciences Po: Language requirements - International graduate admissions",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate/language-requirements/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "As a DRC national with a bachelor's degree the profile meets the non-EU nationality and degree-level criteria. Award depends on admission and merit (grades not recorded), and the French test exemption depends on proof that the Licence was taught entirely in French, which is not recorded.",
+    "potential_issues": [
+      "Covers tuition only: about EUR 2,140 a year of tuition plus all Paris living costs, travel and visa remain at the applicant's expense",
+      "Application fee amount not stated",
+      "Scholarship page gives deadline dates without a year; the 29 November 2026 date is matched from the deadlines page",
+      "Results date differs between pages (before 2 March on the scholarship page, 11 February 2027 on the admissions page)",
+      "The Mastercard Foundation Scholars Program at Sciences Po (separate record) offers fuller funding for African applicants"
+    ],
+    "benefits": [
+      "EUR 37,000 of tuition exemption over two years",
+      "Master's at a leading public-policy and international-affairs school"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "High",
+      "travel": "High",
+      "networking": "High",
+      "funding": "Medium",
+      "accessibility": "Medium",
+      "profile_fit": "High"
+    },
+    "relevance_reason": "Strong academic and career fit for policy and public-sector analysis, open to DRC nationals and possibly accessible in French, but it leaves living costs uncovered, so it is useful mainly combined with other funding.",
+    "travel_value": "High",
+    "career_value": "High",
+    "academic_value": "High",
+    "networking_value": "High",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Application fee, possible language test, then living costs in Paris and the remaining tuition",
+    "action": "Pick a Sciences Po two-year master's taught in French or bilingually, get a university certificate that the Licence was taught entirely in French, and submit a complete application with the Boutmy request before 29 November 2026; apply in the same cycle to the Mastercard Foundation programme at Sciences Po.",
+    "last_verified": "2026-10-19",
+    "date_discovered": "2026-10-19",
+    "notes": "",
+    "match_keywords": [
+      "emile boutmy",
+      "émile boutmy",
+      "boutmy scholarship",
+      "sciences po scholarship"
+    ]
+  },
+  {
+    "id": "eric-bleumink-fellowship-groningen-2027",
+    "title": "Eric Bleumink Fellowship, University of Groningen (master's starting September 2027)",
+    "organization": "University of Groningen",
+    "overview": "University of Groningen grant for nationals of listed developing countries (DR Congo included) admitted to a one- or two-year master's programme starting in September. It covers tuition, international travel, subsistence, books and health insurance. There is no direct application: the Admission Office nominates candidates among applicants admitted before February.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship"
+    ],
+    "education_levels": [
+      "Master's"
+    ],
+    "country": "Netherlands",
+    "city": "Groningen",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "One- or two-year master's programmes starting in September (2027 for this cycle)",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "'It is not possible to actively apply for an Eric Bleumink Fellowship Scholarship.' Only applicants with a provisional or unconditional admission offer 'before February' are considered, and the master application 'should be completed by the applicant before 1st of December' (no year stated on the page; for September 2027 entry this would be 1 December 2026, but no page states that year, so no date is recorded). The general FEB master's application deadline for September 2027 is 1 May 2027.",
+    "deadline_timezone": "Not stated (Netherlands)",
+    "opens_on": "",
+    "open_now": true,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "status": "OPEN",
+    "funding_type": "Substantially Funded",
+    "funding_details": [
+      "Tuition fee",
+      "Costs of international travel",
+      "Subsistence",
+      "Books",
+      "Health insurance",
+      "Limited number of grants; many applicants each year"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Covered",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": true,
+    "flight_funded": true,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": false,
+    "participation_fee": "University of Groningen application fee for applicants with a non-Dutch qualification (amount not stated on the pages read; secondary search snippets mention EUR 100)",
+    "stipend": "Subsistence covered (amount not stated)",
+    "eligibility": [
+      "Nationality of a country in Appendix 1 (includes 'Congo (Dem Rep.)')",
+      "Provisional or unconditional admission to a University of Groningen master's programme before February",
+      "Excellent academic performance and excellent bachelor's grades, preferably confirmed by recommendation letters",
+      "Excellent English proficiency per the programme's admission requirements",
+      "Available for the whole programme; in good health for Dutch health insurance",
+      "No other means of financing the study"
+    ],
+    "nationality_requirements": [
+      "Nationals of the listed developing countries, DR Congo included"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Bachelor's degree meeting the admission requirements of the chosen master's, with excellent grades",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "English test per programme: common baseline IELTS Academic 6.5 (6.0 per section) or TOEFL iBT 90; some programmes IELTS 7.0. IELTS Online and One Skill Retake not accepted. Exemptions do not cover French-taught degrees from the DRC.",
+    "other_requirements": [
+      "Nomination by the Admission Office with faculty Admission Boards; candidates cannot apply directly"
+    ],
+    "documents_required": [
+      "University of Groningen master's application (via Studielink and the university portal)",
+      "Transcripts and degree",
+      "English test result",
+      "Recommendation letters (preferred for the fellowship)"
+    ],
+    "application_process": [
+      "Choose a master's programme starting September 2027",
+      "Complete the master's application before 1 December 2026",
+      "Obtain an admission offer before February 2027; suitable candidates are informed of a nomination"
+    ],
+    "official_application_url": "https://www.rug.nl/feb/education/admission-application/apply-msc/int-diploma/",
+    "official_information_url": "https://www.rug.nl/education/scholarships/eric-bleumink-fund",
+    "source_url": "https://www.rug.nl/education/scholarships/eric-bleumink-fund",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "University of Groningen: Eric Bleumink Fellowship (countries, criteria, coverage, timing; last modified 11 August 2026)",
+        "url": "https://www.rug.nl/education/scholarships/eric-bleumink-fund",
+        "type": "Official"
+      },
+      {
+        "label": "University of Groningen FEB: Apply with an international diploma (application fee, 1 May 2027 deadline)",
+        "url": "https://www.rug.nl/feb/education/admission-application/apply-msc/int-diploma/",
+        "type": "Official"
+      },
+      {
+        "label": "University of Groningen: Master's language requirements",
+        "url": "https://www.rug.nl/education/application-enrolment-tuition-fees/admission/procedures/application-informatie/with-non-dutch-diploma/entry-requirements/master-language-requirements",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "DR Congo is on the eligible country list and the profile holds a bachelor's degree. The fellowship needs excellent grades (not recorded), an English test score (none recorded) and admission to a master's before February 2027.",
+    "potential_issues": [
+      "English test score required and none recorded; test must be booked quickly to meet the 1 December master application date",
+      "Selection by nomination only, with a limited number of grants",
+      "Application fee payable",
+      "'Before 1st of December' and 'before February' are stated without a year on the fellowship page",
+      "Accommodation is not itemised (subsistence is covered)"
+    ],
+    "benefits": [
+      "Tuition, international travel, subsistence, books and health insurance for a one- or two-year master's"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "High",
+      "travel": "High",
+      "networking": "Medium",
+      "funding": "Very High",
+      "accessibility": "Medium",
+      "profile_fit": "High"
+    },
+    "relevance_reason": "Near-complete funding for a master's in the Netherlands, explicitly open to DRC nationals, with business, economics and public-administration programmes that match the profile; the English test and the short timeline are the barriers.",
+    "travel_value": "High",
+    "career_value": "High",
+    "academic_value": "High",
+    "networking_value": "Medium",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Application fee and English test fee",
+    "action": "Book an IELTS Academic or TOEFL iBT test now, choose a Groningen master's (for example in the Faculty of Economics and Business), and complete the master's application before 1 December (the page gives no year; for September 2027 entry treat it as this December) so an admission offer can arrive before February.",
+    "last_verified": "2026-10-19",
+    "date_discovered": "2026-10-19",
+    "notes": "",
+    "match_keywords": [
+      "eric bleumink",
+      "bleumink fellowship",
+      "university of groningen scholarship",
+      "groningen eric bleumink"
+    ]
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "id": "si-scholarship-global-professionals",
+    "deadline_text": "'Application closed.' The official page (read 19 October 2026) says: 'Information about the application round for academic year 2027/2028 will be published on this page on 19 October.' When read, the page still showed only the 2025/26 round: University Admissions 16 October 2025 to 15 January 2026; SI portal open 9-25 February 2026, closing 14:59 CET on the final day.",
+    "expected_next_cycle": "The official page announces that information on the 2027/2028 round 'will be published on this page on 19 October' (2026). It was not yet published when read on 19 October 2026. The scholarship opens 'once every year, for master's studies beginning in the autumn semester'.",
+    "last_cycle_deadline": "2026-02-25",
+    "status": "UPCOMING",
+    "eligibility_for_me": "NOT ELIGIBLE",
+    "eligibility_reason": "The Democratic Republic of the Congo is still not among the 34 countries whose citizens can apply (list read 19 October 2026). The scholarship also requires at least 3,000 hours of work experience, which the profile does not have.",
+    "verification": "VERIFIED",
+    "last_verified": "2026-10-19",
+    "sources": [
+      {
+        "label": "SI Scholarship for Global Professionals (WebFetch returned 403; page read with a direct HTTP request on 19 October 2026)",
+        "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+        "type": "Official"
+      }
+    ],
+    "action": "No action: the DRC is not eligible. When the 2027/2028 call text appears, check whether the country list changed."
+  },
+  {
+    "id": "turkiye-burslari-2027",
+    "deadline_text": "2027 dates are not on the official site (checked 19 October 2026). The homepage lists only the 'Türkiye Scholarships 2026 Applications' announcement. The official application calendar gives 'General application period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'.",
+    "expected_next_cycle": "The official calendar lists the general application period as 10 January to 20 February (no year given), matching the 2026 cycle. 2027 dates not announced as of 19 October 2026.",
+    "last_cycle_deadline": "2026-02-20",
+    "status": "UPCOMING",
+    "verification": "PARTIALLY VERIFIED",
+    "last_verified": "2026-10-19",
+    "sources": [
+      {
+        "label": "Turkiye Scholarships (official site)",
+        "url": "https://www.turkiyeburslari.gov.tr/",
+        "type": "Official"
+      },
+      {
+        "label": "Application calendar",
+        "url": "https://www.turkiyeburslari.gov.tr/calendar",
+        "type": "Official"
+      },
+      {
+        "label": "Turkiye Scholarships 2026 applications (announcement)",
+        "url": "https://www.turkiyeburslari.gov.tr/announcements/turkiye-scholarships-2026-applications-121",
+        "type": "Official"
+      },
+      {
+        "label": "Secondary summary (75% minimum)",
+        "url": "https://www.globaladmissions.com/scholarship/turkiye-burslari",
+        "type": "Aggregator"
+      }
+    ]
+  },
+  {
+    "id": "vlir-uos-icp-connect-2027",
+    "deadline_text": "'The ICP Connect scholarship call for the 2026–2027 academic year is now closed. The call for the 2027–2028 academic year is expected to open by the end of October 2026.' 'Each programme sets its own deadlines'; the programme list and deadlines 'will be updated then'.",
+    "expected_next_cycle": "Official page (19 October 2026): the 2027-2028 call is 'expected to open by the end of October 2026' (earlier wording said mid-November). Programme list and deadlines published then.",
+    "status": "UPCOMING",
+    "eligibility_for_me": "LIKELY ELIGIBLE",
+    "eligibility_reason": "DR Congo is on the official ICP Connect country list, and applicants must hold a listed nationality and reside in a listed country, which the profile meets. Bachelor or initial master candidates must be no older than 35 on 1 January of the intake year, and 'newly graduated candidates ... with no work experience may also be considered', although preference goes to people employed in higher education, government or civil society.",
+    "verification": "PARTIALLY VERIFIED",
+    "last_verified": "2026-10-19",
+    "sources": [
+      {
+        "label": "Study scholarships",
+        "url": "https://www.vliruos.be/get-funded/study-scholarships",
+        "type": "Official"
+      },
+      {
+        "label": "ICP Connect scholarship country list",
+        "url": "https://www.vliruos.be/country-list-scholarships",
+        "type": "Official"
+      }
+    ],
+    "action": "Check the VLIR-UOS study scholarships page from the end of October 2026, then choose programmes and note each one's deadline."
+  },
+  {
+    "id": "obama-foundation-leaders",
+    "deadline_text": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced (checked 19 October 2026).",
+    "expected_next_cycle": "Applications expected to open in November 2026 for the next cohort, per the official page's general wording; exact dates not announced as of 19 October 2026.",
+    "status": "UPCOMING",
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "African applicants are eligible, but 'Leaders must be between the ages of 24-45 during their time in the program', so the exact age decides. The programme is aimed at changemakers already active in the public, civil or private sector.",
+    "verification": "PARTIALLY VERIFIED",
+    "last_verified": "2026-10-19",
+    "sources": [
+      {
+        "label": "Obama Foundation Leaders",
+        "url": "https://www.obama.org/programs/leaders/",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "pan-african-university-scholarships",
+    "deadline_text": "No 2027-2028 call published on 19 October 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item. The application platform states 'Applications closed on 15/12/2025'; the previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
+    "expected_next_cycle": "If the pattern repeats, the next call opens around mid-November 2026. Not announced as of 19 October 2026.",
+    "last_cycle_deadline": "2025-12-15",
+    "status": "UPCOMING",
+    "verification": "VERIFIED",
+    "last_verified": "2026-10-19",
+    "sources": [
+      {
+        "label": "African Union announcements (no 2027-2028 PAU call listed)",
+        "url": "https://au.int/en/announcements",
+        "type": "Official"
+      },
+      {
+        "label": "African Union: PAU call for 2026-2027",
+        "url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
+        "type": "Official"
+      },
+      {
+        "label": "PAU scholarships application platform",
+        "url": "https://www.au-pau.org/submission/",
+        "type": "Official"
+      },
+      {
+        "label": "Pan African University website",
+        "url": "https://pau-au.africa/",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "stipendium-hungaricum-2027",
+    "deadline_text": "No 2027/2028 call seen on 19 October 2026. The apply page still shows the 'Call for Applications 2026/2027' with the deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
+    "expected_next_cycle": "Next call expected with a mid-January 2027 deadline, by analogy with the previous one (15 January 2026). Not announced as of 19 October 2026.",
+    "last_cycle_deadline": "2026-01-15",
+    "status": "UPCOMING",
+    "verification": "VERIFIED",
+    "last_verified": "2026-10-19",
+    "sources": [
+      {
+        "label": "How to apply",
+        "url": "https://stipendiumhungaricum.hu/apply/",
+        "type": "Official"
+      },
+      {
+        "label": "Sending partners",
+        "url": "https://stipendiumhungaricum.hu/partners",
+        "type": "Official"
+      },
+      {
+        "label": "About the scholarship (amounts)",
+        "url": "https://stipendiumhungaricum.hu/about/",
+        "type": "Official"
+      },
+      {
+        "label": "Stipendium Hungaricum news",
+        "url": "https://stipendiumhungaricum.hu/news/",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "france-excellence-eiffel-2027",
+    "verification": "VERIFIED",
+    "last_verified": "2026-10-19",
+    "sources": [
+      {
+        "label": "Programme Eiffel, session 2027 calendar (Campus France, French)",
+        "url": "https://www.campusfrance.org/fr/le-programme-de-bourses-d-excellence-eiffel",
+        "type": "Official"
+      },
+      {
+        "label": "Eiffel programme (Campus France, English)",
+        "url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program",
+        "type": "Official"
+      },
+      {
+        "label": "Eiffel implementation rules",
+        "url": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-implementation",
+        "type": "Official"
+      }
+    ]
+  }
+]
