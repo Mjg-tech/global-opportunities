@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-19T10:47:17Z",
+  "last_refresh": "2026-10-20T10:05:14Z",
   "counts": {
     "total": 61,
-    "archived": 0,
+    "archived": 1,
     "by_status": {
       "OPEN": 24,
       "CLOSING SOON": 6,
@@ -28,8 +28,8 @@
       "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
-      "VERIFIED": 37,
-      "PARTIALLY VERIFIED": 20,
+      "VERIFIED": 36,
+      "PARTIALLY VERIFIED": 21,
       "NEEDS VERIFICATION": 4
     },
     "travel_funded": 25
@@ -52,9 +52,7 @@
       "rlrh-graduate-horizons-2027"
     ],
     "3": [],
-    "1": [
-      "hsc-youth-ambassador-program-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 61,
@@ -67,6 +65,24 @@
       "id": "african-union-youth-volunteer-corps",
       "type": "source_changed",
       "since": "2026-10-19",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "type": "source_changed",
+      "since": "2026-10-20",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "si-scholarship-global-professionals",
+      "type": "source_changed",
+      "since": "2026-10-20",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "hsc-youth-ambassador-program-2027",
+      "type": "source_changed",
+      "since": "2026-10-20",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ],
@@ -93,7 +109,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 5
     },
     {
       "name": "Opportunities for Africans",
@@ -101,7 +117,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 4
     },
     {
       "name": "Global South Opportunities",
@@ -141,7 +157,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 3
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -149,7 +165,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Afri-Carrieres",
@@ -194,33 +210,33 @@
   ],
   "reseen": [
     {
-      "id": "weidenfeld-hoffmann-scholarships-oxford-2027",
-      "title": "Weidenfeld-Hoffmann Scholarships and Leadership Programme 2027-2028",
-      "url": "https://opportunitydesk.org/2026/10/16/weidenfeld-hoffmann-scholarships-and-leadership-programme-2027-2028/",
-      "source": "Opportunity Desk",
-      "seen": "2026-10-19"
+      "id": "rlrh-graduate-horizons-2027",
+      "title": "The Refugee-Led Research Hub (RLRH) Graduate Horizons Mentorship and Scholarship Programme for African refugee and displaced students (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-refugee-led-research-hub-rlrh-graduate-horizons-mentorship-and-scholarship-programme/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-20"
     },
     {
       "id": "mext-scholarship-embassy-drc",
       "title": "University of Tokyo Scholarship 2027 in Japan | Fully Funded MEXT Scholarship",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-tokyo-scholarship-2027-in-japan-fully-funded-mext-scholarship/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-19"
+      "seen": "2026-10-20"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "France Excellence Eiffel Scholarship 2027 in France | Fully Funded",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/france-excellence-eiffel-scholarship-2027-in-france-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-19"
+      "seen": "2026-10-20"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "Appel à Candidatures 2027 – Programme de Bourses France Excellence Eiffel",
       "url": "https://www.lesopportunites.com/opportunite/france/bourses/recherche-innovationdeveloppt/appel-a-candidatures-2027-programme-de-bourses-france-excellence-eiffel/",
       "source": "Opportunites du Monde",
-      "seen": "2026-10-19"
+      "seen": "2026-10-20"
     }
   ],
-  "new_leads_last_run": 5
+  "new_leads_last_run": 13
 }

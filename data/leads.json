@@ -1,7 +1,150 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "leads": [
+    {
+      "id": "20bdf0ef56f5",
+      "title": "AI and National Security Convergence Fellowship 2026-2027",
+      "url": "https://opportunitydesk.org/2026/10/20/ai-and-national-security-convergence-fellowship-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "db5ff6c36ed4",
+      "title": "AJF × SDRB Somalia Business Plan Competition 2026",
+      "url": "https://opportunitydesk.org/2026/10/20/ajf-sdrb-somalia-business-plan-competition-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0c145f16f0ed",
+      "title": "East-West Center Advanced Leadership Program 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/10/20/east-west-center-advanced-leadership-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ad148c39b6c9",
+      "title": "Youth Ecopreneur Programme (YECO) 2026/2027",
+      "url": "https://opportunitydesk.org/2026/10/20/youth-ecopreneur-programme-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "79fb0e3b89e6",
+      "title": "Duke University Visiting Scholars Program 2026–2027: Research Opportunity in the History of Political Economy",
+      "url": "https://www.globalsouthopportunities.com/2026/10/20/scholars-8/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "321ec8cb52ad",
+      "title": "AI for Social Science Research Methods Conference 2027 at Yale University",
+      "url": "https://www.globalsouthopportunities.com/2026/10/20/social-21/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "54e172bc790c",
+      "title": "Appel à candidatures – (3) Programmes de Stages au siège de l’UNESCO, dans ses Bureaux extérieurs et Instituts",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/stages/communication/appel-a-candidatures-3-programmes-de-stages-au-siege-de-lunesco-dans-ses-bureaux-exterieurs-et-instituts/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a3c2daad2b57",
+      "title": "Foreign Affairs Information Technology (FAIT) Fellowship 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/10/19/fait-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "005ba42eace3",
+      "title": "The United Nations Young Professionals Programme 2026 (Launch Your Career at the United Nations)",
+      "url": "https://www.opportunitiesforafricans.com/the-united-nations-young-professionals-programme-2026-launch-your-career-at-the-united-nations/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "fe191216269b",
+      "title": "The International Institute for Applied Systems Analysis (IIASA) Young Scientists Summer Program 2027",
+      "url": "https://www.opportunitiesforafricans.com/the-international-institute-for-applied-systems-analysis-iiasa-young-scientists-summer-program-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "210c33868a65",
+      "title": "SADC Media Awards Competition 2027 for Journalists from Southern Africa (USD 14,000 in prizes)",
+      "url": "https://www.opportunitiesforafricans.com/sadc-media-awards-competition-2027-for-journalists-from-southern-africa/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "16d767f6f3ba",
+      "title": "The Joint ICTP-CCG Catalyst Facility Academic Writing Residency Program for Global South Scholars (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-joint-ictp-ccg-catalyst-facility-academic-writing-residency-program-for-global-south-scholars/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c23bc2c58761",
+      "title": "EJN Reporting Fellowship 2027 in USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/ejn-reporting-fellowship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-19",
+      "first_seen": "2026-10-20",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "ed10091f7c65",
       "title": "Emerging Leaders Programme 2026: Fully Sponsored Leadership Opportunity for Mid-Level Executives Across Africa",
