@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "opportunities": [
     {
       "id": "mckinsey-forward-fall-2026",
@@ -140,6 +140,148 @@
       ],
       "archive_id": "mckinsey-forward-fall-2026@2026-10-05",
       "archived_on": "2026-10-20"
+    },
+    {
+      "id": "chevening-scholarships-2027",
+      "title": "Chevening Scholarships 2027/28",
+      "organization": "UK Foreign, Commonwealth & Development Office (Chevening)",
+      "overview": "One-year master's degree at any UK university for emerging leaders. Chevening describes the award as fully funded. The 2027/28 round closes on 6 October 2026.",
+      "category": [
+        "Scholarship"
+      ],
+      "subcategory": [
+        "Master's scholarship",
+        "Government-funded"
+      ],
+      "education_levels": [
+        "Master's"
+      ],
+      "country": "United Kingdom",
+      "city": "Any UK university",
+      "region": "Northern Europe",
+      "continent": "Europe",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "Studies begin September/October 2027 (one academic year)",
+      "application_deadline": "2026-10-06",
+      "deadline_utc": "2026-10-06T11:00:00Z",
+      "deadline_text": "The deadline for applications is 6 October 2026 at 11:00 UTC. You will not be able to access the online application system after this date.",
+      "deadline_timezone": "UTC",
+      "opens_on": "2026-08-04",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "Chevening's site states: 'Chevening Scholarships are fully-funded.'",
+        "The itemised list (fees, stipend, flights) was not on the pages read on 2 October 2026."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "eligibility": [
+        "At least 2,800 hours of work experience, acquired after completing the undergraduate degree",
+        "That experience must be spread over a minimum of two years",
+        "Undergraduate degree completed by October 2024 for this cycle",
+        "Eligible work: full-time or part-time employment, voluntary work, paid or unpaid internships"
+      ],
+      "nationality_requirements": [
+        "The Democratic Republic of the Congo has its own Chevening country page and is open for applications"
+      ],
+      "age_requirement": "Not specified on the pages read",
+      "education_requirement": "Undergraduate degree completed by October 2024",
+      "experience_requirement": "2,800 hours after the undergraduate degree, over at least two years",
+      "language_requirement": "Unknown / Not specified",
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Apply online in the Chevening application system before the deadline",
+        "Eligibility sifting from October 2026",
+        "Reading committee assessments from mid-October 2026 to January 2027",
+        "Shortlist announced mid-February 2027; interviews March to April 2027",
+        "Results announced mid-June 2027"
+      ],
+      "official_application_url": "https://asams.chevening.org/apply",
+      "official_information_url": "https://www.chevening.org/scholarship/democratic-republic-of-the-congo/",
+      "source_url": "https://www.chevening.org/scholarships/application-timeline/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Application timeline",
+          "url": "https://www.chevening.org/scholarships/application-timeline/",
+          "type": "Official"
+        },
+        {
+          "label": "Work experience rules",
+          "url": "https://www.chevening.org/scholarships/who-can-apply/work-experience/",
+          "type": "Official"
+        },
+        {
+          "label": "DRC country page",
+          "url": "https://www.chevening.org/scholarship/democratic-republic-of-the-congo/",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "NOT ELIGIBLE",
+      "eligibility_reason": "Chevening requires 2,800 hours of work gained after the undergraduate degree, over at least two years. The recorded profile shows a degree obtained in 2024 and under one year of short internships, so the requirement is not met this cycle.",
+      "potential_issues": [
+        "Deadline is 6 October 2026 at 11:00 UTC",
+        "No UK visa processing centre and no TB testing facility in the DRC: a successful applicant must travel to another country for both",
+        "Those trips are paid by the applicant first; reimbursement of some travel costs is discretionary"
+      ],
+      "benefits": [
+        "One-year UK master's degree",
+        "Chevening alumni network"
+      ],
+      "relevance": {
+        "academic": "High",
+        "career": "High",
+        "travel": "Very High",
+        "networking": "Very High",
+        "funding": "Very High",
+        "accessibility": "Low",
+        "profile_fit": "Low"
+      },
+      "relevance_reason": "A strong programme, but the post-degree work-hours rule rules out this round. It becomes realistic once two years of work, volunteering or internships after the degree can be documented.",
+      "travel_value": "Very High",
+      "career_value": "High",
+      "academic_value": "High",
+      "networking_value": "Very High",
+      "visa": {
+        "required": "Yes",
+        "support": "No visa centre in the DRC. Travel to another country to apply; discretionary reimbursement of some travel costs."
+      },
+      "upfront_cost_risk": "Travel to a third country for the visa application and TB test is paid by the applicant before any reimbursement.",
+      "action": "No action this round. Keep a dated log of post-degree work, volunteering and internship hours for a later round.",
+      "last_verified": "2026-10-05",
+      "date_discovered": "2026-10-02",
+      "notes": "",
+      "match_keywords": [
+        "chevening"
+      ],
+      "archive_id": "chevening-scholarships-2027@2026-10-06",
+      "archived_on": "2026-10-21"
     }
   ]
 }

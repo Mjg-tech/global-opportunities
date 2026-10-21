@@ -1,7 +1,150 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-20",
+  "updated": "2026-10-21",
   "leads": [
+    {
+      "id": "c3d40f657645",
+      "title": "Justice + Joy National Collaborative Policy & Advocacy Internship Spring 2027: Remote Internship + $2,500 Stipend & Congressional Advocacy Experience",
+      "url": "https://www.globalsouthopportunities.com/2026/10/21/policy-22/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "f8a41890e2bf",
+      "title": "IQMR 2027 Fellowships in the USA: Fully Funded Research Training Opportunities for Scholars from Africa, Latin America and Beyond",
+      "url": "https://www.globalsouthopportunities.com/2026/10/21/iqmr/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "98046f7fad1e",
+      "title": "Fully Funded Fellowship in USA 2027",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/fully-funded-fellowship-in-usa-2027/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7ca54f129235",
+      "title": "UNICEF Internship 2026 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/unicef-internship-2026/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a8160402c92a",
+      "title": "Appel à candidatures – Programme de Stages rémunéré de l’UNFPA",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/stages/droit/appel-a-candidatures-programme-de-stages-remunere-de-lunfpa/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a965712be380",
+      "title": "Le Cabinet CEMIF Consulting, basé à N’Djamena, organise une Formation en Informatique Bureautique",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/formation/informatique-electronique/le-cabinet-cemif-consulting-base-a-ndjamena-organise-une-formation-en-informatique-bureautique/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6f60b37fb84e",
+      "title": "Innovation et découvrabilité : la plateforme MUSIQC récompensée aux MTL Tech Awards 2026",
+      "url": "https://www.francophonie.org/musiqc-recompensee-aux-mtl-tech-awards-2026-8733",
+      "source": "Organisation internationale de la Francophonie",
+      "source_tier": 1,
+      "language": "fr",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "92f2c9449044",
+      "title": "Jane Street Graduate Research Fellowship (GRF) 2027",
+      "url": "https://opportunitydesk.org/2026/10/20/jane-street-graduate-research-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "364ceb3cae62",
+      "title": "U.S. Bank Discover Us: Finance & Banking Fellowship 2026",
+      "url": "https://opportunitydesk.org/2026/10/20/discover-us-finance-banking-fellowship-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "217afe9b525e",
+      "title": "The Ye! Youth Ecopreneurs Programme (YECO) 2026/2027 for young Green Entrepreneurs ($100,000 prize & All-Expenses-Paid Trip to International Conference)",
+      "url": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0c6db1a267f4",
+      "title": "The HP-UCL IOE Fellowship in AI in Education – global executive leadership programme for senior education leaders (Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-hp-ucl-ioe-fellowship-in-ai-in-education-global-executive-leadership-programme-for-senior-education-leaders/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cb47c09be9b5",
+      "title": "ifa CrossCulture Programme (CCP) Fellowship 2027 for young professionals (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/ifa-crossculture-programme-ccp-fellowship-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e385ac26dfa0",
+      "title": "Global Debate Championship 2026 in Malaysia (Fully Funded)",
+      "url": "https://opportunitiescorners.com/global-debate-championship-2026-in-malaysia/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-20",
+      "first_seen": "2026-10-21",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "20bdf0ef56f5",
       "title": "AI and National Security Convergence Fellowship 2026-2027",
@@ -198,7 +341,10 @@
       "language": "en",
       "published": "2026-10-18",
       "first_seen": "2026-10-19",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "a2ebf6551e45",
