@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-21T10:09:07Z",
+  "last_refresh": "2026-10-22T10:11:32Z",
   "counts": {
     "total": 61,
     "archived": 2,
     "by_status": {
-      "OPEN": 24,
-      "CLOSING SOON": 6,
+      "OPEN": 23,
+      "CLOSING SOON": 7,
       "UPCOMING": 18,
       "DEADLINE PASSED": 3,
       "ROLLING": 1,
@@ -37,28 +37,28 @@
   "deadline_buckets": {
     "30": [
       "dalai-lama-fellows-2027",
-      "global-leadership-challenge-2026",
       "kectil-program-2027",
       "ustc-international-winter-camp-2027"
     ],
     "14": [
+      "global-leadership-challenge-2026",
       "mastercard-foundation-scholars-uct-2027",
       "one-young-world-leading-scholarship-2026",
       "open-doors-russian-scholarship-masters-2027"
     ],
     "7": [
-      "mastercard-foundation-scholars-edinburgh-2027",
-      "rlrh-graduate-horizons-2027"
+      "mastercard-foundation-scholars-edinburgh-2027"
     ],
     "3": [
-      "international-dialogue-sdg17-baku-2026"
+      "international-dialogue-sdg17-baku-2026",
+      "rlrh-graduate-horizons-2027"
     ],
     "1": []
   },
   "watch": {
     "checked": 61,
-    "ok": 48,
-    "blocked_or_unreachable": 12,
+    "ok": 47,
+    "blocked_or_unreachable": 13,
     "dead": 1
   },
   "flags": [
@@ -71,8 +71,14 @@
     {
       "id": "aspire-leaders-program-2026-cohort-4",
       "type": "source_changed",
-      "since": "2026-10-21",
+      "since": "2026-10-22",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "mandela-washington-fellowship-2027",
+      "type": "dead_link",
+      "since": "2026-10-22",
+      "detail": "Official page returned HTTP 404 on two runs."
     },
     {
       "id": "pan-african-university-scholarships",
@@ -84,6 +90,12 @@
       "id": "si-scholarship-global-professionals",
       "type": "source_changed",
       "since": "2026-10-20",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "noha-erasmus-mundus-humanitarian-action-2027",
+      "type": "source_changed",
+      "since": "2026-10-22",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -108,7 +120,7 @@
       "tier": 1,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Opportunity Desk",
@@ -116,7 +128,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 7
     },
     {
       "name": "Opportunities for Africans",
@@ -124,15 +136,15 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 1
     },
     {
       "name": "Global South Opportunities",
       "url": "https://www.globalsouthopportunities.com/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 10,
-      "new": 2
+      "status": 0,
+      "items": 0,
+      "new": 0
     },
     {
       "name": "Opportunities for Youth",
@@ -156,7 +168,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Opportunities Corners",
@@ -172,7 +184,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 1
     },
     {
       "name": "Afri-Carrieres",
@@ -186,7 +198,7 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 202,
+      "status": 520,
       "items": 0,
       "new": 0
     },
@@ -196,7 +208,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Becas para todos",
@@ -221,29 +233,22 @@
       "title": "The University of Edinburgh Mastercard Foundation on-campus and online postgraduate Scholars Program 2027/2028 for young Africans (Fully Funded)",
       "url": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-on-campus-and-online-postgraduate-scholars-program-2027-2028/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-21"
-    },
-    {
-      "id": "rlrh-graduate-horizons-2027",
-      "title": "The Refugee-Led Research Hub (RLRH) Graduate Horizons Mentorship and Scholarship Programme for African refugee and displaced students (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/the-refugee-led-research-hub-rlrh-graduate-horizons-mentorship-and-scholarship-programme/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-10-21"
+      "seen": "2026-10-22"
     },
     {
       "id": "mext-scholarship-embassy-drc",
       "title": "University of Tokyo Scholarship 2027 in Japan | Fully Funded MEXT Scholarship",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-tokyo-scholarship-2027-in-japan-fully-funded-mext-scholarship/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-21"
+      "seen": "2026-10-22"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "France Excellence Eiffel Scholarship 2027 in France | Fully Funded",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/france-excellence-eiffel-scholarship-2027-in-france-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-21"
+      "seen": "2026-10-22"
     }
   ],
-  "new_leads_last_run": 13
+  "new_leads_last_run": 12
 }

@@ -1,7 +1,142 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-21",
+  "updated": "2026-10-22",
   "leads": [
+    {
+      "id": "8b9825b55f89",
+      "title": "Call for Proposals: Commonwealth Blue Charter Incubator Round II (up to £50,000)",
+      "url": "https://opportunitydesk.org/2026/10/22/commonwealth-blue-charter-incubator-round-ii/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "6d526c7c54a6",
+      "title": "LPI Summer Internship 2027 in United States (Fully Funded)",
+      "url": "https://opportunitiescorners.com/lpi-summer-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "36abe11574f2",
+      "title": "Appel à candidatures – Programme de Renforcement des capacités de 200 Agents Techniciens Réseaux, Télécommunications et Technologies de l’Information (IT)",
+      "url": "https://www.lesopportunites.com/opportunite/guinee/formation/informatique-electronique/appel-a-candidatures-programme-de-renforcement-des-capacites-de-200-agents-techniciens-reseaux-telecommunications-et-technologies-de-linformation-it/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d4026e0129b2",
+      "title": "Bolsas para estudar Direito no exterior: conheça as principais oportunidades",
+      "url": "https://partiuintercambio.org/bolsas-para-estudar-direito-no-exterior/",
+      "source": "Partiu Intercambio",
+      "source_tier": 3,
+      "language": "pt",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7775ef94a5fa",
+      "title": "CDC Public Health Informatics Fellowship Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/21/cdc-public-health-informatics-fellowship-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ceabd19f584c",
+      "title": "Simons Foundation Fellows-to-Faculty Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/21/simons-foundation-fellows-to-faculty-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "9742eac00167",
+      "title": "Novartis/University of Basel Next Generation Scientist Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/21/next-generation-scientist-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "532e99b56324",
+      "title": "Wisconsin Population Health Service Fellowship Program 2027-2029 ($58,000 salary)",
+      "url": "https://opportunitydesk.org/2026/10/21/wisconsin-population-health-service-fellowship-program-2027-2029/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "47b2c6674022",
+      "title": "Institut für Auslandsbeziehungen CrossCulture Programme (CCP) Fellowships 2027",
+      "url": "https://opportunitydesk.org/2026/10/21/ifa-crossculture-programme-fellowships-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b6e4cf739a69",
+      "title": "UNESCO Science for Crisis Response & Solutions Research Continuity Grants for Africa 2026 (up to $2,000)",
+      "url": "https://opportunitydesk.org/2026/10/21/unesco-scrs-grants-for-africa-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6631fac33985",
+      "title": "The WIPO Global Innovation Index Fellowship 2027 for international research (6,000 CHF monthly stipend and funded to Geneva, Switzerland)",
+      "url": "https://www.opportunitiesforafricans.com/the-wipo-global-innovation-index-fellowship-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8f26f24b3e80",
+      "title": "United Diplomats Global Assembly 2027 in Thailand (Fully Funded)",
+      "url": "https://opportunitiescorners.com/united-diplomats-global-assembly-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-21",
+      "first_seen": "2026-10-22",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "c3d40f657645",
       "title": "Justice + Joy National Collaborative Policy & Advocacy Internship Spring 2027: Remote Internship + $2,500 Stipend & Congressional Advocacy Experience",
@@ -44,7 +179,10 @@
       "language": "en",
       "published": "2026-10-21",
       "first_seen": "2026-10-21",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "a8160402c92a",
@@ -2738,39 +2876,6 @@
       "source_tier": 3,
       "language": "fr",
       "published": "2026-09-30",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a846b36ff6f2",
-      "title": "Programme de Bourses MOPGA 2027 du Gouvernement Français",
-      "url": "https://www.mastere.tn/mopga-2025/",
-      "source": "Mastere.tn",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-09-21",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "1f4c9b0f1530",
-      "title": "Bourses Erasmus Mundus Flood Risk Management 2027-2029",
-      "url": "https://www.mastere.tn/erasmus-mundus-flood-risk-management/",
-      "source": "Mastere.tn",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-09-20",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6f4ba8dc2f31",
-      "title": "10 Bolsas de estudo na Austrália para se candidatar em 2026",
-      "url": "https://partiuintercambio.org/bolsas-de-estudo-na-australia/",
-      "source": "Partiu Intercambio",
-      "source_tier": 3,
-      "language": "pt",
-      "published": "2026-09-15",
       "first_seen": "2026-10-02",
       "status": "NEEDS VERIFICATION"
     }
