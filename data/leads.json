@@ -1,7 +1,154 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "leads": [
+    {
+      "id": "cb850254ebbc",
+      "title": "Raisina Young Fellows Programme 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/10/23/raisina-young-fellows-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans",
+        "Global South Opportunities"
+      ]
+    },
+    {
+      "id": "a84e5083328b",
+      "title": "The Bridge Founder Residency 2026–2027: $250,000 Pre-Seed Funding for Non-US Startup Founders",
+      "url": "https://www.globalsouthopportunities.com/2026/10/23/founder-2/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "016632ce21b1",
+      "title": "TalentForge Tech Graduate Programme 2026 at Nedbank – Apply by 3 November 2026",
+      "url": "https://www.globalsouthopportunities.com/2026/10/23/graduate-32/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5fc99c0a6d80",
+      "title": "Apply for the New York Times Fellowship 2027–2028: Paid Journalism Opportunity for Early-Career Journalists",
+      "url": "https://www.globalsouthopportunities.com/2026/10/23/new-3/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ee71442215c0",
+      "title": "YSEALI Professional Fellows Program 2027 in the USA (Fully Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/yseali-professional-fellows-program-2027-in-the-usa-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8bd3550fde69",
+      "title": "Community Engagement Exchange Program 2027 in USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/community-engagement-exchange-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2b8e1abbd7bd",
+      "title": "50 Scholarships, Grants, Fellowships and Other Opportunities Currently Open – October 22, 2026",
+      "url": "https://opportunitydesk.org/2026/10/22/50-scholarships-grants-fellowships-and-other-opportunities-currently-open-october-22-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ff5e70f0120e",
+      "title": "PICS Climate Internship Grant 2027 (up to $15,000)",
+      "url": "https://opportunitydesk.org/2026/10/22/pics-climate-internship-grant-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0714ccfe7bbd",
+      "title": "AIRC Non-Resident Research Fellowship in AI and Social Sciences 2027",
+      "url": "https://opportunitydesk.org/2026/10/22/airc-non-resident-research-fellowship-in-ai-and-social-sciences-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "4ff3c57cf04e",
+      "title": "New York City Urban Fellows Program 2027-2028 (stipend available)",
+      "url": "https://opportunitydesk.org/2026/10/22/new-york-city-urban-fellows-program-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e030979e1ea8",
+      "title": "London Youth Diplomacy Forum 2027 in the UK (Fully Funded)",
+      "url": "https://opportunitiescorners.com/london-youth-diplomacy-forum-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8aa5a3bdfed6",
+      "title": "Appel à candidatures – Programme de Stage virtuel de Afri-Carrières",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/stages/marketing-vente/appel-a-candidatures-programme-de-stage-virtuel-de-afri-carrieres/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "885779526823",
+      "title": "Appel à candidatures – Programme de sélection des Ambassadeurs en Action climatique et Environnementale – Green Earth Action Foundation (GEAF) 2027",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/call-for-papers/environnement/appel-a-candidatures-programme-de-selection-des-ambassadeurs-en-action-climatique-et-environnementale-green-earth-action-foundation-geaf-2027/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "8b9825b55f89",
       "title": "Call for Proposals: Commonwealth Blue Charter Incubator Round II (up to £50,000)",
@@ -2724,158 +2871,6 @@
       "source_tier": 3,
       "language": "en",
       "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "350f8d9fd121",
-      "title": "Fung Global Fellows Program 2027–28 at Princeton University: Fully Funded International Research Fellowship for Early-Career Scholars",
-      "url": "https://opportunitiesforyouth.org/2026/10/02/princeton-institute-for-international-and-regional-studies-piirs-fung-global-fellows-program/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2941a7896007",
-      "title": "Hamad Bin Khalifa University Scholarship in Qatar (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/hamad-bin-khalifa-university-scholarship-in-qatar-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities Corners"
-      ]
-    },
-    {
-      "id": "67448a7265b6",
-      "title": "Swiss Government Excellence Scholarships 2027–2028 in Switzerland (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/swiss-government-excellence-scholarships-2027-2028-in-switzerland-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "cf7567fd7959",
-      "title": "Programme de bourses de perfectionnement pour les jeunes interprètes africains",
-      "url": "https://www.francophonie.org/programme-de-bourses-de-perfectionnement-pour-les-jeunes-interpretes-africains-8691",
-      "source": "Organisation internationale de la Francophonie",
-      "source_tier": 1,
-      "language": "fr",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunites du Monde"
-      ]
-    },
-    {
-      "id": "34af6a9d7b7f",
-      "title": "Oklahoma City Zoo & Botanical Garden Conservation Action Now Grants 2026 (up to $2,500)",
-      "url": "https://opportunitydesk.org/2026/10/01/okc-zoo-conservation-action-now-grants-2026/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "f26595f809c2",
-      "title": "Orange Corners Nigeria Incubation Programme Cohort 16 for young Entrepreneurs (30,000 Euros in funding)",
-      "url": "https://www.opportunitiesforafricans.com/orange-corners-nigeria-incubation-programme-cohort-16-for-young-entrepreneurs-30000-euros-in-funding/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "bd058700a1c0",
-      "title": "Commonwealth Scholarships 2027 in the UK (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/commonwealth-scholarships-2027-in-the-uk-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b76ee5710ec6",
-      "title": "Yale World Fellows Program 2027 in USA (Fully Funded)",
-      "url": "https://opportunitiescorners.com/yale-world-fellows-program-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "38c88c9bd762",
-      "title": "Nexus Youth Exchange 2026 in Madrid, Spain (Fully Funded)",
-      "url": "https://opportunitiescorners.com/nexus-youth-exchange-2026/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "da6956a2feee",
-      "title": "Inscrivez-vous à la 3ème Session de Formation en ligne de l’AUF intitulée « Enseigner et former à l’ère de l’IA générative »",
-      "url": "https://www.lesopportunites.com/opportunite/france/formation/medias-numeriques/inscrivez-vous-a-la-3eme-session-de-formation-en-ligne-de-lauf-intitulee-enseigner-et-former-a-lere-de-lia-generative/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-01",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "5acaeefb936b",
-      "title": "Brooke Owens Fellowship 2027 In USA (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/brooke-owens-fellowship-2027-in-usa-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-09-30",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "5660be254d7e",
-      "title": "Fellowship 2027 in USA- Fully Funded",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/fellowship-2027-in-usa-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-09-30",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "ff1c8e8cd2da",
-      "title": "Bourses Erasmus Mundus TFMASA 2027-2029",
-      "url": "https://www.mastere.tn/erasmus-mundus-tfmasa/",
-      "source": "Mastere.tn",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-09-30",
       "first_seen": "2026-10-02",
       "status": "NEEDS VERIFICATION"
     }

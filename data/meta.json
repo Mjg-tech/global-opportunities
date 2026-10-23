@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-22T10:11:32Z",
+  "last_refresh": "2026-10-23T10:04:46Z",
   "counts": {
     "total": 61,
     "archived": 2,
@@ -46,14 +46,14 @@
       "one-young-world-leading-scholarship-2026",
       "open-doors-russian-scholarship-masters-2027"
     ],
-    "7": [
-      "mastercard-foundation-scholars-edinburgh-2027"
-    ],
+    "7": [],
     "3": [
-      "international-dialogue-sdg17-baku-2026",
+      "mastercard-foundation-scholars-edinburgh-2027",
       "rlrh-graduate-horizons-2027"
     ],
-    "1": []
+    "1": [
+      "international-dialogue-sdg17-baku-2026"
+    ]
   },
   "watch": {
     "checked": 61,
@@ -75,9 +75,15 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
+      "id": "france-excellence-eiffel-2027",
+      "type": "source_changed",
+      "since": "2026-10-23",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
       "id": "mandela-washington-fellowship-2027",
       "type": "dead_link",
-      "since": "2026-10-22",
+      "since": "2026-10-23",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
@@ -128,7 +134,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 7
+      "new": 5
     },
     {
       "name": "Opportunities for Africans",
@@ -136,15 +142,15 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Global South Opportunities",
       "url": "https://www.globalsouthopportunities.com/feed/",
       "tier": 3,
-      "status": 0,
-      "items": 0,
-      "new": 0
+      "status": 200,
+      "items": 10,
+      "new": 3
     },
     {
       "name": "Opportunities for Youth",
@@ -168,7 +174,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunities Corners",
@@ -184,7 +190,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 2
     },
     {
       "name": "Afri-Carrieres",
@@ -208,7 +214,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Becas para todos",
@@ -229,26 +235,47 @@
   ],
   "reseen": [
     {
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute (SI) Scholarship for Global Professionals 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/10/22/si-scholarship-for-global-professionals-2027/",
+      "source": "Opportunity Desk",
+      "seen": "2026-10-23"
+    },
+    {
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarships 2027 for Global Professionals for Master’s Level Studies in Sweden (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/swedish-institute-scholarships-2027-for-global-professionals-for-masters-level-studies-in-sweden/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-23"
+    },
+    {
       "id": "mastercard-foundation-scholars-cambridge-2027",
       "title": "The University of Edinburgh Mastercard Foundation on-campus and online postgraduate Scholars Program 2027/2028 for young Africans (Fully Funded)",
       "url": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-on-campus-and-online-postgraduate-scholars-program-2027-2028/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-22"
+      "seen": "2026-10-23"
+    },
+    {
+      "id": "open-doors-russian-scholarship-masters-2027",
+      "title": "Open Doors Russian Scholarship Project 2026–2027 (Fully Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/open-doors-russian-scholarship-project-2026-2027-fully-funded/",
+      "source": "OYA Opportunities",
+      "seen": "2026-10-23"
     },
     {
       "id": "mext-scholarship-embassy-drc",
       "title": "University of Tokyo Scholarship 2027 in Japan | Fully Funded MEXT Scholarship",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-tokyo-scholarship-2027-in-japan-fully-funded-mext-scholarship/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-22"
+      "seen": "2026-10-23"
     },
     {
       "id": "france-excellence-eiffel-2027",
       "title": "France Excellence Eiffel Scholarship 2027 in France | Fully Funded",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/france-excellence-eiffel-scholarship-2027-in-france-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-22"
+      "seen": "2026-10-23"
     }
   ],
-  "new_leads_last_run": 12
+  "new_leads_last_run": 13
 }
