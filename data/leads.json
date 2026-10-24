@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "leads": [
+    {
+      "id": "b17f6d85f81f",
+      "title": "WHO Summer School 2027 in France (Free Training Program)",
+      "url": "https://opportunitiescorners.com/who-summer-school-2027-in-france/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-24",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d7c4259dc861",
+      "title": "Global Changemakers Media Impact Academy 2026/2027",
+      "url": "https://opportunitydesk.org/2026/10/23/global-changemakers-media-impact-academy-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a7b03973e2b7",
+      "title": "MATTER Groundwork Innovator Accelerator 2027",
+      "url": "https://opportunitydesk.org/2026/10/23/matter-groundwork-innovator-accelerator-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d817fb4c6fd6",
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "03bc08f441fe",
+      "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
+      "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "04face736e1b",
+      "title": "Columbia University Italian Academy Fellowship Program 2027-2028",
+      "url": "https://opportunitydesk.org/2026/10/23/columbia-university-italian-academy-fellowship-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b460207bb23c",
+      "title": "Asia-Pacific Forum on Sustainable Development (APFSD) Youth Forum 2027",
+      "url": "https://opportunitydesk.org/2026/10/23/apfsd-youth-forum-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "bb43ac1e224a",
+      "title": "Dalhousie University Scholarships for International Students 2026–2027 in Canada",
+      "url": "https://www.globalsouthopportunities.com/2026/10/23/dalhousie/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "46ac81cd8ad6",
+      "title": "Public Management and Leadership Programme 2027 in Uganda: Applications Open for a Four-Month Hybrid Training Opportunity",
+      "url": "https://www.globalsouthopportunities.com/2026/10/23/management-15/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8c410f8690c1",
+      "title": "Apply for the DSTI–NRF Policy Fellowship Programme 2026: 24-Month Research-to-Policy Opportunity in South Africa",
+      "url": "https://www.globalsouthopportunities.com/2026/10/23/nrf-6/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "045e7f239e46",
+      "title": "2027 LPI Summer Internship in USA (Paid)",
+      "url": "https://oyaop.com/opportunity/internships/2027-lpi-summer-internship-in-usa-paid/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "f854023f7aee",
+      "title": "Human Rights Summit 2027 in Canada (Fully Funded)",
+      "url": "https://opportunitiescorners.com/human-rights-summit-2027-in-canada/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "82f1e4b0e060",
+      "title": "FLEX Global Program 2027 in the USA (Fully Funded Exchange Program)",
+      "url": "https://opportunitiescorners.com/flex-global-program-2027-in-the-usa/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-23",
+      "first_seen": "2026-10-24",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "cb850254ebbc",
       "title": "Raisina Young Fellows Programme 2027 (Fully-funded)",
@@ -2718,161 +2864,6 @@
       "also_seen_in": [
         "Opportunities for Africans"
       ]
-    },
-    {
-      "id": "de8d0bae24e0",
-      "title": "NVIDIA Graduate Fellowship 2027-2028 (up to $60,000)",
-      "url": "https://opportunitydesk.org/2026/10/02/nvidia-graduate-fellowship-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "ed8c9c49d071",
-      "title": "Africa Organization for Standardization (ARSO) 14th Continental Essay Competition 2026/2027 ($USD 2,300 Prize)",
-      "url": "https://www.opportunitiesforafricans.com/africa-organization-for-standardization-arso-14th-continental-essay-competition-2026-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "cca5d5b3bfa6",
-      "title": "UN Global Compact Business & Human Rights Accelerator Program 2026/2027",
-      "url": "https://www.opportunitiesforafricans.com/un-global-compact-business-human-rights-accelerator-program-2026-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunity Desk"
-      ]
-    },
-    {
-      "id": "c71e5bb1c4b2",
-      "title": "Call for Applications: EWAP Research Fellowship Programme 2027",
-      "url": "https://www.globalsouthopportunities.com/2026/10/02/ewap/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "1756872a5ea3",
-      "title": "Applications are Open for the 2027 Maurice R. Greenberg World Fellows Program | Fully Funded",
-      "url": "https://www.globalsouthopportunities.com/2026/10/02/world-28/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunity Desk"
-      ]
-    },
-    {
-      "id": "d031be3bd815",
-      "title": "Amazon Research Awards 2026 – Fall Call for Proposals",
-      "url": "https://www.globalsouthopportunities.com/2026/10/02/amazon-2/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunity Desk"
-      ]
-    },
-    {
-      "id": "4ca53e9137fc",
-      "title": "Call for Applications: AI, Ethics and Climate Governance Fellowship 2026",
-      "url": "https://www.globalsouthopportunities.com/2026/10/02/climate-103/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "5428f1a2397d",
-      "title": "The African Leadership Initiatives for Impact (ALII) Invites Applications for the One Africa Young Leaders Fellowship 2026",
-      "url": "https://www.globalsouthopportunities.com/2026/10/02/african-40/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "9ed556aa2ef6",
-      "title": "Google Scholarships 2026: 7 Scholarship Opportunities for Students in Computer Science and Technology",
-      "url": "https://opportunitiesforyouth.org/2026/10/02/google-scholarships-2026-7-scholarship-opportunities-for-students-in-computer-science-and-technology/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "4628aac16038",
-      "title": "Microsoft Government Affairs Internship in Belgium 2026: Finance, Operations and Management Assistant Coordinator",
-      "url": "https://opportunitiesforyouth.org/2026/10/02/microsoft-government-affairs-internship-in-belgium-2026-finance-operations-and-management-assistant-coordinator/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "5124834ebdc1",
-      "title": "FOR-GHP Fellowship 2027–2028: Fully Funded Outbreak Readiness Training for Public Health Professionals in Sub-Saharan Africa",
-      "url": "https://opportunitiesforyouth.org/2026/10/02/for-ghp-fellowship-2027-2028-fully-funded-outbreak-readiness-training-for-public-health-professionals-in-sub-saharan-africa/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Global South Opportunities"
-      ]
-    },
-    {
-      "id": "2a8f4e376729",
-      "title": "EGD Grant Program for Peace & Value Education: Funding for Community-Led Peace, Values and Social Impact Projects",
-      "url": "https://opportunitiesforyouth.org/2026/10/02/egd-grant-program/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "ac3410195f0d",
-      "title": "Princeton Winter School 2027 in Behavioral Science for Climate Action: Fully Subsidized Five-Day Programme at Princeton University",
-      "url": "https://opportunitiesforyouth.org/2026/10/02/princeton-winter-school-2027-in-behavioral-science-for-climate-action-fully-subsidized-five-day-programme-at-princeton-university/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
     }
   ]
 }
