@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-24",
+  "updated": "2026-10-25",
   "leads": [
+    {
+      "id": "0b168a8ee9ff",
+      "title": "Fortis Fellowship 2027: Applications Open for Emerging Leaders Worldwide",
+      "url": "https://www.globalsouthopportunities.com/2026/10/25/fortis/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "19f3d00765c9",
+      "title": "RWI Afghanistan Fellowship 2027 in Sweden and Hybrid Format",
+      "url": "https://www.globalsouthopportunities.com/2026/10/25/rwi-2/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1123b855fa7c",
+      "title": "Stanton Nuclear Security Fellowships 2027/2028 at Hertie School in Germany",
+      "url": "https://www.globalsouthopportunities.com/2026/10/25/nuclear-2/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5d01ff3f7ae4",
+      "title": "GreenCape Graduate Trainee Programme 2026: Apply for Green Economy Career Opportunities in South Africa",
+      "url": "https://www.globalsouthopportunities.com/2026/10/25/greencape-2/",
+      "source": "Global South Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c9dd0311ba65",
+      "title": "Stanford Fisher Family Summer Program 2027, USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/stanford-fisher-family-summer-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-25",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1610795403ac",
+      "title": "IDM-Africa Fellowship Programme 2027",
+      "url": "https://opportunitydesk.org/2026/10/24/idm-africa-fellowship-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-24",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7b0fe48621d2",
+      "title": "Anthropic STEM Fellowship 2027 (up to $167,000)",
+      "url": "https://opportunitydesk.org/2026/10/24/anthropic-stem-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-24",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "035115f1f8a8",
+      "title": "Atlantic Council GeoEconomics Center Young Global Professionals Program – Spring 2027",
+      "url": "https://opportunitydesk.org/2026/10/24/geoeconomics-center-young-global-professionals-program-spring-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-24",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e2a531714028",
+      "title": "Congressional Coalition on Adoption Institute (CCAI) Foster Youth Internship Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/24/ccai-foster-youth-internship-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-24",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "911f3bf8e11d",
+      "title": "Pioneering Scholarship 2027 in Sweden | Fully Funded",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/pioneering-scholarship-2027-in-sweden-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-24",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cf1029038aff",
+      "title": "New York Fellowship 2028 in the USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/acc-new-york-fellowship-2028/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-24",
+      "first_seen": "2026-10-25",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "b17f6d85f81f",
       "title": "WHO Summer School 2027 in France (Free Training Program)",
@@ -46,7 +167,8 @@
       "first_seen": "2026-10-24",
       "status": "NEEDS VERIFICATION",
       "also_seen_in": [
-        "Opportunities for Africans"
+        "Opportunities for Africans",
+        "Global South Opportunities"
       ]
     },
     {
@@ -69,7 +191,10 @@
       "language": "en",
       "published": "2026-10-23",
       "first_seen": "2026-10-24",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "b460207bb23c",
@@ -2734,136 +2859,6 @@
       "published": "2026-10-04",
       "first_seen": "2026-10-05",
       "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c84db2f92966",
-      "title": "Erasmus Mundus ILSPSD Scholarship 2027 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/erasmus-mundus-ilspsd-scholarship-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-04",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "3957768ae49d",
-      "title": "Loeb Fellowship 2027-2028 at the Harvard Graduate School of Design (Funded)",
-      "url": "https://opportunitydesk.org/2026/10/03/loeb-fellowship-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-03",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "1f4f4dbf4645",
-      "title": "Google Engineering & Technical Internships 2027",
-      "url": "https://opportunitydesk.org/2026/10/03/google-engineering-technical-internships-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-03",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "fb7410595094",
-      "title": "citiesRISE Fellowship for Emerging Leaders in Mental Health and Spirituality 2026 ($500 stipend)",
-      "url": "https://opportunitydesk.org/2026/10/03/citiesrise-fellowship-2026/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-03",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "52650ee0a51f",
-      "title": "Jasiri Growth Accelerator 2026 for Entrepreneurs from Kenya & Rwanda",
-      "url": "https://opportunitydesk.org/2026/10/03/jasiri-growth-accelerator-2026/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-03",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "36697e6faa8d",
-      "title": "Iceland Writers Retreat Program 2027 (Fully Funded Trip)",
-      "url": "https://opportunitiescorners.com/iceland-writers-retreat-program-2027-fully-funded-trip/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-03",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "92442e0ee314",
-      "title": "MOPGA Fellowship 2027 in Paris, France (Fully Funded)",
-      "url": "https://opportunitiescorners.com/mopga-fellowship-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-03",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b9ca08d91b4b",
-      "title": "ITU Gender Champions Programme 2027",
-      "url": "https://opportunitydesk.org/2026/10/02/itu-gender-champions-programme-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "726d828d4fca",
-      "title": "Unearthodox Exploration Co-Lab 2027 for Nature & Social Impact Innovators (CHF 10,000 Grant)",
-      "url": "https://opportunitydesk.org/2026/10/02/unearthodoxs-exploration-co-lab-2027-edges-of-possibility-for-innovators/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2581d66a9a0a",
-      "title": "IMF Fund Internship Program 2027",
-      "url": "https://opportunitydesk.org/2026/10/02/imf-fund-internship-program-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "25343324289b",
-      "title": "UONGOZI Institute Emerging Leaders Programme 2026-2027",
-      "url": "https://opportunitydesk.org/2026/10/02/uongozi-institute-emerging-leaders-programme-2026-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-02",
-      "first_seen": "2026-10-02",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
     }
   ]
 }

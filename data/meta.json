@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-24T09:33:12Z",
+  "last_refresh": "2026-10-25T09:49:40Z",
   "counts": {
     "total": 61,
     "archived": 2,
     "by_status": {
-      "OPEN": 23,
+      "OPEN": 22,
       "CLOSING SOON": 7,
       "UPCOMING": 18,
-      "DEADLINE PASSED": 3,
+      "DEADLINE PASSED": 4,
       "ROLLING": 1,
       "DATE UNKNOWN": 9
     },
@@ -38,29 +38,27 @@
     "30": [
       "dalai-lama-fellows-2027",
       "kectil-program-2027",
-      "mastercard-foundation-scholars-sciences-po-2027",
-      "ustc-international-winter-camp-2027"
+      "mastercard-foundation-scholars-sciences-po-2027"
     ],
     "14": [
       "global-leadership-challenge-2026",
-      "open-doors-russian-scholarship-masters-2027"
+      "ustc-international-winter-camp-2027"
     ],
     "7": [
       "mastercard-foundation-scholars-uct-2027",
-      "one-young-world-leading-scholarship-2026"
+      "one-young-world-leading-scholarship-2026",
+      "open-doors-russian-scholarship-masters-2027"
     ],
-    "3": [
-      "mastercard-foundation-scholars-edinburgh-2027"
-    ],
+    "3": [],
     "1": [
-      "international-dialogue-sdg17-baku-2026",
+      "mastercard-foundation-scholars-edinburgh-2027",
       "rlrh-graduate-horizons-2027"
     ]
   },
   "watch": {
     "checked": 61,
-    "ok": 47,
-    "blocked_or_unreachable": 13,
+    "ok": 46,
+    "blocked_or_unreachable": 14,
     "dead": 1
   },
   "flags": [
@@ -85,7 +83,7 @@
     {
       "id": "mandela-washington-fellowship-2027",
       "type": "dead_link",
-      "since": "2026-10-24",
+      "since": "2026-10-25",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
@@ -142,7 +140,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 6
+      "new": 4
     },
     {
       "name": "Opportunities for Africans",
@@ -158,7 +156,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 4
     },
     {
       "name": "Opportunities for Youth",
@@ -190,7 +188,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 3
+      "new": 2
     },
     {
       "name": "Opportunites du Monde",
@@ -247,36 +245,15 @@
       "title": "Swedish Institute Scholarships 2027 for Global Professionals for Master’s Level Studies in Sweden (Fully Funded)",
       "url": "https://www.opportunitiesforafricans.com/swedish-institute-scholarships-2027-for-global-professionals-for-masters-level-studies-in-sweden/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-24"
-    },
-    {
-      "id": "mastercard-foundation-scholars-cambridge-2027",
-      "title": "The University of Edinburgh Mastercard Foundation on-campus and online postgraduate Scholars Program 2027/2028 for young Africans (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-on-campus-and-online-postgraduate-scholars-program-2027-2028/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-10-24"
-    },
-    {
-      "id": "mastercard-foundation-scholars-edinburgh-2027",
-      "title": "University of Edinburgh Mastercard Foundation Scholarships 2027/2028 for African Students",
-      "url": "https://www.globalsouthopportunities.com/2026/10/23/edinburgh-6/",
-      "source": "Global South Opportunities",
-      "seen": "2026-10-24"
+      "seen": "2026-10-25"
     },
     {
       "id": "open-doors-russian-scholarship-masters-2027",
       "title": "Open Doors Russian Scholarship Project 2026–2027 (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/open-doors-russian-scholarship-project-2026-2027-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-24"
-    },
-    {
-      "id": "mext-scholarship-embassy-drc",
-      "title": "University of Tokyo Scholarship 2027 in Japan | Fully Funded MEXT Scholarship",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-tokyo-scholarship-2027-in-japan-fully-funded-mext-scholarship/",
-      "source": "OYA Opportunities",
-      "seen": "2026-10-24"
+      "seen": "2026-10-25"
     }
   ],
-  "new_leads_last_run": 13
+  "new_leads_last_run": 11
 }
