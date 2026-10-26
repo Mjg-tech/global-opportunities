@@ -1,16 +1,60 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-25",
+  "updated": "2026-10-26",
   "leads": [
     {
-      "id": "0b168a8ee9ff",
-      "title": "Fortis Fellowship 2027: Applications Open for Emerging Leaders Worldwide",
-      "url": "https://www.globalsouthopportunities.com/2026/10/25/fortis/",
-      "source": "Global South Opportunities",
+      "id": "ae80b0962a3f",
+      "title": "UNHCR Internship Program 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/unhcr-internship-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-26",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2d410fba7d31",
+      "title": "HENNGE Global Internship 2027 in Japan (Fully Funded)",
+      "url": "https://opportunitiescorners.com/hennge-global-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-26",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "fc99e36989d2",
+      "title": "33 Global Trainings, Awards and Travel Abroad Opportunities Currently Open – October 25, 2026",
+      "url": "https://opportunitydesk.org/2026/10/25/33-global-trainings-awards-and-travel-abroad-opportunities-currently-open-october-25-2026/",
+      "source": "Opportunity Desk",
       "source_tier": 3,
       "language": "en",
       "published": "2026-10-25",
-      "first_seen": "2026-10-25",
+      "first_seen": "2026-10-26",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ba47bed20fb5",
+      "title": "Fully Funded Grants in the USA 2027 | International Cultural Exchange",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/fully-funded-grants-in-the-usa-2027-international-cultural-exchange/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-25",
+      "first_seen": "2026-10-26",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2c7e243a7134",
+      "title": "Heinrich Boll Foundation Internship 2027 in USA (Visa and $700 Stipend)",
+      "url": "https://opportunitiescorners.com/heinrich-boll-foundation-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-25",
+      "first_seen": "2026-10-26",
       "status": "NEEDS VERIFICATION"
     },
     {
@@ -157,21 +201,6 @@
       "status": "NEEDS VERIFICATION"
     },
     {
-      "id": "d817fb4c6fd6",
-      "title": "World Food Forum Youth Policy Board 2027-2028",
-      "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-23",
-      "first_seen": "2026-10-24",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans",
-        "Global South Opportunities"
-      ]
-    },
-    {
       "id": "03bc08f441fe",
       "title": "PATH Global Health Strategy Internship 2026 (up to $1,000)",
       "url": "https://opportunitydesk.org/2026/10/23/path-global-health-strategy-internship-2026/",
@@ -272,21 +301,6 @@
       "published": "2026-10-23",
       "first_seen": "2026-10-24",
       "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "cb850254ebbc",
-      "title": "Raisina Young Fellows Programme 2027 (Fully-funded)",
-      "url": "https://opportunitydesk.org/2026/10/23/raisina-young-fellows-programme-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-23",
-      "first_seen": "2026-10-23",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans",
-        "Global South Opportunities"
-      ]
     },
     {
       "id": "a84e5083328b",
@@ -848,17 +862,6 @@
       "id": "ed10091f7c65",
       "title": "Emerging Leaders Programme 2026: Fully Sponsored Leadership Opportunity for Mid-Level Executives Across Africa",
       "url": "https://www.globalsouthopportunities.com/2026/10/19/emerging-2/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-19",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "5763a7b4fa45",
-      "title": "Apply for the FAO Internship Programme for Africa 2026–2027: Apply for Paid UN Internships",
-      "url": "https://www.globalsouthopportunities.com/2026/10/19/internship-70/",
       "source": "Global South Opportunities",
       "source_tier": 3,
       "language": "en",
@@ -2692,17 +2695,6 @@
       "source_tier": 3,
       "language": "fr",
       "published": "2026-10-04",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "d7c868c6bc84",
-      "title": "Bourses Erasmus Mundus GrEnFIn 2027-2029",
-      "url": "https://www.mastere.tn/erasmus-mundus-grenfin/",
-      "source": "Mastere.tn",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-03",
       "first_seen": "2026-10-06",
       "status": "NEEDS VERIFICATION"
     },

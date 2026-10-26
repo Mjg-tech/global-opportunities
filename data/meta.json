@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-26T07:23:52Z",
+  "last_refresh": "2026-10-26T11:08:10Z",
   "counts": {
     "total": 68,
     "archived": 2,
@@ -57,67 +57,12 @@
     ]
   },
   "watch": {
-    "checked": 61,
-    "ok": 46,
-    "blocked_or_unreachable": 14,
-    "dead": 1
+    "checked": 68,
+    "ok": 55,
+    "blocked_or_unreachable": 13,
+    "dead": 0
   },
-  "flags": [
-    {
-      "id": "african-union-youth-volunteer-corps",
-      "type": "source_changed",
-      "since": "2026-10-21",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "aspire-leaders-program-2026-cohort-4",
-      "type": "source_changed",
-      "since": "2026-10-22",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "france-excellence-eiffel-2027",
-      "type": "source_changed",
-      "since": "2026-10-23",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "mandela-washington-fellowship-2027",
-      "type": "dead_link",
-      "since": "2026-10-25",
-      "detail": "Official page returned HTTP 404 on two runs."
-    },
-    {
-      "id": "pan-african-university-scholarships",
-      "type": "source_changed",
-      "since": "2026-10-21",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "si-scholarship-global-professionals",
-      "type": "source_changed",
-      "since": "2026-10-20",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "vlir-uos-icp-connect-2027",
-      "type": "source_changed",
-      "since": "2026-10-24",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "noha-erasmus-mundus-humanitarian-action-2027",
-      "type": "source_changed",
-      "since": "2026-10-22",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    },
-    {
-      "id": "hsc-youth-ambassador-program-2027",
-      "type": "source_changed",
-      "since": "2026-10-20",
-      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
-    }
-  ],
+  "flags": [],
   "feeds": [
     {
       "name": "African Union announcements",
@@ -141,7 +86,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4
+      "new": 1
     },
     {
       "name": "Opportunities for Africans",
@@ -156,8 +101,8 @@
       "url": "https://www.globalsouthopportunities.com/feed/",
       "tier": 3,
       "status": 200,
-      "items": 10,
-      "new": 4
+      "items": 0,
+      "new": 0
     },
     {
       "name": "Opportunities for Youth",
@@ -189,7 +134,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 2
+      "new": 3
     },
     {
       "name": "Opportunites du Monde",
@@ -211,7 +156,7 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 520,
+      "status": 202,
       "items": 0,
       "new": 0
     },
@@ -242,19 +187,47 @@
   ],
   "reseen": [
     {
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
+      "source": "Opportunity Desk",
+      "seen": "2026-10-26"
+    },
+    {
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "The World Food Forum Youth Policy Board 2027/2028 for emerging leaders.",
+      "url": "https://www.opportunitiesforafricans.com/the-world-food-forum-youth-policy-board-2027-2028-for-emerging-leaders/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-26"
+    },
+    {
       "id": "si-scholarship-global-professionals",
       "title": "Swedish Institute Scholarships 2027 for Global Professionals for Master’s Level Studies in Sweden (Fully Funded)",
       "url": "https://www.opportunitiesforafricans.com/swedish-institute-scholarships-2027-for-global-professionals-for-masters-level-studies-in-sweden/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-25"
+      "seen": "2026-10-26"
+    },
+    {
+      "id": "raisina-young-fellows-2027-pcns",
+      "title": "The Policy Center for the New South (PCNS) Raisina Young Fellows Programme 2027 for emerging leaders worldwide (Fully Funded to New Delhi, India)",
+      "url": "https://www.opportunitiesforafricans.com/the-policy-center-for-the-new-south-pcns-raisina-young-fellows-programme-2027/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-26"
+    },
+    {
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "World Food Forum Youth Policy Board 2027–2028",
+      "url": "https://oyaop.com/opportunity/conferences/world-food-forum-youth-policy-board-2027-2028/",
+      "source": "OYA Opportunities",
+      "seen": "2026-10-26"
     },
     {
       "id": "open-doors-russian-scholarship-masters-2027",
       "title": "Open Doors Russian Scholarship Project 2026–2027 (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/open-doors-russian-scholarship-project-2026-2027-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-25"
+      "seen": "2026-10-26"
     }
   ],
-  "new_leads_last_run": 11
+  "new_leads_last_run": 5
 }
