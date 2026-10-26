@@ -1,0 +1,256 @@
+[
+  {
+    "id": "mastercard-foundation-scholars-edinburgh-2027",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "action": "If you have not done it yet, complete the Applicant Declaration Form today, 26 October 2026, before 5pm UK time (17:00 UTC). The form may close earlier once the limit is reached. Then submit the Postgraduate Assessment and Scholarship Main Application forms by 19 November 2026, 5pm UK time.",
+    "sources": [
+      {
+        "label": "Application timelines",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/application-timelines",
+        "type": "Official"
+      },
+      {
+        "label": "On-campus postgraduate scholarships",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/on-campus-postgraduate-scholarships",
+        "type": "Official"
+      },
+      {
+        "label": "Frequently asked questions",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/frequently-asked-questions",
+        "type": "Official"
+      },
+      {
+        "label": "Eligibility",
+        "url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/eligibility",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "mastercard-foundation-scholars-uct-2027",
+    "last_verified": "2026-10-26",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "UCT: Apply to the Mastercard Foundation Scholars Program (2027 intake, eligibility, deadlines)",
+        "url": "https://www.uct.ac.za/node/648803",
+        "type": "Official"
+      },
+      {
+        "label": "UCT Mastercard Foundation Scholars Program home",
+        "url": "https://www.uct.ac.za/mastercardfdn",
+        "type": "Official"
+      },
+      {
+        "label": "UCT MCF How to apply",
+        "url": "https://www.uct.ac.za/mastercardfdn/how-apply",
+        "type": "Official"
+      },
+      {
+        "label": "UCT Applications and registration (postgraduate closing dates 2027)",
+        "url": "https://uct.ac.za/applications-and-registration",
+        "type": "Official"
+      },
+      {
+        "label": "Opportunities for Africans listing (benefits, secondary)",
+        "url": "https://www.opportunitiesforafricans.com/the-university-of-cape-town-mastercard-foundation-scholars-program-2027/",
+        "type": "Aggregator"
+      }
+    ]
+  },
+  {
+    "id": "one-young-world-leading-scholarship-2026",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Leading Scholarship 2026",
+        "url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+        "type": "Official"
+      },
+      {
+        "label": "One Young World scholarships",
+        "url": "https://www.oneyoungworld.com/scholarships",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "open-doors-russian-scholarship-masters-2027",
+    "funding_details": [
+      "Tuition 'funded from the federal budget'; home page: 'Your tuition fees will be covered by the Government of the Russian Federation.'",
+      "Winners receive a monthly stipend; 'The amount varies depending on the university'",
+      "'All other expenses — including transportation, food, accommodation, communication services, and medical insurance — must be covered by the student.'",
+      "A Russian-language preparatory year is federally funded if needed",
+      "The home page title says 'Study in Russia on Fully Funded Scholarships', but the same page and the rules list travel, food, accommodation and insurance as the student's own costs, so the label stays Partially Funded"
+    ],
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "action": "Register at od.globaluni.ru by 1 November 2026 (no time zone stated) and choose the Master's track. Then finish the First Stage portfolio by 13 November and register for the Second Stage by 16 November 2026. Budget for travel, accommodation, food and insurance, which the scholarship does not cover.",
+    "sources": [
+      {
+        "label": "Open Doors home page (dates, FAQ)",
+        "url": "https://od.globaluni.ru/",
+        "type": "Official"
+      },
+      {
+        "label": "Open Doors rules",
+        "url": "https://od.globaluni.ru/rules",
+        "type": "Official"
+      },
+      {
+        "label": "MISIS: separate Russian government quota route",
+        "url": "https://en.misis.ru/applicants/scholarships/quota/",
+        "type": "Institutional"
+      }
+    ]
+  },
+  {
+    "id": "global-leadership-challenge-2026",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Apply now",
+        "url": "https://www.leadership-challenge.org/applynow",
+        "type": "Official"
+      },
+      {
+        "label": "About GLC",
+        "url": "https://www.leadership-challenge.org/about-glc",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "ustc-international-winter-camp-2027",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "USTC International Winter Camp 2027",
+        "url": "https://ic.ustc.edu.cn/?abroad=179",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "dalai-lama-fellows-2027",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Apply",
+        "url": "https://dalailamafellows.com/apply/",
+        "type": "Official"
+      },
+      {
+        "label": "The Fellowship",
+        "url": "https://dalailamafellows.com/the-fellowship/",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "kectil-program-2027",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Kectil Program",
+        "url": "https://kectil.com/",
+        "type": "Official"
+      },
+      {
+        "label": "Who can apply",
+        "url": "https://kectil.com/program/who-can-apply",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "mastercard-foundation-scholars-sciences-po-2027",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Mastercard Foundation Scholarships, graduate study",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/mastercard-foundation-scholarships/graduate-study/",
+        "type": "Official"
+      },
+      {
+        "label": "Graduate admissions deadlines",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
+        "type": "Official"
+      },
+      {
+        "label": "Partner institutions list (PDF)",
+        "url": "https://www.sciencespo.fr/students/sites/sciencespo.fr.students/files/sciencespo-mastercard-foundation-institutions-partenaires-en.pdf",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "rlrh-graduate-horizons-2027",
+    "verification": "PARTIALLY VERIFIED",
+    "action": "The stated deadline (25 October 2026, 5 pm BST) has passed. On 26 October the UNHCR Rwanda notice and the RSC Oxford Graduate Horizons page both returned HTTP 403, and no extension was found in search results. Open the notice in a browser to check whether the form still accepts applications.",
+    "sources": [
+      {
+        "label": "UNHCR Rwanda Help: Call for applications to mentorship for master's degree and scholarship application (deadline 25 October 2026)",
+        "url": "https://help.unhcr.org/rwanda/2026/10/02/call-for-applications-to-mentorship-for-masters-degree-and-scholarship-application-deadline-25-october-2026/",
+        "type": "Institutional"
+      },
+      {
+        "label": "UNHCR Rwanda Help: 2026 posts",
+        "url": "https://help.unhcr.org/rwanda/2026/",
+        "type": "Institutional"
+      }
+    ]
+  },
+  {
+    "id": "sciences-po-emile-boutmy-masters-2027",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Sciences Po: The Émile Boutmy scholarship (eligibility, amount, deadlines)",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/emile-boutmy-scholarship/",
+        "type": "Official"
+      },
+      {
+        "label": "Sciences Po: Deadlines - International graduate admissions (2027 intake)",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate/international-admissions/deadlines/",
+        "type": "Official"
+      },
+      {
+        "label": "Sciences Po: Tuition fees 2026-2027",
+        "url": "https://www.sciencespo.fr/students/en/fees-funding/tuition-fees/",
+        "type": "Official"
+      },
+      {
+        "label": "Sciences Po: Graduate admissions FAQ (documents, minimum degree)",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate/faq/",
+        "type": "Official"
+      },
+      {
+        "label": "Sciences Po: Language requirements - International graduate admissions",
+        "url": "https://www.sciencespo.fr/admissions/en/graduate/language-requirements/",
+        "type": "Official"
+      }
+    ]
+  },
+  {
+    "id": "yenching-academy-2027",
+    "opens_on": "2026-09-01",
+    "last_verified": "2026-10-26",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Yenching Academy admissions",
+        "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+        "type": "Official"
+      }
+    ]
+  }
+]

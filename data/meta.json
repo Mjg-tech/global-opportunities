@@ -1,38 +1,38 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-25T09:49:40Z",
+  "last_refresh": "2026-10-26T07:23:52Z",
   "counts": {
-    "total": 61,
+    "total": 68,
     "archived": 2,
     "by_status": {
-      "OPEN": 22,
-      "CLOSING SOON": 7,
+      "OPEN": 28,
+      "CLOSING SOON": 8,
       "UPCOMING": 18,
-      "DEADLINE PASSED": 4,
+      "DEADLINE PASSED": 5,
       "ROLLING": 1,
-      "DATE UNKNOWN": 9
+      "DATE UNKNOWN": 8
     },
     "by_funding": {
-      "Fully Funded": 27,
-      "Substantially Funded": 9,
-      "Partially Funded": 2,
+      "Fully Funded": 29,
+      "Substantially Funded": 11,
+      "Partially Funded": 4,
       "Travel Funded": 2,
-      "Participation Funded": 4,
+      "Participation Funded": 5,
       "Self Funded": 0,
       "Funding Unclear": 17
     },
     "by_eligibility": {
       "LIKELY ELIGIBLE": 15,
-      "POSSIBLY ELIGIBLE": 36,
+      "POSSIBLY ELIGIBLE": 43,
       "NOT ELIGIBLE": 4,
       "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
-      "VERIFIED": 35,
-      "PARTIALLY VERIFIED": 22,
+      "VERIFIED": 41,
+      "PARTIALLY VERIFIED": 23,
       "NEEDS VERIFICATION": 4
     },
-    "travel_funded": 25
+    "travel_funded": 29
   },
   "deadline_buckets": {
     "30": [
@@ -41,18 +41,19 @@
       "mastercard-foundation-scholars-sciences-po-2027"
     ],
     "14": [
+      "fortis-fellowship-2027",
       "global-leadership-challenge-2026",
       "ustc-international-winter-camp-2027"
     ],
     "7": [
       "mastercard-foundation-scholars-uct-2027",
       "one-young-world-leading-scholarship-2026",
-      "open-doors-russian-scholarship-masters-2027"
+      "open-doors-russian-scholarship-masters-2027",
+      "raisina-young-fellows-2027-pcns"
     ],
     "3": [],
     "1": [
-      "mastercard-foundation-scholars-edinburgh-2027",
-      "rlrh-graduate-horizons-2027"
+      "mastercard-foundation-scholars-edinburgh-2027"
     ]
   },
   "watch": {

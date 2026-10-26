@@ -2,6 +2,399 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-10-26",
+      "id": "humanresponse-erasmus-mundus-humanitarian-2027",
+      "title": "Erasmus Mundus Joint Master on Coordinated Humanitarian Response, Health and Displacement (Human Response) 2027-2029",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "grenfin-erasmus-mundus-energy-finance-2027",
+      "title": "Erasmus Mundus Joint Master in Greening Energy Market and Finance (GrEnFIn) 2027-2029",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "schwarzman-scholars-2028",
+      "title": "Schwarzman Scholars (Class of 2028-2029)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "fortis-fellowship-2027",
+      "title": "Fortis Fellowship 2027",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "raisina-young-fellows-2027-pcns",
+      "title": "Raisina Young Fellows Programme 2027 (PCNS Youth Community places)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "fao-internship-programme-africa-2026-2027",
+      "title": "FAO Internship Programme for Africa (RAF), Call for Expression of Interest 2601980",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "yenching-academy-2027",
+      "title": "Yenching Academy of Peking University (2027 entry)",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-09-01"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "deadline_text",
+      "old": "No open call on the page read. Calls are advertised on the AU Careers page and official social media.",
+      "new": "No open call on 26 October 2026: the AU careers posting for the AU-YVC now says 'You can't view this job because it's not available at this time.' Last call (13th cohort, AU press release of 26 March 2026): 'Applications are opened for qualified young Africans across the continent and the Diaspora from 26 March to 26 April 2026'; 'All applications must be submitted by April 26, 2026, at 11:59 p.m. EAT.'"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Partially Funded"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Not applicable",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "eligibility",
+      "old": [
+        "Criteria are published with each call; they were not on the page read"
+      ],
+      "new": [
+        "Age: '18 – 35 years (must be under 35 upon completion of service)' (13th cohort call)",
+        "Education: 'Post-secondary certified qualification (TVET, Bachelor's, or Master's)'",
+        "Experience: 'Relevant professional work and verifiable volunteering experience'",
+        "Commitment: 'Available in 2026/27 to dedicate 12 months for professional volunteer service and willing to live in another AU Member State'",
+        "2026 fields sought included Operations & Finance (Finance and Accounting, Human Resources, Project Management), Governance & Law, Digital & Systems and Socio-Economic Development (Economics, Agriculture, Sustainable Environment, Communications, Translation & Interpreting)"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "nationality_requirements",
+      "old": [],
+      "new": [
+        "'Qualified young Africans across the continent and the Diaspora'; the programme deploys 'young African professionals from AU Member States'. No country list is published on the pages read."
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "age_requirement",
+      "old": "Unknown / Not specified",
+      "new": "18 to 35, and under 35 upon completion of service (2026 call)"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "african-union-youth-volunteer-corps",
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "field": "eligibility_for_me",
+      "old": "INSUFFICIENT INFORMATION",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "aspire-leaders-program-2026-cohort-4",
+      "title": "Aspire Leaders Program (2026 Cohort 4)",
+      "field": "deadline_text",
+      "old": "Applications for Cohort 4 of the 2026 Aspire Leaders Program are OPEN! Apply before the October 16 deadline. (No time or time zone stated.)",
+      "new": "Cohort 4 (2026): 'Apply before the October 16 deadline' (no time or time zone stated). On 26 October 2026 the programme page lists Cohort 4 'October 21 – November 30' as 'Closed', and the home page says 'Applications for the 2026 Aspire Leaders Program are closed!'"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "france-excellence-eiffel-2027",
+      "title": "France Excellence Eiffel scholarship programme",
+      "field": "deadline_text",
+      "old": "Session 2027 (official French page, updated 2 October 2026): 'Ouverture de l'appel à candidature : 2 octobre 2026'; 'Date limite de dépôt par les établissements des dossiers de candidatures auprès de Campus France : mercredi 6 janvier 2027 inclus'; results 'courant de la semaine du 12 avril 2027'. This deadline applies to French institutions; students must meet each institution's earlier internal deadline ('ce calendrier ne concerne pas les étudiants qui doivent se rapprocher des établissements français pour connaître leur date limite').",
+      "new": "Session 2027 (official French page, 'Mise à jour le 02 octobre 2026'): 'Ouverture de l'appel à candidature : 2 octobre 2026'; 'Date limite de dépôt par les établissements des dossiers de candidatures auprès de Campus France : mercredi 6 janvier 2027 inclus'; results 'courant de la semaine du 12 avril 2027'. The English page now says 'Call for application 2027 is open' with the same 6 January 2027 deadline. This deadline applies to French institutions; students must meet each institution's earlier internal deadline ('ce calendrier ne concerne pas les étudiants qui doivent se rapprocher des établissements français pour connaître leur date limite')."
+    },
+    {
+      "date": "2026-10-26",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "deadline_text",
+      "old": "No 2027-2028 call published on 19 October 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item. The application platform states 'Applications closed on 15/12/2025'; the previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
+      "new": "No 2027-2028 call published on 26 October 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item, the PAU website shows no new call, and the application platform states 'Applications closed on 15/12/2025'. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Partially covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "application_deadline",
+      "old": "",
+      "new": "2027-01-15"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "deadline_text",
+      "old": "'Application closed.' The official page (read 19 October 2026) says: 'Information about the application round for academic year 2027/2028 will be published on this page on 19 October.' When read, the page still showed only the 2025/26 round: University Admissions 16 October 2025 to 15 January 2026; SI portal open 9-25 February 2026, closing 14:59 CET on the final day.",
+      "new": "2027/2028 round (official page, read 26 October 2026): '16 October 2026 – 15 January 2027: Apply to Swedish master's programmes through University Admissions.' '13 November 2026: SI Scholarship application documents and eligible master programmes are published on this page.' '8-24 February 2027: Application portal for the SI Scholarships is open for two weeks. Please note that the application portal closes at 14:59 CET on the final day.' '1 April 2027: University admissions announcement.' '22 April 2027: SI Scholarship announcement.' The date recorded is the University Admissions deadline (no time stated); the SI scholarship deadline is 24 February 2027 at 14:59 CET."
+    },
+    {
+      "date": "2026-10-26",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-10-16"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "program_dates",
+      "old": "Unknown / Not specified",
+      "new": "Master's studies in Sweden starting in the autumn semester; the scholarship period starts August 2027"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "eligibility",
+      "old": [
+        "Citizen of one of the 34 eligible countries",
+        "Demonstrated work experience",
+        "Demonstrated leadership experience from an employer or civil society engagement",
+        "Admitted to an eligible Swedish master's programme"
+      ],
+      "new": [
+        "Citizen of one of the 34 eligible countries (residence in that country is not required)",
+        "Apply for an eligible English-taught master's programme 'within Governance, Public Health, Entrepreneurship and Innovation and STEM' (list published 13 November 2026)",
+        "Be liable to pay tuition fees in Sweden and be admitted to an eligible programme on the admissions announcement day (1 April 2027)",
+        "Demonstrated work experience: applicants from the listed African, Asian and Latin American countries need 'at least 3,000 hours of work experience prior to February 2027', from at most three employers",
+        "Demonstrated leadership experience from a current or previous employer, entrepreneurship or civil society engagement",
+        "Not eligible: current or former students of Swedish universities, people who have lived in Sweden two years or more before August 2027, previous SI scholarship holders, Swedish or EU/EEA citizens and some Swedish permit holders"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "field": "nationality_requirements",
+      "old": [
+        "Eligible (34 countries, unchanged on 12 October 2026): Armenia, Azerbaijan, Bangladesh, Belarus, Bolivia, Brazil, Colombia, Ecuador, Egypt, Ethiopia, Georgia, Guatemala, Indonesia, Iraq, Jordan, Kenya, Liberia, Malaysia, Mexico, Moldova, Morocco, Nigeria, Peru, Philippines, Rwanda, Senegal, South Africa, Tanzania, Thailand, Uganda, Ukraine, Uzbekistan, Vietnam, Zambia. The Democratic Republic of the Congo is not listed."
+      ],
+      "new": [
+        "Eligible (34 countries, unchanged on 26 October 2026 for 2027/2028): Armenia, Azerbaijan, Bangladesh, Belarus, Bolivia, Brazil, Colombia, Ecuador, Egypt, Ethiopia, Georgia, Guatemala, Indonesia, Iraq, Jordan, Kenya, Liberia, Malaysia, Mexico, Moldova, Morocco, Nigeria, Peru, Philippines, Rwanda, Senegal, South Africa, Tanzania, Thailand, Uganda, Ukraine, Uzbekistan, Vietnam, Zambia. Public sector employees in Georgia and Belarus are not eligible. The Democratic Republic of the Congo is not listed."
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "id": "vlir-uos-icp-connect-2027",
+      "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+      "field": "deadline_text",
+      "old": "'The ICP Connect scholarship call for the 2026–2027 academic year is now closed. The call for the 2027–2028 academic year is expected to open by the end of October 2026.' 'Each programme sets its own deadlines'; the programme list and deadlines 'will be updated then'.",
+      "new": "'The ICP Connect Scholarship call for the 2027–2028 academic year is open. The list of available programmes and the application deadlines for each programme is up to date.' 'Each programme sets its own deadlines.' Programme pages (26 October 2026): Tropical Biodiversity and Ecosystems (VUB) open 01/09/2026, deadline 30/11/2026; Applied Computer Science bachelor (Thomas More) opens 30/10/26, deadline 15/01/27; Hotel Management bachelor (VIVES) opens 10/11/2026, deadline 31/01/2027; Food Technology (KU Leuven & UGent) 12/10/26 to 01/02/27; Marine and Lacustrine Science and Management 01/11/26 to 01/02/27; Transportation Sciences - Road Safety (UHasselt) 15/10/26 to 01/02/27; Aquaculture (IMAQUA, UGent) 01/10/26 to 28/02/27; Nutrition and Food Systems (UGent) 01/10/26 to 28/02/27; Sustainable Land Management (UGent & VUB) 01/11/26 to 28/02/27. The three UAntwerpen advanced masters (Development Evaluation and Management; Globalisation and Development; Governance and Development) show 'Applications open: - | Application deadline: -'."
+    },
+    {
+      "date": "2026-10-26",
+      "id": "vlir-uos-icp-connect-2027",
+      "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+      "field": "program_dates",
+      "old": "2027-2028 academic year; 12, 24 or 36 months depending on the programme",
+      "new": "Starts September 2027. Programme pages: advanced masters Sept 2027 - Sept 2028; initial masters mostly Sept 2027 - Sept 2029 (IMAQUA Sept 2027 - Sept 2028); Applied Computer Science bachelor Sept 2027 - Sept 2029; Hotel Management bachelor Sept 2027 - Sept 2030"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "vlir-uos-icp-connect-2027",
+      "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+      "field": "eligibility",
+      "old": [
+        "Nationality of one of the 29 eligible countries, and residence in one of them at the time of application",
+        "Initial master: not older than 35 on 1 January of the intake year (advanced master: 45)",
+        "Preference for candidates working in higher education, government or civil society, or aiming at those sectors",
+        "Newly graduated candidates with no work experience may be considered with strong motivation and a compelling profile",
+        "Preference for candidates who have not yet studied in a higher-income country"
+      ],
+      "new": [
+        "Nationality of one of the 25 eligible countries, and residence in one of them at the time of application",
+        "Bachelor and initial master: not older than 35 on 1 January of the intake year (advanced master: 45); bachelor candidates at least 19",
+        "Preference for candidates employed in higher education, government or civil society",
+        "Recent graduates or private-sector candidates with no experience may be considered with strong motivation",
+        "Preference for candidates who have not yet studied in a higher-income country"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "id": "vlir-uos-icp-connect-2027",
+      "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+      "field": "nationality_requirements",
+      "old": [
+        "29 eligible countries; 'DR Congo' is on the official VLIR-UOS scholarship country list (Sub-Saharan Africa)"
+      ],
+      "new": [
+        "25 eligible countries; 'DR Congo' is on the official VLIR-UOS scholarship country list (Sub-Saharan Africa, read 26 October 2026)"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "id": "vlir-uos-icp-connect-2027",
+      "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "noha-erasmus-mundus-humanitarian-action-2027",
+      "title": "NOHA Erasmus Mundus Joint Master in International Humanitarian Action (2027-2029)",
+      "field": "deadline_text",
+      "old": "'15 December 2026, 23.59pm GMT: Deadline for Erasmus Mundus scholarship applications'. '1 April, 2027: Central application deadline for all ordinary candidates.' '1 July, 2027: Application deadline for those without EU citizenship or valid EU residence permits.' (Page timeline is headed '2026-2028 cohort' while the banner says 'the 2027-2029 cohort is now open'.)",
+      "new": "'1 October, 2026: Opening of the call for all applications to the programme for the 2027-2029 cohort.' '15 December 2026, 23.59pm GMT: Deadline for Erasmus Mundus scholarship applications'. '1 April, 2027: Central application deadline for all ordinary candidates.' '1 July, 2027: Application deadline for those without EU citizenship or valid EU residence permits.' Erasmus Mundus results 'by the end of March' 2027."
+    },
+    {
+      "date": "2026-10-26",
+      "id": "noha-erasmus-mundus-humanitarian-action-2027",
+      "title": "NOHA Erasmus Mundus Joint Master in International Humanitarian Action (2027-2029)",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-10-01"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "noha-erasmus-mundus-humanitarian-action-2027",
+      "title": "NOHA Erasmus Mundus Joint Master in International Humanitarian Action (2027-2029)",
+      "field": "eligibility",
+      "old": [
+        "Bachelor's of at least 180 ECTS 'in a discipline of relevance to humanitarian action (medical sciences, foods sciences, economics and management, ...)'",
+        "English at C1, for example IELTS minimum 6.5 overall with no component under 6.0, or TOEFL iBT",
+        "Erasmus Mundus applicants must submit full documentation before the 15 December deadline",
+        "Proof of residence issued within 12 months ('National IDs, passports and utility bills are not acceptable')"
+      ],
+      "new": [
+        "Bachelor's of at least 180 ECTS 'in a discipline of relevance to humanitarian action (medical sciences, foods sciences, economics and management, ...)'",
+        "'Only candidates who have graduated before the application deadline are eligible to apply for an EM scholarship.'",
+        "English at C1: IELTS 'minimum overall score 6.5, with no component under 6.0', or TOEFL iBT 'minimum overall score of 5, minimum 5 in the writing section and no other component under 4.5 (scale 0-5)', or Cambridge CAE/CPE; native speakers and applicants whose entire BA was taught in English (shown on the diploma, transcripts or an official letter) are exempt",
+        "Erasmus Mundus applicants 'HAVE TO submit a full documentation as specified in the requirements before the announced deadline' (the late-test-score option applies only to other applicants)",
+        "Proof of residence issued within 12 months before the deadline ('National IDs, passports and utility bills are not acceptable')"
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "id": "hsc-youth-ambassador-program-2027",
+      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
+      "field": "deadline_text",
+      "old": "Application deadline: October 19, 2026 (\"Apply by October 19, 2026 to join us for the HSC Youth Roundtable Series in December\"). Interviews with short-listed candidates at the end of October 2026; participation confirmed end of October / early November 2026.",
+      "new": "Application deadline: October 19, 2026 (\"Apply by October 19, 2026 to join us for the HSC Youth Roundtable Series in December\"), read on the application form on 12 and 19 October 2026. Interviews with short-listed candidates at the end of October 2026; participation confirmed end of October / early November 2026. On 26 October 2026 the form page returns HTTP 404 and the programme page shows only the 2026 cohort."
+    },
+    {
+      "date": "2026-10-26",
+      "id": "hsc-youth-ambassador-program-2027",
+      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
+      "field": "official_application_url",
+      "old": "https://www.sustainability-conference.org/en/hsc27youthform",
+      "new": "https://www.sustainability-conference.org/en/hsc27youth"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "hsc-youth-ambassador-program-2027",
+      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
+      "field": "verification",
+      "old": "VERIFIED",
+      "new": "PARTIALLY VERIFIED"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "deadline_text",
+      "old": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (application instructions). Apply page: 'September 22, 2026 | Application opens'; 'October 13, 2026 | Application deadline'.",
+      "new": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (2027 application instructions PDF, still online on 26 October 2026). The About page now says: 'Applications for the 2027 Mandela Washington Fellowship are now closed.'"
+    },
+    {
+      "date": "2026-10-26",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "official_information_url",
+      "old": "https://www.mandelawashingtonfellowship.org/apply/",
+      "new": "https://www.mandelawashingtonfellowship.org/about/"
+    },
+    {
       "date": "2026-10-21",
       "id": "chevening-scholarships-2027",
       "title": "Chevening Scholarships 2027/28",
