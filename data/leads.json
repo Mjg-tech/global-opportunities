@@ -1,7 +1,157 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "leads": [
+    {
+      "id": "8e94782428c0",
+      "title": "World Youth Leadership Conference 2026 in London, UK",
+      "url": "https://oyaop.com/opportunity/conferences/world-youth-leadership-conference-2026-in-london-uk-2/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1f187515b03d",
+      "title": "CaCTuS Summer Internship 2027 in Germany (Fully Funded)",
+      "url": "https://opportunitiescorners.com/cactus-summer-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3db28fd7eb29",
+      "title": "La Banque Mondiale propose en ligne une formation gratuite intitulée « Éléments fondamentaux du Cadre environnemental et social (CES) »",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/environnement/la-banque-mondiale-propose-en-ligne-une-formation-gratuite-intitulee-elements-fondamentaux-du-cadre-environnemental-et-social-ces/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c8dc30cb6621",
+      "title": "L’Union Européenne, la Banque Mondiale et le PNUD proposent une formation gratuite et certifiante en ligne sur l’Évaluation des besoins post catastrophe (PDNA)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/gestion-globale-des-risques-et-des-crises/lunion-europeenne-la-banque-mondiale-et-le-pnud-proposent-une-formation-gratuite-et-certifiante-en-ligne-sur-levaluation-des-besoins-post-catastrophe-pdna-2/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "31865b128f7d",
+      "title": "Comment reconnaître une fausse offre de bourse ou d’emploi",
+      "url": "https://afri-carrieres.com/reconnaitre-fausse-offre-de-bourse-ou-demploi/",
+      "source": "Afri-Carrieres",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e650533e8aee",
+      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/10/26/sir-cyril-taylor-young-african-leaders-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3f8f4d5ac706",
+      "title": "Nexa Lighthouse Funding Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/26/nexa-lighthouse-funding-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "daffd8dddbd9",
+      "title": "Stanton Nuclear Security Fellows Program 2027/2028 (Stipend available)",
+      "url": "https://opportunitydesk.org/2026/10/26/stanton-nuclear-security-fellows-program-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "95ac34302040",
+      "title": "Fulbright U.S.-ASEAN Visiting Scholar Program 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/10/26/fulbright-us-asean-visiting-scholar-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
+    },
+    {
+      "id": "fc5cd15ad4a4",
+      "title": "Science and Engineering Apprenticeship Program (SEAP) 2026",
+      "url": "https://opportunitydesk.org/2026/10/26/science-and-engineering-apprenticeship-program-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b14ce9964253",
+      "title": "UNA-Canada Youth Global Citizen Prize 2026 ($2,500 total prize)",
+      "url": "https://opportunitydesk.org/2026/10/26/una-canada-youth-global-citizen-prize-2026-2500-total-prize/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "698080fe9e9d",
+      "title": "Sharjah Advanced Industrial AI Accelerator 2027 ($100,000 Cash Prize Pool)",
+      "url": "https://opportunitydesk.org/2026/10/26/sharjah-advanced-industrial-ai-accelerator-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "02a6b80a60b8",
+      "title": "WACSI Next Generation Internship Programme 2027",
+      "url": "https://opportunitydesk.org/2026/10/26/wacsi-next-generation-internship-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans",
+        "OYA Opportunities"
+      ]
+    },
     {
       "id": "ae80b0962a3f",
       "title": "UNHCR Internship Program 2027 (Fully Funded)",
@@ -2706,149 +2856,6 @@
       "source_tier": 3,
       "language": "en",
       "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "799f4b846def",
-      "title": "Harvard Belfer Center Fellowships 2027–2028: 14 Research Fellowships Open to Scholars and Professionals — Apply by December 1",
-      "url": "https://www.globalsouthopportunities.com/2026/10/05/harvard-18/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "57c85dae6e4d",
-      "title": "Swarovski Foundation Creatives for Our Future 2026: Global Grant and Education Programme for Young Creatives Advancing the Sustainable Development Goals",
-      "url": "https://opportunitiesforyouth.org/2026/10/05/swarovski-foundation-creatives-for-our-future-2026-global-grant-and-education-programme-for-young-creatives-advancing-the-sustainable-development-goals/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2177701aa377",
-      "title": "4th Youth Leadership & Innovation Award for Migration 2026: Seed Funding, Mentorship and Global Visibility for Youth-Led Migration Solutions",
-      "url": "https://opportunitiesforyouth.org/2026/10/05/4th-youth-leadership-award/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "63d53b55add6",
-      "title": "Paid Internships at the Council on Foreign Relations, USA",
-      "url": "https://opportunitiesforyouth.org/2026/10/05/council-of-foreign-relations-many-spring-2024-internship-programs-available/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e22229c65f64",
-      "title": "Bloomberg Harvard Visiting Scholars Program 2026 | Harvard University",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/bloomberg-harvard-visiting-scholars-program-2026-harvard-university/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "cc1897d33370",
-      "title": "Appel à candidatures – Campagne Mondiale d’Innovation des Jeunes pour le développement durable CIPP 2026 de l’UNESCO",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/call-for-papers/developpement-durable/appel-a-candidatures-campagne-mondiale-dinnovation-des-jeunes-pour-le-developpement-durable-cipp-2026-de-lunesco/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "074928086b8d",
-      "title": "Appel à candidatures – Bourses de Mobilité Africa MOVES 2026-2027",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/recherche-innovationdeveloppt/appel-a-candidatures-bourses-de-mobilite-africa-moves-2026-2027/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "87a91c00f185",
-      "title": "US South Pacific Scholarship 2027: Study in Hawaii on a Fully Funded Scholarship — Bachelor’s & Master’s Students Can Apply",
-      "url": "https://www.globalsouthopportunities.com/2026/10/04/us-2/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-04",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e5fce313a67d",
-      "title": "AIMS South Africa Scholarship 2027: Fully Funded Master’s in Mathematical Sciences – Apply by 4 November",
-      "url": "https://www.globalsouthopportunities.com/2026/10/04/aims-6/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-04",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a49c9e76ca81",
-      "title": "Aspen Healthy Communities Fellowship 2027: Leadership Training, Covered Programme Costs and a Stronger Voice for Community Change",
-      "url": "https://opportunitiesforyouth.org/2026/10/04/aspen-healthy-communities-fellowship-2027-leadership-training-covered-programme-costs-and-a-stronger-voice-for-community-change/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-04",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "68787eb36f01",
-      "title": "MIT Solve Global Challenges 2027 Open with Over USD 1 Million in Prize Funding and Nine Months of Support",
-      "url": "https://opportunitiesforyouth.org/2026/10/04/mit-solve-global-challenges-2027-open-with-over-usd-1-million-in-prize-funding-and-nine-months-of-support/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-04",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "462ec51d960a",
-      "title": "Anzisha Venture Building Fellowship 2027: Apply Now for Young African Entrepreneurs | Up to $40,000 in Prizes",
-      "url": "https://opportunitiesforyouth.org/2026/10/04/anzisha-venture-building-fellowship-2027-apply-now-for-young-african-entrepreneurs-up-to-40000-in-prizes/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-04",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "3a73517fc689",
-      "title": "MOPGA 2027 Visiting Fellowship in France (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/mopga-2027-visiting-fellowship-in-france-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-04",
       "first_seen": "2026-10-05",
       "status": "NEEDS VERIFICATION"
     }

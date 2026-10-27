@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-26T11:08:10Z",
+  "last_refresh": "2026-10-27T10:35:12Z",
   "counts": {
     "total": 68,
     "archived": 2,
     "by_status": {
       "OPEN": 28,
-      "CLOSING SOON": 8,
+      "CLOSING SOON": 7,
       "UPCOMING": 18,
-      "DEADLINE PASSED": 5,
+      "DEADLINE PASSED": 6,
       "ROLLING": 1,
       "DATE UNKNOWN": 8
     },
@@ -52,15 +52,13 @@
       "raisina-young-fellows-2027-pcns"
     ],
     "3": [],
-    "1": [
-      "mastercard-foundation-scholars-edinburgh-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 68,
-    "ok": 55,
+    "ok": 54,
     "blocked_or_unreachable": 13,
-    "dead": 0
+    "dead": 1
   },
   "flags": [],
   "feeds": [
@@ -86,7 +84,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 8
     },
     {
       "name": "Opportunities for Africans",
@@ -134,7 +132,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 3
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -142,7 +140,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 2
     },
     {
       "name": "Afri-Carrieres",
@@ -150,13 +148,13 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 202,
+      "status": 520,
       "items": 0,
       "new": 0
     },
@@ -187,47 +185,40 @@
   ],
   "reseen": [
     {
-      "id": "wff-youth-policy-board-2027-2028",
-      "title": "World Food Forum Youth Policy Board 2027-2028",
-      "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
-      "source": "Opportunity Desk",
-      "seen": "2026-10-26"
+      "id": "vlir-uos-icp-connect-2027",
+      "title": "VLIR-UOS Scholarships for master Programmes (ICP Connect) 2027/2028 for Study in Belgium (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/vlir-uos-scholarships-for-master-programmes-icp-connect-2027-2028/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-27"
     },
     {
       "id": "wff-youth-policy-board-2027-2028",
       "title": "The World Food Forum Youth Policy Board 2027/2028 for emerging leaders.",
       "url": "https://www.opportunitiesforafricans.com/the-world-food-forum-youth-policy-board-2027-2028-for-emerging-leaders/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-26"
+      "seen": "2026-10-27"
     },
     {
       "id": "si-scholarship-global-professionals",
       "title": "Swedish Institute Scholarships 2027 for Global Professionals for Master’s Level Studies in Sweden (Fully Funded)",
       "url": "https://www.opportunitiesforafricans.com/swedish-institute-scholarships-2027-for-global-professionals-for-masters-level-studies-in-sweden/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-26"
+      "seen": "2026-10-27"
     },
     {
       "id": "raisina-young-fellows-2027-pcns",
       "title": "The Policy Center for the New South (PCNS) Raisina Young Fellows Programme 2027 for emerging leaders worldwide (Fully Funded to New Delhi, India)",
       "url": "https://www.opportunitiesforafricans.com/the-policy-center-for-the-new-south-pcns-raisina-young-fellows-programme-2027/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-26"
+      "seen": "2026-10-27"
     },
     {
       "id": "wff-youth-policy-board-2027-2028",
       "title": "World Food Forum Youth Policy Board 2027–2028",
       "url": "https://oyaop.com/opportunity/conferences/world-food-forum-youth-policy-board-2027-2028/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-26"
-    },
-    {
-      "id": "open-doors-russian-scholarship-masters-2027",
-      "title": "Open Doors Russian Scholarship Project 2026–2027 (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/open-doors-russian-scholarship-project-2026-2027-fully-funded/",
-      "source": "OYA Opportunities",
-      "seen": "2026-10-26"
+      "seen": "2026-10-27"
     }
   ],
-  "new_leads_last_run": 5
+  "new_leads_last_run": 13
 }
