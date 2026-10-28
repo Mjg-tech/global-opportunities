@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-27T10:35:12Z",
+  "last_refresh": "2026-10-28T11:21:42Z",
   "counts": {
     "total": 68,
-    "archived": 2,
+    "archived": 3,
     "by_status": {
-      "OPEN": 28,
-      "CLOSING SOON": 7,
-      "UPCOMING": 18,
-      "DEADLINE PASSED": 6,
+      "OPEN": 27,
+      "CLOSING SOON": 8,
+      "UPCOMING": 19,
+      "DEADLINE PASSED": 5,
       "ROLLING": 1,
       "DATE UNKNOWN": 8
     },
@@ -28,46 +28,54 @@
       "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
-      "VERIFIED": 41,
-      "PARTIALLY VERIFIED": 23,
+      "VERIFIED": 40,
+      "PARTIALLY VERIFIED": 24,
       "NEEDS VERIFICATION": 4
     },
     "travel_funded": 29
   },
   "deadline_buckets": {
     "30": [
-      "dalai-lama-fellows-2027",
       "kectil-program-2027",
       "mastercard-foundation-scholars-sciences-po-2027"
     ],
     "14": [
+      "dalai-lama-fellows-2027",
       "fortis-fellowship-2027",
       "global-leadership-challenge-2026",
       "ustc-international-winter-camp-2027"
     ],
     "7": [
-      "mastercard-foundation-scholars-uct-2027",
-      "one-young-world-leading-scholarship-2026",
       "open-doors-russian-scholarship-masters-2027",
       "raisina-young-fellows-2027-pcns"
     ],
-    "3": [],
+    "3": [
+      "mastercard-foundation-scholars-uct-2027",
+      "one-young-world-leading-scholarship-2026"
+    ],
     "1": []
   },
   "watch": {
     "checked": 68,
-    "ok": 54,
-    "blocked_or_unreachable": 13,
+    "ok": 53,
+    "blocked_or_unreachable": 14,
     "dead": 1
   },
-  "flags": [],
+  "flags": [
+    {
+      "id": "raisina-young-fellows-2027-pcns",
+      "type": "dead_link",
+      "since": "2026-10-28",
+      "detail": "Official page returned HTTP 404 on two runs."
+    }
+  ],
   "feeds": [
     {
       "name": "African Union announcements",
       "url": "https://au.int/en/rss.xml",
       "tier": 1,
-      "status": 200,
-      "items": 10,
+      "status": 0,
+      "items": 0,
       "new": 0
     },
     {
@@ -84,7 +92,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 8
+      "new": 7
     },
     {
       "name": "Opportunities for Africans",
@@ -132,7 +140,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 1
+      "new": 2
     },
     {
       "name": "Opportunites du Monde",
@@ -140,7 +148,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 1
     },
     {
       "name": "Afri-Carrieres",
@@ -148,7 +156,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Mastere.tn",
@@ -185,40 +193,26 @@
   ],
   "reseen": [
     {
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "The Sciences Po Mastercard Foundation Scholars Program 2027 for Graduate Study in France (Fully Funded to France)",
+      "url": "https://www.opportunitiesforafricans.com/the-sciences-po-mastercard-foundation-scholars-program-2027-for-graduate-study-in-france/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-28"
+    },
+    {
       "id": "vlir-uos-icp-connect-2027",
       "title": "VLIR-UOS Scholarships for master Programmes (ICP Connect) 2027/2028 for Study in Belgium (Fully Funded)",
       "url": "https://www.opportunitiesforafricans.com/vlir-uos-scholarships-for-master-programmes-icp-connect-2027-2028/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-27"
+      "seen": "2026-10-28"
     },
     {
       "id": "wff-youth-policy-board-2027-2028",
       "title": "The World Food Forum Youth Policy Board 2027/2028 for emerging leaders.",
       "url": "https://www.opportunitiesforafricans.com/the-world-food-forum-youth-policy-board-2027-2028-for-emerging-leaders/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-27"
-    },
-    {
-      "id": "si-scholarship-global-professionals",
-      "title": "Swedish Institute Scholarships 2027 for Global Professionals for Master’s Level Studies in Sweden (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/swedish-institute-scholarships-2027-for-global-professionals-for-masters-level-studies-in-sweden/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-10-27"
-    },
-    {
-      "id": "raisina-young-fellows-2027-pcns",
-      "title": "The Policy Center for the New South (PCNS) Raisina Young Fellows Programme 2027 for emerging leaders worldwide (Fully Funded to New Delhi, India)",
-      "url": "https://www.opportunitiesforafricans.com/the-policy-center-for-the-new-south-pcns-raisina-young-fellows-programme-2027/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-10-27"
-    },
-    {
-      "id": "wff-youth-policy-board-2027-2028",
-      "title": "World Food Forum Youth Policy Board 2027–2028",
-      "url": "https://oyaop.com/opportunity/conferences/world-food-forum-youth-policy-board-2027-2028/",
-      "source": "OYA Opportunities",
-      "seen": "2026-10-27"
+      "seen": "2026-10-28"
     }
   ],
-  "new_leads_last_run": 13
+  "new_leads_last_run": 11
 }

@@ -1759,7 +1759,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Participation Funded",
       "funding_details": [
         "'We do not offer funding for projects.'",
@@ -5190,17 +5190,17 @@
       "location_type": "International travel",
       "delivery_mode": "In-person",
       "program_dates": "Fellowship begins in the United States in June 2027 (six-week institute)",
-      "application_deadline": "2026-10-13",
-      "deadline_utc": "2026-10-13T16:00:00Z",
-      "deadline_text": "APPLICATION DEADLINE: 16:00/4:00 PM GMT on Tuesday, October 13, 2026 (2027 application instructions PDF, still online on 26 October 2026). The About page now says: 'Applications for the 2027 Mandela Washington Fellowship are now closed.'",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "Last cycle closed on 2026-10-13. Next cycle not announced yet.",
       "deadline_timezone": "GMT",
-      "opens_on": "2026-09-22",
+      "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
       "expected_next_cycle": "Applications for the 2027 Fellowship closed on 13 October 2026. No 2028 call is announced on the official site (read 26 October 2026).",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "last_cycle_deadline": "2026-10-13",
+      "status": "UPCOMING",
       "funding_type": "Fully Funded",
       "funding_details": [
         "'If you are selected for the Fellowship, the U.S. Government will cover all program costs' (2027 application instructions)",
@@ -5258,7 +5258,7 @@
       "source_url": "https://www.mandelawashingtonfellowship.org/about/",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "About the Fellowship ('Applications for the 2027 Mandela Washington Fellowship are now closed.')",
@@ -5332,7 +5332,7 @@
       "action": "Applications for 2027 are closed. If you applied, semi-finalist interviews at the U.S. Embassy run until January 2027 and notifications come in February/March 2027; otherwise watch mandelawashingtonfellowship.org for the 2028 call.",
       "last_verified": "2026-10-26",
       "date_discovered": "2026-10-02",
-      "notes": "26 October 2026: /apply/, /apply-faqs/ and /2027-application-instructions/ now return HTTP 404 (taken down after the deadline). The About page states that 2027 applications are closed; the instructions PDF is still online and unchanged (deadline, eligibility, DRC on the country list, 'the U.S. Government will cover all program costs', no application fee). The application portal apply.mandelawashingtonfellowship.org still loads a login page. The '2027 Reciprocal Exchange Component' news item (deadline November 11, 2026) is for U.S. professionals, not African applicants.",
+      "notes": "26 October 2026: /apply/, /apply-faqs/ and /2027-application-instructions/ now return HTTP 404 (taken down after the deadline). The About page states that 2027 applications are closed; the instructions PDF is still online and unchanged (deadline, eligibility, DRC on the country list, 'the U.S. Government will cover all program costs', no application fee). The application portal apply.mandelawashingtonfellowship.org still loads a login page. The '2027 Reciprocal Exchange Component' news item (deadline November 11, 2026) is for U.S. professionals, not African applicants. [auto 2026-10-28] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "mandela washington"
       ]
@@ -9812,5 +9812,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-10-27"
+  "status_computed_on": "2026-10-28"
 }

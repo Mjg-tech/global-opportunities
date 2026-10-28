@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "leads": [
+    {
+      "id": "cdc58c73baad",
+      "title": "Council of Europe Development Bank (CEB) Internship 2027",
+      "url": "https://opportunitydesk.org/2026/10/28/ceb-internship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "dce93dde0207",
+      "title": "Science, Mathematics, and Research for Transformation (SMART) Scholarship-for-Service Program 2027/2028",
+      "url": "https://opportunitydesk.org/2026/10/28/smart-scholarship-for-service-program-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c0d79d8b1253",
+      "title": "AI for Human Rights (AI4HR) Peer-learning Programme for Youth-focused Organisations 2027",
+      "url": "https://opportunitydesk.org/2026/10/28/ai4hr-peer-learning-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "54422f5ad75a",
+      "title": "CDC Steven M. Teutsch Prevention Effectiveness (PE) Fellowship 2027 (Paid)",
+      "url": "https://opportunitydesk.org/2026/10/28/cdc-steven-m-teutsch-prevention-effectiveness-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "704d2bd8c5e0",
+      "title": "Aspen Strategy Group (ASG) Rising Leaders Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/28/asg-rising-leaders-program-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "898ecdbec2c7",
+      "title": "Impact AI Fellowship 2027 in Germany (Fully Funded)",
+      "url": "https://opportunitiescorners.com/impact-ai-fellowship-2027-in-germany/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-28",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "567b71485ff9",
+      "title": "IDRC John G. Bene Fellowship 2026 (up to $30,000 CAD)",
+      "url": "https://opportunitydesk.org/2026/10/27/idrc-john-g-bene-fellowship-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "9cd59542e14b",
+      "title": "100x Impact Accelerator 2027/2028 (£150,000 in catalytic funding)",
+      "url": "https://opportunitydesk.org/2026/10/27/100x-impact-accelerator-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "499a0ccc13a9",
+      "title": "Stanton Nuclear Security Fellows Program 2027–2028 in Germany (Funded Research Fellowship)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/stanton-nuclear-security-fellows-program-2027-2028-in-germany-funded-research-fellowship/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ff6568bdf019",
+      "title": "UN Journalism Fellowship 2027 in Qatar (Fully Funded)",
+      "url": "https://opportunitiescorners.com/un-journalism-fellowship-2027-in-qatar/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "51a09acd5643",
+      "title": "Appel à candidatures pour la formation de 100 ingénieurs TIC – RCUN 4",
+      "url": "https://www.lesopportunites.com/opportunite/guinee/formation/informatique-electronique/appel-a-candidatures-pour-la-formation-de-100-ingenieurs-tic-rcun-4/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-27",
+      "first_seen": "2026-10-28",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "8e94782428c0",
       "title": "World Youth Leadership Conference 2026 in London, UK",
@@ -161,7 +282,10 @@
       "language": "en",
       "published": "2026-10-26",
       "first_seen": "2026-10-26",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "2d410fba7d31",
@@ -172,7 +296,10 @@
       "language": "en",
       "published": "2026-10-26",
       "first_seen": "2026-10-26",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "fc99e36989d2",
@@ -249,7 +376,10 @@
       "language": "en",
       "published": "2026-10-25",
       "first_seen": "2026-10-25",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "1610795403ac",
@@ -505,7 +635,10 @@
       "language": "en",
       "published": "2026-10-23",
       "first_seen": "2026-10-23",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "2b8e1abbd7bd",
@@ -1177,7 +1310,10 @@
       "language": "en",
       "published": "2026-10-16",
       "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "eba4f4c17dbd",
@@ -1360,7 +1496,10 @@
       "language": "en",
       "published": "2026-10-15",
       "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "726f106cd782",
@@ -2514,7 +2653,10 @@
       "language": "en",
       "published": "2026-10-06",
       "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "b2964fda11af",
@@ -2734,130 +2876,6 @@
       "also_seen_in": [
         "Global South Opportunities"
       ]
-    },
-    {
-      "id": "cd4ffbf0cb6c",
-      "title": "HP-UCL IOE Fellowship in AI in Education 2027",
-      "url": "https://opportunitydesk.org/2026/10/05/hp-ucl-ioe-fellowship-in-ai-in-education-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "7b08dd882d0a",
-      "title": "The Jasiri Talent Investor Programme (Cohort 9) for young East African Entrepreneurs (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/the-jasiri-talent-investor-programme-cohort-9-for-young-east-african-entrepreneurs/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "5aa84706c6ef",
-      "title": "Flour Mills of Nigeria (FMN) TEEP 2026: Apply for the Exclusive Engineering Programme Graduate Trainee Opportunity",
-      "url": "https://www.globalsouthopportunities.com/2026/10/05/engineering-7/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "eb6c1f691d4e",
-      "title": "Jasiri Cohort 9: Fully Funded Talent Investor Opportunity for Builders in Ethiopia, Kenya and Rwanda",
-      "url": "https://www.globalsouthopportunities.com/2026/10/05/jasiri-4/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6d93392ea218",
-      "title": "AU Emerging Global Leader Scholarship 2027 in USA | Fully Funded",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/au-emerging-global-leader-scholarship-2027-in-usa-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "0e2df736165a",
-      "title": "Skoll Scholarship 2027 at Oxford University (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/skoll-scholarship-2027-at-oxford-university-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "76844f041f13",
-      "title": "Global Youth Impact Summit Paris 2027 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/global-youth-impact-summit-paris/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "1517d3859899",
-      "title": "EPFL Life Sciences Summer Research Program 2027 in Switzerland (Fully Funded)",
-      "url": "https://opportunitiescorners.com/epfl-life-sciences-summer-research-program-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "0a4fc411f631",
-      "title": "Russia JINR START Winter Program 2027 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/russia-jinr-start-winter-program-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "ae18d51f89d5",
-      "title": "Programme de Bourses Africa MOVES 2026-2027",
-      "url": "https://www.mastere.tn/bourses-africa-moves/",
-      "source": "Mastere.tn",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-04",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2325d69bb632",
-      "title": "Call for Papers 2027: International Workshop on Governance, Migration & Humanitarianism in Poland — Travel Grants Available",
-      "url": "https://www.globalsouthopportunities.com/2026/10/05/governance-8/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-05",
-      "status": "NEEDS VERIFICATION"
     }
   ]
 }
