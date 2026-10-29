@@ -1,7 +1,153 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "leads": [
+    {
+      "id": "3ed68987e012",
+      "title": "Columbia HBCU Fellowship Program Fall 2027",
+      "url": "https://opportunitydesk.org/2026/10/29/columbia-hbcu-fellowship-program-fall-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "559f68fd9234",
+      "title": "Heinrich Böll Foundation Feminist Futures Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/10/29/heinrich-boll-foundation-feminist-futures-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "171f08e8a536",
+      "title": "Hans De Wit Fellowship 2027 (stipend available)",
+      "url": "https://opportunitydesk.org/2026/10/29/hans-de-wit-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "fb57828cd298",
+      "title": "World Health Organisation (WHO) Summer School 2027",
+      "url": "https://opportunitydesk.org/2026/10/29/world-health-organisation-summer-school-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
+    },
+    {
+      "id": "4dda8f612483",
+      "title": "CEB Internship 2027 in France: Environmental and Social Sustainability – Climate Change",
+      "url": "https://oyaop.com/opportunity/internships/ceb-internship-2027-in-france-environmental-and-social-sustainability-climate-change/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1571e08017b2",
+      "title": "EPFL Summer Internship 2027 in Switzerland (Fully Funded)",
+      "url": "https://opportunitiescorners.com/epfl-summer-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cb1076d97866",
+      "title": "Appel à candidatures – Programme de Stages de l’L’Institut de la société civile de l’Afrique de l’Ouest (WACSI)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/stages/communication/appel-a-candidatures-programme-de-stages-de-llinstitut-de-la-societe-civile-de-lafrique-de-louest-wacsi/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "487a179cb01f",
+      "title": "Appel à candidatures – Certificat Exécutif en Conception de Projets Climatiques respectant les exigences du Fond Vert pour le Climat (Green Climate Fund) en Afrique",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/agriculture/appel-a-candidatures-certificat-executif-en-conception-de-projets-climatiques-respectant-les-exigences-du-fond-vert-pour-le-climat-green-climate-fund-en-afrique/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b51f7de6645c",
+      "title": "Le Cabinet CEFOREP SARL, basé à N’Djamena, organise une formation pratique en Excel Avancé et Power BI : Analyse de Données et Tableaux de Bord",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/formation/informatique-electronique/le-cabinet-ceforep-sarl-base-a-ndjamena-organise-une-formation-pratique-en-excel-avance-et-power-bi-analyse-de-donnees-et-tableaux-de-bord/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "86b033db176d",
+      "title": "Le Cabinet CEFOREP SARL, basé à N’Djamena, organise une Formation en Administration du Personnel avec le Logiciel SAGE RH",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/formation/administration/le-cabinet-ceforep-sarl-base-a-ndjamena-organise-une-formation-en-administration-du-personnel-avec-le-logiciel-sage-rh/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "2038ea6824db",
+      "title": "Le Cabinet CEFOREP SARL, basé à N’Djamena, organise une Formation sur les Techniques d’Animation, de Mobilisation Communautaire et de Communication Participative",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/formation/animation/le-cabinet-ceforep-sarl-base-a-ndjamena-organise-une-formation-sur-les-techniques-danimation-de-mobilisation-communautaire-et-de-communication-participative/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ba907b7e1756",
+      "title": "25 ans du Prix des cinq continents : la littérature francophone à l’honneur en Roumanie",
+      "url": "https://www.francophonie.org/25-ans-prix-5-continents-la-litterature-francophone-a-l-honneur-en-roumanie-8747",
+      "source": "Organisation internationale de la Francophonie",
+      "source_tier": 1,
+      "language": "fr",
+      "published": "2026-10-28",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a2deabeaa018",
+      "title": "SDG 6 Fellowship 2027 in UK, Denmark, Malaysia (Fully Funded)",
+      "url": "https://opportunitiescorners.com/sdg-6-fellowship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-28",
+      "first_seen": "2026-10-29",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "cdc58c73baad",
       "title": "Council of Europe Development Bank (CEB) Internship 2027",
@@ -110,7 +256,11 @@
       "language": "en",
       "published": "2026-10-27",
       "first_seen": "2026-10-28",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans",
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "51a09acd5643",
@@ -2726,156 +2876,6 @@
       "published": "2026-10-06",
       "first_seen": "2026-10-06",
       "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "819669e8b59f",
-      "title": "Laurentian University Graduate Scholarships and Bursaries 2026–2027",
-      "url": "https://www.globalsouthopportunities.com/2026/10/06/laurentian/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b58091b8a7f4",
-      "title": "University of Toronto Presidents’ Impact Scholarship Program 2027 | Fully Funded",
-      "url": "https://www.globalsouthopportunities.com/2026/10/06/scholarship-86/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "413f1132c202",
-      "title": "Speculative Technologies Invites Applications for the Brains Fellowship 2027 – Apply By 26 October 2026",
-      "url": "https://www.globalsouthopportunities.com/2026/10/06/brains/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "8a5a79e9090a",
-      "title": "Fellowship 2027 in Cambridge, UK (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/fellowship-2027-in-cambridge-uk-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "3d648f1763b0",
-      "title": "Erasmus Mundus MESPOM Scholarship 2027/29 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/erasmus-mundus-mespom-scholarship-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities",
-        "Global South Opportunities"
-      ]
-    },
-    {
-      "id": "7e70b0bf41dc",
-      "title": "Appel à candidation pour la sélection et la formation des Journalistes Environnementaux en République Démocratique du Congo",
-      "url": "https://www.lesopportunites.com/opportunite/rdcongo/formation/journalisme/appel-a-candidation-pour-la-selection-et-la-formation-des-journalistes-environnementaux-en-republique-democratique-du-congo/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "44721e474d5e",
-      "title": "L’Agence Universitaire de la Francophonie (AUF) lance un appel à candidatures pour le Programme IFAV – Incubateur Francophone Africain Virtuel 2026",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/gestion/lagence-universitaire-de-la-francophonie-auf-lance-un-appel-a-candidatures-pour-le-programme-ifav-incubateur-francophone-africain-virtuel-2026/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "7466c06cbaf2",
-      "title": "Appel à candidatures – Les jeunes créatifs africains sont invités à concevoir le logo officiel et l’identité visuelle du thème de l’Union Africaine (UA) pour l’année 2027",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/appel-doffres/design-graphique/appel-a-candidatures-les-jeunes-creatifs-africains-sont-invites-a-concevoir-le-logo-officiel-et-lidentite-visuelle-du-theme-de-lunion-africaine-ua-pour-lannee-2027/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "29f3271d9066",
-      "title": "AIxBio Fellowship 2027 at Cambridge (Fully-funded)",
-      "url": "https://opportunitydesk.org/2026/10/05/aixbio-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "1655097f5403",
-      "title": "NetHope Humanitarian AI Research Fellowship 2026/2027",
-      "url": "https://opportunitydesk.org/2026/10/05/nethope-humanitarian-ai-research-fellowship-2026-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "af0731ec4935",
-      "title": "Switzer Fellowships 2027 for Graduate Students in the U.S.",
-      "url": "https://opportunitydesk.org/2026/10/05/switzer-fellowships-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "f6162936b553",
-      "title": "America in the World Consortium Predoctoral Fellowship 2027-2028 (Stipend available)",
-      "url": "https://opportunitydesk.org/2026/10/05/america-in-the-world-consortium-predoctoral-fellowship-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "96206c7d7ede",
-      "title": "Alfred Friendly Press Partners Fellowship 2027 ($2,000 stipend)",
-      "url": "https://opportunitydesk.org/2026/10/05/alfred-friendly-press-partners-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-05",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Global South Opportunities"
-      ]
     }
   ]
 }

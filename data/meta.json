@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-28T11:21:42Z",
+  "last_refresh": "2026-10-29T11:32:25Z",
   "counts": {
     "total": 68,
     "archived": 3,
@@ -42,30 +42,30 @@
     "14": [
       "dalai-lama-fellows-2027",
       "fortis-fellowship-2027",
-      "global-leadership-challenge-2026",
       "ustc-international-winter-camp-2027"
     ],
     "7": [
-      "open-doors-russian-scholarship-masters-2027",
+      "global-leadership-challenge-2026",
       "raisina-young-fellows-2027-pcns"
     ],
     "3": [
       "mastercard-foundation-scholars-uct-2027",
-      "one-young-world-leading-scholarship-2026"
+      "one-young-world-leading-scholarship-2026",
+      "open-doors-russian-scholarship-masters-2027"
     ],
     "1": []
   },
   "watch": {
     "checked": 68,
-    "ok": 53,
-    "blocked_or_unreachable": 14,
+    "ok": 54,
+    "blocked_or_unreachable": 13,
     "dead": 1
   },
   "flags": [
     {
       "id": "raisina-young-fellows-2027-pcns",
       "type": "dead_link",
-      "since": "2026-10-28",
+      "since": "2026-10-29",
       "detail": "Official page returned HTTP 404 on two runs."
     }
   ],
@@ -74,8 +74,8 @@
       "name": "African Union announcements",
       "url": "https://au.int/en/rss.xml",
       "tier": 1,
-      "status": 0,
-      "items": 0,
+      "status": 200,
+      "items": 10,
       "new": 0
     },
     {
@@ -84,7 +84,7 @@
       "tier": 1,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunity Desk",
@@ -92,7 +92,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 7
+      "new": 4
     },
     {
       "name": "Opportunities for Africans",
@@ -106,7 +106,7 @@
       "name": "Global South Opportunities",
       "url": "https://www.globalsouthopportunities.com/feed/",
       "tier": 3,
-      "status": 200,
+      "status": 0,
       "items": 0,
       "new": 0
     },
@@ -148,7 +148,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 5
     },
     {
       "name": "Afri-Carrieres",
@@ -194,25 +194,32 @@
   "reseen": [
     {
       "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "Mastercard Foundation Scholars Program at ALCHE 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/10/29/mastercard-foundation-scholars-program-at-alche-2027/",
+      "source": "Opportunity Desk",
+      "seen": "2026-10-29"
+    },
+    {
+      "id": "mastercard-foundation-scholars-cambridge-2027",
       "title": "The Sciences Po Mastercard Foundation Scholars Program 2027 for Graduate Study in France (Fully Funded to France)",
       "url": "https://www.opportunitiesforafricans.com/the-sciences-po-mastercard-foundation-scholars-program-2027-for-graduate-study-in-france/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-28"
+      "seen": "2026-10-29"
     },
     {
       "id": "vlir-uos-icp-connect-2027",
       "title": "VLIR-UOS Scholarships for master Programmes (ICP Connect) 2027/2028 for Study in Belgium (Fully Funded)",
       "url": "https://www.opportunitiesforafricans.com/vlir-uos-scholarships-for-master-programmes-icp-connect-2027-2028/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-28"
+      "seen": "2026-10-29"
     },
     {
-      "id": "wff-youth-policy-board-2027-2028",
-      "title": "The World Food Forum Youth Policy Board 2027/2028 for emerging leaders.",
-      "url": "https://www.opportunitiesforafricans.com/the-world-food-forum-youth-policy-board-2027-2028-for-emerging-leaders/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-10-28"
+      "id": "si-scholarship-global-professionals",
+      "title": "Swedish Institute SI Global Scholarship 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/swedish-institute-si-global-scholarship-2027/",
+      "source": "Opportunities Corners",
+      "seen": "2026-10-29"
     }
   ],
-  "new_leads_last_run": 11
+  "new_leads_last_run": 13
 }
