@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-26",
+  "updated": "2026-10-29",
   "opportunities": [
     {
       "id": "abe-initiative-jica",
@@ -27,7 +27,7 @@
       "program_dates": "Up to three years: up to 6 months as research student, 2 years of master's course, up to 6 months of internship. Secondary sources give September 2027 for the next arrival.",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Set by each JICA country office. No 2027-intake call for the DRC was found on 2 October 2026. South Africa's call for the 2027 intake closed on 28 September 2026. A secondary source relays last year's JICA RDC call (13th batch), reported to have closed on 15 October 2025.",
+      "deadline_text": "Set by each JICA country office. No 2027-intake call for the DRC was found on 2 or 29 October 2026: neither the JICA English ABE page (latest item dated 10 February 2025) nor the Tokyo Tech ABE page (2024 admission cycle; information from AY2025 on must be obtained from JICA) gives 2027 dates. South Africa's call for the 2027 intake closed on 28 September 2026. A secondary source relays last year's JICA RDC call (13th batch), reported to have closed on 15 October 2025.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -38,7 +38,8 @@
       "status": "DATE UNKNOWN",
       "funding_type": "Funding Unclear",
       "funding_details": [
-        "The JICA page read does not itemise what is covered. Check the country-office call or the JICA brochure."
+        "JICA's page does not itemise what is covered. The Tokyo Tech page (2024 admission cycle) says the financial support 'covers tuition, airfare, stipend, etc. provided by JICA', with a monthly stipend of JPY 146,000 as a Research Student 'subject to change'",
+        "Check the country-office call or the JICA brochure for the 2027 intake"
       ],
       "coverage": {
         "tuition": "Not specified",
@@ -91,6 +92,11 @@
           "type": "Official"
         },
         {
+          "label": "Tokyo Tech: JICA ABE Initiative (2024 admission cycle)",
+          "url": "https://www.titech.ac.jp/english/international-student-exchange/prospective-students/graduate-programs/jica-a",
+          "type": "Institutional"
+        },
+        {
           "label": "2027 intake call for South Africa (DHET)",
           "url": "https://www.internationalscholarships.dhet.gov.za/index.php/scholarships/undergraduate-scholarships/341-japan-african-business-education-initiative-abe-initiative-2027-intake",
           "type": "Institutional"
@@ -133,7 +139,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Call or email the JICA DRC office in Kinshasa this week and ask whether the 2027-intake call is open and when it closes.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -584,6 +590,151 @@
       "match_keywords": [
         "youth volunteer corps",
         "au-yvc"
+      ]
+    },
+    {
+      "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly, Geneva)",
+      "organization": "AFS Intercultural Programs (AFS Youth Assembly), with a grant from the Sir Cyril Taylor Charitable Foundation",
+      "overview": "A 12-month, fully funded programme for young leaders from Sub-Saharan Africa. It combines the virtual AFS Global Competence Certificate, preparation workshops, the AFS Youth Assembly in Geneva, Switzerland in August 2027 (with the 'Effect+ in the Community' workshop), and a six-month impact project with seed funding and mentorship after the return.",
+      "category": [
+        "Leadership",
+        "Scholarship",
+        "Conference"
+      ],
+      "subcategory": [
+        "Youth leadership",
+        "Sustainable development",
+        "Africa"
+      ],
+      "education_levels": [
+        "Open to all"
+      ],
+      "country": "Switzerland",
+      "city": "Geneva",
+      "region": "Western Europe",
+      "continent": "Europe",
+      "location_type": "International travel",
+      "delivery_mode": "Hybrid",
+      "program_dates": "12-month programme: virtual AFS Global Competence Certificate and preparation workshops, the AFS Youth Assembly in Geneva in August 2027, then a six-month impact project.",
+      "application_deadline": "2026-11-19",
+      "deadline_utc": "2026-11-19T23:59:00Z",
+      "deadline_text": "'November 19, 2026 23:59 UTC'. Applications are reviewed on a first come, first served basis, and early applications are encouraged because visa processing can take several months.",
+      "deadline_timezone": "UTC",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "'12-month fully funded scholarship that covers the costs of participating in all program elements'",
+        "'Travel and accommodation for the AFS Youth Assembly will be covered'",
+        "After the Assembly, leaders run a six-month impact project with seed funding and mentorship",
+        "Meals, visa fees and insurance are not itemised on the page"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": true,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "No fee is mentioned on the page read",
+      "stipend": "Not specified (seed funding is provided for the impact project)",
+      "eligibility": [
+        "Aged 18 to 35",
+        "From a Sub-Saharan African country",
+        "Holds an unexpired passport",
+        "Able to attend the AFS Youth Assembly in Geneva in person in August 2027",
+        "Proficient in English (intermediate level)",
+        "Has demonstrable leadership qualities or a proven track record of leadership experience",
+        "Enrols in the AFS Global Competence Certificate (GCC) programme"
+      ],
+      "nationality_requirements": [
+        "From a Sub-Saharan African country; the page names no individual countries, so the DRC is not named"
+      ],
+      "age_requirement": "18 to 35",
+      "education_requirement": "Unknown / Not specified",
+      "experience_requirement": "Demonstrable leadership qualities or a proven track record of leadership experience",
+      "language_requirement": "English, intermediate level",
+      "other_requirements": [
+        "Unexpired passport",
+        "In-person attendance at the AFS Youth Assembly in Geneva in August 2027",
+        "After the Assembly: run a workshop for at least 100 young people and carry out a six-month impact project"
+      ],
+      "documents_required": [],
+      "application_process": [
+        "Complete the AFS application form (Google Form) by 19 November 2026, 23:59 UTC; applications are reviewed first come, first served",
+        "Selected leaders enrol in the virtual AFS Global Competence Certificate and preparation workshops before the Assembly",
+        "The page says that using AI to write the narrative answers is highly discouraged"
+      ],
+      "official_application_url": "https://forms.gle/VEYy2UHv22nHGDbBA",
+      "official_information_url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
+      "source_url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "AFS Youth Assembly: Young African Leaders Scholarships (Sir Cyril Taylor Young African Leaders Program 2027)",
+          "url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The age band 'under 30' fits the 18 to 35 range and the programme targets young people from Sub-Saharan Africa, although the page names no countries. The profile records no passport, no English level and no leadership track record, all of which the page asks for.",
+      "potential_issues": [
+        "Applications are reviewed first come, first served: late applications may meet filled places",
+        "A leadership track record is required; the profile records internships and field assignments but no leadership role",
+        "A passport valid for the whole programme is required and is not recorded; visa processing 'can take several months', and visa fees and insurance are not stated as covered",
+        "The page names no countries, so DRC eligibility rests on the 'Sub-Saharan African country' wording",
+        "The application form (Google Forms) was not opened, so its questions and any documents were not read"
+      ],
+      "benefits": [
+        "12-month programme with the AFS Global Competence Certificate",
+        "Youth Assembly in Geneva with travel and accommodation covered",
+        "Seed funding and mentorship for a six-month impact project",
+        "Place in the AFS Youth Assembly impact network"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "Medium",
+        "travel": "High",
+        "networking": "High",
+        "funding": "Very High",
+        "accessibility": "Medium",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "A fully funded youth-leadership programme with a Geneva assembly and a community project afterwards. It is not a career-entry programme and it rewards an existing leadership record, but it offers international exposure, a certificate and a network.",
+      "travel_value": "High",
+      "career_value": "Medium",
+      "academic_value": "Low",
+      "networking_value": "High",
+      "visa": {
+        "required": "Yes, for Switzerland (not stated on the page; general requirement); the page warns that visa processing can take several months",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Low: no fee is mentioned; visa fees and insurance are not stated as covered",
+      "action": "Check that you hold a passport valid through August 2027, then complete the AFS form (forms.gle/VEYy2UHv22nHGDbBA) before 19 November 2026, 23:59 UTC. Apply early because review is first come, first served, and write the narrative answers yourself.",
+      "last_verified": "2026-10-29",
+      "date_discovered": "2026-10-29",
+      "notes": "The AFS Youth Assembly page is dated 16 October 2026. The number of funded places is not stated.",
+      "match_keywords": [
+        "sir cyril taylor",
+        "afs youth assembly"
       ]
     },
     {
@@ -1131,7 +1282,7 @@
       },
       "upfront_cost_risk": "Application fee and English test fee",
       "action": "Choose an AUC programme (for example in business, economics or public policy), book a TOEFL/IELTS sitting, apply for admission by 15 December 2026 and submit the fellowship application between 22 December 2026 and 17 January 2027.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-12",
       "notes": "",
       "match_keywords": [
@@ -1862,11 +2013,167 @@
       },
       "upfront_cost_risk": "None identified",
       "action": "Apply before 11 November 2026, 22:00 UTC only if you lead, or have a concrete plan for, a community project you have worked with for at least six months. Join the 28 October information session or watch the recording first.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-05",
       "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed).",
       "match_keywords": [
         "dalai lama fellows"
+      ]
+    },
+    {
+      "id": "ebuteli-fellowship",
+      "title": "Ebuteli Fellowship, sixth edition (Kinshasa research institute)",
+      "organization": "Ebuteli, Congolese research institute on politics, governance and violence (Kinshasa)",
+      "overview": "Six-month research fellowship at Ebuteli, a Kinshasa-based Congolese institute researching politics, governance and violence. Each fellow joins the team, works with a mentor under one of three research pillars (national politics, economic governance, armed violence) and may publish blog posts, analysis notes, reports or podcasts. The institute takes six fellows a year, three per semester. The sixth edition is planned to start in November 2026.",
+      "category": [
+        "Fellowship",
+        "Research"
+      ],
+      "subcategory": [
+        "Policy research",
+        "Think tank",
+        "Governance"
+      ],
+      "education_levels": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "region": "Africa",
+      "continent": "Africa",
+      "location_type": "Domestic travel",
+      "delivery_mode": "In-person",
+      "program_dates": "Six months, starting in November 2026 (sixth edition). Based mainly in Kinshasa, with possible research missions elsewhere in the country.",
+      "application_deadline": "2026-10-30",
+      "deadline_utc": "2026-10-30T22:59:00Z",
+      "deadline_text": "'jusqu'au vendredi 30 octobre 2026 à 23h59 (heure de Kinshasa)'. The call is dated 19 October 2026.",
+      "deadline_timezone": "Africa/Kinshasa (WAT, UTC+1)",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "2026-01-15",
+      "status": "CLOSING SOON",
+      "funding_type": "Partially Funded",
+      "funding_details": [
+        "'Allocation financière : chaque fellow reçoit une allocation financière pour couvrir les frais liés à la participation au programme.' The amount is not stated",
+        "No application fee is mentioned in the call"
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "None mentioned in the call",
+      "stipend": "Financial allowance for each fellow; amount not stated",
+      "eligibility": [
+        "Citizen of the DRC",
+        "Aged 18 to 30",
+        "At least a university degree in a field of study relevant to Ebuteli's research",
+        "Strong interest in current developments in politics and civil society",
+        "Fluent spoken French and correct written French",
+        "Submit a research-project concept note that is distinct from any work done for studies",
+        "Demonstrated interest in research; analytical skills on the political, economic or security dynamics of the country",
+        "Able to work in a team",
+        "Available full-time to start the sixth edition, planned for November 2026",
+        "Assets (not mandatory): English, intellectual curiosity and creativity, journalism or communication skills"
+      ],
+      "nationality_requirements": [
+        "Citizen of the Democratic Republic of the Congo"
+      ],
+      "age_requirement": "18 to 30",
+      "education_requirement": "At least a university degree in a field of study relevant to Ebuteli's research; recent graduates are the target group",
+      "experience_requirement": "None stated; the programme aims to give a first professional experience",
+      "language_requirement": "Fluent French (spoken and written); English is an asset",
+      "other_requirements": [
+        "Full-time availability from November 2026",
+        "Shortlisted candidates take a written test, then an interview"
+      ],
+      "documents_required": [
+        "Cover letter",
+        "Detailed CV",
+        "Copy of identity document",
+        "Original concept note (two pages maximum) for a research project"
+      ],
+      "application_process": [
+        "Email the application, ideally as one PDF containing the four documents, to fellowship@ebuteli.org by Friday 30 October 2026, 23:59 Kinshasa time",
+        "Use the subject line 'Candidature Fellowship 6e éd.'",
+        "Only shortlisted candidates are contacted; the next steps are a written test and an interview"
+      ],
+      "official_application_url": "https://www.ebuteli.org/publications/notes/appel-a-candidatures-sixieme-edition-d-ebuteli-fellowship-un-programme-destine-aux-jeunes-chercheurs-congolais-et-chercheuses-congolaises",
+      "official_information_url": "https://www.ebuteli.org/publications/notes/appel-a-candidatures-sixieme-edition-d-ebuteli-fellowship-un-programme-destine-aux-jeunes-chercheurs-congolais-et-chercheuses-congolaises",
+      "source_url": "https://www.ebuteli.org/publications/notes/appel-a-candidatures-sixieme-edition-d-ebuteli-fellowship-un-programme-destine-aux-jeunes-chercheurs-congolais-et-chercheuses-congolaises",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Ebuteli: Call for applications, sixth edition of Ebuteli Fellowship (dated 19 October 2026)",
+          "url": "https://www.ebuteli.org/publications/notes/appel-a-candidatures-sixieme-edition-d-ebuteli-fellowship-un-programme-destine-aux-jeunes-chercheurs-congolais-et-chercheuses-congolaises",
+          "type": "Official"
+        },
+        {
+          "label": "Ebuteli: fifth edition call (PDF; applications were due 15 January 2026)",
+          "url": "https://www.ebuteli.org/api/files/cbc3f08b-70c3-44aa-9af3-17ab0df7ae88",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "DRC nationality, the 'under 30' age band (the range is 18 to 30) and French fit. Not recorded: whether a Business Administration degree counts as a field relevant to Ebuteli's research, the required research concept note, and full-time availability from November 2026.",
+      "potential_issues": [
+        "The deadline is Friday 30 October 2026, 23:59 Kinshasa time, and the call was published on 19 October: the cover letter and the two-page research concept note have to be written immediately",
+        "Whether a Business Administration degree counts as 'a field of study relevant to Ebuteli's research' is not stated; the research pillars are national politics, economic governance and armed violence",
+        "The concept note must be original and distinct from any work done for studies",
+        "Full-time availability from November 2026 is required; the profile does not record current commitments",
+        "The allowance amount is not stated",
+        "Only six fellows are taken each year; selection includes a written test and an interview"
+      ],
+      "benefits": [
+        "Six months inside a Congolese research institute with individual mentoring and professional supervision",
+        "Publication opportunities (notes, blogs, reports, podcasts)",
+        "Financial allowance",
+        "Workshops, forums and introductions to researchers and policy actors"
+      ],
+      "relevance": {
+        "academic": "High",
+        "career": "High",
+        "travel": "Low",
+        "networking": "High",
+        "funding": "Medium",
+        "accessibility": "High",
+        "profile_fit": "High"
+      },
+      "relevance_reason": "A domestic research fellowship that matches the stated interest in research and public-sector or policy analysis, with mentoring, publication and an allowance, and no travel or visa to arrange. The obstacles are the one-day turnaround, the two-page concept note and the unclear match between a business degree and the research fields.",
+      "travel_value": "Low",
+      "career_value": "High",
+      "academic_value": "High",
+      "networking_value": "High",
+      "visa": {
+        "required": "No (programme in Kinshasa for DRC nationals)",
+        "support": "Not applicable"
+      },
+      "upfront_cost_risk": "None identified: no fee is mentioned",
+      "action": "Write the cover letter and the two-page research concept note today, then email one PDF (cover letter, detailed CV, copy of ID, concept note) to fellowship@ebuteli.org before Friday 30 October 2026, 23:59 Kinshasa time, with the subject 'Candidature Fellowship 6e éd.'. Check first that you can start full-time in November 2026.",
+      "last_verified": "2026-10-29",
+      "date_discovered": "2026-10-29",
+      "notes": "Found on 29 October 2026 on the Ebuteli home page; it is not in any feed. According to the call, the programme has trained 16 fellows since February 2023. The fifth edition (PDF) asked for applications by Thursday 15 January 2026 and the same four documents.",
+      "match_keywords": [
+        "ebuteli fellowship",
+        "ebuteli"
       ]
     },
     {
@@ -2320,6 +2627,160 @@
       ]
     },
     {
+      "id": "eu-delegation-drc-subsidised-internship",
+      "title": "EU Delegation to the DRC: subsidised internship for young graduates (Political, Press and Information section)",
+      "organization": "Delegation of the European Union to the Democratic Republic of the Congo (EEAS), Kinshasa",
+      "overview": "Subsidised internships of up to six months for young graduates in the Political, Press and Information section of the EU Delegation in Kinshasa. The section follows diplomatic relations between the EU and the DRC and makes the EU's actions in support of the country's development known. Calls appear on the EEAS website at irregular intervals and stay open 9 to 16 days. The latest call, for two internships in 2026 with provisional starts in March and October, closed on 25 January 2026.",
+      "category": [
+        "Internship"
+      ],
+      "subcategory": [
+        "European Union",
+        "Diplomacy",
+        "Communication"
+      ],
+      "education_levels": [
+        "Bachelor's",
+        "Master's"
+      ],
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "region": "Africa",
+      "continent": "Africa",
+      "location_type": "Domestic travel",
+      "delivery_mode": "In-person",
+      "program_dates": "Up to six months. Provisional starts in the calls read: May 2023, November 2024, and March and October 2026.",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "No call is open. Latest call: published 15.01.2026, 'Délai pour l'envoi des candidatures : 25 janvier 2026.'",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "Irregular. Three calls are on the EEAS site: published 15.03.2023 (deadline 31/03/2023), 17.09.2024 (deadline 26 September 2024) and 15.01.2026 (deadline 25 January 2026), each open 9 to 16 days. No later call was found on 29 October 2026.",
+      "last_cycle_deadline": "2026-01-25",
+      "status": "UPCOMING",
+      "funding_type": "Partially Funded",
+      "funding_details": [
+        "'Chaque stagiaire sélectionné(e) recevra une subvention mensuelle destinée à couvrir ses frais de subsistance.' The amount is not stated on the call page",
+        "'Tous les coûts liés aux voyages, à l'obtention du visa, aux assurances et au logement seront à la charge du (de la) stagiaire.'"
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Covered",
+        "flight": "Not covered",
+        "accommodation": "Not covered",
+        "meals": "Not specified",
+        "visa": "Not covered",
+        "insurance": "Not covered",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "None mentioned in the call",
+      "stipend": "Monthly subsistence grant; amount not stated on the call page",
+      "eligibility": [
+        "Currently resident in the DRC in or near Kinshasa (the call considers only such candidates, given local health and security conditions)",
+        "University degree, preferably in political science, international relations, humanities, or information and communication sciences",
+        "No more than one year of professional experience after obtaining the degree, at the time the internship agreement is signed",
+        "Assets: experience in event organisation; experience producing digital content and using photo and video software",
+        "The call asks applicants to read the general eligibility criteria for a subsidised internship (Article 8 of Decision ADMIN(2017)28)"
+      ],
+      "nationality_requirements": [
+        "No nationality restriction is stated on the call; applicants must reside in the DRC in or near Kinshasa"
+      ],
+      "age_requirement": "Unknown / Not specified",
+      "education_requirement": "University degree, preferably in political science, international relations, humanities, or information and communication sciences",
+      "experience_requirement": "At most one year of professional experience after graduation when the internship agreement is signed; event and digital-content experience are assets",
+      "language_requirement": "Unknown / Not specified (the call is written in French)",
+      "other_requirements": [
+        "Selected interns must prove cover against pandemic risk and repatriation costs",
+        "The internship can only be offered in line with local law and the law of the intern's country of origin"
+      ],
+      "documents_required": [
+        "Standard Europass CV (other formats are not considered)",
+        "Motivation letter explaining why you want an internship in an EU Delegation",
+        "Application form"
+      ],
+      "application_process": [
+        "When a call is published on the EEAS website, email DELEGATION-DEM-REP-OF-CONGO-RECRUTEMENT@eeas.europa.eu with the Europass CV, motivation letter and application form",
+        "Use the subject line 'Stage subventionné – Section Politique, Presse et Information'",
+        "Shortlisted candidates are invited to an interview; unsuccessful candidates are told by email"
+      ],
+      "official_application_url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1_en",
+      "official_information_url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1_en",
+      "source_url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1_en",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "EEAS: subsidised internship, EU Delegation to the DRC, Political, Press and Information section (published 15.01.2026, deadline 25 January 2026)",
+          "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1_en",
+          "type": "Official"
+        },
+        {
+          "label": "EEAS: previous call (published 17.09.2024, deadline 26 September 2024)",
+          "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-0_en",
+          "type": "Official"
+        },
+        {
+          "label": "EEAS: earlier call (published 15.03.2023, deadline 31/03/2023)",
+          "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99ue-en-r%C3%A9publique-0_en",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The profile records DRC residence and under one year of professional experience since graduating in 2024, which fits the experience cap. The degree (Business Administration) is not one of the preferred fields, the city of residence is not recorded, and the general criteria of Article 8 of Decision ADMIN(2017)28 were not read.",
+      "potential_issues": [
+        "No call is open and none is announced; calls appear without warning and stay open only 9 to 16 days",
+        "The preferred degree fields (political science, international relations, humanities, information and communication) do not name business administration",
+        "The subsistence grant amount is not stated on the call page; travel, visa, insurance and accommodation are at the intern's expense",
+        "The general eligibility criteria are in Article 8 of Decision ADMIN(2017)28, which was not read (for example any limit on the time since graduation)",
+        "Only candidates living in or near Kinshasa are considered"
+      ],
+      "benefits": [
+        "Experience inside an EU Delegation (politics, press and information)",
+        "Monthly subsistence grant",
+        "Up to six months"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "High",
+        "travel": "Low",
+        "networking": "High",
+        "funding": "Medium",
+        "accessibility": "Low",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "A subsidised internship in an EU Delegation matches the public-sector and policy interest and is in Kinshasa, so no relocation. Calls are rare and short, and the preferred degree fields do not name business administration.",
+      "travel_value": "Low",
+      "career_value": "High",
+      "academic_value": "Low",
+      "networking_value": "High",
+      "visa": {
+        "required": "Not applicable for a DRC national living near Kinshasa (the call mentions visas only 'where applicable')",
+        "support": "Not applicable"
+      },
+      "upfront_cost_risk": "Low: no fee is mentioned; living costs beyond the monthly grant are at the intern's expense",
+      "action": "Check the EEAS page of the EU Delegation to the DRC every week. Prepare a Europass CV and a motivation letter in advance so you can apply within the 9 to 16 days a call stays open.",
+      "last_verified": "2026-10-29",
+      "date_discovered": "2026-10-29",
+      "notes": "Pages read on 29 October 2026: the 2023, 2024 and 2026 calls. The recruitment mailbox changed between calls: Delegation-Dem-Rep-Of-Congo-HOA@eeas.europa.eu in 2023, DELEGATION-DEM-REP-OF-CONGO-RECRUTEMENT@eeas.europa.eu in 2024 and 2026. Use the address printed on the new call.",
+      "match_keywords": [
+        "union européenne en république démocratique du congo",
+        "ue en république démocratique du congo",
+        "eu delegation to the drc",
+        "eu delegation in the drc"
+      ]
+    },
+    {
       "id": "european-forum-alpbach-scholarships",
       "title": "European Forum Alpbach scholarship programme",
       "organization": "European Forum Alpbach",
@@ -2757,7 +3218,7 @@
       },
       "upfront_cost_risk": "Medium: flights and accommodation to Medellín are not confirmed as paid",
       "action": "If the 'humble beginnings' and impact pillars describe you, apply on fortissociety.org/fellowship before 8 November 2026; ask info@fortissociety.org whether flights and accommodation to Medellín are covered before committing.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-26",
       "notes": "Organiser identified on its About page: the Future Leaders Foundation (registered 501(c)(3), August 2014) launched the Fortis Society in 2018; the Society is member-governed. Members' testimonials and past summit cities (Paris, Seattle, Marrakesh, Sitges, Athens, Medellín) are on the site. No fee anywhere.",
       "match_keywords": [
@@ -2902,7 +3363,7 @@
       },
       "upfront_cost_risk": "Tuition and registration fees stay with the student.",
       "action": "The 2027 call is open: apply now for admission to two or three French master's programmes and ask each international office for its internal Eiffel deadline, which will fall before 6 January 2027.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "26 October 2026: the English programme page now carries the 2027 campaign ('Call for application 2027 is open'; applications to Campus France by 6 January 2027; results from 12 April 2027), so the English and French pages agree. The French page is still dated 2 October 2026 and still lists the institutions' webinar as 'mercredi 4 novembre 2027', probably a typo for 2026. Implementation page unchanged: EUR 1,200 (master's) and EUR 2,000 (doctorate) monthly 'from January 2026'; links 'Regulations Eiffel 2027'.",
       "match_keywords": [
@@ -3190,7 +3651,7 @@
       },
       "upfront_cost_risk": "Low",
       "action": "Look at one-year MPhil courses that fit public policy or development and check their grade and English requirements. Apply only if both can be met before the course deadline.",
-      "last_verified": "2026-10-05",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-05",
       "notes": "",
       "match_keywords": [
@@ -3327,7 +3788,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Apply early, since review is rolling, and keep 10 to 14 December free.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "12 October 2026: the About page calls it 'the fully virtual five-day challenge'; members 'can participate virtually from around the world'. All active participants receive a Certificate of Achievement from the University of Oxford and the St. Gallen Symposium; mentoring is by the Oxford Character Project. Challenge partners listed: Swiss Re, Schwarzman Scholars, one to be announced.",
       "match_keywords": [
@@ -3467,9 +3928,9 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Check the country-specific GPA requirement for DRC degrees on the GLOCAL site, then plan an English test if needed.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
-      "notes": "Deadline wording preserved from the official home page.",
+      "notes": "Deadline wording preserved from the official home page. Re-read on 29 October 2026: scholarship applications close 14 January 2027, 13:00 UK time; self-funded tracks have other dates.",
       "match_keywords": [
         "glocal"
       ]
@@ -4075,7 +4536,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Low priority. Pair it with the Internet Society training if that field interests you.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -4339,7 +4800,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Enrol in the pre-fellowship training now and decide after the first modules whether you have a project idea.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -4593,7 +5054,7 @@
       },
       "upfront_cost_risk": "None stated.",
       "action": "Apply before 1 December 2026 if a structured entrepreneurship course appeals to you.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -4724,7 +5185,7 @@
       },
       "upfront_cost_risk": "None stated.",
       "action": "If you are 26 or younger, apply before 15 November 2026.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -5016,7 +5477,7 @@
       },
       "upfront_cost_risk": "Medium: the flight to the Netherlands is paid by the student",
       "action": "Convert your Licence grade to a percentage. If it is 75% or higher, choose a participating MSc, check its English requirement, and complete the Studielink application before 10 December 2026.",
-      "last_verified": "2026-10-05",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-05",
       "notes": "",
       "match_keywords": [
@@ -5330,7 +5791,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Applications for 2027 are closed. If you applied, semi-finalist interviews at the U.S. Embassy run until January 2027 and notifications come in February/March 2027; otherwise watch mandelawashingtonfellowship.org for the 2028 call.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "26 October 2026: /apply/, /apply-faqs/ and /2027-application-instructions/ now return HTTP 404 (taken down after the deadline). The About page states that 2027 applications are closed; the instructions PDF is still online and unchanged (deadline, eligibility, DRC on the country list, 'the U.S. Government will cover all program costs', no application fee). The application portal apply.mandelawashingtonfellowship.org still loads a login page. The '2027 Reciprocal Exchange Component' news item (deadline November 11, 2026) is for U.S. professionals, not African applicants. [auto 2026-10-28] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
@@ -5490,7 +5951,7 @@
       },
       "upfront_cost_risk": "Low",
       "action": "Pick one eligible one-year master's, check on its course page whether its funding deadline is 8 December 2026 or 6 January 2027, confirm your grade meets the 2:1 equivalent, and line up references early.",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-05",
       "notes": "",
       "match_keywords": [
@@ -5644,10 +6105,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "If you have not done it yet, complete the Applicant Declaration Form today, 26 October 2026, before 5pm UK time (17:00 UTC). The form may close earlier once the limit is reached. Then submit the Postgraduate Assessment and Scholarship Main Application forms by 19 November 2026, 5pm UK time.",
-      "last_verified": "2026-10-26",
+      "action": "The Applicant Declaration Form closed on 26 October 2026 (5pm UK time). If you completed it and received an invitation, submit the Postgraduate Assessment and Scholarship Main Application forms by 19 November 2026, 5pm UK time. If you did not attend an information session or complete the form, this cycle is closed to you: note it for the next intake.",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
-      "notes": "12 October 2026: eligibility now read on the official eligibility page (previously secondary). deadline_utc converts 5pm UK time on 19 October 2026 (BST, UTC+1).",
+      "notes": "12 October 2026: eligibility read on the official eligibility page (previously secondary). 29 October 2026: timeline page re-read. The Applicant Declaration Form closed on 26 October 2026, 5pm UK time (17:00 UTC; UK clocks went back on 25 October); Main Application forms close 19 November 2026, 5pm UK time (17:00 UTC). Interviews: on-campus applicants invited in early February 2027, online applicants in mid-February 2027. The page adds that the application timeline 'is subject to change depending on the volume of applications received'.",
       "match_keywords": [
         "mastercard foundation scholars program at the university of edinburgh",
         "edinburgh mastercard"
@@ -5710,20 +6171,22 @@
       "participation_fee": "Application fee waived for eligible candidates",
       "stipend": "Unknown / Not specified",
       "eligibility": [
-        "'Hold the citizenship of an African country'",
-        "'Be under 35 years of age on 1 September'",
-        "Not already holding, or pursuing, a master's degree; applying for the first time",
-        "Bachelor's from a listed partner institution, or a recognised bridge programme, or UNHCR refugee status; the only DRC institution listed is the Université de Kinshasa",
-        "Graduates of French higher education institutions are not eligible"
+        "'Hold the citizenship of an African country.' Dual citizenship that includes a country outside the African continent is not eligible",
+        "'Be currently completing, or already hold, a Bachelor's degree from one of the universities on this list of institutions' (the only DRC institution listed is the Université de Kinshasa); or a Bachelor's plus a recognised bridge or mentoring programme of an approved organisation; or a Bachelor's plus current or past UNHCR refugee status",
+        "'Be under 35 years of age on 1 September of the year in which the scholarship application is submitted.'",
+        "'Not already hold, or currently pursuing, a Master's degree'; applying to the Mastercard Foundation Scholars Program for the first time",
+        "Students currently enrolled in, or graduated from, a French higher education institution are not eligible"
       ],
       "nationality_requirements": [
         "Citizen of an African country"
       ],
-      "age_requirement": "Under 35 on 1 September 2027",
-      "education_requirement": "Bachelor's from a partner institution (DRC: Université de Kinshasa only)",
+      "age_requirement": "Under 35 on 1 September of the year in which the scholarship application is submitted (an application made in 2026 is measured on 1 September 2026)",
+      "education_requirement": "Bachelor's (completed or in progress) from a partner institution (DRC: Université de Kinshasa only), or a Bachelor's plus a recognised bridge or mentoring programme, or a Bachelor's plus UNHCR refugee status",
       "experience_requirement": "Unknown / Not specified",
       "language_requirement": "Unknown / Not specified",
-      "other_requirements": [],
+      "other_requirements": [
+        "Create the Master's application on the Sciences Po admissions platform at the same time as the eligibility request; otherwise the application-fee waiver is lost 'even if you are found eligible for the scholarship at a later stage'"
+      ],
       "documents_required": [],
       "application_process": [
         "Submit the two-year Sciences Po master's application with the Mastercard Foundation scholarship application by 23 November 2026 (decision by 11 February 2027) or 14 December 2026 (decision by 1 April 2027)",
@@ -5756,10 +6219,13 @@
       "eligibility_for_me": "INSUFFICIENT INFORMATION",
       "eligibility_reason": "Citizenship, age and degree level fit, but eligibility depends on the bachelor's coming from a partner institution. The DRC's only one is the Université de Kinshasa, and the profile does not record the awarding university.",
       "potential_issues": [
-        "Restricted to graduates of listed partner universities",
+        "Restricted to graduates of listed partner universities (the only DRC institution listed is the Université de Kinshasa), or Bachelor's holders with a recognised bridge or mentoring programme or UNHCR refugee status",
         "Two scholarship deadlines (23 November and 14 December 2026); no time of day is stated",
-        "Funding is described as 'full financial needs' without an itemised list on the page read",
-        "Deferring admission makes the applicant ineligible"
+        "The general international admissions deadlines page lists 29 November 2026 for a decision before 11 February 2027; scholarship applicants must meet the earlier date on the scholarship page (23 November 2026)",
+        "The Master's application must be created at the same time as the eligibility request, or the application-fee waiver is lost",
+        "Funding is described as covering 'the full financial needs of selected Scholars' without an itemised list",
+        "Deferring admission makes the applicant ineligible",
+        "Dual citizenship that includes a non-African country, and current or former students of French higher-education institutions, are not eligible"
       ],
       "benefits": [
         "Two-year Sciences Po master's in Paris",
@@ -5784,10 +6250,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Low",
-      "action": "If your Licence is from the Université de Kinshasa, apply to a two-year master's with the scholarship by 23 November 2026 (or 14 December 2026 at the latest). Otherwise skip.",
-      "last_verified": "2026-10-26",
+      "action": "If your Licence is from the Université de Kinshasa, create your two-year master's application on the Sciences Po platform and send the Scholars Program eligibility request at the same time, then apply by 23 November 2026 (14 December 2026 at the latest). Otherwise skip.",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-05",
-      "notes": "Previously on the research watchlist. 19 October 2026 (source_changed flag): the page now publishes two scholarship deadlines (23 November and 14 December 2026) and an April 2027 results date; the earlier 'October to mid-December 2026' fee-waiver wording is no longer on the page.",
+      "notes": "Previously on the research watchlist. 19 October 2026 (source_changed flag): the page now publishes two scholarship deadlines (23 November and 14 December 2026) and an April 2027 results date; the earlier 'October to mid-December 2026' fee-waiver wording is no longer on the page. 29 October 2026: the scholarship page was re-read in full; the age rule is measured on 1 September of the year in which the scholarship application is submitted (the earlier record read 1 September 2027, a year the page does not give).",
       "match_keywords": [
         "mastercard foundation scholars program at sciences po",
         "sciences po mastercard"
@@ -5913,7 +6379,7 @@
       "potential_issues": [
         "UCT academic applications for most coursework postgraduate programmes closed on 30 September 2026; only programmes listed as exceptions may still be open",
         "Benefits are not itemised on the UCT pages read; coverage comes from secondary sources",
-        "Deadline is 19 days away"
+        "The scholarship deadline is 31 October 2026, two days after this check"
       ],
       "benefits": [
         "Scholarship and comprehensive support at a leading African university",
@@ -5940,9 +6406,9 @@
       },
       "upfront_cost_risk": "UCT application fee may apply (not checked)",
       "action": "Check the 2027 Directions for Postgraduate Applicants for a Commerce honours or coursework master's still open after 30 September; if one is, apply to UCT and submit the scholarship application before 31 October 2026. Otherwise note the cycle for 2028.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-12",
-      "notes": "",
+      "notes": "29 October 2026: UCT page uct.ac.za/node/648803 re-read. It states that the Mastercard Foundation Scholars Program application deadline is 31 October 2026 for postgraduate diploma, honours and master's applicants, and requires African citizenship ('including South Africa'). uct.ac.za/mastercardfdn/how-apply says undergraduate applications are closed, postgraduate applications are open, and a UCT offer is needed first.",
       "match_keywords": [
         "university of cape town mastercard",
         "uct mastercard",
@@ -6354,7 +6820,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Convert your degree average to a 4.0 scale. If it reaches 3.17, prepare the application and references before 1 December 2026.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -6623,7 +7089,7 @@
       },
       "upfront_cost_risk": "Medium",
       "action": "If your bachelor's was not taught entirely in English, book an IELTS or TOEFL sitting with results before 15 December 2026. Apply on apply.nohanet.org by 23:59 GMT that day, and email NOHA to ask whether scholarship holders pay the EUR 4,000 semester participation costs.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-05",
       "notes": "26 October 2026: the page is now consistent (2027-2029 cohort throughout; the '2026-2028' heading and the 'summer 2025' mention are gone). New on the page: call opened 1 October 2026; TOEFL iBT thresholds on the 0-5 scale; English-test exemption for BAs taught entirely in English; EM scholarship applicants must have graduated before the deadline. The page gives both '2025' and 'July 2026' for NOHA's latest Erasmus Mundus selection.",
       "match_keywords": [
@@ -6656,13 +7122,13 @@
       "program_dates": "Leaders Africa: six months, virtual (Leaders Asia-Pacific eight months hybrid; Europe and USA eight months virtual)",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced (checked 19 October 2026).",
+      "deadline_text": "Official page, 29 October 2026: 'Applications live on November 9! Please check back here to apply, then.' The page gives no year and no closing date. Its general rule is that applicants 'may apply in November of the preceding year to join the program', so 9 November is read as 9 November 2026.",
       "deadline_timezone": "Unknown / Not specified",
-      "opens_on": "",
+      "opens_on": "2026-11-09",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Applications expected to open in November 2026 for the next cohort, per the official page's general wording; exact dates not announced as of 19 October 2026.",
+      "expected_next_cycle": "Applications open on 9 November (the page gives no year; read with the page's rule of applying in November of the preceding year, this is 9 November 2026). No closing date announced as of 29 October 2026.",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
       "funding_type": "Funding Unclear",
@@ -6723,7 +7189,8 @@
         "Minimum age of 24",
         "Costs not stated on the page read",
         "Expects an established record of community leadership",
-        "Leaders Africa is virtual, so no travel"
+        "Leaders Africa is virtual, so no travel",
+        "The page gives the opening day (9 November) but no year, no closing date and no cost information"
       ],
       "benefits": [
         "Virtual group sessions, peer-led spaces and individual coaching",
@@ -6748,10 +7215,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "Sign up for the Foundation's emails and look again in November 2026.",
-      "last_verified": "2026-10-19",
+      "action": "Open the Obama Foundation Leaders page on 9 November 2026, read the Africa programme's criteria, cost and closing date, then decide.",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
-      "notes": "On 12 October 2026 the page still gave no exact dates for the next application window.",
+      "notes": "29 October 2026: the page now reads 'Applications live on November 9!'. On 12 October 2026 it still gave no exact dates for the next application window.",
       "match_keywords": [
         "obama foundation leaders",
         "obama leaders"
@@ -7030,7 +7497,7 @@
       },
       "upfront_cost_risk": "Visa costs, and possibly travel and hotel.",
       "action": "No action. Other One Young World scholarships open through the year: check the scholarships page in early 2027 for one that lists the DRC.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "Re-verified 12 October 2026: the only Congo entry on the country list is still 'Congo-Brazzaville'; the DRC is not listed. Summit: Cape Town, 3-6 November 2026. The general scholarships page lists only this scholarship as open.",
       "match_keywords": [
@@ -7174,9 +7641,9 @@
       },
       "upfront_cost_risk": "Medium: flights and living costs are the student's",
       "action": "Register at od.globaluni.ru by 1 November 2026 (no time zone stated) and choose the Master's track. Then finish the First Stage portfolio by 13 November and register for the Second Stage by 16 November 2026. Budget for travel, accommodation, food and insurance, which the scholarship does not cover.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-05",
-      "notes": "The separate Russian government quota is not this record; MISIS (read 12 October 2026) states 'by December 15, 2026 — for CIS countries' and 'by January 15, 2027 — for all other countries'. Open Doors dates unchanged on 12 October 2026.",
+      "notes": "The separate Russian government quota is not this record; MISIS (read 12 October 2026) states 'by December 15, 2026 — for CIS countries' and 'by January 15, 2027 — for all other countries'. Open Doors dates unchanged on 12 October and 29 October 2026. On 29 October 2026 the page also said that after 1 November the account and portfolio can no longer be edited.",
       "match_keywords": [
         "open doors",
         "russian scholarship project",
@@ -7466,9 +7933,9 @@
     },
     {
       "id": "raisina-young-fellows-2027-pcns",
-      "title": "Raisina Young Fellows Programme 2027 (PCNS Youth Community places)",
+      "title": "Raisina Young Fellows Programme 2027 (PCNS places)",
       "organization": "Policy Center for the New South (PCNS), Morocco, for the Observer Research Foundation (ORF) programme in India",
-      "overview": "PCNS has reserved two fully funded places for members of its youth community on ORF's Raisina Young Fellows Programme in New Delhi, which convenes emerging leaders to discuss political, economic and social issues with a focus on Asia and inducts them at the Raisina Dialogue.",
+      "overview": "The Policy Center for the New South (PCNS), Morocco, has allocated two fully funded places for participation in the Raisina Young Fellows Programme 2027, held in New Delhi, India, from 11 to 20 March 2027. The programme convenes emerging leaders from around the world to discuss political, economic and social issues with a focus on Asia, and inducts them as Raisina Young Fellows at the Raisina Dialogue.",
       "category": [
         "Fellowship",
         "Leadership",
@@ -7503,7 +7970,7 @@
       "status": "CLOSING SOON",
       "funding_type": "Fully Funded",
       "funding_details": [
-        "PCNS 'has reserved two fully funded places for members of its youth community'",
+        "PCNS 'has allocated two fully funded places'",
         "Selected participants receive: a comprehensive fellows' program; roundtrip economy airfare; accommodation, meals, and in-country transportation",
         "Visa and insurance costs are not mentioned"
       ],
@@ -7527,7 +7994,6 @@
       "participation_fee": "Unknown / Not specified",
       "stipend": "Unknown / Not specified",
       "eligibility": [
-        "Member of the PCNS youth community (the places are reserved for its members)",
         "Be between 28 and 35 years old",
         "Demonstrate outstanding achievements and proven leadership",
         "Work in politics, diplomacy, business, media, civil society, or academia",
@@ -7551,15 +8017,15 @@
         "Only selected applicants are contacted; no reply by 23 November 2026 means not selected"
       ],
       "official_application_url": "https://docs.google.com/forms/d/e/1FAIpQLSe9gR7bzqeWS6rRQ1hhrbZPopbJxc9-57Bq9qSyC2yZDLLZjA/viewform?usp=sharing&ouid=114640157538604531792",
-      "official_information_url": "https://www.policycenter.ma/events/pcns-youth-community-call-applications-raisina-young-fellows-programme-2027",
-      "source_url": "https://www.policycenter.ma/events/pcns-youth-community-call-applications-raisina-young-fellows-programme-2027",
+      "official_information_url": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027",
+      "source_url": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027",
       "source_type": "Official",
       "source_confidence": "HIGH",
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "PCNS Youth Community call: Raisina Young Fellows Programme 2027",
-          "url": "https://www.policycenter.ma/events/pcns-youth-community-call-applications-raisina-young-fellows-programme-2027",
+          "label": "PCNS: Call for Applications, Raisina Young Fellows Programme 2027",
+          "url": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027",
           "type": "Official"
         },
         {
@@ -7569,13 +8035,13 @@
         }
       ],
       "eligibility_for_me": "INSUFFICIENT INFORMATION",
-      "eligibility_reason": "The places are reserved for members of the PCNS youth community, and the profile records no such membership. The minimum age is 28 and the profile records only 'under 30', so the exact age decides it; 'outstanding achievements and proven leadership' is also a high bar for under one year of experience.",
+      "eligibility_reason": "Two facts decide it. The minimum age is 28 and the profile records only 'under 30'. The version of this call read on 26 October (now removed from its old address) reserved the places for members of the PCNS youth community and the profile records no such membership; the current page does not mention membership. 'Outstanding achievements and proven leadership' and English proficiency are also not recorded.",
       "potential_issues": [
-        "Only two places, reserved for PCNS youth community members; ORF's own open call was not found this cycle",
+        "The earlier version of this call (read on 26 October at an address that now returns 404) said the places were reserved for PCNS youth community members; the current page states no membership condition. Which rule applies is unconfirmed",
+        "Only two places, allocated by PCNS; ORF's own open call was not found",
         "Minimum age 28",
-        "Deadline 2 November 2026, one week away",
-        "Visa for India and insurance not mentioned",
-        "Aggregators advertise it as an open 'fully funded' fellowship without mentioning the membership condition"
+        "Deadline 2 November 2026, 5:00 pm Casablanca time",
+        "Visa for India and insurance not mentioned"
       ],
       "benefits": [
         "Round-trip economy airfare, accommodation, meals and in-country transport",
@@ -7591,7 +8057,7 @@
         "accessibility": "Low",
         "profile_fit": "Low"
       },
-      "relevance_reason": "A fully funded policy programme in India matches the policy-analysis interest, but access is narrow: PCNS youth community membership, age 28 or older and senior-sounding achievement criteria.",
+      "relevance_reason": "A fully funded policy programme in India matches the policy-analysis interest, but access is narrow: only two places, a minimum age of 28 and senior-sounding achievement criteria.",
       "travel_value": "Very High",
       "career_value": "High",
       "academic_value": "Medium",
@@ -7601,10 +8067,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Low: airfare, accommodation, meals and local transport are covered",
-      "action": "Apply only if you are already a PCNS youth community member and aged 28 or over; the form closes 2 November 2026 at 5:00 pm Casablanca time.",
-      "last_verified": "2026-10-26",
+      "action": "If you are 28 or older and can show leadership achievements in politics, diplomacy, business, media, civil society or academia, complete the PCNS application form by Monday 2 November 2026, 5:00 pm Casablanca time. Before spending time on it, check whether PCNS still limits the places to its youth community.",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-26",
-      "notes": "Part of the PCNS-ORF-ISPI partnership in which each institution nominates people for the others' programmes. The PCNS pages read did not explain how to join the youth community.",
+      "notes": "Part of the strategic partnership between PCNS, ORF and the Italian Institute for International Political Studies (ISPI), through which each institution nominates people for the others' programmes. 29 October 2026: the former page (pcns-youth-community-call-applications-raisina-young-fellows-programme-2027) returns 404 and the call now sits at the address above; the application form link is unchanged.",
       "match_keywords": [
         "raisina young fellows",
         "raisina young fellow"
@@ -8193,7 +8659,7 @@
       },
       "upfront_cost_risk": "Application fee, possible language test, then living costs in Paris and the remaining tuition",
       "action": "Pick a Sciences Po two-year master's taught in French or bilingually, get a university certificate that the Licence was taught entirely in French, and submit a complete application with the Boutmy request before 29 November 2026; apply in the same cycle to the Mastercard Foundation programme at Sciences Po.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-19",
       "notes": "",
       "match_keywords": [
@@ -8365,13 +8831,13 @@
       "program_dates": "2027/2028 academic year for the next call",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No 2027/2028 call seen on 19 October 2026. The apply page still shows the 'Call for Applications 2026/2027' with the deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
+      "deadline_text": "No 2027/2028 call seen on 19 or 29 October 2026. The apply page still shows the 'Call for Applications 2026/2027' with the deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
       "deadline_timezone": "Central European Time (CET)",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Next call expected with a mid-January 2027 deadline, by analogy with the previous one (15 January 2026). Not announced as of 19 October 2026.",
+      "expected_next_cycle": "The previous call opened on 17 November 2025 and closed on 15 January 2026 (2 pm CET). If the pattern holds, the next call could open in mid-November 2026 with a mid-January 2027 deadline. Not announced as of 29 October 2026.",
       "last_cycle_deadline": "2026-01-15",
       "status": "UPCOMING",
       "funding_type": "Substantially Funded",
@@ -8477,7 +8943,7 @@
       },
       "upfront_cost_risk": "Flight and first months of living costs are likely to be self-funded.",
       "action": "Look at the official site from November 2026 for the 2027/2028 call, and find out which DRC authority handles nominations.",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -8614,7 +9080,7 @@
       },
       "upfront_cost_risk": "None stated.",
       "action": "Optional. If you have a business idea, prepare it for the 1 January 2027 opening.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "The official programme page still carries the 2025 title; the 1 January to 1 March window is stated as a yearly rule.",
       "match_keywords": [
@@ -8894,7 +9360,7 @@
       },
       "upfront_cost_risk": "High unless a fellowship is awarded: 3000 CNY fee plus flights",
       "action": "Apply only if you would accept paying the 3000 CNY fee and flights should no fellowship be awarded. Otherwise skip.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-05",
       "notes": "19 October 2026: official page re-read; dates (19 December 2026 - 1 January 2027), deadline (8 November 2026, UTC+8), 3000 CNY fee, fellowship wording and eligibility unchanged. 12 October 2026: unchanged.",
       "match_keywords": [
@@ -9230,6 +9696,149 @@
       "match_keywords": [
         "volontaires unis pour la francophonie",
         "v-francophonie"
+      ]
+    },
+    {
+      "id": "wageningen-africa-scholarship-programme-2027",
+      "title": "Wageningen University Africa Scholarship Programme (ASP), MSc 2027-28",
+      "organization": "Wageningen University & Research (WUR), the Netherlands",
+      "overview": "The Africa Scholarship Programme offers talented and motivated students from Africa the chance to do a master's degree at Wageningen University. The scholarship covers travel to and from the Netherlands, a living allowance, tuition fees, and visa and health-insurance costs for the 24 months of the programme. Recipients are chosen by lottery among applicants who submitted a complete MSc application before 1 December 2026 and meet every requirement.",
+      "category": [
+        "Scholarship"
+      ],
+      "subcategory": [
+        "Master's degree",
+        "Africa"
+      ],
+      "education_levels": [
+        "Master's"
+      ],
+      "country": "Netherlands",
+      "city": "Wageningen",
+      "region": "Western Europe",
+      "continent": "Europe",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "MSc programme of 24 months (the length of the support). Scholarship offers are made on 7 April 2027.",
+      "application_deadline": "2026-12-01",
+      "deadline_utc": "",
+      "deadline_text": "'Before 1 December 2026. Only the MSc applications that have been submitted before this deadline will be assessed by the WU scholarship selection committee.' Official English test results and the Bachelor's diploma must also be uploaded before 1 December 2026.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Substantially Funded",
+      "funding_details": [
+        "Components listed on the page: 'Travel to and from The Netherlands'; 'Living allowance for the duration of the programme (24 months)'; 'Tuition fee coverage for the duration of the programme (24 months)'; 'Visa costs and costs for health insurance'",
+        "The living-allowance amount and the number of scholarships are not stated",
+        "The words 'fully funded' do not appear on the page"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": true,
+      "insurance_funded": true,
+      "local_transport_funded": false,
+      "participation_fee": "Not stated on the scholarship page",
+      "stipend": "Living allowance for 24 months; amount not stated on the page",
+      "eligibility": [
+        "A citizen of an African country",
+        "A complete application for one of the MSc programmes at Wageningen University & Research submitted before 1 December 2026",
+        "Unconditionally admitted to this MSc programme",
+        "An excellent student with a First class honours degree and a GPA of 80% or higher in a bachelor's degree",
+        "English language requirements met, with official test results available before 1 December 2026 and uploaded with the MSc application",
+        "Bachelor's degree completed before 1 December 2026, with the diploma uploaded with the MSc application",
+        "Preference is given to students who have not obtained a master's degree yet"
+      ],
+      "nationality_requirements": [
+        "A citizen of an African country (the DRC is an African country; no further country list is given for this scholarship)"
+      ],
+      "age_requirement": "Unknown / Not specified",
+      "education_requirement": "Bachelor's degree completed before 1 December 2026 with First class honours and a GPA of 80% or higher; unconditional admission to a Wageningen MSc",
+      "experience_requirement": "Unknown / Not specified",
+      "language_requirement": "Official English language test results must be available before 1 December 2026; the required score was not read",
+      "other_requirements": [
+        "Only applicants who meet all requirements can be invited to the ASP selection procedure",
+        "A number of applicants are told around March-April 2027 that they reached the final stage; a lottery then decides"
+      ],
+      "documents_required": [
+        "Complete MSc application with all supporting documents",
+        "Official English language test results",
+        "Bachelor's diploma"
+      ],
+      "application_process": [
+        "Submit a complete application for a Wageningen MSc before 1 December 2026, including official English test results and the Bachelor's diploma; the ASP section describes no separate scholarship application",
+        "Around March-April 2027, a number of applicants are told by email that they are selected for the final stage",
+        "A lottery then determines the scholarship recipients; on 7 April 2027 the scholarship is offered to the selected students and the remaining candidates go on a waiting list"
+      ],
+      "official_application_url": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
+      "official_information_url": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
+      "source_url": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "WUR: Africa Scholarship Programme (same page also lists the Excellence, ABF and NL scholarships)",
+          "url": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "DRC citizenship and a bachelor's completed in 2024 fit. Not recorded: the degree grade against the 'First class honours and GPA of 80% or higher' rule, official English test results (none recorded; they must be uploaded before 1 December 2026), and whether a Business Administration degree gives unconditional admission to a Wageningen MSc.",
+      "potential_issues": [
+        "Official English test results must be uploaded with the MSc application before 1 December 2026; none is recorded and the page warns that results can take several weeks",
+        "Grade rule: First class honours and a GPA of 80% or higher; the degree grade is not recorded",
+        "Unconditional admission to a Wageningen MSc is required; whether a Business Administration degree gives access to a suitable MSc was not confirmed",
+        "Recipients are drawn by lottery after a final-stage selection; the number of scholarships is not stated",
+        "The page does not say 'fully funded': accommodation, meals and local transport are not itemised, and the allowance amount is not stated"
+      ],
+      "benefits": [
+        "Travel, living allowance, tuition, visa and health insurance for 24 months (as listed on the page)",
+        "A master's degree from Wageningen University"
+      ],
+      "relevance": {
+        "academic": "Very High",
+        "career": "High",
+        "travel": "Very High",
+        "networking": "High",
+        "funding": "High",
+        "accessibility": "Low",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "A substantially funded master's in the Netherlands covering travel, tuition, living allowance, visa and insurance. The obstacles are the high grade rule, the English test needed within a month, admission to a suitable MSc with a business degree, and a final lottery.",
+      "travel_value": "Very High",
+      "career_value": "High",
+      "academic_value": "Very High",
+      "networking_value": "High",
+      "visa": {
+        "required": "Yes, for the Netherlands (not stated on the page; general requirement)",
+        "support": "Visa costs are covered by the scholarship"
+      },
+      "upfront_cost_risk": "English test fee and MSc application costs; the scholarship decision comes only on 7 April 2027",
+      "action": "This week: check your Licence result against the rule (First class honours, GPA 80% or higher), book an English test (official results must reach Wageningen before 1 December 2026), and ask Wageningen's study advisers whether your degree gives access to a suitable MSc. If all three hold, submit the complete MSc application by 30 November 2026.",
+      "last_verified": "2026-10-29",
+      "date_discovered": "2026-10-29",
+      "notes": "The same WUR page lists three other schemes: the Wageningen Excellence Scholarship, the ABF scholarship (by invitation only, no direct application, results in May 2027) and the NL Scholarship (EUR 5,000, 8 awards). None gives a DRC applicant a direct application route. The page was read through a text-extraction tool; local scripts could not open wur.nl.",
+      "match_keywords": [
+        "wageningen university africa scholarship",
+        "wageningen africa scholarship",
+        "wur africa scholarship"
       ]
     },
     {
@@ -9804,7 +10413,7 @@
       },
       "upfront_cost_risk": "English test fee paid by the applicant.",
       "action": "Decide this week whether an IELTS or TOEFL sitting before mid-November is realistic. If not, skip this round.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [

@@ -2,6 +2,129 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-10-29",
+      "id": "ebuteli-fellowship",
+      "title": "Ebuteli Fellowship, sixth edition (Kinshasa research institute)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "eu-delegation-drc-subsidised-internship",
+      "title": "EU Delegation to the DRC: subsidised internship for young graduates (Political, Press and Information section)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "wageningen-africa-scholarship-programme-2027",
+      "title": "Wageningen University Africa Scholarship Programme (ASP), MSc 2027-28",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly, Geneva)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "raisina-young-fellows-2027-pcns",
+      "title": "Raisina Young Fellows Programme 2027 (PCNS places)",
+      "field": "eligibility",
+      "old": [
+        "Member of the PCNS youth community (the places are reserved for its members)",
+        "Be between 28 and 35 years old",
+        "Demonstrate outstanding achievements and proven leadership",
+        "Work in politics, diplomacy, business, media, civil society, or academia",
+        "Be available for the full duration of the program",
+        "Show the capacity and readiness to contribute to international forums",
+        "Be proficient in English"
+      ],
+      "new": [
+        "Be between 28 and 35 years old",
+        "Demonstrate outstanding achievements and proven leadership",
+        "Work in politics, diplomacy, business, media, civil society, or academia",
+        "Be available for the full duration of the program",
+        "Show the capacity and readiness to contribute to international forums",
+        "Be proficient in English"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "id": "raisina-young-fellows-2027-pcns",
+      "title": "Raisina Young Fellows Programme 2027 (PCNS places)",
+      "field": "official_information_url",
+      "old": "https://www.policycenter.ma/events/pcns-youth-community-call-applications-raisina-young-fellows-programme-2027",
+      "new": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "mastercard-foundation-scholars-sciences-po-2027",
+      "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+      "field": "eligibility",
+      "old": [
+        "'Hold the citizenship of an African country'",
+        "'Be under 35 years of age on 1 September'",
+        "Not already holding, or pursuing, a master's degree; applying for the first time",
+        "Bachelor's from a listed partner institution, or a recognised bridge programme, or UNHCR refugee status; the only DRC institution listed is the Université de Kinshasa",
+        "Graduates of French higher education institutions are not eligible"
+      ],
+      "new": [
+        "'Hold the citizenship of an African country.' Dual citizenship that includes a country outside the African continent is not eligible",
+        "'Be currently completing, or already hold, a Bachelor's degree from one of the universities on this list of institutions' (the only DRC institution listed is the Université de Kinshasa); or a Bachelor's plus a recognised bridge or mentoring programme of an approved organisation; or a Bachelor's plus current or past UNHCR refugee status",
+        "'Be under 35 years of age on 1 September of the year in which the scholarship application is submitted.'",
+        "'Not already hold, or currently pursuing, a Master's degree'; applying to the Mastercard Foundation Scholars Program for the first time",
+        "Students currently enrolled in, or graduated from, a French higher education institution are not eligible"
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "id": "mastercard-foundation-scholars-sciences-po-2027",
+      "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+      "field": "age_requirement",
+      "old": "Under 35 on 1 September 2027",
+      "new": "Under 35 on 1 September of the year in which the scholarship application is submitted (an application made in 2026 is measured on 1 September 2026)"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "deadline_text",
+      "old": "'Applicants from Africa, Asia-Pacific, Europe, and the United States may apply in November of the preceding year to join the program.' Exact dates not announced (checked 19 October 2026).",
+      "new": "Official page, 29 October 2026: 'Applications live on November 9! Please check back here to apply, then.' The page gives no year and no closing date. Its general rule is that applicants 'may apply in November of the preceding year to join the program', so 9 November is read as 9 November 2026."
+    },
+    {
+      "date": "2026-10-29",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "opens_on",
+      "old": "",
+      "new": "2026-11-09"
+    },
+    {
+      "date": "2026-10-29",
+      "id": "stipendium-hungaricum-2027",
+      "title": "Stipendium Hungaricum scholarship (2027/2028)",
+      "field": "deadline_text",
+      "old": "No 2027/2028 call seen on 19 October 2026. The apply page still shows the 'Call for Applications 2026/2027' with the deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
+      "new": "No 2027/2028 call seen on 19 or 29 October 2026. The apply page still shows the 'Call for Applications 2026/2027' with the deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call."
+    },
+    {
+      "date": "2026-10-29",
+      "id": "abe-initiative-jica",
+      "title": "ABE Initiative: Master's Degree and Internship Program of the African Business Education Initiative for Youth",
+      "field": "deadline_text",
+      "old": "Set by each JICA country office. No 2027-intake call for the DRC was found on 2 October 2026. South Africa's call for the 2027 intake closed on 28 September 2026. A secondary source relays last year's JICA RDC call (13th batch), reported to have closed on 15 October 2025.",
+      "new": "Set by each JICA country office. No 2027-intake call for the DRC was found on 2 or 29 October 2026: neither the JICA English ABE page (latest item dated 10 February 2025) nor the Tokyo Tech ABE page (2024 admission cycle; information from AY2025 on must be obtained from JICA) gives 2027 dates. South Africa's call for the 2027 intake closed on 28 September 2026. A secondary source relays last year's JICA RDC call (13th batch), reported to have closed on 15 October 2025."
+    },
+    {
       "date": "2026-10-28",
       "id": "mandela-washington-fellowship-2027",
       "title": "Mandela Washington Fellowship for Young African Leaders 2027",
