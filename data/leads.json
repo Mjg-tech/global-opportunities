@@ -1,7 +1,44 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "leads": [
+    {
+      "id": "5ee0d91f06c3",
+      "title": "UNDP Internship 2027 in Bangkok, Thailand (THB 8302/Month)",
+      "url": "https://opportunitiescorners.com/undp-internship-2027-in-bangkok/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-30",
+      "first_seen": "2026-10-30",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cf982339968d",
+      "title": "Mozilla Foundation Fellowships 2027-2028 (up to $125,000)",
+      "url": "https://opportunitydesk.org/2026/10/29/mozilla-foundation-fellowships-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-30",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans",
+        "OYA Opportunities"
+      ]
+    },
+    {
+      "id": "a753aa8c6e8d",
+      "title": "Green Global Fellowship 2027 for Emerging Leaders",
+      "url": "https://opportunitydesk.org/2026/10/29/green-global-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-29",
+      "first_seen": "2026-10-30",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "3ed68987e012",
       "title": "Columbia HBCU Fellowship Program Fall 2027",
@@ -22,7 +59,10 @@
       "language": "en",
       "published": "2026-10-29",
       "first_seen": "2026-10-29",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "171f08e8a536",
@@ -201,7 +241,10 @@
       "language": "en",
       "published": "2026-10-28",
       "first_seen": "2026-10-28",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "898ecdbec2c7",
@@ -325,17 +368,6 @@
       "source_tier": 3,
       "language": "fr",
       "published": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e650533e8aee",
-      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (Fully-funded)",
-      "url": "https://opportunitydesk.org/2026/10/26/sir-cyril-taylor-young-african-leaders-program-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-26",
       "first_seen": "2026-10-27",
       "status": "NEEDS VERIFICATION"
     },
@@ -2854,28 +2886,6 @@
       "also_seen_in": [
         "OYA Opportunities"
       ]
-    },
-    {
-      "id": "a44f822fa248",
-      "title": "Chen Institute & Science Prize for AI Accelerated Research 2027",
-      "url": "https://www.globalsouthopportunities.com/2026/10/06/prize-6/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "ab1b463a815c",
-      "title": "Jasiri Talent Investor Cohort 9 2027 – Fully Funded Food Systems Entrepreneurship Programme",
-      "url": "https://www.globalsouthopportunities.com/2026/10/06/jasiri-5/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
     }
   ]
 }
