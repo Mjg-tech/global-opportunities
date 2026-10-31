@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-10-30T11:25:02Z",
+  "last_refresh": "2026-10-31T10:56:09Z",
   "counts": {
     "total": 72,
-    "archived": 3,
+    "archived": 4,
     "by_status": {
       "OPEN": 29,
-      "CLOSING SOON": 9,
-      "UPCOMING": 20,
+      "CLOSING SOON": 8,
+      "UPCOMING": 21,
       "DEADLINE PASSED": 5,
       "ROLLING": 1,
       "DATE UNKNOWN": 8
@@ -28,8 +28,8 @@
       "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
-      "VERIFIED": 43,
-      "PARTIALLY VERIFIED": 25,
+      "VERIFIED": 42,
+      "PARTIALLY VERIFIED": 26,
       "NEEDS VERIFICATION": 4
     },
     "travel_funded": 31
@@ -39,7 +39,9 @@
       "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
       "kectil-program-2027",
       "mastercard-foundation-scholars-sciences-po-2027",
-      "sciences-po-emile-boutmy-masters-2027"
+      "sciences-po-emile-boutmy-masters-2027",
+      "wff-youth-policy-board-2027-2028",
+      "yenching-academy-2027"
     ],
     "14": [
       "dalai-lama-fellows-2027",
@@ -50,13 +52,12 @@
       "global-leadership-challenge-2026"
     ],
     "3": [
-      "open-doors-russian-scholarship-masters-2027",
       "raisina-young-fellows-2027-pcns"
     ],
     "1": [
-      "ebuteli-fellowship",
       "mastercard-foundation-scholars-uct-2027",
-      "one-young-world-leading-scholarship-2026"
+      "one-young-world-leading-scholarship-2026",
+      "open-doors-russian-scholarship-masters-2027"
     ]
   },
   "watch": {
@@ -88,7 +89,7 @@
       "tier": 1,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunity Desk",
@@ -96,7 +97,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 4
     },
     {
       "name": "Opportunities for Africans",
@@ -104,7 +105,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Global South Opportunities",
@@ -144,7 +145,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 1
+      "new": 2
     },
     {
       "name": "Opportunites du Monde",
@@ -197,40 +198,47 @@
   ],
   "reseen": [
     {
-      "id": "mastercard-foundation-scholars-cambridge-2027",
-      "title": "Mastercard Foundation Scholars Program at ALCHE 2027 (Fully-funded)",
-      "url": "https://opportunitydesk.org/2026/10/29/mastercard-foundation-scholars-program-at-alche-2027/",
-      "source": "Opportunity Desk",
-      "seen": "2026-10-30"
+      "id": "irex-community-solutions-program",
+      "title": "The IREX Community Solutions Program 2027 for Community youth leaders (Fully Funded to the United States)",
+      "url": "https://www.opportunitiesforafricans.com/irex-community-solutions-program-2027-for-community-youth-leaders/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-10-31"
     },
     {
       "id": "mastercard-foundation-scholars-cambridge-2027",
       "title": "The Sciences Po Mastercard Foundation Scholars Program 2027 for Graduate Study in France (Fully Funded to France)",
       "url": "https://www.opportunitiesforafricans.com/the-sciences-po-mastercard-foundation-scholars-program-2027-for-graduate-study-in-france/",
       "source": "Opportunities for Africans",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "id": "mastercard-foundation-scholars-cambridge-2027",
       "title": "Mastercard Foundation Scholars Program 2027–2028: Fully Funded Scholarships for International Students",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-2027-2028-fully-funded-scholarships-for-international-students/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     },
     {
       "id": "si-scholarship-global-professionals",
       "title": "Swedish Institute Scholarships for Global Professionals 2027/2028 in Sweden (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/swedish-institute-scholarships-for-global-professionals-2027-2028-in-sweden-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
+    },
+    {
+      "id": "irex-community-solutions-program",
+      "title": "Community Solutions Program 2027 in USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/community-solutions-program-2027/",
+      "source": "Opportunities Corners",
+      "seen": "2026-10-31"
     },
     {
       "id": "si-scholarship-global-professionals",
       "title": "Swedish Institute SI Global Scholarship 2027 (Fully Funded)",
       "url": "https://opportunitiescorners.com/swedish-institute-si-global-scholarship-2027/",
       "source": "Opportunities Corners",
-      "seen": "2026-10-30"
+      "seen": "2026-10-31"
     }
   ],
-  "new_leads_last_run": 3
+  "new_leads_last_run": 8
 }

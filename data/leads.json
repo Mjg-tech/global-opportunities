@@ -1,7 +1,95 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "leads": [
+    {
+      "id": "1ed92e8e9a6e",
+      "title": "MIT Summer Research Program 2027 in USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/mit-summer-research-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-31",
+      "first_seen": "2026-10-31",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c25dbc8e97d9",
+      "title": "5 traductions en finale du Prix Ibn Khaldoun-Senghor 2026",
+      "url": "https://www.francophonie.org/5-traductions-en-finale-du-prix-ibn-khaldoun-senghor-2026-8751",
+      "source": "Organisation internationale de la Francophonie",
+      "source_tier": 1,
+      "language": "fr",
+      "published": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d05446873949",
+      "title": "Call for Mentees: Telemachus & Athena Mentoring Programme 2027",
+      "url": "https://opportunitydesk.org/2026/10/30/telemachus-athena-mentoring-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ff19409cb5e1",
+      "title": "Global Burden of Disease (GBD) Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/10/30/gbd-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "476584d1ae4a",
+      "title": "Morgan Stanley Sustainable Finance Fellowship Program 2027 (Paid)",
+      "url": "https://opportunitydesk.org/2026/10/30/morgan-stanley-sustainable-finance-fellowship-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6e5e315bdcb3",
+      "title": "Gates Foundation AI Fellow Program 2027",
+      "url": "https://opportunitydesk.org/2026/10/30/gates-foundation-ai-fellow-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "42204ed75a09",
+      "title": "The Gates Foundation AI Fellows Program 2027 for young African Innovators.",
+      "url": "https://www.opportunitiesforafricans.com/the-gates-foundation-ai-fellows-program-2027-for-young-african-innovators/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "f8ca5d4840e8",
+      "title": "FASPE Fellowship 2027 in Berlin and Poland (Fully Funded)",
+      "url": "https://opportunitiescorners.com/faspe-fellowship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-30",
+      "first_seen": "2026-10-31",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "5ee0d91f06c3",
       "title": "UNDP Internship 2027 in Bangkok, Thailand (THB 8302/Month)",
@@ -48,7 +136,10 @@
       "language": "en",
       "published": "2026-10-29",
       "first_seen": "2026-10-29",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "559f68fd9234",
@@ -2792,100 +2883,6 @@
       "published": "2026-10-06",
       "first_seen": "2026-10-07",
       "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e812eb80f171",
-      "title": "Beyond the Blueprint: Building a Career Where Engineering Meets Leadership",
-      "url": "https://opportunitydesk.org/2026/10/06/beyond-the-blueprint-building-a-career-where-engineering-meets-leadership/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c1e535d0253d",
-      "title": "ECOWAS Bank for Investment and Development (EBID) Young Professionals Programme 2027 for West African graduates.",
-      "url": "https://www.opportunitiesforafricans.com/ecowas-bank-for-investment-and-development-ebid-young-professionals-programme-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "742e8010c654",
-      "title": "The Afya na Haki (Ahaki) Litigating Reproductive Justice in Africa (LIRA) Fellowship Programme 2026 for young African Professionals.",
-      "url": "https://www.opportunitiesforafricans.com/the-afya-na-haki-ahaki-litigating-reproductive-justice-in-africa-lira-fellowship-programme-2026/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "00d5fc78698f",
-      "title": "The International Water Association (IWA) & Grundfos Youth Action for SDG 6 Fellowship",
-      "url": "https://www.opportunitiesforafricans.com/the-international-water-association-iwa-grundfos-youth-action-for-sdg-6-fellowship/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunity Desk"
-      ]
-    },
-    {
-      "id": "b2964fda11af",
-      "title": "Spotlight Initiative SafeTech Africa HackLab 2026 for young African Innovators ($10,000 in seed capital grants)",
-      "url": "https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "500cd53a3f8f",
-      "title": "Fully Funded Mastercard Foundation Scholarship 2026 at the University of Global Health Equity (UGHE): MSc Opportunity for Young Africans",
-      "url": "https://www.globalsouthopportunities.com/2026/10/06/mastercard-24/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "ce15547fc799",
-      "title": "Jerome R. Lewis Legislative Fellows Program 2027",
-      "url": "https://opportunitydesk.org/2026/10/06/jerome-r-lewis-legislative-fellows-program-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "4bed5d735ee5",
-      "title": "Tomorrow’s Leaders Program 2027–2028 (Funded)",
-      "url": "https://opportunitydesk.org/2026/10/06/tomorrow-leaders-program-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-06",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
     }
   ]
 }
