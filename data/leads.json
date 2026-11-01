@@ -1,7 +1,40 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "leads": [
+    {
+      "id": "a3dff2a05e20",
+      "title": "UTokyo Amgen Scholars Program 2027 in Japan (Fully Funded Internship)",
+      "url": "https://opportunitiescorners.com/utokyo-amgen-scholars-program-2027-in-japan/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-01",
+      "first_seen": "2026-11-01",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "dde79a3b0121",
+      "title": "GovAI Summer Fellowship 2027 in London (Fully Funded)",
+      "url": "https://opportunitiescorners.com/govai-summer-fellowship-2027-in-london/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-01",
+      "first_seen": "2026-11-01",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "56a1b38aff04",
+      "title": "Erasmus PlantHealth3 Scholarship 2027/29 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/erasmus-planthealth3-scholarship/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-10-31",
+      "first_seen": "2026-11-01",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "1ed92e8e9a6e",
       "title": "MIT Summer Research Program 2027 in USA (Fully Funded)",
@@ -11,7 +44,10 @@
       "language": "en",
       "published": "2026-10-31",
       "first_seen": "2026-10-31",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "c25dbc8e97d9",
@@ -2844,39 +2880,6 @@
       "id": "3464e5b83fa6",
       "title": "Kuwait Program Research Fellowship 2027-2028 at HKS Belfer Center ($65,000 stipend)",
       "url": "https://opportunitydesk.org/2026/10/06/kuwait-program-research-fellowship-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "d9e68d8536c6",
-      "title": "ABCD Future Environmental Leaders Scholarships 2027",
-      "url": "https://opportunitydesk.org/2026/10/06/abcd-future-environmental-leaders-scholarships-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "3763f2cf0a72",
-      "title": "George Atkins Communications Award 2027",
-      "url": "https://opportunitydesk.org/2026/10/06/george-atkins-communications-award-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "7b7f114cee4c",
-      "title": "Kuwait Program Visiting Scholar Fellowship 2027-2028 ($10,000 stipend)",
-      "url": "https://opportunitydesk.org/2026/10/06/kuwait-program-visiting-scholar-fellowship-2027-2028/",
       "source": "Opportunity Desk",
       "source_tier": 3,
       "language": "en",
