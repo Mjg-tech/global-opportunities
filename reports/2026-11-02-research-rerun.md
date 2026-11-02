@@ -62,10 +62,50 @@ Text matched the records, except where listed above.
 - **sbs.ox.ac.uk** (AfOx Oxford MBA), **rdc.emb-japan.go.jp** (MEXT, Embassy of Japan in the DRC) and
   **coe.int** (World Forum for Democracy youth delegation): HTTP 403 to both readers. Not retried. The three records
   stay NEEDS VERIFICATION.
+- **iucea.org**: connection reset by peer (curl error 35). **UNHCR Rwanda** copy of the EACSP detailed call: HTTP 403.
+- **nm-aist.ac.tz** EACSP call PDF: 404 at the address a search result gave.
 
 ## New records
 
-None yet in this checkpoint (discovery continues).
+| id | Deadline | Funding | Eligibility | Verification |
+|---|---|---|---|---|
+| `eacsp-iucea-kfw-masters-scholarship-2026-cohort-4` | none open (cohort 4 closed 10 Sep 2026, 17:00 EAT) | Substantially Funded | POSSIBLY ELIGIBLE | PARTIALLY VERIFIED |
+| `youth-global-forum-2027-paris-cgdl` | 18 Nov 2026 (the organiser's other page says 20 Nov) | Funding Unclear | LIKELY ELIGIBLE (to apply) | NEEDS VERIFICATION, source confidence LOW (warning) |
+
+- **EAC Scholarship Programme (EACSP), Phase II, cohort 4** (IUCEA, with the East African Community and Germany's KfW).
+  A two-year, funded master's in an EAC country other than your own, open to nationals of the eight EAC states,
+  **the DRC named explicitly**, age below 35, bachelor's with Second Class Upper Division or equivalent. Package: return
+  economy ticket, full tuition, EUR 380 a month, EUR 200 on arrival, EUR 650 materials, EUR 1,500 research allowance,
+  insurance, visa or entry fee. The programme table has business-related master's (MBA and HR management at KCA
+  University, logistics and supply chain at Kibabii University, taxation at the University of Rwanda, innovation and
+  entrepreneurship management at NM-AIST, economics at Daystar). The cohort 4 window ran 20 August to 10 September 2026,
+  so nothing can be applied for today; the record is there to watch for the next cohort. The call was read on the
+  University of Dar es Salaam copy of the PDF (the IUCEA site reset the connection and the UNHCR Rwanda copy gave 403),
+  hence PARTIALLY VERIFIED, Institutional source. It does not say "fully funded", so the label is Substantially Funded.
+- **Youth Global Forum 2027, Paris** (CGDL, Toronto). Aggregators sell it as "Fully Funded". The organiser's own pages
+  show 30 fully funded and 40 partially funded seats out of 250, a **USD 16.99 registration fee for the funded
+  categories that is "mandatory, non-refundable, and cannot be disputed under any circumstances"**, airfare for fully funded
+  delegates reimbursed only "after the event" (4 to 8 weeks), the visa "solely the delegate's responsibility", paid seats at
+  USD 399 to USD 999.99 and two different funded deadlines (18 and 20 November). Published only as a warning (LOW).
+
+## Searches run (English, French, Portuguese, Spanish) and what they found
+
+Eight standard searches plus twelve follow-ups (youth summits, fellowships naming the DRC, 2027 master's scholarships,
+funded internships, study tours, embassy and government programmes, Atlantic Dialogues, AMCI Morocco, EAPD Egypt,
+Enabel, PEC-PG Brazil, AECID Spain). Results were mostly aggregator pages, so only items checked on an organiser's
+page became records. Nothing new and open was found in Portuguese or Spanish.
+
+- **Closed, so not recorded:** Mandela Washington Fellowship 2027 (13 Oct; already a closed-cycle record), Atlantic
+  Dialogues Emerging Leaders 2026 (14 June; PCNS page marked CLOSED), WTO Young Professionals Programme 2027 (May 2026,
+  also needs an advanced degree and age 32 or under), AfDB internship session 1 2027 (12 Oct; needs a master's),
+  African Union Continental Capacity Building programme (27 Feb 2026), AECID Africa-Med Master (July 2026),
+  AMCI Morocco 2026-2027 (14 July 2026, per a guide; nothing yet for 2027-2028).
+- **Not a fit:** AU Enterprise Africa Network Fellowship cohort 2 (au.int; for registered businesses with two years
+  of operation and three full-time staff; the profile records no business), Mastercard Foundation Associates programme
+  (DRC not named in any result), YouthConnekt Africa Summit 25-27 November in Kigali (no sponsorship wording found),
+  Youth Ambassadors Africa (ages 15-18), Learn Africa / Fundación Mujeres por África (women only), KfW EAC is
+  recorded above.
+- **PEC-PG Brazil 2027:** no official edital found; guides disagree on dates. Not recorded.
 
 ## Updated records
 

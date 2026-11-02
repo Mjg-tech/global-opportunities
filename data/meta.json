@@ -1,38 +1,38 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T12:10:29Z",
+  "last_refresh": "2026-11-02T12:16:46Z",
   "counts": {
-    "total": 73,
+    "total": 75,
     "archived": 4,
     "by_status": {
-      "OPEN": 30,
+      "OPEN": 31,
       "CLOSING SOON": 6,
-      "UPCOMING": 21,
+      "UPCOMING": 22,
       "DEADLINE PASSED": 8,
       "ROLLING": 1,
       "DATE UNKNOWN": 7
     },
     "by_funding": {
       "Fully Funded": 28,
-      "Substantially Funded": 13,
+      "Substantially Funded": 14,
       "Partially Funded": 6,
       "Travel Funded": 2,
       "Participation Funded": 6,
       "Self Funded": 0,
-      "Funding Unclear": 18
+      "Funding Unclear": 19
     },
     "by_eligibility": {
-      "LIKELY ELIGIBLE": 13,
-      "POSSIBLY ELIGIBLE": 50,
+      "LIKELY ELIGIBLE": 14,
+      "POSSIBLY ELIGIBLE": 51,
       "NOT ELIGIBLE": 4,
       "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
       "VERIFIED": 42,
-      "PARTIALLY VERIFIED": 27,
-      "NEEDS VERIFICATION": 4
+      "PARTIALLY VERIFIED": 28,
+      "NEEDS VERIFICATION": 5
     },
-    "travel_funded": 31
+    "travel_funded": 33
   },
   "deadline_buckets": {
     "30": [
@@ -44,7 +44,8 @@
       "sciences-po-emile-boutmy-masters-2027",
       "wageningen-africa-scholarship-programme-2027",
       "wff-youth-policy-board-2027-2028",
-      "yenching-academy-2027"
+      "yenching-academy-2027",
+      "youth-global-forum-2027-paris-cgdl"
     ],
     "14": [
       "dalai-lama-fellows-2027",
