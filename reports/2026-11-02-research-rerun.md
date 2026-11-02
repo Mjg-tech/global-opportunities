@@ -88,7 +88,9 @@ Text matched the records, except where listed above.
 | id | Deadline | Funding | Eligibility | Verification |
 |---|---|---|---|---|
 | `eacsp-iucea-kfw-masters-scholarship-2026-cohort-4` | none open (cohort 4 closed 10 Sep 2026, 17:00 EAT) | Substantially Funded | POSSIBLY ELIGIBLE | PARTIALLY VERIFIED |
-| `youth-global-forum-2027-paris-cgdl` | 18 Nov 2026 (the organiser's other page says 20 Nov) | Funding Unclear | LIKELY ELIGIBLE (to apply) | NEEDS VERIFICATION, source confidence LOW (warning) |
+| `youth-global-forum-2027-paris-cgdl` | 18 Nov 2026 (the organiser's other page says 20 Nov) | Funding Unclear | POSSIBLY ELIGIBLE (to apply) | NEEDS VERIFICATION, source confidence LOW (warning) |
+| `mastercard-foundation-scholars-mcgill-2027` | none open (Fall 2027 cohort closed; next cycle "Spring 2027") | Fully Funded | POSSIBLY ELIGIBLE | VERIFIED |
+| `mastercard-foundation-associates-program` | rolling, no closing date | Funding Unclear (a stipend, amount not stated) | POSSIBLY ELIGIBLE | PARTIALLY VERIFIED |
 
 - **EAC Scholarship Programme (EACSP), Phase II, cohort 4** (IUCEA, with the East African Community and Germany's KfW).
   A two-year, funded master's in an EAC country other than your own, open to nationals of the eight EAC states,
@@ -100,15 +102,35 @@ Text matched the records, except where listed above.
   so nothing can be applied for today; the record is there to watch for the next cohort. The call was read on the
   University of Dar es Salaam copy of the PDF (the IUCEA site reset the connection and the UNHCR Rwanda copy gave 403),
   hence PARTIALLY VERIFIED, Institutional source. It does not say "fully funded", so the label is Substantially Funded.
+- **Mastercard Foundation Scholars Program at McGill** (master's, Montreal). The DRC ("Congo (Democratic Republic)") is on the
+  eligible list; 35 awards a year across 13 programmes; the FAQ says the scholarship "covers not only full tuition but all
+  costs related to attending McGill" (tuition, on-campus housing, monthly stipend, immigration support). Only **Public Policy**
+  is an evident fit (the others are agriculture, nutrition, engineering, public health, statistics). Criteria include never
+  having registered for a master's, age 35 or under, a valid passport, a record of service and leadership, and financial need.
+  The Fall 2027 cohort is closed (the 1 December 2026 date an aggregator quotes is only for candidates who already received a
+  fee waiver); McGill says to watch for the next recruitment cycle in Spring 2027. Read in full on mcgill.ca, hence VERIFIED.
+- **Mastercard Foundation Associates Program** (12-month paid work placements). The official page: open to alumni and
+  "young people across Africa", apply for roles in your country of residence or remote roles, "a stipend is provided",
+  roles posted on an ongoing basis, **Francophone Africa route "Closed for Applications"**. Age (18-35), experience (0-2 years)
+  and the stipend amount come from aggregators only and the DRC is not named, so PARTIALLY VERIFIED, Funding Unclear.
+  Worth a look because a paid year of experience would unblock the two-year work rules of ARES, Swedish Institute and others.
 - **Youth Global Forum 2027, Paris** (CGDL, Toronto). Aggregators sell it as "Fully Funded". The organiser's own pages
   show 30 fully funded and 40 partially funded seats out of 250, a **USD 16.99 registration fee for the funded
   categories that is "mandatory, non-refundable, and cannot be disputed under any circumstances"**, airfare for fully funded
   delegates reimbursed only "after the event" (4 to 8 weeks), the visa "solely the delegate's responsibility", paid seats at
   USD 399 to USD 999.99 and two different funded deadlines (18 and 20 November). Published only as a warning (LOW).
 
+10. **ARES international training scholarships** (earlier cycles: "ARES pages return empty content", PARTIALLY VERIFIED,
+   INSUFFICIENT INFORMATION). The ARES page now reads with a plain request: deadline 18 September 2026 (official), "Prochain
+   appel : Aout 2027", the DRC ("RD Congo") is on the list of 32 countries, the scholarship covers international travel, a
+   subsistence allowance, registration fees, visa costs and insurance, and the applicant must show **two years of relevant
+   professional occupation after the last diploma**. The profile records under one year, so the label is now NOT ELIGIBLE
+   (today), the record VERIFIED and Substantially Funded. Trainings include a specialisation bachelor in Digital Integrated
+   Supply Chain and masters in International and Development Economics and in Microfinance.
+
 ## Searches run (English, French, Portuguese, Spanish) and what they found
 
-Eight standard searches plus twelve follow-ups (youth summits, fellowships naming the DRC, 2027 master's scholarships,
+Twenty-eight standard searches in total (eight first, then twenty follow-ups) (youth summits, fellowships naming the DRC, 2027 master's scholarships,
 funded internships, study tours, embassy and government programmes, Atlantic Dialogues, AMCI Morocco, EAPD Egypt,
 Enabel, PEC-PG Brazil, AECID Spain). Results were mostly aggregator pages, so only items checked on an organiser's
 page became records. Nothing new and open was found in Portuguese or Spanish.
@@ -124,6 +146,12 @@ page became records. Nothing new and open was found in Portuguese or Spanish.
   Youth Ambassadors Africa (ages 15-18), Learn Africa / Fundación Mujeres por África (women only), KfW EAC is
   recorded above.
 - **PEC-PG Brazil 2027:** no official edital found; guides disagree on dates. Not recorded.
+- **Also searched without a result that fits:** GKS graduate 2027 (not yet published; a February to March window is only an
+  aggregator guess), AUF mobility grants (no 2027 call; members' students only), Erasmus+ youth exchanges (no call naming the
+  DRC), COP31 youth delegations (AYFICE closed 5 October; COY21 Antalya 5-7 November, travel not stated), ECOWAS and AfDB
+  paid internships (closed; wrong region or need a master's), UNICEF internships (recent graduates under two years), CorpsAfrica
+  (no DRC programme found), MIT-Zaragoza African Supply Chain scholarships (zlc.edu.es answers HTTP 403, so nothing can be
+  recorded; an aggregator quotes 15 April), McCall MacBain (closed), UBC Mastercard (closed 6 September).
 
 ## Updated records
 

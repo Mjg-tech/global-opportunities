@@ -868,7 +868,7 @@
       "id": "ares-formations-internationales",
       "title": "ARES scholarships for international training programmes (Belgium)",
       "organization": "ARES (Academie de recherche et d'enseignement superieur), Wallonia-Brussels Federation",
-      "overview": "Scholarships for French-taught specialised master's degrees and short training courses in French-speaking Belgium, for residents of ARES partner countries. The 2027-2028 call is closed.",
+      "overview": "ARES (Belgium) scholarships for short international trainings of 12 months at most: a specialisation bachelor in Digital Integrated Supply Chain, eight specialised masters (including International and Development Economics and Advanced Master in Microfinance) and a cybersecurity certificate, for professionals living and working in 32 partner countries, the DRC included. The 2027-2028 call closed on 18 September 2026; the next call is announced for August 2027.",
       "category": [
         "Scholarship",
         "Training"
@@ -891,77 +891,88 @@
       "program_dates": "2027-2028 academic year for the call that just closed",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "2027-2028 call closed. The official application form now reads 'Ce formulaire est clos aux nouvelles soumissions.' Secondary sources give 18 September 2026, 12:00 Belgian time, as the closing date.",
+      "deadline_text": "ARES page: 'Date limite : Vendredi 18 septembre 2026'; 'L'appel bourses 2027-2028 est clôturé.'; 'Prochain appel : Aout 2027.' The application form reads 'Ce formulaire est clos aux nouvelles soumissions.'",
       "deadline_timezone": "Belgian time",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Next call (2028-2029) expected around August to September 2027 if the yearly pattern holds. Not announced.",
+      "expected_next_cycle": "The ARES page states 'Prochain appel : Aout 2027.' No closing date for it is given.",
       "last_cycle_deadline": "2026-09-18",
       "status": "UPCOMING",
-      "funding_type": "Funding Unclear",
+      "funding_type": "Substantially Funded",
       "funding_details": [
-        "Secondary sources describe full funding (travel, allowance, fees). This was not confirmed on an official page during this cycle."
+        "'La bourse comprend': international travel costs; a subsistence allowance; exceptional visa costs (specialisation bachelor and specialised masters only); registration fees (specialisation bachelor and specialised masters only); indirect mission costs (continuing training only); insurance costs",
+        "The page does not use the words 'fully funded' and gives no allowance amount",
+        "Duration: specialisation bachelor and specialised masters 12 months at most; continuing training 6 months at most"
       ],
       "coverage": {
-        "tuition": "Not specified",
-        "stipend": "Not specified",
-        "flight": "Not specified",
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Covered",
         "accommodation": "Not specified",
         "meals": "Not specified",
-        "visa": "Not specified",
-        "insurance": "Not specified",
+        "visa": "Covered",
+        "insurance": "Covered",
         "local_transport": "Not specified"
       },
-      "travel_funded": false,
-      "flight_funded": false,
+      "travel_funded": true,
+      "flight_funded": true,
       "accommodation_funded": false,
       "meals_funded": false,
-      "visa_funded": false,
-      "insurance_funded": false,
+      "visa_funded": true,
+      "insurance_funded": true,
       "local_transport_funded": false,
       "participation_fee": "Unknown / Not specified",
       "stipend": "Unknown / Not specified",
       "eligibility": [
-        "Permanent residence in an ARES partner country (the application form screens on country of residence)"
+        "Permanent resident and working in one of the 32 eligible countries (the DRC, 'RD Congo', is on the list; Palestinian nationals are eligible wherever they live)",
+        "Holder of a higher-education diploma that meets the admission conditions of the chosen training; the relevant academic degree obtained no more than 20 years before the training starts",
+        "At least two years of relevant professional occupation in an eligible country after the last higher-education diploma and before the call closes",
+        "File completed in the language of instruction, with good written and spoken knowledge of it; some French helps daily life in Belgium",
+        "One training per application"
       ],
       "nationality_requirements": [
-        "Partner-country list not readable on the official site on 2 October 2026; DRC status unconfirmed"
+        "Permanent residence and work in one of 32 partner countries; the DRC ('RD Congo') is among the 21 African countries named"
       ],
       "age_requirement": "Unknown / Not specified",
-      "education_requirement": "Unknown / Not specified",
-      "experience_requirement": "Unknown / Not specified",
-      "language_requirement": "French (programmes are taught in French)",
+      "education_requirement": "Higher-education diploma meeting the training's admission conditions; relevant degree not older than 20 years",
+      "experience_requirement": "At least two years of relevant professional occupation after the last higher-education diploma, in an eligible country, before the call closes",
+      "language_requirement": "Good written and spoken knowledge of the language of instruction; a minimum of French is advised",
       "other_requirements": [],
       "documents_required": [],
       "application_process": [
         "Online form on form.ares-ac.be during the call window"
       ],
       "official_application_url": "https://form.ares-ac.be/formations_internationales_2027_2028",
-      "official_information_url": "https://form.ares-ac.be/formations_internationales_2027_2028",
-      "source_url": "https://form.ares-ac.be/formations_internationales_2027_2028",
+      "official_information_url": "https://ares-ac.be/fr/bourses-de-formations-internationales-2027-2028",
+      "source_url": "https://ares-ac.be/fr/bourses-de-formations-internationales-2027-2028",
       "source_type": "Official",
-      "source_confidence": "MEDIUM",
-      "verification": "PARTIALLY VERIFIED",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
       "sources": [
         {
-          "label": "ARES application form 2027-2028 (closed)",
+          "label": "ARES: Bourses de formations internationales 2027-2028 (call closed; criteria, countries, what the scholarship covers)",
+          "url": "https://ares-ac.be/fr/bourses-de-formations-internationales-2027-2028",
+          "type": "Official"
+        },
+        {
+          "label": "ARES application form 2027-2028 (closed to new submissions)",
           "url": "https://form.ares-ac.be/formations_internationales_2027_2028",
           "type": "Official"
         },
         {
-          "label": "Secondary summary of the 2027-2028 call",
+          "label": "Secondary summary of the 2027-2028 call (not needed once the official page was read)",
           "url": "https://afri-carrieres.com/opportunites/bourses-de-formations-ares/",
           "type": "Aggregator"
         }
       ],
-      "eligibility_for_me": "INSUFFICIENT INFORMATION",
-      "eligibility_reason": "The partner-country list, age limit and experience requirement could not be read on the official site, so eligibility for a DRC resident is not established.",
+      "eligibility_for_me": "NOT ELIGIBLE",
+      "eligibility_reason": "The call requires at least two years of relevant professional occupation after the last higher-education diploma. The profile records under one year of internships and no full-time employment, so the applicant does not meet it today. DRC residence and a degree would otherwise fit.",
       "potential_issues": [
-        "This cycle is closed",
-        "Country list and experience requirement unverified",
-        "Dates come from secondary sources"
+        "The 2027-2028 call closed on 18 September 2026; the next call is announced for August 2027",
+        "Two years of relevant professional occupation after the last diploma are required; the profile records under one year",
+        "Only specialised trainings of 12 months at most (one specialisation bachelor, eight specialised masters, one continuing-training certificate); one training per application"
       ],
       "benefits": [
         "French-taught programmes, which suit a French-speaking applicant"
@@ -985,10 +996,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "Nothing to do now. Open ares-ac.be in a browser in July 2027 to read the country list and the next call.",
-      "last_verified": "2026-10-02",
+      "action": "Nothing to do now: the 2027-2028 call is closed and the next one is announced for August 2027. The applicant would need two years of relevant work after the Licence by the closing date, so log the internship and work periods and look at the Digital Integrated Supply Chain bachelor and the economics and microfinance masters on ares-ac.be in July 2027.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "The ARES programme pages return empty content to automated readers; a human check in a browser is needed.",
+      "notes": "2 November 2026 (rerun): the ARES page is readable with a plain request (an earlier note said ARES pages returned empty content). Deadline, country list, eligibility and what the scholarship covers are now from the official page; the label moves from INSUFFICIENT INFORMATION to NOT ELIGIBLE because the two-year work rule is stated and the profile has under one year.",
       "match_keywords": [
         "bourses ares",
         "ares belgique"
@@ -6149,6 +6160,150 @@
       ]
     },
     {
+      "id": "mastercard-foundation-associates-program",
+      "title": "Mastercard Foundation Associates Program (12-month paid work placements across Africa)",
+      "organization": "Mastercard Foundation, with partner organisations (Talenteum for remote roles; Talent2Africa for Francophone Africa; Youth Employment Service; LEAP Africa and others)",
+      "overview": "A 12-month paid internship placement for young Africans after graduation, with employability training and mentorship, run through partner platforms by region. The official page says applications are open to Mastercard Foundation alumni and young people across Africa, who apply for roles in their country of residence or for remote roles; the Francophone Africa route is marked closed.",
+      "category": [
+        "Internship"
+      ],
+      "subcategory": [
+        "Paid placement",
+        "Career transition"
+      ],
+      "education_levels": [
+        "Open to all"
+      ],
+      "country": "Multiple (22 countries, plus remote roles)",
+      "city": "Unknown / Not specified",
+      "region": "Africa",
+      "continent": "Africa",
+      "location_type": "Hybrid",
+      "delivery_mode": "Hybrid",
+      "program_dates": "12-month placements; roles are posted on an ongoing basis",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "No closing date on the official page: 'Roles will be posted on an ongoing basis.' The Francophone Africa route shows 'Closed for Applications'.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": true,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "ROLLING",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "Official page: 'A stipend is provided for the duration of the internship.' No amount is stated on the page read (aggregators quote about USD 300 a month, which varies by location)",
+        "No travel, relocation, visa or accommodation support is mentioned; remote roles need no relocation"
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Covered",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "None mentioned on the pages read",
+      "stipend": "Provided for the 12 months; the amount is not stated on the official page",
+      "eligibility": [
+        "'Applications are open to Mastercard Foundation Alumni and young people across Africa'",
+        "Apply for roles based only in your country of residence, or for remote roles",
+        "Reported by secondary sources, not confirmed on the official page: ages 18 to 35 and 0 to 2 years of work experience"
+      ],
+      "nationality_requirements": [
+        "Young people across Africa; the DRC is not named on the page read"
+      ],
+      "age_requirement": "Not stated on the official page read (aggregators report 18 to 35)",
+      "education_requirement": "Post-graduation placement; the level is not stated on the page read",
+      "experience_requirement": "Not stated on the official page read (aggregators report 0 to 2 years)",
+      "language_requirement": "Unknown / Not specified",
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Choose the regional portal that matches your country of residence, or the remote-roles portal (Talenteum), from the official page",
+        "The Francophone Africa portal (Talent2Africa) shows 'Closed for Applications' on the official page; roles are posted on an ongoing basis"
+      ],
+      "official_application_url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+      "official_information_url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+      "source_url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+      "source_type": "Official",
+      "source_confidence": "MEDIUM",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "Mastercard Foundation: Associates Program for Associates (how to apply, where to apply, stipend, Francophone route closed)",
+          "url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+          "type": "Official"
+        },
+        {
+          "label": "Mastercard Foundation: Associates Program overview (12-month paid placements, 22 countries)",
+          "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-associates-program/",
+          "type": "Official"
+        },
+        {
+          "label": "LEAP Africa: Associates Program portal page (partner portals by region)",
+          "url": "https://leapafrica.org/mfassociate/",
+          "type": "Institutional"
+        },
+        {
+          "label": "Talent2Africa home page ('Partenaire Mastercard Foundation'; RD Congo appears among countries with candidate activity)",
+          "url": "https://www.talent2africa.com/",
+          "type": "Institutional"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The programme is for young Africans after graduation and the profile is a 2024 graduate with under a year of experience. The official page does not state the age or experience rules or name the DRC; whether a DRC resident can use the remote roles, now that the Francophone route is closed, is not confirmed.",
+      "potential_issues": [
+        "The Francophone Africa route (Talent2Africa) is marked 'Closed for Applications' on the official page",
+        "Age and experience rules and the stipend amount come from secondary sources only; the official FAQ could not be reached",
+        "The DRC is not named on the pages read; applicants must apply for roles in their country of residence or remote roles",
+        "The placement is an internship stipend, not a scholarship: no relocation support is mentioned"
+      ],
+      "benefits": [
+        "12 months of paid work experience",
+        "Employability training, mentorship and career transition support"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "High",
+        "travel": "Low",
+        "networking": "Medium",
+        "funding": "Medium",
+        "accessibility": "Medium",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "A paid year of work experience would fill the gap that blocks several scholarships in this database (two years of experience), but DRC access and the stipend amount are unconfirmed.",
+      "travel_value": "Low",
+      "career_value": "High",
+      "academic_value": "Low",
+      "networking_value": "Medium",
+      "visa": {
+        "required": "Not applicable for remote roles; unknown for in-country roles elsewhere",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Low: no fee mentioned; use only the official partner portals",
+      "action": "Open the official page and the remote-roles portal (Talenteum) to see whether DRC residents can apply, and re-check the Francophone Africa route (Talent2Africa), which shows closed today. A paid year of experience would also count towards the two-year work rules of several scholarships.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": "Found through a web search on 2 November 2026; the official Mastercard Foundation pages were read. The Associates programme page lists these partners: Youth Employment Service, Shortlist Futures, Talent 2 Africa, Talenteum, Light for the World, LifeHikes, Leap Africa, KPMG and Coburwas International Youth Organisation to Transform Africa.",
+      "match_keywords": [
+        "mastercard foundation associates",
+        "associates program",
+        "associates programme"
+      ]
+    },
+    {
       "id": "mastercard-foundation-scholars-cambridge-2027",
       "title": "Mastercard Foundation Scholars Program at the University of Cambridge (2027/28 master's)",
       "organization": "University of Cambridge, with the Mastercard Foundation",
@@ -6462,6 +6617,161 @@
       "match_keywords": [
         "mastercard foundation scholars program at the university of edinburgh",
         "edinburgh mastercard"
+      ]
+    },
+    {
+      "id": "mastercard-foundation-scholars-mcgill-2027",
+      "title": "Mastercard Foundation Scholars Program at McGill University (master's, Fall 2027 cohort)",
+      "organization": "McGill University (Montreal, Canada), with the Mastercard Foundation",
+      "overview": "Scholarships for master's degrees at McGill in nutrition, public health, public policy and sustainable agriculture for citizens and residents of African countries, the DRC included. 35 scholarships a year across 13 programmes; the page says the award covers 'all costs related to attending McGill'. The Fall 2027 cohort's application period is closed; McGill asks applicants to watch its website in Spring 2027 for the next recruitment cycle.",
+      "category": [
+        "Scholarship"
+      ],
+      "subcategory": [
+        "Master's",
+        "Public policy"
+      ],
+      "education_levels": [
+        "Master's"
+      ],
+      "country": "Canada",
+      "city": "Montreal",
+      "region": "North America",
+      "continent": "North America",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "Master's programmes starting in Fall 2027 (McGill 2027 cohort); the programme runs from 2024 to 2034",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "Fall 2027 cohort, as read on 2 November 2026: 'The application period for the Fall 2027 cohort is now closed.' Timeline page: mandatory information session 23 June to 15 July 2026; application August 2026 for invited applicants; 'December 1, 2026: Application deadline for candidates who received a fee waiver'; admission decisions early to mid-February 2027; scholarship selection mid-February to the beginning of March 2027. Only pre-screened applicants who received a fee waiver can still apply to McGill.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "McGill page: 'we invite you to visit our website regularly in Spring 2027 for information about the next recruitment cycle.' No dates for the next cycle are given.",
+      "last_cycle_deadline": "",
+      "status": "UPCOMING",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "FAQ: 'The Mastercard Foundation Scholarship is comprehensive and it covers not only full tuition but all costs related to attending McGill University.' It lists: pre-arrival and immigration support; full international student tuition; on-campus housing; a personal monthly stipend; academic tools and resources",
+        "Amounts and flights are not itemised on the pages read",
+        "35 scholarships are available every year across 13 graduate programmes"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Not specified",
+        "accommodation": "Covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": true,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "Application fee waived for successfully pre-screened applicants",
+      "stipend": "A personal monthly stipend; the amount is not stated on the pages read",
+      "eligibility": [
+        "Citizen of and living in an African country (the DRC, 'Congo (Democratic Republic)', is on the list)",
+        "Has never registered for, nor completed, a master's degree",
+        "Valid passport and admissible to Canada as an international student (study permit); no dual citizenship, asylee, refugee or permanent resident status in the US, Canada, UK or EU",
+        "An exceptional record of service, leadership and activity in school or community, and a desire to give back to the home community",
+        "Financial constraints have prevented or restricted educational opportunities",
+        "35 years or younger at the time of application",
+        "A bachelor's degree in a subject closely related to the chosen programme (First Class Honours or equivalent gives a stronger chance of admission)",
+        "Priority for women, people affected by forced displacement and people living with a disability"
+      ],
+      "nationality_requirements": [
+        "Citizens and residents of African countries; 'Congo (Democratic Republic)' is on the eligible list"
+      ],
+      "age_requirement": "35 or younger at the time of application",
+      "education_requirement": "Bachelor's degree closely related to the programme; never registered for a master's",
+      "experience_requirement": "An exceptional record of service and leadership; no minimum years stated",
+      "language_requirement": "Unknown / Not specified",
+      "other_requirements": [
+        "Eligible programmes (non-thesis): Animal Science: Sustainable Agriculture; three Bioresource Engineering streams; Biostatistics; Biotechnology; two Food Science streams; Human Nutrition: Project; Public Health; Public Policy. Thesis: Animal Science; Bioresource Engineering",
+        "Apply to the scholarship programme first; only pre-screened applicants receive a fee waiver and instructions to apply to McGill. Applications made directly to McGill are not eligible for the scholarship"
+      ],
+      "documents_required": [],
+      "application_process": [
+        "Attend a mandatory information session to receive the link to the application form (2027 cohort: 23 June to 15 July 2026)",
+        "Complete the Mastercard Foundation Scholars Program application form, then supply requested documents for pre-screening",
+        "Successfully pre-screened applicants receive a fee waiver and instructions to apply for admission to McGill"
+      ],
+      "official_application_url": "https://www.mcgill.ca/mastercardfdn-scholars/apply",
+      "official_information_url": "https://www.mcgill.ca/mastercardfdn-scholars/",
+      "source_url": "https://www.mcgill.ca/mastercardfdn-scholars/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "McGill Mastercard Foundation Scholars Program: Applications (cohort closed; process)",
+          "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply",
+          "type": "Official"
+        },
+        {
+          "label": "McGill: Eligibility (criteria, programmes, country list)",
+          "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/eligibility",
+          "type": "Official"
+        },
+        {
+          "label": "McGill: Frequently asked questions (benefits, number of scholarships)",
+          "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/faq",
+          "type": "Official"
+        },
+        {
+          "label": "McGill: Scholarship selection process (timeline)",
+          "url": "https://www.mcgill.ca/mastercardfdn-scholars/apply/selection-process",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "DRC citizenship and residence, the age limit and a bachelor's-only profile fit. The profile does not record a valid passport, a record of service and leadership, financial need, or whether a Business Administration degree is 'closely related' to the one plausible programme, Public Policy.",
+      "potential_issues": [
+        "The Fall 2027 cohort is closed; the next recruitment cycle is expected in Spring 2027 with no dates yet",
+        "Only 35 awards across 13 programmes, most in agriculture, nutrition, engineering and health; Public Policy is the only evident fit for this profile",
+        "A mandatory information session comes before the application link is given out",
+        "The bachelor's degree must be 'closely related' to the programme; the DRC degree equivalence is judged by McGill",
+        "Amounts, flights, insurance and visa costs are not itemised on the pages read"
+      ],
+      "benefits": [
+        "Full tuition, on-campus housing and a monthly stipend at a leading Canadian university",
+        "Leadership programme and alumni network of over 200 scholars from over 20 African countries"
+      ],
+      "relevance": {
+        "academic": "High",
+        "career": "High",
+        "travel": "High",
+        "networking": "High",
+        "funding": "Very High",
+        "accessibility": "Low",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "A fully funded master's that names the DRC; the Public Policy programme matches the interest in public-sector and policy analysis, but the leadership and financial-need criteria and the narrow programme list make it a stretch.",
+      "travel_value": "High",
+      "career_value": "High",
+      "academic_value": "High",
+      "networking_value": "High",
+      "visa": {
+        "required": "Yes (Canadian study permit)",
+        "support": "'Pre-arrival and immigration support' is listed; costs are not itemised"
+      },
+      "upfront_cost_risk": "Low: the fee is waived for pre-screened applicants; the page warns that any non-mcgill.ca application page may be fraudulent",
+      "action": "Nothing is open. Look at mcgill.ca/mastercardfdn-scholars in Spring 2027 for the next cycle and its mandatory information session, and read the Public Policy programme page first. Use only the mcgill.ca address.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": "Found through a web search on 2 November 2026 (an aggregator quoted 1 December 2026 as a deadline; the official timeline shows it applies only to candidates who already received a fee waiver).",
+      "match_keywords": [
+        "mastercard foundation scholars program at mcgill",
+        "mcgill mastercard foundation",
+        "mastercard foundation scholars mcgill"
       ]
     },
     {

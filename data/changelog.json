@@ -3,6 +3,116 @@
   "entries": [
     {
       "date": "2026-11-02",
+      "id": "mastercard-foundation-scholars-mcgill-2027",
+      "title": "Mastercard Foundation Scholars Program at McGill University (master's, Fall 2027 cohort)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "mastercard-foundation-associates-program",
+      "title": "Mastercard Foundation Associates Program (12-month paid work placements across Africa)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ares-formations-internationales",
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "field": "deadline_text",
+      "old": "2027-2028 call closed. The official application form now reads 'Ce formulaire est clos aux nouvelles soumissions.' Secondary sources give 18 September 2026, 12:00 Belgian time, as the closing date.",
+      "new": "ARES page: 'Date limite : Vendredi 18 septembre 2026'; 'L'appel bourses 2027-2028 est clôturé.'; 'Prochain appel : Aout 2027.' The application form reads 'Ce formulaire est clos aux nouvelles soumissions.'"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ares-formations-internationales",
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ares-formations-internationales",
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ares-formations-internationales",
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "field": "eligibility",
+      "old": [
+        "Permanent residence in an ARES partner country (the application form screens on country of residence)"
+      ],
+      "new": [
+        "Permanent resident and working in one of the 32 eligible countries (the DRC, 'RD Congo', is on the list; Palestinian nationals are eligible wherever they live)",
+        "Holder of a higher-education diploma that meets the admission conditions of the chosen training; the relevant academic degree obtained no more than 20 years before the training starts",
+        "At least two years of relevant professional occupation in an eligible country after the last higher-education diploma and before the call closes",
+        "File completed in the language of instruction, with good written and spoken knowledge of it; some French helps daily life in Belgium",
+        "One training per application"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ares-formations-internationales",
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "field": "nationality_requirements",
+      "old": [
+        "Partner-country list not readable on the official site on 2 October 2026; DRC status unconfirmed"
+      ],
+      "new": [
+        "Permanent residence and work in one of 32 partner countries; the DRC ('RD Congo') is among the 21 African countries named"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ares-formations-internationales",
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "field": "official_information_url",
+      "old": "https://form.ares-ac.be/formations_internationales_2027_2028",
+      "new": "https://ares-ac.be/fr/bourses-de-formations-internationales-2027-2028"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ares-formations-internationales",
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "ares-formations-internationales",
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "field": "eligibility_for_me",
+      "old": "INSUFFICIENT INFORMATION",
+      "new": "NOT ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
       "id": "youth-global-forum-2027-paris-cgdl",
       "title": "Youth Global Forum 2027, Paris (Center for Global Dialogue and Leadership)",
       "field": "eligibility_for_me",
