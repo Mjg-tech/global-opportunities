@@ -190,6 +190,7 @@ Next-year watch: Türkiye Bursları (window 10 January to 20 February, age under
 - **AfOx Oxford MBA, MEXT (DRC embassy page), World Forum for Democracy**: official pages return 403; secondary details only.
 - **Raisina and AFS**: the application forms need a Google sign-in, so their questions and documents are unread.
 - **Mastercard Foundation Associates**: age, experience and stipend from aggregators; DRC access to remote roles unconfirmed.
+- Skipped from the leads backlog after reading the organiser's page: Ibrahim Leadership Fellowships 2027 at the AfDB, ECA or ITC (closes 20 November, USD 100,000 stipend, but the Mo Ibrahim Foundation page asks for a master's degree and "minimum 7 years' of relevant work experience", under 40; the AfDB vacancy page itself answered 403); World Bank Government Analytics Fellowship 2027 (for public officials).
 - Skipped as not eligible or not a fit: WACSI Next Generation Internship (its page seeks interns from Benin, Mali, Cameroon, Chad, Ghana and Nigeria),
   AU Enterprise Africa Network Fellowship (registered businesses with two years of operation and three staff), Czech government scholarships (DRC
   not on the 2027/2028 country list), WTO Young Professionals (closed May 2026; advanced degree), AfDB and ECOWAS internships (closed or need a master's),
