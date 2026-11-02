@@ -128,6 +128,27 @@ Text matched the records, except where listed above.
    (today), the record VERIFIED and Substantially Funded. Trainings include a specialisation bachelor in Digital Integrated
    Supply Chain and masters in International and Development Economics and in Microfinance.
 
+11. **Funding labels the organiser's own wording does not support** (rule 4), found by auditing every Fully Funded record:
+    - **Mundus MAPP**: the official financial-aid page says only "a limited number" of EMJM scholarships go to the
+      highest-ranked applicants, EUR 1,400 a month (maximum EUR 33,600) that must also cover travel, visa and
+      installation, a full tuition waiver, and that the scholarship "does NOT cover" the Study Visit and Winter School
+      (EUR 600-1000 each) or travel and visa costs to the consortium countries; applicants are told to seek external
+      funding too. Relabelled **Substantially Funded** (it was Fully Funded, verified 29 October).
+    - **GLOCAL Erasmus Mundus**: the scholarship page lists tuition, insurance, an "optional contribution" to travel and a
+      monthly allowance (EUR 1,400, or EUR 1,275 after three EUR 1,000 advances) and never says fully funded: now
+      Substantially Funded. All three official pages now agree on 14 January 2027, 13:00 UK time. The Glasgow
+      country-grade page has no entry for the DRC, so the grade rule for a Congolese Licence is unpublished.
+    - **DAAD In-Country/In-Region**: the official page says the scholarship "usually includes" tuition, a monthly rate,
+      allowances and, for In-Region scholars only, travel and insurance: now Substantially Funded.
+    Still labelled Fully Funded and left as they are because the pages give comprehensive wording or itemise it: Gates
+    Cambridge, Mastercard Foundation Scholars (Cambridge, Edinburgh, Sciences Po, McGill), Knight-Hennessy, Mandela Rhodes,
+    Schwarzman, VLIR-UOS, Yenching, Chevening (organiser wording "fully-funded", components not itemised), Kectil.
+    **To review by hand** (label may be generous): Tony Elumelu (a USD 5,000 seed grant, no travel), Swedish Institute
+    (not eligible anyway; its page says insurance is not included).
+12. **Chevening**: the DRC page confirms the 2027-2028 round is closed and adds a cost the record did not carry: there is no UK visa
+    processing centre in the DRC, so a scholar travels to another country for the visa and the TB test at their own cost,
+    with only a discretionary reimbursement.
+
 ## Searches run (English, French, Portuguese, Spanish) and what they found
 
 Twenty-eight standard searches in total (eight first, then twenty follow-ups) (youth summits, fellowships naming the DRC, 2027 master's scholarships,
@@ -140,6 +161,8 @@ page became records. Nothing new and open was found in Portuguese or Spanish.
   also needs an advanced degree and age 32 or under), AfDB internship session 1 2027 (12 Oct; needs a master's),
   African Union Continental Capacity Building programme (27 Feb 2026), AECID Africa-Med Master (July 2026),
   AMCI Morocco 2026-2027 (14 July 2026, per a guide; nothing yet for 2027-2028).
+- **Not eligible by nationality:** WACSI Next Generation Internship 2027 (fully funded, flights and stipend, closes 8 November, but
+  its own page seeks interns from Benin, Mali, Cameroon, Chad, Ghana and Nigeria).
 - **Not a fit:** AU Enterprise Africa Network Fellowship cohort 2 (au.int; for registered businesses with two years
   of operation and three full-time staff; the profile records no business), Mastercard Foundation Associates programme
   (DRC not named in any result), YouthConnekt Africa Summit 25-27 November in Kigali (no sponsorship wording found),

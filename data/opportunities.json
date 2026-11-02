@@ -1410,7 +1410,8 @@
       "potential_issues": [
         "Deadline is 6 October 2026 at 11:00 UTC",
         "No UK visa processing centre and no TB testing facility in the DRC: a successful applicant must travel to another country for both",
-        "Those trips are paid by the applicant first; reimbursement of some travel costs is discretionary"
+        "Those trips are paid by the applicant first; reimbursement of some travel costs is discretionary",
+        "DRC country page: there are no UK visa processing centres in the DRC, so a successful scholar must travel to another country to apply for the visa and take the TB test at their own cost, with a discretionary reimbursement of some travel costs"
       ],
       "benefits": [
         "One-year UK master's degree",
@@ -1436,9 +1437,9 @@
       },
       "upfront_cost_risk": "Travel to a third country for the visa application and TB test is paid by the applicant before any reimbursement.",
       "action": "No action this round. Keep a dated log of post-degree work, volunteering and internship hours for a later round.",
-      "last_verified": "2026-10-05",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "[auto 2026-10-21] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
+      "notes": "[auto 2026-10-21] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens. 2 November 2026 (rerun): the DRC page reads 'Applications for 2027-2028 Chevening Scholarships are now closed.' The scholarships page says 'Chevening Scholarships are fully-funded' without itemising fees, stipend or flights, hence no component is marked Covered.",
       "match_keywords": [
         "chevening"
       ]
@@ -1819,10 +1820,11 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "OPEN",
-      "funding_type": "Fully Funded",
+      "funding_type": "Substantially Funded",
       "funding_details": [
-        "Tuition fees, a monthly scholarship rate, a study and research allowance and a printing allowance for the final thesis",
-        "In-region scholars also receive a travel allowance and usually funding for health insurance"
+        "DAAD programme page: the scholarship 'usually includes': tuition fees; a monthly scholarship rate; a study and research allowance; a printing allowance for the final thesis; and, for In-Region scholars only, a travel allowance and usually funding for health insurance",
+        "'Further funding options may be available, depending on the location'; the monthly amount is not on the page",
+        "The page does not use the words 'fully funded'"
       ],
       "coverage": {
         "tuition": "Covered",
@@ -1915,9 +1917,9 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Skip unless agricultural economics or disaster management genuinely fits your plans.",
-      "last_verified": "2026-10-02",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "2 November 2026 (rerun): programme page and the 09/2026 open-calls overview PDF re-read; label lowered from Fully Funded to Substantially Funded because the official wording is itemised ('usually includes'), not 'fully funded'. The 12 November date still comes only from a secondary source; the overview lists programmes and start months but no deadlines.",
       "match_keywords": [
         "in-country/in-region",
         "in-country in-region"
@@ -3233,7 +3235,8 @@
         "'Recent graduate' is not defined; a 2024 graduate may fall outside FAO's usage",
         "Stipend amount not stated; travel and housing not mentioned",
         "Interns need residence or immigration status in the country of assignment before joining",
-        "Expression-of-interest pool: applying does not guarantee an assignment"
+        "Expression-of-interest pool: applying does not guarantee an assignment",
+        "2 November 2026: the vacancy page (job 2601980) returned empty fields ('Job Posting', 'Closure Date' blank) to both readers, so the 31 December 2026 closing date could not be re-read; open it in a browser"
       ],
       "benefits": [
         "UN work experience in FAO's Africa offices",
@@ -4032,12 +4035,12 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "OPEN",
-      "funding_type": "Fully Funded",
+      "funding_type": "Substantially Funded",
       "funding_details": [
-        "Full coverage of tuition fees, including deposit",
-        "A monthly subsistence allowance for the entire duration of the programme",
-        "An optional contribution to travel and installation costs (visas, residence permits, temporary accommodation)",
-        "No more than 6 scholarships per nationality across four editions; up to 20 additional scholarships target specific regions"
+        "Official scholarship page: 'The Erasmus Mundus Scholarship includes: Full coverage of tuition fees, including deposit'; 'Full insurance coverage'; 'An optional contribution to student travel and installation costs'; 'A monthly subsistence allowance for the entire duration'",
+        "Option One: three advances of EUR 1,000 (August, May, September) for visa, travel and installation, then EUR 1,275 a month; Option Two: EUR 1,400 a month without the advances",
+        "'No more than 6 scholarships per nationality' over four editions; up to 20 extra scholarships target certain regions (Regions 1, 3, 5, 6, 7, 8, 9, 10, 11); results in April 2027",
+        "The pages do not use the words 'fully funded'"
       ],
       "coverage": {
         "tuition": "Covered",
@@ -4046,7 +4049,7 @@
         "accommodation": "Not specified",
         "meals": "Not specified",
         "visa": "Partially covered",
-        "insurance": "Not specified",
+        "insurance": "Covered",
         "local_transport": "Not specified"
       },
       "travel_funded": true,
@@ -4054,10 +4057,10 @@
       "accommodation_funded": false,
       "meals_funded": false,
       "visa_funded": false,
-      "insurance_funded": false,
+      "insurance_funded": true,
       "local_transport_funded": false,
       "participation_fee": "Unknown / Not specified",
-      "stipend": "Unknown / Not specified",
+      "stipend": "EUR 1,400 a month (Option Two) or EUR 1,275 a month after three advances of EUR 1,000 (Option One)",
       "eligibility": [
         "UK 2:1 Honours degree, or the country-specific GPA equivalent",
         "Minimum English-language proficiency for applicants whose first language is not English",
@@ -4102,9 +4105,11 @@
       "eligibility_for_me": "POSSIBLY ELIGIBLE",
       "eligibility_reason": "A business administration degree fits the subject. Eligibility depends on the degree grade (UK 2:1 equivalent) and on proof of English, neither of which is recorded in the profile.",
       "potential_issues": [
-        "The official site is inconsistent: the home page gives 14 January 2027, while the entry-requirements page still says 2027 deadlines 'will be published in due course' and one line reads 'EMJM Scholarships deadline passed'. Reconfirm the date before relying on it.",
-        "Grade threshold and English test",
-        "Cap of 6 scholarships per nationality over four editions"
+        "A conditional or unconditional University of Glasgow offer is needed before the scholarship application; offers 'holding for documents' at the deadline are not considered",
+        "The Glasgow country-specific GPA page (gla.ac.uk/international/country) has no entry for the DRC, so the grade equivalence for a Congolese Licence must be asked of Glasgow (UK entry rule: 2:1 Honours)",
+        "English proof is needed by the scholarship deadline",
+        "Cap of 6 scholarships per nationality over four editions",
+        "Earlier cycles saw inconsistent deadline wording on the entry-requirements page; on 2 November 2026 the scholarship, how-to-apply and entry-requirements pages all gave 14 January 2027, 13:00 UK time"
       ],
       "benefits": [
         "Study at several partner universities",
@@ -4133,7 +4138,7 @@
       "action": "Check the country-specific GPA requirement for DRC degrees on the GLOCAL site, then plan an English test if needed.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "Deadline wording preserved from the official home page. Re-read on 29 October 2026: scholarship applications close 14 January 2027, 13:00 UK time; self-funded tracks have other dates.",
+      "notes": "Deadline wording preserved from the official home page. Re-read on 29 October 2026: scholarship applications close 14 January 2027, 13:00 UK time; self-funded tracks have other dates. 2 November 2026 (rerun): scholarship, how-to-apply and entry-requirements pages re-read (deadline 14 January 2027, 1300 UK time, consistent). Label lowered from Fully Funded to Substantially Funded: the pages never say fully funded and travel is only an 'optional contribution'. Stays PARTIALLY VERIFIED because the DRC grade equivalence is not published.",
       "match_keywords": [
         "glocal"
       ]
@@ -7380,31 +7385,33 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "OPEN",
-      "funding_type": "Fully Funded",
+      "funding_type": "Substantially Funded",
       "funding_details": [
-        "First-round decisions on 14 April 2027 include the Erasmus Mundus (EMJM) scholarship",
-        "Scholarship components follow the EU's Erasmus Mundus rules (tuition, monthly allowance, contribution to travel and installation); confirm on the Mundus MAPP financial aid page",
-        "Later deadline for applicants who do not seek financial aid (non-EU/EEA): 15 April 2027"
+        "Official financial-aid page: 'A limited number of EMJM scholarships are awarded to the highest-ranked applicants for the duration of the programme (24 months)', calculated on 'a monthly unit cost of 1400 EUR/month', a maximum of EUR 33,600; the contribution 'assists students in covering travel, visa, installation and subsistence costs, and any other costs'. 'EMJM scholarship recipients receive a full tuition-fee waiver.'",
+        "Health insurance for the duration of the studies is purchased by the consortium for all enrolled students",
+        "The EMJM scholarship does NOT cover: the Study Visit (EUR 600-1000, spring term of Year 1), the Winter School (EUR 600-1000, Year 2), and travel and visa costs between home countries and the consortium countries and when moving to the Year 2 university",
+        "'Since only a small number of the top candidates will be awarded a scholarship, applicants are strongly encouraged to seek external funding.' One institutional scholarship per study track is a 50% tuition waiver with no stipend",
+        "First-round decisions on 14 April 2027 include the EMJM scholarship"
       ],
       "coverage": {
         "tuition": "Covered",
         "stipend": "Covered",
-        "flight": "Partially covered",
-        "accommodation": "Not specified",
-        "meals": "Not specified",
-        "visa": "Partially covered",
-        "insurance": "Not specified",
+        "flight": "Not covered",
+        "accommodation": "Partially covered",
+        "meals": "Partially covered",
+        "visa": "Not covered",
+        "insurance": "Covered",
         "local_transport": "Not specified"
       },
-      "travel_funded": true,
+      "travel_funded": false,
       "flight_funded": false,
       "accommodation_funded": false,
       "meals_funded": false,
       "visa_funded": false,
-      "insurance_funded": false,
+      "insurance_funded": true,
       "local_transport_funded": false,
       "participation_fee": "No CEU application fee for Mundus MAPP applicants",
-      "stipend": "Unknown / Not specified",
+      "stipend": "EUR 1,400 a month for EMJM recipients (maximum EUR 33,600 over 24 months); it also has to cover travel, visa and installation",
       "eligibility": [
         "Bachelor's degree of at least three years from a recognised university",
         "At least class 2.1 / Upper Second and a GPA of at least 3.17 out of 4.0, or equivalent",
@@ -7446,11 +7453,18 @@
           "label": "How to apply",
           "url": "https://www.mundusmapp.org/how-to-apply/",
           "type": "Official"
+        },
+        {
+          "label": "Financial aid (EMJM scholarship amount, what it does not cover, institutional scholarship)",
+          "url": "https://www.mundusmapp.org/financial-aid/",
+          "type": "Official"
         }
       ],
       "eligibility_for_me": "POSSIBLY ELIGIBLE",
       "eligibility_reason": "Nationality and degree level fit. The programme requires an Upper Second or a GPA of 3.17 out of 4.0, and the profile does not record the degree grade or an English test score.",
       "potential_issues": [
+        "Only a limited number of top-ranked applicants receive the EMJM scholarship; the page says to seek external funding as well",
+        "The scholarship does not cover travel and visa costs to the consortium countries, nor the Study Visit and Winter School (EUR 600-1000 each)",
         "Degree grade must reach the Upper Second / 3.17 threshold",
         "English-language proof is normally required; no test score is recorded",
         "The consortium urges applicants from visa-sensitive countries to use the first deadline"
@@ -7479,10 +7493,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "Convert your degree average to a 4.0 scale. If it reaches 3.17, prepare the application and references before 1 December 2026.",
-      "last_verified": "2026-10-29",
+      "action": "Convert your degree average to a 4.0 scale. If it reaches 3.17, prepare the application and references before 1 December 2026, tick the interest in a scholarship in the online portal, and budget for travel, visa, the study visit and the winter school, which the scholarship does not pay.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "2 November 2026 (rerun): the financial-aid page was read; the earlier label Fully Funded was not supported (limited awards, EUR 1,400 a month, travel and visa costs not covered), so it is now Substantially Funded.",
       "match_keywords": [
         "mundus mapp"
       ]

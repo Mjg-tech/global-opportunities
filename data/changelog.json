@@ -3,6 +3,150 @@
   "entries": [
     {
       "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "funding_type",
+      "old": "Substantially Funded",
+      "new": "Fully Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "mundus-mapp-2027",
+      "title": "Mundus MAPP: Erasmus Mundus Master's in Public Policy (2027-2029)",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "mundus-mapp-2027",
+      "title": "Mundus MAPP: Erasmus Mundus Master's in Public Policy (2027-2029)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Not covered",
+        "accommodation": "Partially covered",
+        "meals": "Partially covered",
+        "visa": "Not covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-in-country-in-region-2027",
+      "title": "DAAD In-Country/In-Region scholarships in Sub-Saharan Africa (2027 start)",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
       "id": "mastercard-foundation-scholars-mcgill-2027",
       "title": "Mastercard Foundation Scholars Program at McGill University (master's, Fall 2027 cohort)",
       "field": "(new record)",
