@@ -3,6 +3,85 @@
   "entries": [
     {
       "date": "2026-11-02",
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "jim-leech-mastercard-foundation-fellowship-2027",
+      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship",
+      "field": "program_dates",
+      "old": "Eight-month programme",
+      "new": "Eight-month programme. Timeline on the page (no year stated): Explore January-February, Ignite March-April, Launch and Fellowship May-August, graduation at the end of August"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "jim-leech-mastercard-foundation-fellowship-2027",
+      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Participation Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "jim-leech-mastercard-foundation-fellowship-2027",
+      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship",
+      "field": "participation_fee",
+      "old": "None",
+      "new": "None mentioned"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "jim-leech-mastercard-foundation-fellowship-2027",
+      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship",
+      "field": "eligibility",
+      "old": [
+        "African students and recent graduates"
+      ],
+      "new": [
+        "'African students and recent graduates' from 'all academic disciplines and any post-secondary institution in Africa'",
+        "Willing to dedicate at least 10 hours per week to the entrepreneurial journey",
+        "Assignments and pitches must be completed in English; non-fluent applicants may team up with someone who is fluent or use language support",
+        "Fully virtual, self-paced over the eight-month cycle, but assignment deadlines must be met to advance"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "jim-leech-mastercard-foundation-fellowship-2027",
+      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "wageningen-africa-scholarship-programme-2027",
+      "title": "Wageningen University Africa Scholarship Programme (ASP), MSc 2027-28",
+      "field": "official_application_url",
+      "old": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
+      "new": "https://www.wur.nl/en/education/master/study-expenses-masters/scholarships"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "wageningen-africa-scholarship-programme-2027",
+      "title": "Wageningen University Africa Scholarship Programme (ASP), MSc 2027-28",
+      "field": "official_information_url",
+      "old": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
+      "new": "https://www.wur.nl/en/education/master/study-expenses-masters/scholarships"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "auc-african-graduate-fellowship-2027",
+      "title": "American University in Cairo African Graduate Fellowship (Fall 2027)",
+      "field": "deadline_text",
+      "old": "Graduate admission, Fall 2027: December 15, 2026 (early admission); April 1, 2027 (regular admission). Fellowship applications, Fall 2027: Cycle 1 from 22 December to 17 January; Cycle 2 from 6 April to 6 May. The admission page also says international applicants wanting early Fall decisions should apply by the preceding October 1.",
+      "new": "Graduate admission (graduate admissions page, 2 November 2026): Spring 2027, October 1, 2026 (passed); Fall 2027, December 15, 2026 (Regular admission) and April 1, 2027 (Late admission). Fellowship applications, Fall 2027: Cycle 1 from 22 December to 17 January; Cycle 2 from 6 April to 6 May."
+    },
+    {
+      "date": "2026-11-02",
       "id": "gtf-telemachus-mentoring-2027",
       "title": "Telemachus Mentoring Programme 2027 (Global Thinkers Forum)",
       "field": "(new record)",

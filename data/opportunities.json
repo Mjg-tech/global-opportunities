@@ -701,7 +701,7 @@
         "A leadership track record is required; the profile records internships and field assignments but no leadership role",
         "A passport valid for the whole programme is required and is not recorded; visa processing 'can take several months', and visa fees and insurance are not stated as covered",
         "The page names no countries, so DRC eligibility rests on the 'Sub-Saharan African country' wording",
-        "The application form (Google Forms) was not opened, so its questions and any documents were not read"
+        "The application form (Google Forms, forms.gle) answers HTTP 401 (sign-in required) to a plain reader, so its questions and any documents could not be read"
       ],
       "benefits": [
         "12-month programme with the AFS Global Competence Certificate",
@@ -729,9 +729,9 @@
       },
       "upfront_cost_risk": "Low: no fee is mentioned; visa fees and insurance are not stated as covered",
       "action": "Check that you hold a passport valid through August 2027, then complete the AFS form (forms.gle/VEYy2UHv22nHGDbBA) before 19 November 2026, 23:59 UTC. Apply early because review is first come, first served, and write the narrative answers yourself.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-29",
-      "notes": "The AFS Youth Assembly page is dated 16 October 2026. The number of funded places is not stated.",
+      "notes": "The AFS Youth Assembly page is dated 16 October 2026. The number of funded places is not stated. 2 November 2026 (rerun): the programme page re-read with plain curl; text and deadline unchanged.",
       "match_keywords": [
         "sir cyril taylor",
         "afs youth assembly"
@@ -1155,7 +1155,7 @@
       "program_dates": "Fall 2027 start; up to five semesters and one intervening summer session",
       "application_deadline": "2026-12-15",
       "deadline_utc": "",
-      "deadline_text": "Graduate admission, Fall 2027: December 15, 2026 (early admission); April 1, 2027 (regular admission). Fellowship applications, Fall 2027: Cycle 1 from 22 December to 17 January; Cycle 2 from 6 April to 6 May. The admission page also says international applicants wanting early Fall decisions should apply by the preceding October 1.",
+      "deadline_text": "Graduate admission (graduate admissions page, 2 November 2026): Spring 2027, October 1, 2026 (passed); Fall 2027, December 15, 2026 (Regular admission) and April 1, 2027 (Late admission). Fellowship applications, Fall 2027: Cycle 1 from 22 December to 17 January; Cycle 2 from 6 April to 6 May.",
       "deadline_timezone": "Not stated (Cairo)",
       "opens_on": "",
       "open_now": false,
@@ -1254,8 +1254,8 @@
       "potential_issues": [
         "English test score is mandatory for this fellowship and none is recorded",
         "Application fee payable (amount not checked)",
-        "Fellowship deadlines page does not name the African Graduate Fellowship explicitly; the dates shown are the general graduate-fellowship cycles",
-        "Admission page gives two different early dates (1 October and 15 December) for international applicants",
+        "The fellowship deadlines page does not name the African Graduate Fellowship; the dates shown are the general graduate-fellowship cycles (it also shows a Spring 2027 cycle from 7 October to 8 November 2026, but Spring 2027 admission closed on 1 October 2026)",
+        "The fellowship is awarded after admission, needs financial need, a 3.2 GPA to keep it, full-time study and 12 hours a week of assigned academic work",
         "Travel to Egypt is not covered"
       ],
       "benefits": [
@@ -1282,9 +1282,9 @@
       },
       "upfront_cost_risk": "Application fee and English test fee",
       "action": "Choose an AUC programme (for example in business, economics or public policy), book a TOEFL/IELTS sitting, apply for admission by 15 December 2026 and submit the fellowship application between 22 December 2026 and 17 January 2027.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-12",
-      "notes": "",
+      "notes": "2 November 2026 (rerun): the admissions page now labels 15 December 2026 'Regular admission' and 1 April 2027 'Late admission' (earlier text said early and regular). Fellowship terms re-read unchanged.",
       "match_keywords": [
         "american university in cairo",
         "auc african graduate fellowship",
@@ -2012,10 +2012,10 @@
         "support": "Not applicable"
       },
       "upfront_cost_risk": "None identified",
-      "action": "Apply before 11 November 2026, 22:00 UTC only if you lead, or have a concrete plan for, a community project you have worked with for at least six months. Join the 28 October information session or watch the recording first.",
+      "action": "Apply before 11 November 2026, 22:00 UTC only if you lead, or have a concrete plan for, a community project you have worked with for at least six months. The live information sessions are over (the last was 28 October); the apply page links a recording.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
-      "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed).",
+      "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed). 2 November 2026 (rerun): apply page re-read; age 20-36 on 1 April 2027, 22:00 UTC deadline, 'We do not offer funding for projects' all unchanged. The 28 October session and the 28 October deadline to ask for a past-Fellow introduction have passed.",
       "match_keywords": [
         "dalai lama fellows"
       ]
@@ -3697,7 +3697,8 @@
       "status": "CLOSING SOON",
       "funding_type": "Travel Funded",
       "funding_details": [
-        "The three winning teams attend the 56th St. Gallen Symposium in April 2027 as Leaders of Tomorrow: 'their expenses for travel and accommodation will be fully covered'",
+        "The four winning teams are offered a place at the 56th St. Gallen Symposium in April 2027 as Leaders of Tomorrow: 'their expenses for travel and accommodation will be fully covered'",
+        "The same page lists the prize as an invitation 'all expenses covered ... if your teams pitch is chosen as the best solution for your challenge'",
         "Nothing on the pages read mentions a fee for taking part in the challenge itself"
       ],
       "coverage": {
@@ -3756,12 +3757,13 @@
           "type": "Official"
         }
       ],
-      "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "A graduate under 30 who is starting a career counts as a young professional aged 21 to 30. The application must also show commitment to responsible leadership through activities or work.",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "Nationality is open and a 2024 bachelor's degree meets 'you have finished your undergraduate studies'. Three stated criteria are not settled by the profile: whether the applicant counts as a 'young professional' (the profile records internships, no full-time job), the exact age against the 21-30 range (only an under-30 band is recorded), and the 'already demonstrated commitment to responsible leadership' the page requires.",
       "potential_issues": [
-        "Only the three winning teams travel; the other participants take part in the virtual challenge without a funded trip",
+        "Only the four winning teams travel to St. Gallen; the other participants (about 100 are selected) take part in the virtual challenge without a funded trip",
         "A Schengen visa would be needed for Switzerland if selected for the Symposium",
-        "The apply page still carries a stale 'Application opens soon' banner above a timeline that says applications opened 29 September 2026; the About page says 'Applications are Open!'"
+        "The apply page still carries a stale 'Application opens soon' banner above a timeline that says applications opened 29 September 2026; the About page says 'Applications are Open!'",
+        "Eligibility turns on facts the profile does not record: young-professional status, exact age (21-30) and a leadership record"
       ],
       "benefits": [
         "Work on real challenges from partner organisations",
@@ -3790,7 +3792,7 @@
       "action": "Apply early, since review is rolling, and keep 10 to 14 December free.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "12 October 2026: the About page calls it 'the fully virtual five-day challenge'; members 'can participate virtually from around the world'. All active participants receive a Certificate of Achievement from the University of Oxford and the St. Gallen Symposium; mentoring is by the Oxford Character Project. Challenge partners listed: Swiss Re, Schwarzman Scholars, one to be announced.",
+      "notes": "12 October 2026: the About page calls it 'the fully virtual five-day challenge'; members 'can participate virtually from around the world'. All active participants receive a Certificate of Achievement from the University of Oxford and the St. Gallen Symposium; mentoring is by the Oxford Character Project. Challenge partners listed: Swiss Re, Schwarzman Scholars, one to be announced. 2 November 2026 (rerun, plain-curl read of the apply page): the page says 'four winning teams'; the record had said three. Eligibility lowered from LIKELY to POSSIBLY ELIGIBLE because three criteria depend on facts the profile does not record.",
       "match_keywords": [
         "global leadership challenge"
       ]
@@ -3928,7 +3930,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Check the country-specific GPA requirement for DRC degrees on the GLOCAL site, then plan an English test if needed.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "Deadline wording preserved from the official home page. Re-read on 29 October 2026: scholarship applications close 14 January 2027, 13:00 UK time; self-funded tracks have other dates.",
       "match_keywords": [
@@ -5108,7 +5110,7 @@
       "continent": "Africa",
       "location_type": "Remote",
       "delivery_mode": "Online",
-      "program_dates": "Eight-month programme",
+      "program_dates": "Eight-month programme. Timeline on the page (no year stated): Explore January-February, Ignite March-April, Launch and Fellowship May-August, graduation at the end of August",
       "application_deadline": "2026-12-01",
       "deadline_utc": "",
       "deadline_text": "Apply By December 1, 2026",
@@ -5120,10 +5122,13 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "OPEN",
-      "funding_type": "Fully Funded",
+      "funding_type": "Participation Funded",
       "funding_details": [
-        "Training, resources and mentors at no cost; digital badges and certificates are free of charge",
-        "Up to 60 Fellows selected in the final phase receive a stipend of CAD 500"
+        "The page does not use the words 'fully funded'. It says the fellowship gives 'access to training, resources, financial support and a network of mentors'",
+        "Funnel: Phase 1 Explore (January-February) 1000+ candidates get online courses; Phase 2 Ignite (March-April) 180+ finalists; Phase 3 Launch and Fellowship (May-August) up to 60 Fellows",
+        "Stipend for up to 60 Fellows: '$500 CAD' under Financial Support, but 'a USD 350 stipend' in the Phase 3 text; the page contradicts itself on the amount",
+        "Pitch prizes of up to $15,000 CAD; Fellows also 'access seed funding'",
+        "'All Queen's University digital badges and certificates are provided free of charge'; no application fee is mentioned"
       ],
       "coverage": {
         "tuition": "Covered",
@@ -5142,18 +5147,21 @@
       "visa_funded": false,
       "insurance_funded": false,
       "local_transport_funded": false,
-      "participation_fee": "None",
-      "stipend": "CAD 500 for up to 60 Fellows in the final phase",
+      "participation_fee": "None mentioned",
+      "stipend": "For up to 60 Fellows only: CAD 500 (Financial Support section) or USD 350 (Phase 3 text); the page gives both",
       "eligibility": [
-        "African students and recent graduates"
+        "'African students and recent graduates' from 'all academic disciplines and any post-secondary institution in Africa'",
+        "Willing to dedicate at least 10 hours per week to the entrepreneurial journey",
+        "Assignments and pitches must be completed in English; non-fluent applicants may team up with someone who is fluent or use language support",
+        "Fully virtual, self-paced over the eight-month cycle, but assignment deadlines must be met to advance"
       ],
       "nationality_requirements": [
         "African students and recent graduates; no country list on the page read"
       ],
       "age_requirement": "Unknown / Not specified",
       "education_requirement": "Current student or recent graduate",
-      "experience_requirement": "Unknown / Not specified",
-      "language_requirement": "English, with language support for French-speaking learners",
+      "experience_requirement": "None stated; ideas at any stage are welcome (\"already building a business or just exploring a new idea\")",
+      "language_requirement": "English for content, assignments and pitches; mentoring may be offered in English and French",
       "other_requirements": [],
       "documents_required": [],
       "application_process": [
@@ -5172,11 +5180,14 @@
           "type": "Official"
         }
       ],
-      "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "The programme is for African students and recent graduates, and the degree dates from 2024. How 'recent' is defined was not on the page read.",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The programme is for African students and recent graduates, and the profile's degree dates from 2024. The page does not define 'recent graduate', and it asks for at least 10 hours a week for eight months and written English, which the profile does not record.",
       "potential_issues": [
-        "Definition of 'recent graduate' to confirm on the application form",
-        "Needs regular internet access over eight months, though content is downloadable"
+        "Definition of 'recent graduate' is not on the page; confirm on the application form",
+        "A selection funnel: only up to 60 of 1000+ candidates become Fellows and receive the stipend; the rest get the online courses",
+        "The stipend amount is stated twice with different figures (CAD 500 and USD 350)",
+        "Needs regular internet access over eight months, though content is downloadable",
+        "'Fully funded' is not claimed by the organiser; an earlier record labelled it Fully Funded"
       ],
       "benefits": [
         "Micro-credentials from Queen's University",
@@ -5202,10 +5213,10 @@
         "support": "Not applicable (online)"
       },
       "upfront_cost_risk": "None stated.",
-      "action": "Apply before 1 December 2026 if a structured entrepreneurship course appeals to you.",
-      "last_verified": "2026-10-29",
+      "action": "Apply before 1 December 2026 if a structured, online entrepreneurship course appeals to you, and you can give 10 hours a week for eight months. Expect a funnel: 1000+ candidates start, about 180 reach the second phase and up to 60 become Fellows with a small stipend.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "2 November 2026 (rerun, plain-curl read): label lowered from Fully Funded to Participation Funded because the organiser's page never says 'fully funded' and the stipend goes only to the final 60 Fellows; eligibility lowered from LIKELY to POSSIBLY ELIGIBLE because 'recent graduate' is undefined.",
       "match_keywords": [
         "jim leech"
       ]
@@ -6400,7 +6411,7 @@
       },
       "upfront_cost_risk": "Low",
       "action": "If your Licence is from the Université de Kinshasa, create your two-year master's application on the Sciences Po platform and send the Scholars Program eligibility request at the same time, then apply by 23 November 2026 (14 December 2026 at the latest). Otherwise skip.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": "Previously on the research watchlist. 19 October 2026 (source_changed flag): the page now publishes two scholarship deadlines (23 November and 14 December 2026) and an April 2027 results date; the earlier 'October to mid-December 2026' fee-waiver wording is no longer on the page. 29 October 2026: the scholarship page was re-read in full; the age rule is measured on 1 September of the year in which the scholarship application is submitted (the earlier record read 1 September 2027, a year the page does not give).",
       "match_keywords": [
@@ -7365,7 +7376,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Open the Obama Foundation Leaders page on 9 November 2026, read the Africa programme's criteria, cost and closing date, then decide.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "29 October 2026: the page now reads 'Applications live on November 9!'. On 12 October 2026 it still gave no exact dates for the next application window.",
       "match_keywords": [
@@ -8190,7 +8201,8 @@
         "Only two places, allocated by PCNS; ORF's own open call was not found",
         "Minimum age 28",
         "Deadline 2 November 2026, 5:00 pm Casablanca time",
-        "Visa for India and insurance not mentioned"
+        "Visa for India and insurance not mentioned",
+        "The Google Form answers HTTP 401 (sign-in required) to a plain reader on 2 November 2026, so its questions and documents were not read"
       ],
       "benefits": [
         "Round-trip economy airfare, accommodation, meals and in-country transport",
@@ -8216,10 +8228,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Low: airfare, accommodation, meals and local transport are covered",
-      "action": "If you are 28 or older and can show leadership achievements in politics, diplomacy, business, media, civil society or academia, complete the PCNS application form by Monday 2 November 2026, 5:00 pm Casablanca time. Before spending time on it, check whether PCNS still limits the places to its youth community.",
+      "action": "Closes today, 2 November 2026, 5:00 pm Casablanca time (16:00 UTC). Apply only if you are 28 to 35 and can show leadership achievements in politics, diplomacy, business, media, civil society or academia. The call page re-read on 2 November states no PCNS-membership or nationality condition; the Google Form itself could not be opened to check its questions.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
-      "notes": "Part of the strategic partnership between PCNS, ORF and the Italian Institute for International Political Studies (ISPI), through which each institution nominates people for the others' programmes. 29 October 2026: the former page (pcns-youth-community-call-applications-raisina-young-fellows-programme-2027) returns 404 and the call now sits at the address above; the application form link is unchanged.",
+      "notes": "Part of the strategic partnership between PCNS, ORF and the Italian Institute for International Political Studies (ISPI), through which each institution nominates people for the others' programmes. 29 October 2026: the former page (pcns-youth-community-call-applications-raisina-young-fellows-programme-2027) returns 404 and the call now sits at the address above; the application form link is unchanged. 2 November 2026 (rerun, 12:00 UTC): call page re-read; the text is the same as on 29 October (age 28-35, two fully funded places, New Delhi 11-20 March 2027, response by 23 November).",
       "match_keywords": [
         "raisina young fellows",
         "raisina young fellow"
@@ -8808,7 +8820,7 @@
       },
       "upfront_cost_risk": "Application fee, possible language test, then living costs in Paris and the remaining tuition",
       "action": "Pick a Sciences Po two-year master's taught in French or bilingually, get a university certificate that the Licence was taught entirely in French, and submit a complete application with the Boutmy request before 29 November 2026; apply in the same cycle to the Mastercard Foundation programme at Sciences Po.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-19",
       "notes": "",
       "match_keywords": [
@@ -9935,16 +9947,16 @@
         "Around March-April 2027, a number of applicants are told by email that they are selected for the final stage",
         "A lottery then determines the scholarship recipients; on 7 April 2027 the scholarship is offered to the selected students and the remaining candidates go on a waiting list"
       ],
-      "official_application_url": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
-      "official_information_url": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
-      "source_url": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
+      "official_application_url": "https://www.wur.nl/en/education/master/study-expenses-masters/scholarships",
+      "official_information_url": "https://www.wur.nl/en/education/master/study-expenses-masters/scholarships",
+      "source_url": "https://www.wur.nl/en/education/master/study-expenses-masters/scholarships",
       "source_type": "Official",
       "source_confidence": "HIGH",
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "WUR: Africa Scholarship Programme (same page also lists the Excellence, ABF and NL scholarships)",
-          "url": "https://www.wur.nl/en/Education-Programmes/master/practical-information-masters/Scholarships-for-international-masters-students/Africa-Scholarship-Programme.htm",
+          "label": "WUR: Master's scholarships page, Africa Scholarship Programme section (the old Africa-Scholarship-Programme.htm address now answers HTTP 308 and redirects here)",
+          "url": "https://www.wur.nl/en/education/master/study-expenses-masters/scholarships",
           "type": "Official"
         }
       ],
@@ -9981,9 +9993,9 @@
       },
       "upfront_cost_risk": "English test fee and MSc application costs; the scholarship decision comes only on 7 April 2027",
       "action": "This week: check your Licence result against the rule (First class honours, GPA 80% or higher), book an English test (official results must reach Wageningen before 1 December 2026), and ask Wageningen's study advisers whether your degree gives access to a suitable MSc. If all three hold, submit the complete MSc application by 30 November 2026.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-29",
-      "notes": "The same WUR page lists three other schemes: the Wageningen Excellence Scholarship, the ABF scholarship (by invitation only, no direct application, results in May 2027) and the NL Scholarship (EUR 5,000, 8 awards). None gives a DRC applicant a direct application route. The page was read through a text-extraction tool; local scripts could not open wur.nl.",
+      "notes": "The same WUR page lists three other schemes: the Wageningen Excellence Scholarship, the ABF scholarship (by invitation only, no direct application, results in May 2027) and the NL Scholarship (EUR 5,000, 8 awards). None gives a DRC applicant a direct application route. The page was read through a text-extraction tool; local scripts could not open wur.nl. 2 November 2026 (rerun): the old address returns HTTP 308 to the new page above. The text was re-read in full with plain curl and matches the earlier reading; the former note that local scripts could not open wur.nl no longer applies.",
       "match_keywords": [
         "wageningen university africa scholarship",
         "wageningen africa scholarship",
@@ -10307,7 +10319,7 @@
       },
       "upfront_cost_risk": "Low",
       "action": "Open the official call page in a browser to confirm the deadline shown in the form (reported as 30 November 2026), then apply if you can show agrifood or policy-advocacy engagement and C1-level English.",
-      "last_verified": "2026-10-26",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": "Official page says the board is selected by peers and the 2026 cohort is the fifth. The ToR (2027-2028) was read in full; it has no deadline, no funding section and no time zone for the deadline.",
       "match_keywords": [
@@ -10562,7 +10574,7 @@
       },
       "upfront_cost_risk": "English test fee paid by the applicant.",
       "action": "Decide this week whether an IELTS or TOEFL sitting before mid-November is realistic. If not, skip this round.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
