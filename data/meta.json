@@ -1,35 +1,35 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-01T11:50:57Z",
+  "last_refresh": "2026-11-02T07:09:57Z",
   "counts": {
-    "total": 72,
+    "total": 73,
     "archived": 4,
     "by_status": {
-      "OPEN": 28,
-      "CLOSING SOON": 7,
+      "OPEN": 30,
+      "CLOSING SOON": 6,
       "UPCOMING": 21,
-      "DEADLINE PASSED": 7,
+      "DEADLINE PASSED": 8,
       "ROLLING": 1,
-      "DATE UNKNOWN": 8
+      "DATE UNKNOWN": 7
     },
     "by_funding": {
-      "Fully Funded": 30,
-      "Substantially Funded": 12,
+      "Fully Funded": 29,
+      "Substantially Funded": 13,
       "Partially Funded": 6,
       "Travel Funded": 2,
       "Participation Funded": 5,
       "Self Funded": 0,
-      "Funding Unclear": 17
+      "Funding Unclear": 18
     },
     "by_eligibility": {
       "LIKELY ELIGIBLE": 15,
-      "POSSIBLY ELIGIBLE": 47,
+      "POSSIBLY ELIGIBLE": 48,
       "NOT ELIGIBLE": 4,
       "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
       "VERIFIED": 42,
-      "PARTIALLY VERIFIED": 26,
+      "PARTIALLY VERIFIED": 27,
       "NEEDS VERIFICATION": 4
     },
     "travel_funded": 31
@@ -37,6 +37,7 @@
   "deadline_buckets": {
     "30": [
       "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+      "gtf-telemachus-mentoring-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
       "mastercard-foundation-scholars-sciences-po-2027",
       "mundus-mapp-2027",
@@ -51,12 +52,12 @@
     ],
     "7": [
       "fortis-fellowship-2027",
-      "global-leadership-challenge-2026",
       "ustc-international-winter-camp-2027"
     ],
-    "3": [],
+    "3": [
+      "global-leadership-challenge-2026"
+    ],
     "1": [
-      "open-doors-russian-scholarship-masters-2027",
       "raisina-young-fellows-2027-pcns"
     ]
   },

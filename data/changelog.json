@@ -2,6 +2,104 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-02",
+      "id": "gtf-telemachus-mentoring-2027",
+      "title": "Telemachus Mentoring Programme 2027 (Global Thinkers Forum)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "one-young-world-leading-scholarship-2026",
+      "title": "One Young World Leading Scholarship 2026",
+      "field": "deadline_text",
+      "old": "Application deadline: 31 October 2026. Opening date: 11 June 2026. The same page also shows 'Application Deadline: Rolling' further down. 'Applications will be reviewed on a rolling basis'; selected candidates are notified 'between June to October 2026'.",
+      "new": "Application deadline: 31 October 2026 (opening date 11 June 2026). Re-read 2 November 2026: the page now shows 'Application Deadline: Closed.' Selected candidates were notified by email between June and October 2026."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "deadline_text",
+      "old": "No 2027-2028 call published on 26 October 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item, the PAU website shows no new call, and the application platform states 'Applications closed on 15/12/2025'. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
+      "new": "No 2027-2028 call published on 2 November 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item, and the application platform still states 'Applications closed on 15/12/2025'. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "irex-community-solutions-program",
+      "title": "Community Solutions Program",
+      "field": "deadline_text",
+      "old": "No current call. The official page still refers to travel 'from August to December 2025'.",
+      "new": "'The application for the 2027 Community Solutions Program is now Open' (IREX page, 2 November 2026). Neither the IREX page nor csp.irex.org showed a closing date when read."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "irex-community-solutions-program",
+      "title": "Community Solutions Program",
+      "field": "program_dates",
+      "old": "The page read still says 'four months from August to December 2025'",
+      "new": "2027, subject to confirmation: orientation 2-5 August, practicum 9 August - 29 October, End-of-Program Workshop 1-4 November 2027"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "irex-community-solutions-program",
+      "title": "Community Solutions Program",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "irex-community-solutions-program",
+      "title": "Community Solutions Program",
+      "field": "eligibility",
+      "old": [
+        "Citizen of an eligible country; the Africa list includes the Democratic Republic of Congo",
+        "At least two years of experience working on community development, as a full-time or part-time employee or volunteer",
+        "Semi-finalists must pass or submit a recent TOEFL or IELTS score",
+        "Able to travel to the U.S. unaccompanied for four months",
+        "Eligible for a U.S. J-1 visa"
+      ],
+      "new": [
+        "Between 27 and 39 years old at the time of application",
+        "Citizen of a country listed on the official application website",
+        "At least five years of experience on community issues, with measurable benefits to local communities",
+        "Living and working in the home country at the time of application",
+        "High level of spoken and written English; semi-finalists need TOEFL 520 (213 computer-based) or take an Institutional TOEFL or other approved assessment",
+        "Able to start in the U.S. in 2027 and complete the three- to four-month exchange",
+        "Eligible for a U.S. J-1 visa; commit to returning home for at least two years and carrying out a SCALE-Up project"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "irex-community-solutions-program",
+      "title": "Community Solutions Program",
+      "field": "nationality_requirements",
+      "old": [
+        "Africa: Botswana, Cameroon, Democratic Republic of Congo, Ghana, Guinea, Kenya, Liberia, Malawi, Mozambique, Namibia, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe"
+      ],
+      "new": [
+        "2027 Africa list: Botswana, Cameroon, Ethiopia, Ghana, Guinea, Kenya, Liberia, Mozambique, Namibia, Rwanda, Uganda (the Democratic Republic of the Congo is not listed)"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "irex-community-solutions-program",
+      "title": "Community Solutions Program",
+      "field": "age_requirement",
+      "old": "Secondary sources gave 26 to 39 for the 2025 cycle; not on the page read",
+      "new": "27 to 39 at the time of application"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "irex-community-solutions-program",
+      "title": "Community Solutions Program",
+      "field": "official_application_url",
+      "old": "",
+      "new": "https://csp.irex.org/"
+    },
+    {
       "date": "2026-10-31",
       "id": "aspire-leaders-program-2026-cohort-4",
       "title": "Aspire Leaders Program (2026 Cohort 4)",

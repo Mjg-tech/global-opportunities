@@ -1,0 +1,127 @@
+[
+ {
+  "id": "one-young-world-leading-scholarship-2026",
+  "deadline_text": "Application deadline: 31 October 2026 (opening date 11 June 2026). Re-read 2 November 2026: the page now shows 'Application Deadline: Closed.' Selected candidates were notified by email between June and October 2026.",
+  "notes": "Re-verified 2 November 2026 after a source_changed flag: the change is the deadline line now reading 'Closed'. The country list still includes Congo-Brazzaville but not the Democratic Republic of the Congo. Summit: Cape Town, 3-6 November 2026. Visa fees for South Africa are at the scholar's expense; transport and accommodation are decided case by case.",
+  "last_verified": "2026-11-02"
+ },
+ {
+  "id": "pan-african-university-scholarships",
+  "deadline_text": "No 2027-2028 call published on 2 November 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item, and the application platform still states 'Applications closed on 15/12/2025'. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
+  "expected_next_cycle": "If the pattern repeats, the next call opens around mid-November 2026 (the last call ran 15 November to 15 December 2025). Not announced as of 2 November 2026; one scholarship blog projects 15 November 2026, which is not an official source.",
+  "notes": "2 November 2026, after a source_changed flag: the 2026-2027 announcement page was re-read and still gives only the 15 November - 15 December 2025 window; the au.int announcements list (latest item 1 August 2026) and au-pau.org/submission show no new call. Master's age limit 25 (men) / 28 (women); second-class upper degree required. The PAU scholarships page states that the scholarship covers tuition and living expenses, that insurance is paid from the stipend, and that holders must serve an AU Member State afterwards.",
+  "sources": [
+   {
+    "label": "African Union announcements (no 2027-2028 PAU call listed on 2 Nov 2026)",
+    "url": "https://au.int/en/announcements",
+    "type": "Official"
+   },
+   {
+    "label": "PAU scholarships application platform ('Applications closed on 15/12/2025')",
+    "url": "https://www.au-pau.org/submission/",
+    "type": "Official"
+   },
+   {
+    "label": "Pan African University website",
+    "url": "https://pau-au.africa/",
+    "type": "Official"
+   },
+   {
+    "label": "PAU admissions: scholarships (coverage and service commitment)",
+    "url": "https://pau-au.africa/admissions/scholarships",
+    "type": "Official"
+   },
+   {
+    "label": "African Union: PAU call for 2026-2027",
+    "url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
+    "type": "Official"
+   }
+  ],
+  "action": "Check your exact age against the limit first (master's: 25 for men, 28 for women). If you are within it, open au.int/en/announcements and au-pau.org from 15 November 2026.",
+  "last_verified": "2026-11-02"
+ },
+ {
+  "id": "irex-community-solutions-program",
+  "overview": "Professional fellowship in the United States for community leaders aged 27 to 39, funded by the U.S. Department of State. The 2027 application is open, but the Democratic Republic of the Congo is no longer on the eligible-country list.",
+  "program_dates": "2027, subject to confirmation: orientation 2-5 August, practicum 9 August - 29 October, End-of-Program Workshop 1-4 November 2027",
+  "deadline_text": "'The application for the 2027 Community Solutions Program is now Open' (IREX page, 2 November 2026). Neither the IREX page nor csp.irex.org showed a closing date when read.",
+  "open_now": true,
+  "eligibility": [
+   "Between 27 and 39 years old at the time of application",
+   "Citizen of a country listed on the official application website",
+   "At least five years of experience on community issues, with measurable benefits to local communities",
+   "Living and working in the home country at the time of application",
+   "High level of spoken and written English; semi-finalists need TOEFL 520 (213 computer-based) or take an Institutional TOEFL or other approved assessment",
+   "Able to start in the U.S. in 2027 and complete the three- to four-month exchange",
+   "Eligible for a U.S. J-1 visa; commit to returning home for at least two years and carrying out a SCALE-Up project"
+  ],
+  "nationality_requirements": [
+   "2027 Africa list: Botswana, Cameroon, Ethiopia, Ghana, Guinea, Kenya, Liberia, Mozambique, Namibia, Rwanda, Uganda (the Democratic Republic of the Congo is not listed)"
+  ],
+  "age_requirement": "27 to 39 at the time of application",
+  "experience_requirement": "At least five years of experience on community issues",
+  "language_requirement": "High English proficiency; TOEFL 520 / 213 or an approved assessment for semi-finalists",
+  "funding_details": [
+   "'The program covers the cost of most expenses': J-1 visa support; round-trip travel from the home city to the U.S.; a monthly allowance for housing, meals and other living costs; accident and sickness health coverage; accessibility accommodations"
+  ],
+  "official_application_url": "https://csp.irex.org/",
+  "eligibility_for_me": "NOT ELIGIBLE",
+  "eligibility_reason": "The 2027 Africa country list does not include the Democratic Republic of the Congo. The programme also requires five years of community experience and a minimum age of 27; the profile records under one year of short assignments.",
+  "potential_issues": [
+   "The DRC was dropped from the eligible-country list for 2027",
+   "Five-year experience requirement and age 27 to 39",
+   "No closing date visible on the IREX page or the application site"
+  ],
+  "relevance_reason": "Fully funded travel to the U.S., but the DRC is not an eligible country for 2027 and the experience requirement is far above the profile. Kept so the record is recognised in feeds.",
+  "action": "No action for 2027 (DRC not eligible). Check the country list again when the 2028 cycle opens.",
+  "sources": [
+   {
+    "label": "Community Solutions Program application information (2027)",
+    "url": "https://www.irex.org/program/community-solutions-program-application-information",
+    "type": "Official"
+   },
+   {
+    "label": "CSP application system",
+    "url": "https://csp.irex.org/",
+    "type": "Official"
+   }
+  ],
+  "verification": "PARTIALLY VERIFIED",
+  "notes": "2 November 2026: the 2027 cycle opened (seen again in Opportunity Desk, Opportunities for Africans and Opportunities Corners feeds). Compared with the 2025 page, the DRC, Malawi, Sierra Leone, Tanzania, Zambia and Zimbabwe are no longer in the Africa list; Ethiopia and Rwanda were added. Experience requirement rose from two to five years. Contact: apply.csp@irex.org. Funding label lowered from Fully Funded to Substantially Funded: the organiser's wording is 'covers the cost of most expenses', not 'fully funded'.",
+  "match_keywords": [
+   "community solutions program",
+   "irex community solutions"
+  ],
+  "last_verified": "2026-11-02",
+  "funding_type": "Substantially Funded"
+ },
+ {
+  "id": "global-leadership-challenge-2026",
+  "last_verified": "2026-11-02"
+ },
+ {
+  "id": "fortis-fellowship-2027",
+  "last_verified": "2026-11-02"
+ },
+ {
+  "id": "ustc-international-winter-camp-2027",
+  "last_verified": "2026-11-02"
+ },
+ {
+  "id": "dalai-lama-fellows-2027",
+  "last_verified": "2026-11-02"
+ },
+ {
+  "id": "raisina-young-fellows-2027-pcns",
+  "last_verified": "2026-11-02"
+ },
+ {
+  "id": "kectil-program-2027",
+  "last_verified": "2026-11-02"
+ },
+ {
+  "id": "stipendium-hungaricum-2027",
+  "notes": "2 November 2026: the Apply page still shows only the 2026/2027 round (deadline 15 January 2026, 2 pm CET) and says there is one application deadline each year. No 2027/2028 call yet; the previous call opened on 17 November 2025.",
+  "last_verified": "2026-11-02"
+ }
+]

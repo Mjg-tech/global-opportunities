@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-10-29",
+  "updated": "2026-11-02",
   "opportunities": [
     {
       "id": "abe-initiative-jica",
@@ -2013,7 +2013,7 @@
       },
       "upfront_cost_risk": "None identified",
       "action": "Apply before 11 November 2026, 22:00 UTC only if you lead, or have a concrete plan for, a community project you have worked with for at least six months. Join the 28 October information session or watch the recording first.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed).",
       "match_keywords": [
@@ -3218,7 +3218,7 @@
       },
       "upfront_cost_risk": "Medium: flights and accommodation to Medellín are not confirmed as paid",
       "action": "If the 'humble beginnings' and impact pillars describe you, apply on fortissociety.org/fellowship before 8 November 2026; ask info@fortissociety.org whether flights and accommodation to Medellín are covered before committing.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": "Organiser identified on its About page: the Future Leaders Foundation (registered 501(c)(3), August 2014) launched the Fortis Society in 2018; the Society is member-governed. Members' testimonials and past summit cities (Paris, Seattle, Marrakesh, Sitges, Athens, Medellín) are on the site. No fee anywhere.",
       "match_keywords": [
@@ -3788,7 +3788,7 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Apply early, since review is rolling, and keep 10 to 14 December free.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "12 October 2026: the About page calls it 'the fully virtual five-day challenge'; members 'can participate virtually from around the world'. All active participants receive a Certificate of Achievement from the University of Oxford and the St. Gallen Symposium; mentoring is by the Oxford Character Project. Challenge partners listed: Swiss Re, Schwarzman Scholars, one to be announced.",
       "match_keywords": [
@@ -4092,6 +4092,146 @@
         "grenfin",
         "greening energy market and finance",
         "greening energy market"
+      ]
+    },
+    {
+      "id": "gtf-telemachus-mentoring-2027",
+      "title": "Telemachus Mentoring Programme 2027 (Global Thinkers Forum)",
+      "organization": "Global Thinkers Forum (GTF), a London-based non-profit",
+      "overview": "Eight-month mentoring programme that pairs young people aged 18 to 29 from around the world with volunteer mentors (the parallel Athena track is for women of any age above 22). Mentees also join the wider Global Thinkers Forum community.",
+      "category": [
+        "Leadership",
+        "Training"
+      ],
+      "subcategory": [
+        "Mentoring",
+        "Career development"
+      ],
+      "education_levels": [
+        "Open to all"
+      ],
+      "country": "Unknown / Not specified",
+      "city": "Unknown / Not specified",
+      "region": "Global",
+      "continent": "Global",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "2027 cycle; mentoring runs 'over a period of eight months'. Start date not stated on the official pages read.",
+      "application_deadline": "2026-11-23",
+      "deadline_utc": "",
+      "deadline_text": "'Applications for the 2027 Telemachus & Athena Mentoring Programmes Are Now Open!' 'Applications deadline: November 23, 2026'.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "OPEN",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "The official pages read state neither a fee nor any financial support. Mentors volunteer their time."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "eligibility": [
+        "Telemachus: 'a young individual between 18-29' (official home page)",
+        "Applicants with a Bachelor's degree or at least five years of relevant professional experience are prioritised",
+        "Fluent English is prioritised",
+        "Detailed eligibility criteria are linked from the application page but were not readable"
+      ],
+      "nationality_requirements": [
+        "No nationality restriction stated; mentees are youth 'from around the world'"
+      ],
+      "age_requirement": "18 to 29 (Telemachus)",
+      "education_requirement": "Bachelor's degree prioritised, not required",
+      "experience_requirement": "None required",
+      "language_requirement": "Fluent English prioritised",
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Complete the online form on globalthinkersmentors.org/mentees-application by 23 November 2026",
+        "Questions: mentoring@globalthinkersforum.org"
+      ],
+      "official_application_url": "https://globalthinkersmentors.org/mentees-application",
+      "official_information_url": "https://globalthinkersmentors.org/",
+      "source_url": "https://globalthinkersmentors.org/mentees-application",
+      "source_type": "Official",
+      "source_confidence": "MEDIUM",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "Telemachus & Athena 2027 mentees application",
+          "url": "https://globalthinkersmentors.org/mentees-application",
+          "type": "Official"
+        },
+        {
+          "label": "Global Thinkers Mentors home (eligibility, eight-month duration, organiser)",
+          "url": "https://globalthinkersmentors.org/",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunity Desk listing (mentions an optional three-month GTF internship; not confirmed on the official pages)",
+          "url": "https://opportunitydesk.org/2026/10/30/telemachus-athena-mentoring-programme-2027/",
+          "type": "Aggregator"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The stated criteria (age 18 to 29, Bachelor's degree prioritised, fluent English) match the profile's age band, degree and languages. The detailed criteria page and any fee could not be read, so the verdict stays at possibly eligible.",
+      "potential_issues": [
+        "Format, fee and start date are not stated on the official pages read",
+        "The optional GTF internship is reported only by an aggregator",
+        "A mentoring programme, not a funded mobility"
+      ],
+      "benefits": [
+        "One-to-one mentoring for eight months by an experienced professional",
+        "Membership of the Global Thinkers Forum community"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "Medium",
+        "travel": "Low",
+        "networking": "Medium",
+        "funding": "Low",
+        "accessibility": "High",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "Open worldwide to 18-29 year olds with a degree, so accessible, and a mentor can help with fellowship and master's applications. It brings no travel or funding.",
+      "travel_value": "Low",
+      "career_value": "Medium",
+      "academic_value": "Low",
+      "networking_value": "Medium",
+      "visa": {
+        "required": "No",
+        "support": "Not applicable (no travel stated)"
+      },
+      "upfront_cost_risk": "Low",
+      "action": "If a mentor would help, fill in the mentees form by 23 November 2026. Stop if the form asks for any payment, and note the start date it gives.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-11-02",
+      "notes": "Found as a feed lead (Opportunity Desk, 30 October 2026). The organiser's home page still carries the 2026 heading; the 2027 call and deadline are on the application page.",
+      "match_keywords": [
+        "telemachus",
+        "athena mentoring",
+        "global thinkers forum",
+        "telemachus & athena"
       ]
     },
     {
@@ -4811,7 +4951,7 @@
       "id": "irex-community-solutions-program",
       "title": "Community Solutions Program",
       "organization": "IREX, sponsored by the U.S. Department of State",
-      "overview": "Four-month professional fellowship in the United States for community leaders. The official page still describes the 2025 cycle and no later call has been published.",
+      "overview": "Professional fellowship in the United States for community leaders aged 27 to 39, funded by the U.S. Department of State. The 2027 application is open, but the Democratic Republic of the Congo is no longer on the eligible-country list.",
       "category": [
         "Fellowship",
         "Exchange",
@@ -4830,21 +4970,21 @@
       "continent": "North America",
       "location_type": "International travel",
       "delivery_mode": "In-person",
-      "program_dates": "The page read still says 'four months from August to December 2025'",
+      "program_dates": "2027, subject to confirmation: orientation 2-5 August, practicum 9 August - 29 October, End-of-Program Workshop 1-4 November 2027",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No current call. The official page still refers to travel 'from August to December 2025'.",
+      "deadline_text": "'The application for the 2027 Community Solutions Program is now Open' (IREX page, 2 November 2026). Neither the IREX page nor csp.irex.org showed a closing date when read.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
-      "open_now": false,
+      "open_now": true,
       "rolling": false,
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "DATE UNKNOWN",
-      "funding_type": "Fully Funded",
+      "status": "OPEN",
+      "funding_type": "Substantially Funded",
       "funding_details": [
-        "The programme covers the cost of most expenses associated with: J-1 visa support; round-trip travel from the participant's home city to the U.S.; a monthly allowance for housing, meals and other living expenses; accident and sickness health coverage"
+        "'The program covers the cost of most expenses': J-1 visa support; round-trip travel from the home city to the U.S.; a monthly allowance for housing, meals and other living costs; accident and sickness health coverage; accessibility accommodations"
       ],
       "coverage": {
         "tuition": "Not specified",
@@ -4866,26 +5006,28 @@
       "participation_fee": "Unknown / Not specified",
       "stipend": "Unknown / Not specified",
       "eligibility": [
-        "Citizen of an eligible country; the Africa list includes the Democratic Republic of Congo",
-        "At least two years of experience working on community development, as a full-time or part-time employee or volunteer",
-        "Semi-finalists must pass or submit a recent TOEFL or IELTS score",
-        "Able to travel to the U.S. unaccompanied for four months",
-        "Eligible for a U.S. J-1 visa"
+        "Between 27 and 39 years old at the time of application",
+        "Citizen of a country listed on the official application website",
+        "At least five years of experience on community issues, with measurable benefits to local communities",
+        "Living and working in the home country at the time of application",
+        "High level of spoken and written English; semi-finalists need TOEFL 520 (213 computer-based) or take an Institutional TOEFL or other approved assessment",
+        "Able to start in the U.S. in 2027 and complete the three- to four-month exchange",
+        "Eligible for a U.S. J-1 visa; commit to returning home for at least two years and carrying out a SCALE-Up project"
       ],
       "nationality_requirements": [
-        "Africa: Botswana, Cameroon, Democratic Republic of Congo, Ghana, Guinea, Kenya, Liberia, Malawi, Mozambique, Namibia, Sierra Leone, Tanzania, Uganda, Zambia, Zimbabwe"
+        "2027 Africa list: Botswana, Cameroon, Ethiopia, Ghana, Guinea, Kenya, Liberia, Mozambique, Namibia, Rwanda, Uganda (the Democratic Republic of the Congo is not listed)"
       ],
-      "age_requirement": "Secondary sources gave 26 to 39 for the 2025 cycle; not on the page read",
+      "age_requirement": "27 to 39 at the time of application",
       "education_requirement": "Unknown / Not specified",
-      "experience_requirement": "At least two years of community development work (paid or volunteer)",
-      "language_requirement": "English; TOEFL or IELTS for semi-finalists",
+      "experience_requirement": "At least five years of experience on community issues",
+      "language_requirement": "High English proficiency; TOEFL 520 / 213 or an approved assessment for semi-finalists",
       "other_requirements": [],
       "documents_required": [],
       "application_process": [
         "Download the application instructions from the IREX page when a cycle opens",
         "Questions: apply.csp@irex.org"
       ],
-      "official_application_url": "",
+      "official_application_url": "https://csp.irex.org/",
       "official_information_url": "https://www.irex.org/program/community-solutions-program-application-information",
       "source_url": "https://www.irex.org/program/community-solutions-program-application-information",
       "source_type": "Official",
@@ -4893,16 +5035,22 @@
       "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
-          "label": "Community Solutions Program application information",
+          "label": "Community Solutions Program application information (2027)",
           "url": "https://www.irex.org/program/community-solutions-program-application-information",
+          "type": "Official"
+        },
+        {
+          "label": "CSP application system",
+          "url": "https://csp.irex.org/",
           "type": "Official"
         }
       ],
       "eligibility_for_me": "NOT ELIGIBLE",
-      "eligibility_reason": "The programme requires at least two years of community development experience. The profile records under one year of short assignments.",
+      "eligibility_reason": "The 2027 Africa country list does not include the Democratic Republic of the Congo. The programme also requires five years of community experience and a minimum age of 27; the profile records under one year of short assignments.",
       "potential_issues": [
-        "No open cycle: the page has not been updated since the 2025 cycle",
-        "Two-year experience requirement"
+        "The DRC was dropped from the eligible-country list for 2027",
+        "Five-year experience requirement and age 27 to 39",
+        "No closing date visible on the IREX page or the application site"
       ],
       "benefits": [
         "Four-month U.S. fellowship",
@@ -4917,7 +5065,7 @@
         "accessibility": "Low",
         "profile_fit": "Low"
       },
-      "relevance_reason": "Lists the DRC and funds everything, so worth knowing about, but out of reach until two years of community work are documented.",
+      "relevance_reason": "Fully funded travel to the U.S., but the DRC is not an eligible country for 2027 and the experience requirement is far above the profile. Kept so the record is recognised in feeds.",
       "travel_value": "Very High",
       "career_value": "High",
       "academic_value": "Low",
@@ -4927,12 +5075,13 @@
         "support": "J-1 visa support is provided."
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "No action now. Volunteer work started today counts toward the two-year requirement for a later cycle.",
-      "last_verified": "2026-10-02",
+      "action": "No action for 2027 (DRC not eligible). Check the country list again when the 2028 cycle opens.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "2 November 2026: the 2027 cycle opened (seen again in Opportunity Desk, Opportunities for Africans and Opportunities Corners feeds). Compared with the 2025 page, the DRC, Malawi, Sierra Leone, Tanzania, Zambia and Zimbabwe are no longer in the Africa list; Ethiopia and Rwanda were added. Experience requirement rose from two to five years. Contact: apply.csp@irex.org. Funding label lowered from Fully Funded to Substantially Funded: the organiser's wording is 'covers the cost of most expenses', not 'fully funded'.",
       "match_keywords": [
-        "community solutions program"
+        "community solutions program",
+        "irex community solutions"
       ]
     },
     {
@@ -5185,7 +5334,7 @@
       },
       "upfront_cost_risk": "None stated.",
       "action": "If you are 26 or younger, apply before 15 November 2026.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
       "notes": "",
       "match_keywords": [
@@ -7398,7 +7547,7 @@
       "program_dates": "One Young World Summit, 3-6 November 2026",
       "application_deadline": "2026-10-31",
       "deadline_utc": "",
-      "deadline_text": "Application deadline: 31 October 2026. Opening date: 11 June 2026. The same page also shows 'Application Deadline: Rolling' further down. 'Applications will be reviewed on a rolling basis'; selected candidates are notified 'between June to October 2026'.",
+      "deadline_text": "Application deadline: 31 October 2026 (opening date 11 June 2026). Re-read 2 November 2026: the page now shows 'Application Deadline: Closed.' Selected candidates were notified by email between June and October 2026.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "2026-06-11",
       "open_now": false,
@@ -7497,9 +7646,9 @@
       },
       "upfront_cost_risk": "Visa costs, and possibly travel and hotel.",
       "action": "No action. Other One Young World scholarships open through the year: check the scholarships page in early 2027 for one that lists the DRC.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "Re-verified 12 October 2026: the only Congo entry on the country list is still 'Congo-Brazzaville'; the DRC is not listed. Summit: Cape Town, 3-6 November 2026. The general scholarships page lists only this scholarship as open.",
+      "notes": "Re-verified 2 November 2026 after a source_changed flag: the change is the deadline line now reading 'Closed'. The country list still includes Congo-Brazzaville but not the Democratic Republic of the Congo. Summit: Cape Town, 3-6 November 2026. Visa fees for South Africa are at the scholar's expense; transport and accommodation are decided case by case.",
       "match_keywords": [
         "one young world"
       ]
@@ -7536,7 +7685,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Partially Funded",
       "funding_details": [
         "Tuition 'funded from the federal budget'; home page: 'Your tuition fees will be covered by the Government of the Russian Federation.'",
@@ -7803,13 +7952,13 @@
       "program_dates": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "No 2027-2028 call published on 26 October 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item, the PAU website shows no new call, and the application platform states 'Applications closed on 15/12/2025'. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
+      "deadline_text": "No 2027-2028 call published on 2 November 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item, and the application platform still states 'Applications closed on 15/12/2025'. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "If the pattern repeats, the next call opens around mid-November 2026 (the last call ran 15 November to 15 December 2025). Not announced as of 26 October 2026.",
+      "expected_next_cycle": "If the pattern repeats, the next call opens around mid-November 2026 (the last call ran 15 November to 15 December 2025). Not announced as of 2 November 2026; one scholarship blog projects 15 November 2026, which is not an official source.",
       "last_cycle_deadline": "2025-12-15",
       "status": "UPCOMING",
       "funding_type": "Fully Funded",
@@ -7867,7 +8016,7 @@
       "verification": "VERIFIED",
       "sources": [
         {
-          "label": "African Union announcements (no 2027-2028 PAU call listed)",
+          "label": "African Union announcements (no 2027-2028 PAU call listed on 2 Nov 2026)",
           "url": "https://au.int/en/announcements",
           "type": "Official"
         },
@@ -7923,10 +8072,10 @@
         "support": "Unknown / Not specified"
       },
       "upfront_cost_risk": "Unknown / Not specified",
-      "action": "Check your exact age against the limit first (master's: 25 for men, 28 for women). If you are within it, watch au.int announcements and au-pau.org from mid-November 2026.",
-      "last_verified": "2026-10-26",
+      "action": "Check your exact age against the limit first (master's: 25 for men, 28 for women). If you are within it, open au.int/en/announcements and au-pau.org from 15 November 2026.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "26 October 2026: no 2027-2028 call on au.int, au-pau.org or pau-au.africa. The PAU site's other admissions items are old (a refugee/IDP special call that closed 22 January 2025 and a 2020-2021 deadline extension). The PAU scholarships page states that the scholarship covers tuition and living expenses, that insurance is paid from the stipend, and that holders must serve an AU Member State afterwards. A web search found no 2027-2028 call either. https://www.au-pau.org/submission/ is the official application platform.",
+      "notes": "2 November 2026, after a source_changed flag: the 2026-2027 announcement page was re-read and still gives only the 15 November - 15 December 2025 window; the au.int announcements list (latest item 1 August 2026) and au-pau.org/submission show no new call. Master's age limit 25 (men) / 28 (women); second-class upper degree required. The PAU scholarships page states that the scholarship covers tuition and living expenses, that insurance is paid from the stipend, and that holders must serve an AU Member State afterwards.",
       "match_keywords": [
         "pan african university"
       ]
@@ -8068,7 +8217,7 @@
       },
       "upfront_cost_risk": "Low: airfare, accommodation, meals and local transport are covered",
       "action": "If you are 28 or older and can show leadership achievements in politics, diplomacy, business, media, civil society or academia, complete the PCNS application form by Monday 2 November 2026, 5:00 pm Casablanca time. Before spending time on it, check whether PCNS still limits the places to its youth community.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
       "notes": "Part of the strategic partnership between PCNS, ORF and the Italian Institute for International Political Studies (ISPI), through which each institution nominates people for the others' programmes. 29 October 2026: the former page (pcns-youth-community-call-applications-raisina-young-fellows-programme-2027) returns 404 and the call now sits at the address above; the application form link is unchanged.",
       "match_keywords": [
@@ -8943,9 +9092,9 @@
       },
       "upfront_cost_risk": "Flight and first months of living costs are likely to be self-funded.",
       "action": "Look at the official site from November 2026 for the 2027/2028 call, and find out which DRC authority handles nominations.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "2 November 2026: the Apply page still shows only the 2026/2027 round (deadline 15 January 2026, 2 pm CET) and says there is one application deadline each year. No 2027/2028 call yet; the previous call opened on 17 November 2025.",
       "match_keywords": [
         "stipendium hungaricum"
       ]
@@ -9360,7 +9509,7 @@
       },
       "upfront_cost_risk": "High unless a fellowship is awarded: 3000 CNY fee plus flights",
       "action": "Apply only if you would accept paying the 3000 CNY fee and flights should no fellowship be awarded. Otherwise skip.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-05",
       "notes": "19 October 2026: official page re-read; dates (19 December 2026 - 1 January 2027), deadline (8 November 2026, UTC+8), 3000 CNY fee, fellowship wording and eligibility unchanged. 12 October 2026: unchanged.",
       "match_keywords": [
@@ -10421,5 +10570,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-01"
+  "status_computed_on": "2026-11-02"
 }
