@@ -10,7 +10,7 @@ Method: every page cited below was opened again in this run, with a plain `curl`
 where that failed, once with the WebFetch tool. Facts come from the page text, not from the first pass's summaries.
 Google Forms and Microsoft Forms were not logged into. Nothing was applied for, paid, registered or sent.
 
-Result: **4 new records** (one is a LOW-confidence warning), **18 records with changed content**, 5 records re-read
+Result: **4 new records** (one is a LOW-confidence warning), **19 records with changed content**, 5 records re-read
 with only a new `last_verified` date; 77 live records (73 before); `validate.py` ends with 0 errors and the one existing
 warning (Chevening: "Fully Funded", components not itemised on the pages). LIKELY ELIGIBLE labels fell from 15 to 8.
 
@@ -48,10 +48,12 @@ warning (Chevening: "Fully Funded", components not itemised on the pages). LIKEL
      the DRC, so the grade rule for a Congolese Licence is unpublished (stays PARTIALLY VERIFIED).
    - **DAAD In-Country/In-Region**: the official page says the scholarship "usually includes" tuition, a monthly rate, allowances
      and, for In-Region scholars only, travel and insurance. Now Substantially Funded.
+   - **Tony Elumelu Entrepreneurship Programme**: the page describes training, mentoring and a "$5,000 non-refundable seed capital" paid
+     into the business account after a document review, never "fully funded". Now Partially Funded (the stipend coverage mark was also wrong).
    - Left as Fully Funded because the pages carry comprehensive wording or itemise it: Gates Cambridge, Mastercard Foundation
      Scholars (Cambridge, Edinburgh, Sciences Po, McGill), Knight-Hennessy, Mandela Rhodes, Schwarzman, VLIR-UOS, Yenching,
-     Kectil, Chevening (its page says "fully-funded", no itemised components). **For a person to review:** Tony Elumelu (a USD 5,000
-     seed grant, no travel) and the Swedish Institute (not eligible anyway; insurance not included).
+     Kectil, Chevening (its page says "fully-funded", no itemised components). **For a person to review:** the Swedish Institute
+     (not eligible anyway; its page says insurance is not included).
 6. **ARES international training scholarships** (earlier: "pages return empty content", INSUFFICIENT INFORMATION). The ARES page
    now reads with a plain request: deadline 18 September 2026 and "Prochain appel : Aout 2027" (both official), the DRC ("RD Congo")
    is among the 32 countries, the scholarship covers international travel, a subsistence allowance, registration fees, visa costs
@@ -138,7 +140,7 @@ warning (Chevening: "Fully Funded", components not itemised on the pages). LIKEL
 
 ## Updated records and what changed
 
-Content changes: Global Leadership Challenge, Jim Leech, DAAD Helmut-Schmidt, ICANN, Mandela Washington, Stipendium Hungaricum, Nasser,
+Content changes: Global Leadership Challenge, Jim Leech, Tony Elumelu, DAAD Helmut-Schmidt, ICANN, Mandela Washington, Stipendium Hungaricum, Nasser,
 ARES, Mundus MAPP, GLOCAL, DAAD In-Country/In-Region, Wageningen, AUC, Dalai Lama Fellows, Raisina, AFS, Chevening, FAO RAF (note only).
 Only a new `last_verified` date: Yenching, Sciences Po Boutmy and Mastercard, WFF Youth Policy Board, Obama Foundation Leaders.
 `data/sources.json` watchlist: Chinese Government Scholarship (2027/2028 round open per the Chinese Embassy in Indonesia's notice, general

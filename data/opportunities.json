@@ -9659,14 +9659,15 @@
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
       "status": "UPCOMING",
-      "funding_type": "Fully Funded",
+      "funding_type": "Partially Funded",
       "funding_details": [
-        "Non-returnable seed capital of USD 5,000 for selected entrepreneurs",
-        "Business training on TEFConnect and mentorship"
+        "Official page: selected participants get access to TEF training, pairing with mentors and coaching; those who complete the investment-readiness phase and pass the document review are 'deemed eligible to receive their $5,000 non-refundable seed capital', paid into the business account",
+        "The seed capital is a contribution to launch or scale the business, not a stipend; the page does not use the words 'fully funded'",
+        "No application fee is mentioned on the page read"
       ],
       "coverage": {
         "tuition": "Covered",
-        "stipend": "Covered",
+        "stipend": "Not applicable",
         "flight": "Not applicable",
         "accommodation": "Not applicable",
         "meals": "Not applicable",
@@ -9681,8 +9682,8 @@
       "visa_funded": false,
       "insurance_funded": false,
       "local_transport_funded": false,
-      "participation_fee": "Unknown / Not specified",
-      "stipend": "USD 5,000 non-returnable seed capital",
+      "participation_fee": "None mentioned on the page read",
+      "stipend": "None; USD 5,000 non-refundable seed capital for the business after the training and document review",
       "eligibility": [
         "Africans aged 18 and above who reside in Africa and plan to establish their business in Africa",
         "A business idea or a business no older than 5 years",
@@ -9755,9 +9756,9 @@
       },
       "upfront_cost_risk": "None stated.",
       "action": "Optional. If you have a business idea, prepare it for the 1 January 2027 opening.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "The official programme page still carries the 2025 title; the 1 January to 1 March window is stated as a yearly rule.",
+      "notes": "The official programme page still carries the 2025 title; the 1 January to 1 March window is stated as a yearly rule. 2 November 2026 (rerun): programme page re-read (window 1 January to 1 March on TEFConnect; seven phases: application, due diligence with World-Check screening and physical verification, shortlist, training, investment readiness, seed capital). Label lowered from Fully Funded to Partially Funded: the organiser describes training plus a USD 5,000 seed grant, never 'fully funded'.",
       "match_keywords": [
         "tony elumelu",
         "tef entrepreneurship"

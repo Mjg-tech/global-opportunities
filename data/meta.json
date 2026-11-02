@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T12:35:08Z",
+  "last_refresh": "2026-11-02T12:36:01Z",
   "counts": {
     "total": 77,
     "archived": 4,
@@ -13,9 +13,9 @@
       "DATE UNKNOWN": 7
     },
     "by_funding": {
-      "Fully Funded": 26,
+      "Fully Funded": 25,
       "Substantially Funded": 19,
-      "Partially Funded": 6,
+      "Partially Funded": 7,
       "Travel Funded": 2,
       "Participation Funded": 6,
       "Self Funded": 0,

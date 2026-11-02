@@ -1,0 +1,141 @@
+[
+  {
+    "id": "tony-elumelu-entrepreneurship-programme-2027",
+    "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+    "organization": "The Tony Elumelu Foundation",
+    "overview": "Training, mentorship and USD 5,000 of non-returnable seed capital for African entrepreneurs in all 54 countries. The application portal opens every year from 1 January to 1 March.",
+    "category": [
+      "Entrepreneurship",
+      "Training"
+    ],
+    "subcategory": [
+      "Seed funding",
+      "Online training"
+    ],
+    "education_levels": [
+      "Open to all"
+    ],
+    "country": "Online (all 54 African countries)",
+    "city": "Online",
+    "region": "Africa",
+    "continent": "Africa",
+    "location_type": "Remote",
+    "delivery_mode": "Online",
+    "program_dates": "Yearly cycle starting with applications from 1 January",
+    "application_deadline": "2027-03-01",
+    "deadline_utc": "",
+    "deadline_text": "Every year, the application portal opens on the 1st of January till midnight on the 1st of March, on www.TEFConnect.com.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "2027-01-01",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "status": "UPCOMING",
+    "funding_type": "Partially Funded",
+    "funding_details": [
+      "Official page: selected participants get access to TEF training, pairing with mentors and coaching; those who complete the investment-readiness phase and pass the document review are 'deemed eligible to receive their $5,000 non-refundable seed capital', paid into the business account",
+      "The seed capital is a contribution to launch or scale the business, not a stipend; the page does not use the words 'fully funded'",
+      "No application fee is mentioned on the page read"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Not applicable",
+      "flight": "Not applicable",
+      "accommodation": "Not applicable",
+      "meals": "Not applicable",
+      "visa": "Not applicable",
+      "insurance": "Not applicable",
+      "local_transport": "Not applicable"
+    },
+    "travel_funded": false,
+    "flight_funded": false,
+    "accommodation_funded": false,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": false,
+    "local_transport_funded": false,
+    "participation_fee": "None mentioned on the page read",
+    "stipend": "None; USD 5,000 non-refundable seed capital for the business after the training and document review",
+    "eligibility": [
+      "Africans aged 18 and above who reside in Africa and plan to establish their business in Africa",
+      "A business idea or a business no older than 5 years",
+      "Must not have previously benefited from any of the Foundation's earlier programmes",
+      "A minimum score in the application's business assessment test"
+    ],
+    "nationality_requirements": [
+      "All 54 African countries"
+    ],
+    "age_requirement": "18 and above",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [
+      "Valid identity card",
+      "Photo headshot"
+    ],
+    "application_process": [
+      "Register on TEFConnect and complete the application form between 1 January and 1 March",
+      "Eligibility notification after the business assessment test",
+      "Due diligence, shortlisting, training, then seed capital disbursement"
+    ],
+    "official_application_url": "https://www.tefconnect.com/",
+    "official_information_url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+    "source_url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "TEF Entrepreneurship Programme",
+        "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+        "type": "Official"
+      },
+      {
+        "label": "The Tony Elumelu Foundation",
+        "url": "https://www.tonyelumelufoundation.org/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "An African resident aged 18 or over qualifies on nationality, residence and age, but the programme requires a business idea or a business under 5 years old, which the profile does not record.",
+    "potential_issues": [
+      "Requires a business idea or a business under 5 years old",
+      "Seed capital disbursed only after document review"
+    ],
+    "benefits": [
+      "USD 5,000 seed capital",
+      "Training and mentorship",
+      "Alumni network across Africa"
+    ],
+    "relevance": {
+      "academic": "Low",
+      "career": "Medium",
+      "travel": "Low",
+      "networking": "High",
+      "funding": "High",
+      "accessibility": "High",
+      "profile_fit": "Low"
+    },
+    "relevance_reason": "Relevant only if self-employment becomes part of the plan; otherwise it does not advance the job-search tracks.",
+    "travel_value": "Low",
+    "career_value": "Medium",
+    "academic_value": "Low",
+    "networking_value": "High",
+    "visa": {
+      "required": "No",
+      "support": "Not applicable (online)"
+    },
+    "upfront_cost_risk": "None stated.",
+    "action": "Optional. If you have a business idea, prepare it for the 1 January 2027 opening.",
+    "last_verified": "2026-11-02",
+    "date_discovered": "2026-10-02",
+    "notes": "The official programme page still carries the 2025 title; the 1 January to 1 March window is stated as a yearly rule. 2 November 2026 (rerun): programme page re-read (window 1 January to 1 March on TEFConnect; seven phases: application, due diligence with World-Check screening and physical verification, shortlist, training, investment readiness, seed capital). Label lowered from Fully Funded to Partially Funded: the organiser describes training plus a USD 5,000 seed grant, never 'fully funded'.",
+    "match_keywords": [
+      "tony elumelu",
+      "tef entrepreneurship"
+    ]
+  }
+]
