@@ -1604,7 +1604,7 @@
       "id": "daad-helmut-schmidt-programme",
       "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
       "organization": "DAAD (German Academic Exchange Service)",
-      "overview": "Scholarships for master's degrees in public policy, governance and development at selected German universities, for graduates from developing and emerging countries. The application period for the 2027 intake has passed.",
+      "overview": "DAAD scholarships for master's degrees in public policy, governance and development at seven German courses, for graduates from developing and emerging countries who have a strong first degree and relevant practical experience. The application period for the 2027 intake (1 June to 31 July 2026) is over.",
       "category": [
         "Scholarship"
       ],
@@ -1624,65 +1624,80 @@
       "program_dates": "Master's studies start in September or October of the intake year",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Not stated on the official programme page. Secondary sources report an application period of 1 June to 31 July 2026 for the 2027 intake.",
+      "deadline_text": "Official call (Stipendienausschreibung 05/2026, study from September/October 2027): 'The application period for all seven higher education institutions is from 1 June until 31 July 2026.' Selection October/November 2026; applicants informed December 2026/January 2027. The programme page and database entry give no dates and defer to this announcement.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "Next application period expected June to July 2027 for the 2028 intake, if the yearly pattern holds.",
+      "expected_next_cycle": "No call for the 2028 intake is published. The 2027 call ran 1 June to 31 July 2026; if the yearly pattern holds the next period would again fall in June and July 2027, but no page states it.",
       "last_cycle_deadline": "2026-07-31",
       "status": "UPCOMING",
-      "funding_type": "Funding Unclear",
+      "funding_type": "Substantially Funded",
       "funding_details": [
-        "The official page confirms German courses in Germany for up to six months before the degree",
-        "Amounts (monthly payment, travel allowance, insurance) are in the call PDF, which was not read this cycle",
-        "Secondary sources describe the scholarship as fully funded"
+        "Official call (Stipendienausschreibung 05/2026, for studies from September/October 2027): scholarship 'of currently EUR 992 per month'; health insurance cover in Germany; 'fixed travel allowances (lump sums)' between Germany and the home country; a study and research grant; rent subsidies and family supplements 'as applicable'",
+        "'DAAD scholarship holders are exempt from paying tuition fees'",
+        "A preceding German language course in Germany of up to 4 months is mandatory (the programme page says up to six months)",
+        "The call does not use the words 'fully funded'; 'Social Protection' pays EUR 500 a month in its online fourth semester"
       ],
       "coverage": {
-        "tuition": "Not specified",
-        "stipend": "Not specified",
-        "flight": "Not specified",
-        "accommodation": "Not specified",
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Partially covered",
         "meals": "Not specified",
         "visa": "Not specified",
-        "insurance": "Not specified",
+        "insurance": "Covered",
         "local_transport": "Not specified"
       },
-      "travel_funded": false,
+      "travel_funded": true,
       "flight_funded": false,
       "accommodation_funded": false,
       "meals_funded": false,
       "visa_funded": false,
-      "insurance_funded": false,
+      "insurance_funded": true,
       "local_transport_funded": false,
-      "participation_fee": "Unknown / Not specified",
-      "stipend": "Unknown / Not specified",
+      "participation_fee": "No application fee is mentioned in the call",
+      "stipend": "EUR 992 a month (current rate in the call), plus a study and research grant, rent subsidies and family supplements as applicable",
       "eligibility": [
-        "Candidates from developing and emerging countries",
-        "A first university degree (bachelor or equivalent)",
-        "Fields: social and political sciences, law, economics, public policy, administration",
-        "Open to young graduates without professional experience and to mid-career professionals",
-        "Reported by secondary sources: last degree obtained after 1 January 2020"
+        "Graduates from developing and emerging countries (bachelor or equivalent) with a well-qualified first university degree and above-average grades (upper third) in Social and Political Sciences, Law, Economics, Public Policy and Administration",
+        "Willing to actively contribute to the social, political and economic development of their home country or region",
+        "Practical experience relevant to the programme (professional experience, internships, political or social commitment); the minimum depends on the master's course",
+        "Last university degree not older than six years at the time of application (not issued before 1 January 2020)",
+        "Candidates who already hold a master's degree must argue why they should be funded for another one",
+        "Not more than 15 months in the past spent in a country not on the DAC list"
       ],
       "nationality_requirements": [
-        "Developing and emerging countries; 'Congo, Democratic Republic' is on the country list of the DAAD scholarship database entry"
+        "Graduates from developing and emerging countries; the Democratic Republic of the Congo (L) is on the DAC list of ODA recipients attached to the call and 'Congo, Democratic Republic' is on the DAAD database country list",
+        "Candidates who spent more than the past 15 months in a country not on the DAC list are not eligible"
       ],
-      "age_requirement": "Unknown / Not specified",
-      "education_requirement": "First university degree in social or political science, law, economics or administration",
-      "experience_requirement": "None required",
-      "language_requirement": "Unknown / Not specified",
+      "age_requirement": "None stated",
+      "education_requirement": "First university degree (bachelor or equivalent) with above-average grades (upper third) in Social and Political Sciences, Law, Economics, Public Policy and Administration; last degree not more than six years old (issued on or after 1 January 2020). Each course adds its own rules (for example Social Protection names Economics/Business Administration degrees and a written entry exam; the Passau courses need 60 ECTS in social sciences or economics and 10 ECTS of research methods)",
+      "experience_requirement": "Practical experience relevant to the programme is required: 'professional experience, internships, political/social commitment'. Minimums by course: Magdeburg 3 months (or study abroad), Passau 4 months, Social Protection 5 months, Duisburg-Essen one year full-time, Erfurt one year, Osnabruck two years in the non-profit sector",
+      "language_requirement": "Proof of English required, level set by each course (Magdeburg C1, Osnabruck B2; others 'very good' or 'excellent')",
       "other_requirements": [],
-      "documents_required": [],
+      "documents_required": [
+        "Signed checklist and criteria list",
+        "DAAD application form",
+        "One letter of motivation (maximum two pages)",
+        "Europass CV with date of issue",
+        "Degree certificates",
+        "Full transcript with an explanation of the grading system",
+        "Confirmations of relevant professional experience, internships or community service on headed paper",
+        "Proof of English language skills",
+        "A written reference from the current employer or a university lecturer, only if currently employed or a student"
+      ],
       "application_process": [
-        "Apply to the participating universities during the application period, following the current DAAD call"
+        "Apply directly to up to two of the seven participating master's courses (not to the DAAD) during the application period, with the same letter of motivation for both",
+        "A DAAD selection committee meets in October or November 2026; proposed candidates are asked by the DAAD to upload full documents; all applicants hear in December 2026 or January 2027",
+        "2027 call: the application period for all seven institutions ran from 1 June until 31 July 2026"
       ],
       "official_application_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
       "official_information_url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/helmut-schmidt-programme/",
       "source_url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/helmut-schmidt-programme/",
       "source_type": "Official",
-      "source_confidence": "MEDIUM",
-      "verification": "PARTIALLY VERIFIED",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
       "sources": [
         {
           "label": "DAAD programme page",
@@ -1695,21 +1710,41 @@
           "type": "Official"
         },
         {
+          "label": "DAAD current announcement, Helmut-Schmidt-Programme 2027 (PDF, 05/2026): eligibility, funding, application period",
+          "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_current_announcement.pdf",
+          "type": "Official"
+        },
+        {
+          "label": "DAAD: information about the master's courses (PDF): course prerequisites",
+          "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_information_about_the_master_s_courses.pdf",
+          "type": "Official"
+        },
+        {
+          "label": "DAAD: DAC list of ODA recipients (PDF attached to the call; the DRC is listed as an LDC)",
+          "url": "https://static.daad.de/media/daad_de/pdfs_nicht_barrierefrei/in-deutschland-studieren-forschen-lehren/daad_helmut_schmidt_programme_list_of_countries.pdf",
+          "type": "Official"
+        },
+        {
           "label": "Secondary summary of 2027 dates",
           "url": "https://www.opportunitiesforafricans.com/daad-helmut-schmidt-programme-masters-scholarships-2027/",
           "type": "Aggregator"
         }
       ],
-      "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "A business administration degree falls under the economics and administration fields, the programme explicitly accepts young graduates without professional experience, and the DRC is on the DAAD country list for this programme. Grade and degree-date rules are in the call PDF, which was not read.",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The DRC is on the DAC list, the 2024 degree is inside the six-year limit and the internships count as practical experience. The call asks for above-average grades (upper third) and a degree in social or political sciences, law, economics, public policy or administration; the profile records neither the grade nor how Business Administration is classified, and each course sets its own English and experience rules.",
       "potential_issues": [
-        "Application period for the 2027 intake is over",
-        "Amounts and the degree-date rule come from secondary sources; the call PDF was not read",
-        "Dates come from secondary sources"
+        "The application period for the 2027 intake (1 June to 31 July 2026) is over; no 2028 call is published",
+        "Above-average grades (upper third) are required; the degree grade is not recorded",
+        "Course prerequisites differ: a written entry exam (Social Protection), 60 ECTS in social sciences or economics and 10 ECTS in research methods (Passau), one to two years of experience (Duisburg-Essen, Erfurt, Osnabruck)",
+        "A mandatory German course of up to four months in Germany precedes the degree",
+        "Applications go to the master's courses, not to the DAAD, and applications sent to more than two institutions are excluded",
+        "An earlier version of this record said no experience was required; the call asks for relevant practical experience and sets minimums by course"
       ],
       "benefits": [
-        "Master's in public policy or governance in Germany",
-        "German language course before the degree"
+        "Master's in public policy or governance in Germany, with tuition waived",
+        "Monthly scholarship, health insurance and travel lump sums",
+        "German language course before the degree",
+        "Events, seminars and networking for scholarship holders"
       ],
       "relevance": {
         "academic": "Very High",
@@ -1720,7 +1755,7 @@
         "accessibility": "Medium",
         "profile_fit": "Very High"
       },
-      "relevance_reason": "The subject area and the 'no experience required' rule match the profile better than almost any other scholarship in this database. The Ministry internship supports a governance application.",
+      "relevance_reason": "The subject area matches the interests in public-sector and policy analysis and programme coordination, and the internships can count as the practical experience the call asks for. The upper-third grade rule and each course's prerequisites are not confirmed, and the window is closed until the next call.",
       "travel_value": "Very High",
       "career_value": "Very High",
       "academic_value": "Very High",
@@ -1729,11 +1764,11 @@
         "required": "Yes",
         "support": "Unknown / Not specified"
       },
-      "upfront_cost_risk": "Unknown / Not specified",
-      "action": "Use the winter to pick among the participating master's courses and gather documents, so the application is ready when the period opens in June 2027.",
-      "last_verified": "2026-10-12",
+      "upfront_cost_risk": "Low: no application fee is mentioned",
+      "action": "Nothing is open. Use the winter to check your Licence grade against the 'upper third' rule and the transcript against the course prerequisites (Social Protection at Bonn-Rhein-Sieg names Business Administration degrees and asks for five months of related experience), book an English test, and watch daad.de for the next call (the 2027 call ran 1 June to 31 July 2026).",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "On 12 October 2026 the programme page and database entry gave no dates; both defer to the 'Current Announcement'. WebFetch got HTTP 503 on the programme page; it was read with a direct request.",
+      "notes": "On 12 October 2026 the programme page and database entry gave no dates; both defer to the 'Current Announcement'. WebFetch got HTTP 503 on the programme page; it was read with a direct request. 2 November 2026 (rerun): the call PDF was read in full on static.daad.de (earlier cycles had only the programme page and a secondary summary). The 1 June to 31 July 2026 application period is now official, and the old 'no experience required' reading was wrong: the call requires relevant practical experience, internships included.",
       "match_keywords": [
         "helmut-schmidt",
         "helmut schmidt"
@@ -4803,8 +4838,8 @@
           "type": "Official"
         }
       ],
-      "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "The only stated conditions are being 21 or older and showing interest in ICANN's work, but nothing in the profile shows engagement with Internet governance yet.",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The conditions are being at least 21 and being 'interested in, or already engaged in' ICANN's work on policy, the Domain Name System and Internet security. The profile's interests (operations, business analysis, programme coordination, public-sector research) do not record any interest in or engagement with Internet governance, so that criterion is unconfirmed.",
       "potential_issues": [
         "No round currently open to first-time applicants",
         "Needs a demonstrated interest in domain names and Internet policy"
@@ -4833,9 +4868,9 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Low priority. Pair it with the Internet Society training if that field interests you.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "2 November 2026 (rerun): fellowship page re-read; the ICANN88 round is closed, the ICANN89 Policy Forum round (5 November to 5 December 2026) is for Fellowship alumni only. Label lowered from LIKELY to POSSIBLY ELIGIBLE because interest in ICANN's work is not recorded in the profile.",
       "match_keywords": [
         "icann fellowship"
       ]
@@ -6072,8 +6107,8 @@
           "type": "Official"
         }
       ],
-      "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "DRC citizens living in the DRC can apply and English is at professional level. An applicant under 30 falls within the 21 to 35 range, although below 25 only exceptional applicants are considered. Selection then turns on a proven record of accomplishment.",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "DRC citizens living in the DRC can apply and English is at professional level. The age rule is 25 to 35, with only exceptional applicants of 21 to 24 considered, and the profile records only an under-30 band. Selection turns on a proven record of accomplishment in business, trade, technology, governance or security, which the profile does not record.",
       "potential_issues": [
         "Applications closed on 13 October 2026",
         "The track record expected (business, trade, technology, governance or security) is thin on the recorded profile",
@@ -6106,9 +6141,9 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Applications for 2027 are closed. If you applied, semi-finalist interviews at the U.S. Embassy run until January 2027 and notifications come in February/March 2027; otherwise watch mandelawashingtonfellowship.org for the 2028 call.",
-      "last_verified": "2026-10-29",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "26 October 2026: /apply/, /apply-faqs/ and /2027-application-instructions/ now return HTTP 404 (taken down after the deadline). The About page states that 2027 applications are closed; the instructions PDF is still online and unchanged (deadline, eligibility, DRC on the country list, 'the U.S. Government will cover all program costs', no application fee). The application portal apply.mandelawashingtonfellowship.org still loads a login page. The '2027 Reciprocal Exchange Component' news item (deadline November 11, 2026) is for U.S. professionals, not African applicants. [auto 2026-10-28] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
+      "notes": "26 October 2026: /apply/, /apply-faqs/ and /2027-application-instructions/ now return HTTP 404 (taken down after the deadline). The About page states that 2027 applications are closed; the instructions PDF is still online and unchanged (deadline, eligibility, DRC on the country list, 'the U.S. Government will cover all program costs', no application fee). The application portal apply.mandelawashingtonfellowship.org still loads a login page. The '2027 Reciprocal Exchange Component' news item (deadline November 11, 2026) is for U.S. professionals, not African applicants. [auto 2026-10-28] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens. 2 November 2026 (rerun): label lowered from LIKELY to POSSIBLY ELIGIBLE because the exact age and a record of accomplishment are not in the profile. The 2027 cycle is closed.",
       "match_keywords": [
         "mandela washington"
       ]
@@ -7237,12 +7272,12 @@
           "type": "Official"
         }
       ],
-      "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "Age, nationality and language criteria are met. Selection favours people who already hold leadership roles or have international experience.",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The general conditions are met: age 18 to 40, open to all countries, English, not resident in Egypt. The selection criteria list eligible profiles (decision-makers, alumni of AU and UN programmes, civil society activists, heads of youth councils) and favour applicants with a community project and international experience; the profile records none of these.",
       "potential_issues": [
         "No open call",
         "Cost coverage not verified",
-        "Selection favours established youth leaders"
+        "Selection favours established youth leaders: the criteria page lists decision-makers, programme alumni, civil society activists and heads of youth councils, and scores international experience and a social-impact project"
       ],
       "benefits": [
         "Leadership programme in Egypt",
@@ -7268,9 +7303,9 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Look at the site again in January 2027 for the next batch.",
-      "last_verified": "2026-10-12",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "2 November 2026 (rerun): criteria page (dated 1 March 2025) re-read; general conditions unchanged. Label lowered from LIKELY to POSSIBLY ELIGIBLE.",
       "match_keywords": [
         "nasser fellowship"
       ]
@@ -9227,8 +9262,8 @@
           "type": "Official"
         }
       ],
-      "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "The DRC is on the official list of sending partners and the profile holds the bachelor's degree needed for a master's application. The nomination step run by the DRC authority still has to be checked.",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The DRC is on the official list of sending partners and the profile holds the bachelor's degree needed for a master's application. The Apply page's FAQ says 'only the nominated applicants can proceed with their applications'; the DRC authority's nomination step and the study fields agreed for the DRC are not recorded, so eligibility is unconfirmed.",
       "potential_issues": [
         "The stipend is about EUR 110 per month, so living costs need other funds",
         "Travel is not mentioned as covered",
@@ -9261,7 +9296,7 @@
       "action": "Look at the official site from November 2026 for the 2027/2028 call, and find out which DRC authority handles nominations.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "2 November 2026: the Apply page still shows only the 2026/2027 round (deadline 15 January 2026, 2 pm CET) and says there is one application deadline each year. No 2027/2028 call yet; the previous call opened on 17 November 2025.",
+      "notes": "2 November 2026: the Apply page still shows only the 2026/2027 round (deadline 15 January 2026, 2 pm CET) and says there is one application deadline each year. No 2027/2028 call yet; the previous call opened on 17 November 2025. 2 November 2026 (rerun, Apply page re-read): FAQ confirms nomination by the sending country is required and that the online application and admission exams are free of charge; no 2027/2028 call yet. Label lowered from LIKELY to POSSIBLY ELIGIBLE.",
       "match_keywords": [
         "stipendium hungaricum"
       ]
@@ -10840,8 +10875,8 @@
           "type": "Official"
         }
       ],
-      "eligibility_for_me": "LIKELY ELIGIBLE",
-      "eligibility_reason": "The stated criteria (age 16 to 46, any country, no experience needed) are met by the recorded profile. Eligibility to apply is not a place: the 70 funded seats are chosen competitively and the applicant would pay a non-refundable fee first.",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The stated criteria (age 16 to 46, any country, no experience needed) fit the recorded profile. Eligibility to apply is not a place: the 70 funded seats are chosen competitively, the applicant would pay a non-refundable fee first, and the selection rubric (motivation, leadership, relevance) cannot be checked against the profile.",
       "potential_issues": [
         "A non-refundable USD 16.99 fee is charged before selection ('mandatory, non-refundable, and cannot be disputed under any circumstances')",
         "Only 30 of 250 seats are fully funded and 40 partially funded (no airfare); the other 180 seats are sold for USD 399 to USD 999.99",

@@ -34,6 +34,23 @@ and Microsoft Forms were not logged into.
 6. **Dalai Lama Fellows**: the action still told the applicant to join the 28 October information session, which has
    passed. Updated.
 
+7. **DAAD Helmut-Schmidt-Programme** (earlier cycles: "call PDF not read"). Read now on static.daad.de: the 2027 call
+   (Stipendienausschreibung 05/2026) ran **1 June to 31 July 2026** (now official, not secondary), pays EUR 992 a month
+   plus health insurance, travel lump sums and tuition exemption, and asks for **above-average grades (upper third)**
+   and **relevant practical experience (professional experience or internships)**, with minimums by course (3 months
+   to 2 years). The record's old line "no experience required" was wrong, so its "very high" fit and LIKELY ELIGIBLE
+   label went. Now VERIFIED, Substantially Funded, POSSIBLY ELIGIBLE. The Social Protection course (Bonn-Rhein-Sieg)
+   names Business Administration degrees and asks for five months of related experience, so it is the one to watch
+   for the next call.
+8. **LIKELY ELIGIBLE labels that rest on unrecorded facts** (rule 5) lowered to POSSIBLY ELIGIBLE, each with the
+   missing fact named: ICANN Fellowship (interest in ICANN's work), Mandela Washington Fellowship (exact age 25-35 and
+   a record of accomplishment; the cycle is closed), Stipendium Hungaricum (the DRC authority's nomination, which
+   the FAQ says is required), Nasser Fellowship (the criteria list decision-makers, programme alumni, activists and
+   youth-council heads), plus the two found above (Global Leadership Challenge, Jim Leech). LIKELY ELIGIBLE records
+   fell from 15 to 8.
+9. **ICANN Fellowship**: the page lists the ICANN89 Policy Forum round (5 Nov to 5 Dec 2026) as open only to
+   Fellowship alumni; the ICANN88 round (Lisbon, March 2027) is closed. The record already said so; recorded for completeness.
+
 ## Re-verified independently (pages opened in this run)
 
 Text matched the records, except where listed above.
@@ -53,6 +70,7 @@ Text matched the records, except where listed above.
 | Yenching (30 Nov 09:00 Beijing) | yenchingacademy.pku.edu.cn admissions |
 | Jim Leech (1 Dec), Mundus MAPP (1 Dec 23:59 CET), Wageningen (1 Dec) | official pages |
 | GLOCAL (14 Jan), Weidenfeld-Hoffmann process page, Obama Leaders ("applications live on November 9", ages 24-45), Türkiye Burslari calendar (general round 10 January - 20 February), AUC fellowship pages, DAAD in-country overview PDF (09/2026; no deadlines in it) | official pages |
+| DAAD Helmut-Schmidt call, course and country PDFs; ICANN Fellowship page (ICANN88 closed, ICANN89 alumni only); Nasser criteria; Stipendium Hungaricum Apply page (nomination required, no 2027/2028 call); McKinsey.org Forward FAQ (raw page: "Applications are not open at the moment"; DRC on the Africa list); RLC East Africa (ages 18-35, DRC listed, no dates) | official pages |
 | One Young World (31 Oct, passed), Pan African University (au-pau.org: "Applications closed on 15/12/2025"; au.int announcements show no 2027-2028 call) | official pages |
 
 ## Could not read

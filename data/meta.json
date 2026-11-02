@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T12:16:46Z",
+  "last_refresh": "2026-11-02T12:21:06Z",
   "counts": {
     "total": 75,
     "archived": 4,
@@ -14,25 +14,25 @@
     },
     "by_funding": {
       "Fully Funded": 28,
-      "Substantially Funded": 14,
+      "Substantially Funded": 15,
       "Partially Funded": 6,
       "Travel Funded": 2,
       "Participation Funded": 6,
       "Self Funded": 0,
-      "Funding Unclear": 19
+      "Funding Unclear": 18
     },
     "by_eligibility": {
-      "LIKELY ELIGIBLE": 14,
-      "POSSIBLY ELIGIBLE": 51,
+      "LIKELY ELIGIBLE": 8,
+      "POSSIBLY ELIGIBLE": 57,
       "NOT ELIGIBLE": 4,
       "INSUFFICIENT INFORMATION": 6
     },
     "by_verification": {
-      "VERIFIED": 42,
-      "PARTIALLY VERIFIED": 28,
+      "VERIFIED": 43,
+      "PARTIALLY VERIFIED": 27,
       "NEEDS VERIFICATION": 5
     },
-    "travel_funded": 33
+    "travel_funded": 34
   },
   "deadline_buckets": {
     "30": [

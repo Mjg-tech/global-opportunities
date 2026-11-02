@@ -3,6 +3,154 @@
   "entries": [
     {
       "date": "2026-11-02",
+      "id": "youth-global-forum-2027-paris-cgdl",
+      "title": "Youth Global Forum 2027, Paris (Center for Global Dialogue and Leadership)",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "deadline_text",
+      "old": "Not stated on the official programme page. Secondary sources report an application period of 1 June to 31 July 2026 for the 2027 intake.",
+      "new": "Official call (Stipendienausschreibung 05/2026, study from September/October 2027): 'The application period for all seven higher education institutions is from 1 June until 31 July 2026.' Selection October/November 2026; applicants informed December 2026/January 2027. The programme page and database entry give no dates and defer to this announcement."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Partially covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "participation_fee",
+      "old": "Unknown / Not specified",
+      "new": "No application fee is mentioned in the call"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "eligibility",
+      "old": [
+        "Candidates from developing and emerging countries",
+        "A first university degree (bachelor or equivalent)",
+        "Fields: social and political sciences, law, economics, public policy, administration",
+        "Open to young graduates without professional experience and to mid-career professionals",
+        "Reported by secondary sources: last degree obtained after 1 January 2020"
+      ],
+      "new": [
+        "Graduates from developing and emerging countries (bachelor or equivalent) with a well-qualified first university degree and above-average grades (upper third) in Social and Political Sciences, Law, Economics, Public Policy and Administration",
+        "Willing to actively contribute to the social, political and economic development of their home country or region",
+        "Practical experience relevant to the programme (professional experience, internships, political or social commitment); the minimum depends on the master's course",
+        "Last university degree not older than six years at the time of application (not issued before 1 January 2020)",
+        "Candidates who already hold a master's degree must argue why they should be funded for another one",
+        "Not more than 15 months in the past spent in a country not on the DAC list"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "nationality_requirements",
+      "old": [
+        "Developing and emerging countries; 'Congo, Democratic Republic' is on the country list of the DAAD scholarship database entry"
+      ],
+      "new": [
+        "Graduates from developing and emerging countries; the Democratic Republic of the Congo (L) is on the DAC list of ODA recipients attached to the call and 'Congo, Democratic Republic' is on the DAAD database country list",
+        "Candidates who spent more than the past 15 months in a country not on the DAC list are not eligible"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "age_requirement",
+      "old": "Unknown / Not specified",
+      "new": "None stated"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "daad-helmut-schmidt-programme",
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "icann-fellowship",
+      "title": "ICANN Fellowship Program",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "stipendium-hungaricum-2027",
+      "title": "Stipendium Hungaricum scholarship (2027/2028)",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "nasser-fellowship-international-leadership",
+      "title": "Nasser Fellowship for International Leadership",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-02",
       "id": "eacsp-iucea-kfw-masters-scholarship-2026-cohort-4",
       "title": "EAC Scholarship Programme (EACSP) Phase II: KfW-funded two-year master's in another EAC country (IUCEA, cohort 4)",
       "field": "(new record)",
