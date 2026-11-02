@@ -1,7 +1,128 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "leads": [
+    {
+      "id": "d85e2db822e1",
+      "title": "Call for Submissions: New Developments in AI for Social, Economic, and Policy Research Conference 2027",
+      "url": "https://opportunitydesk.org/2026/11/02/new-developments-in-ai-for-social-economic-and-policy-research-conference-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "66fa7f456cc4",
+      "title": "Erase Indifference Challenge 2026 (€90,000 prize)",
+      "url": "https://opportunitydesk.org/2026/11/02/erase-indifference-challenge-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "9d976373aab3",
+      "title": "The International Journalists‘ Programmes (IJP) Southern-African Journalists’ Fellowship Programme 2027 in Germany (3,500 Euro Stipend).",
+      "url": "https://www.opportunitiesforafricans.com/the-international-journalists-programmes-ijp-southern-african-journalists-fellowship-programme-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "68f30433178b",
+      "title": "St. Gallen Symposium Global Ideas Competition 2027 (CHF 20,000 Prize & expenses-paid participation to the 56th St. Gallen Symposium in Switzerland)",
+      "url": "https://www.opportunitiesforafricans.com/st-gallen-symposium-global-ideas-competition-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3d546eba01ec",
+      "title": "Continental Reinsurance Plc Pan-African Re/Insurance Journalism Awards 2027 for Young African Journalists",
+      "url": "https://www.opportunitiesforafricans.com/continental-reinsurance-plc-pan-african-re-insurance-journalism-awards-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1ee5a9b9cfb1",
+      "title": "Max Planck MPIIB Internship 2027 in Germany (Fully Funded)",
+      "url": "https://opportunitiescorners.com/max-planck-mpiib-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "66bfb9cc5ea9",
+      "title": "Japan WINTER Culture Camp 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/japan-winter-culture-camp-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "00a6d0e20f68",
+      "title": "Top 12 Formations en Gestion de Projet – Gratuites avec Certificat à Suivre en Ligne",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/gestion-de-projets/top-12-formations-en-gestion-de-projet-gratuites-avec-certificat-a-suivre-en-ligne/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e579afe37825",
+      "title": "Harvard University Scholarships International Students (Fully Funded)",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/harvard-university-scholarships-international-students-fully-funded/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-01",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "42af04ebd586",
+      "title": "Becas para estudiar en Austria",
+      "url": "https://masoportunidades.org/becas-para-estudiar-en-austria/",
+      "source": "Mas Oportunidades",
+      "source_tier": 3,
+      "language": "es",
+      "published": "2026-10-23",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "9a50403687e4",
+      "title": "Llamado de Voluntarios ONU para conformar roster humanitario: convocatoria para profesionales y estudiante interesados en emergencias humanitarias",
+      "url": "https://masoportunidades.org/llamado-de-voluntarios-onu-para-conformar-roster-humanitario-convocatoria-para-profesionales-y-estudiante-interesados-en-emergencias-humanitarias/",
+      "source": "Mas Oportunidades",
+      "source_tier": 3,
+      "language": "es",
+      "published": "2026-10-05",
+      "first_seen": "2026-11-02",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "a3dff2a05e20",
       "title": "UTokyo Amgen Scholars Program 2027 in Japan (Fully Funded Internship)",
@@ -46,7 +167,8 @@
       "first_seen": "2026-10-31",
       "status": "NEEDS VERIFICATION",
       "also_seen_in": [
-        "Opportunity Desk"
+        "Opportunity Desk",
+        "OYA Opportunities"
       ]
     },
     {
@@ -56,17 +178,6 @@
       "source": "Organisation internationale de la Francophonie",
       "source_tier": 1,
       "language": "fr",
-      "published": "2026-10-30",
-      "first_seen": "2026-10-31",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "d05446873949",
-      "title": "Call for Mentees: Telemachus & Athena Mentoring Programme 2027",
-      "url": "https://opportunitydesk.org/2026/10/30/telemachus-athena-mentoring-programme-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
       "published": "2026-10-30",
       "first_seen": "2026-10-31",
       "status": "NEEDS VERIFICATION"
@@ -102,7 +213,10 @@
       "language": "en",
       "published": "2026-10-30",
       "first_seen": "2026-10-31",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "42204ed75a09",
@@ -2775,116 +2889,6 @@
       "language": "en",
       "published": "2026-10-07",
       "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "125647b4bd49",
-      "title": "Rhodes Scholarship 2027 at Oxford University, UK (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/rhodes-scholarship-2027-at-oxford-university-uk-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "8f56c9835581",
-      "title": "United Nations University Youth Summit 2026 in Malaysia (Fully Funded)",
-      "url": "https://opportunitiescorners.com/united-nations-university-youth-summit-2026-in-malaysia/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "eeacad089ce2",
-      "title": "Leadership and Peace Summit Morocco 2027 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/leadership-and-peace-summit-morocco-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2e137ce8618d",
-      "title": "Le lauréat 2026 du Prix des 5 continents à la rencontre des publics de l’océan Indien",
-      "url": "https://www.francophonie.org/tournee-ocean-indien-laureat-2026-prix-5-continents-8699",
-      "source": "Organisation internationale de la Francophonie",
-      "source_tier": 1,
-      "language": "fr",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a7292baae970",
-      "title": "Carnegie India Research Intern – Security Studies Program 2026",
-      "url": "https://www.globalsouthopportunities.com/2026/10/07/india-4/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "0a4e9ada5fbf",
-      "title": "KU Leuven AI Safety Lab Visiting Fellowships 2027 – €2,000 Monthly Allowance",
-      "url": "https://www.globalsouthopportunities.com/2026/10/07/leuven/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "f813fac802ae",
-      "title": "Council of Europe HEY Online Course on Environment 2026 – Free Youth Training",
-      "url": "https://www.globalsouthopportunities.com/2026/10/07/environment-5/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "76b07a2fea01",
-      "title": "Formation gratuite et certifiante de l’OIF en ligne : « Découvrabilité et politiques culturelles à l’ère du numérique »",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/technologie/formation-gratuite-et-certifiante-de-loif-en-ligne-decouvrabilite-et-politiques-culturelles-a-lere-du-numerique/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "4212167cbc6f",
-      "title": "Ernest May Fellowship in History and Policy 2027-2028 (stipend available)",
-      "url": "https://opportunitydesk.org/2026/10/06/ernest-may-fellowship-in-history-and-policy-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "3464e5b83fa6",
-      "title": "Kuwait Program Research Fellowship 2027-2028 at HKS Belfer Center ($65,000 stipend)",
-      "url": "https://opportunitydesk.org/2026/10/06/kuwait-program-research-fellowship-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-06",
-      "first_seen": "2026-10-07",
       "status": "NEEDS VERIFICATION"
     }
   ]
