@@ -10,7 +10,7 @@ Method: every page cited below was opened again in this run, with a plain `curl`
 where that failed, once with the WebFetch tool. Facts come from the page text, not from the first pass's summaries.
 Google Forms and Microsoft Forms were not logged into. Nothing was applied for, paid, registered or sent.
 
-Result: **4 new records** (one is a LOW-confidence warning), **19 records with changed content**, 5 records re-read
+Result: **4 new records** (one is a LOW-confidence warning), **21 records with changed content**, 5 records re-read
 with only a new `last_verified` date; 77 live records (73 before); `validate.py` ends with 0 errors and the one existing
 warning (Chevening: "Fully Funded", components not itemised on the pages). LIKELY ELIGIBLE labels fell from 15 to 8.
 
@@ -50,6 +50,14 @@ warning (Chevening: "Fully Funded", components not itemised on the pages). LIKEL
      and, for In-Region scholars only, travel and insurance. Now Substantially Funded.
    - **Tony Elumelu Entrepreneurship Programme**: the page describes training, mentoring and a "$5,000 non-refundable seed capital" paid
      into the business account after a document review, never "fully funded". Now Partially Funded (the stipend coverage mark was also wrong).
+   - **McKinsey.org Forward**: a free online learning programme ("There are no fees to apply, register, or partake"), so Participation Funded,
+     not Fully Funded. Its action still said "Apply today" although the FAQ now reads "Applications are not open at the moment"; fixed. The
+     FAQ answers sit in the page's embedded data, collapsed in the visible text; the DRC is on the Africa list. Now VERIFIED.
+   - **Türkiye Bursları**: upgraded in the other direction. The organiser's own words on its "Why Türkiye Scholarships?" page are "a fully
+     funded ... education" (tuition, one-year Turkish course, accommodation, a once-off flight ticket, health insurance, a monthly stipend of
+     9,500 TL at master's level). The criteria page, read directly (earlier cycles had only search snippets): master's applicants under 30,
+     at least 75% for graduate candidates, citizens of all countries except Turkey. The calendar still gives 10 January to 20 February with no
+     year. Now VERIFIED (it was PARTIALLY VERIFIED).
    - Left as Fully Funded because the pages carry comprehensive wording or itemise it: Gates Cambridge, Mastercard Foundation
      Scholars (Cambridge, Edinburgh, Sciences Po, McGill), Knight-Hennessy, Mandela Rhodes, Schwarzman, VLIR-UOS, Yenching,
      Kectil, Chevening (its page says "fully-funded", no itemised components). **For a person to review:** the Swedish Institute
@@ -140,7 +148,7 @@ warning (Chevening: "Fully Funded", components not itemised on the pages). LIKEL
 
 ## Updated records and what changed
 
-Content changes: Global Leadership Challenge, Jim Leech, Tony Elumelu, DAAD Helmut-Schmidt, ICANN, Mandela Washington, Stipendium Hungaricum, Nasser,
+Content changes: Global Leadership Challenge, Jim Leech, Tony Elumelu, Türkiye Bursları, McKinsey.org Forward, DAAD Helmut-Schmidt, ICANN, Mandela Washington, Stipendium Hungaricum, Nasser,
 ARES, Mundus MAPP, GLOCAL, DAAD In-Country/In-Region, Wageningen, AUC, Dalai Lama Fellows, Raisina, AFS, Chevening, FAO RAF (note only).
 Only a new `last_verified` date: Yenching, Sciences Po Boutmy and Mastercard, WFF Youth Policy Board, Obama Foundation Leaders.
 `data/sources.json` watchlist: Chinese Government Scholarship (2027/2028 round open per the Chinese Embassy in Indonesia's notice, general
@@ -172,7 +180,7 @@ deadlines), Erasmus Mundus umbrella, Objectif 2030 free courses (session 30 Nove
 (European Forum Alpbach, McKinsey.org Forward, RLC East Africa, Orange Digital Center). Strongest POSSIBLY ELIGIBLE on fit: Jim Leech (1 Dec),
 Yenching (30 Nov, needs IELTS 7.0 or equivalent), Wageningen ASP (1 Dec, first-class or 80%), Mundus MAPP (1 Dec, 3.17 GPA, limited awards),
 Maastricht NL-High Potential (10 Dec, 75%), Gates Cambridge and Mastercard Cambridge (8 Dec), then EPOG, GrEnFIn and Human Response (January).
-Next-year watch: McGill (Spring 2027), EACSP (next cohort), DAAD Helmut-Schmidt (June-July 2027), ARES (August 2027; needs two years of work).
+Next-year watch: Türkiye Bursları (window 10 January to 20 February, age under 30, 75%), McGill (Spring 2027), EACSP (next cohort), DAAD Helmut-Schmidt (June-July 2027), ARES (August 2027; needs two years of work).
 
 ## Suspicious or unverified items
 

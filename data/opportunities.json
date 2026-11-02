@@ -7106,7 +7106,7 @@
       "program_dates": "Multi-week programme following the application window",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Last cycle closed on 2026-10-05. Next cycle not announced yet.",
+      "deadline_text": "Official FAQ, 2 November 2026: 'Applications are not open at the moment. However, you can still register your interest through this online form to stay informed ... when a new application cycle opens in your country.' The previous cycle closed on 2026-10-05 (earlier reading).",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -7115,10 +7115,11 @@
       "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-10-05.",
       "last_cycle_deadline": "2026-10-05",
       "status": "UPCOMING",
-      "funding_type": "Fully Funded",
+      "funding_type": "Participation Funded",
       "funding_details": [
-        "'Forward is a free multi-week learning program'",
-        "Available in more than 130 countries"
+        "Official FAQ: 'No, Forward is free for eligible participants as part of McKinsey's social responsibility commitment. There are no fees to apply, register, or partake in any of the two levels, provided you are eligible.'",
+        "Participants use their own internet-connected device and internet access; ten weeks, about two hours a week for the Core Skills level",
+        "No stipend, travel or certificate fee is mentioned; this is a free online programme, not a funded mobility"
       ],
       "coverage": {
         "tuition": "Covered",
@@ -7137,7 +7138,7 @@
       "visa_funded": false,
       "insurance_funded": false,
       "local_transport_funded": false,
-      "participation_fee": "None: 'Forward is free for eligible participants ... There are no fees to apply, register, or partake' (official FAQ).",
+      "participation_fee": "None: 'There are no fees to apply, register, or partake'",
       "stipend": "Unknown / Not specified",
       "eligibility": [
         "Live in a country where Forward is available; the FAQ's Africa list includes the Democratic Republic of the Congo",
@@ -7163,7 +7164,7 @@
       "source_url": "https://www.mckinsey.org/our-programs/forward/overview",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "PARTIALLY VERIFIED",
+      "verification": "VERIFIED",
       "sources": [
         {
           "label": "McKinsey.org Forward overview",
@@ -7179,8 +7180,9 @@
       "eligibility_for_me": "LIKELY ELIGIBLE",
       "eligibility_reason": "The official FAQ lists the DRC among Forward countries; internships count as prior work experience, total experience is under 5 years, and the course can be followed in English or French.",
       "potential_issues": [
-        "Deadline is 5 October 2026 (today on re-verification); applications may close earlier in some countries",
-        "Missed applicants can only register interest for the next cohort, whose date is not announced"
+        "No application is open; the next cohort date is not announced",
+        "Missed applicants can only register interest; cohorts are delivered once a year and cannot be joined late",
+        "The programme is online and free: it brings no stipend and no travel"
       ],
       "benefits": [
         "Digital badge",
@@ -7206,10 +7208,10 @@
         "support": "Not applicable (online)"
       },
       "upfront_cost_risk": "None stated.",
-      "action": "Apply today if not already done. If the form has closed, register interest on the Forward site for the next cohort.",
-      "last_verified": "2026-10-05",
+      "action": "Applications are not open. Register your interest on the Forward page to be told when a new cycle opens in the DRC (the DRC is on the Africa list), and check the eligibility rules again then.",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "Re-verified 5 October 2026: no extension and no spring 2027 cohort announced. Missed applicants 'can register their interest on the Forward website and will be contacted for the next cohort'. [auto 2026-10-20] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
+      "notes": "Re-verified 5 October 2026: no extension and no spring 2027 cohort announced. Missed applicants 'can register their interest on the Forward website and will be contacted for the next cohort'. [auto 2026-10-20] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens. 2 November 2026 (rerun): the FAQ answers (embedded in the page data, collapsed in the visible text) were read: DRC on the Africa list, free of charge, eligibility unchanged (prior work experience including internships, under 5 years, high school, English or French), 'Applications are not open at the moment'. The earlier 'Apply today' action was out of date. Label changed from Fully Funded to Participation Funded (a free online course).",
       "match_keywords": [
         "mckinsey forward",
         "mckinsey.org forward",
@@ -9790,7 +9792,7 @@
       "program_dates": "Unknown / Not specified",
       "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "2027 dates are not on the official site (checked 19 October 2026). The homepage lists only the 'Türkiye Scholarships 2026 Applications' announcement. The official application calendar gives 'General application period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'.",
+      "deadline_text": "Official application calendar (2 November 2026): 'General Application Period: January 10 – February 20' (no year given); evaluation March to April; interviews April to June; results early August. The official 2026 announcement gave 10 January to 20 February 2026. No 2027 announcement is published yet.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
@@ -9801,9 +9803,10 @@
       "status": "UPCOMING",
       "funding_type": "Fully Funded",
       "funding_details": [
-        "The official 2026 announcement lists 'financial support, tuition fee, accommodation and health insurance', plus university placement",
-        "The official site also lists a flight ticket and a Turkish language course",
-        "Stipend amounts are not stated on the pages read"
+        "Official 'Why Türkiye Scholarships?' page: 'Apply now to get a fully funded and, high-quality education in Türkiye!'; the scholarship covers tuition fees, a one-year Turkish language course, accommodation, a once-off flight ticket and health insurance, and pays a monthly stipend",
+        "Monthly stipend: 6,500 TL (associate and bachelor's), 9,500 TL (master's), 13,000 TL (PhD); doubled for the merit scholarship",
+        "Accommodation: master's and doctoral students may stay in a dormitory in the first year, then rent with a housing allowance of 6,000 TL (Istanbul, Ankara) or 5,000 TL (other cities)",
+        "Awardees without a C1 Turkish certificate attend a one-year Turkish course, including those placed in English-medium programmes"
       ],
       "coverage": {
         "tuition": "Covered",
@@ -9822,32 +9825,36 @@
       "visa_funded": false,
       "insurance_funded": true,
       "local_transport_funded": false,
-      "participation_fee": "Applications are received online, free of charge",
-      "stipend": "Unknown / Not specified",
+      "participation_fee": "None: the online application is free according to the earlier reading; no fee appears on the official pages read",
+      "stipend": "9,500 TL a month at master's level (6,500 TL bachelor's, 13,000 TL PhD), as stated on the official page; amounts in Turkish lira",
       "eligibility": [
-        "From pages of the official site found through search (not opened directly): citizens of all countries, except Turkish citizens",
-        "From the same pages: master's applicants must be under the age of 30",
-        "From the same pages and a secondary source: minimum academic achievement of 75% for master's and PhD applicants"
+        "Citizens of all countries; Turkish citizens and people who lost Turkish citizenship are ineligible",
+        "Graduates, or those who will graduate at the end of the current academic year (before August)",
+        "Master's programmes: under 30 years of age; PhD under 35",
+        "Minimum academic achievement: 75% for graduate candidates (70% for associate and bachelor's candidates)",
+        "Not currently enrolled at the same level in a Turkish university",
+        "Language proof such as TOEFL or DELF only if the chosen university or programme requires it",
+        "Up to 12 programme choices in the online application system (TBBS); evaluation, then interviews"
       ],
       "nationality_requirements": [
-        "Reported as open to citizens of all countries except Turkiye"
+        "Citizens of all countries except Türkiye (official criteria page); the DRC is not excluded"
       ],
-      "age_requirement": "Under 30 for master's programmes (official pages as indexed by search; not opened directly)",
-      "education_requirement": "Unknown / Not specified",
+      "age_requirement": "Under 30 for master's programmes (official criteria page); the reference date is not stated on the page",
+      "education_requirement": "A first degree (or graduating before August of the application year); at least 75% for graduate candidates",
       "experience_requirement": "Unknown / Not specified",
-      "language_requirement": "Unknown / Not specified",
+      "language_requirement": "TOEFL, DELF or similar only if the programme requires it; a one-year Turkish course for awardees without C1 Turkish",
       "other_requirements": [],
       "documents_required": [],
       "application_process": [
-        "Apply online in the Turkiye Scholarships application system",
-        "Evaluation, then interviews"
+        "Apply online in the Türkiye Scholarships application system (TBBS) during the general window (10 January to 20 February in the calendar)",
+        "Evaluation in March and April, interviews in April to June, results in early August"
       ],
       "official_application_url": "https://tbbs.turkiyeburslari.gov.tr",
       "official_information_url": "https://www.turkiyeburslari.gov.tr/",
       "source_url": "https://www.turkiyeburslari.gov.tr/",
       "source_type": "Official",
-      "source_confidence": "MEDIUM",
-      "verification": "PARTIALLY VERIFIED",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
       "sources": [
         {
           "label": "Turkiye Scholarships (official site)",
@@ -9865,17 +9872,34 @@
           "type": "Official"
         },
         {
+          "label": "Criteria & Scholarship Programs (age, minimum grades, eligible groups)",
+          "url": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms",
+          "type": "Official"
+        },
+        {
+          "label": "Why Türkiye Scholarships? (fully funded; stipend, accommodation, flight, insurance)",
+          "url": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships",
+          "type": "Official"
+        },
+        {
+          "label": "Application in 5 steps (language proof, Turkish course)",
+          "url": "https://www.turkiyeburslari.gov.tr/applysteps",
+          "type": "Official"
+        },
+        {
           "label": "Secondary summary (75% minimum)",
           "url": "https://www.globaladmissions.com/scholarship/turkiye-burslari",
           "type": "Aggregator"
         }
       ],
       "eligibility_for_me": "POSSIBLY ELIGIBLE",
-      "eligibility_reason": "An applicant under 30 fits the reported master's age limit today, but the limit is applied on a set date and the 75% grade minimum is not recorded in the profile. Neither criterion was read directly on the official site this cycle.",
+      "eligibility_reason": "DRC citizenship qualifies and a 2024 first degree fits. The master's age limit is under 30 (the profile records only an under-30 band, and the reference date is not stated) and the 75% minimum grade for graduate candidates is not recorded.",
       "potential_issues": [
-        "2027 dates and criteria not yet published on the official site",
-        "Age limit is applied on a fixed reference date",
-        "Minimum grade not recorded in the profile"
+        "2027 dates are not yet published; the calendar gives 10 January to 20 February without a year",
+        "Minimum 75% for graduate candidates; the degree grade is not recorded",
+        "Master's age limit under 30; the reference date is not stated",
+        "A mandatory one-year Turkish language course precedes or accompanies the degree for awardees without C1 Turkish",
+        "Stipend and housing amounts are in Turkish lira and may change"
       ],
       "benefits": [
         "Stipend, accommodation, insurance and flight",
@@ -9901,9 +9925,9 @@
       },
       "upfront_cost_risk": "Unknown / Not specified",
       "action": "Check the official site in December 2026 for the 2027 announcement; the general window has been 10 January to 20 February.",
-      "last_verified": "2026-10-19",
+      "last_verified": "2026-11-02",
       "date_discovered": "2026-10-02",
-      "notes": "",
+      "notes": "2 November 2026 (rerun): criteria, benefits, calendar and application-steps pages were opened directly (earlier cycles had read the criteria only as search snippets). The organiser's own words are 'fully funded'; label confirmed and itemised; record upgraded to VERIFIED.",
       "match_keywords": [
         "turkiye burslari",
         "türkiye bursları",

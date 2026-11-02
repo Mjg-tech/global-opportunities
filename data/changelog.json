@@ -71,6 +71,238 @@
     },
     {
       "date": "2026-11-02",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "deadline_text",
+      "old": "Last cycle closed on 2026-10-05. Next cycle not announced yet.",
+      "new": "Official FAQ, 2 November 2026: 'Applications are not open at the moment. However, you can still register your interest through this online form to stay informed ... when a new application cycle opens in your country.' The previous cycle closed on 2026-10-05 (earlier reading)."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Participation Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "participation_fee",
+      "old": "None: 'Forward is free for eligible participants ... There are no fees to apply, register, or partake' (official FAQ).",
+      "new": "None: 'There are no fees to apply, register, or partake'"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "funding_type",
+      "old": "Substantially Funded",
+      "new": "Fully Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "deadline_text",
+      "old": "2027 dates are not on the official site (checked 19 October 2026). The homepage lists only the 'Türkiye Scholarships 2026 Applications' announcement. The official application calendar gives 'General application period: January 10 – February 20' without a year; the official 2026 announcement gave 'Application Dates: 10 January – 20 February 2026'.",
+      "new": "Official application calendar (2 November 2026): 'General Application Period: January 10 – February 20' (no year given); evaluation March to April; interviews April to June; results early August. The official 2026 announcement gave 10 January to 20 February 2026. No 2027 announcement is published yet."
+    },
+    {
+      "date": "2026-11-02",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "participation_fee",
+      "old": "Applications are received online, free of charge",
+      "new": "None: the online application is free according to the earlier reading; no fee appears on the official pages read"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "eligibility",
+      "old": [
+        "From pages of the official site found through search (not opened directly): citizens of all countries, except Turkish citizens",
+        "From the same pages: master's applicants must be under the age of 30",
+        "From the same pages and a secondary source: minimum academic achievement of 75% for master's and PhD applicants"
+      ],
+      "new": [
+        "Citizens of all countries; Turkish citizens and people who lost Turkish citizenship are ineligible",
+        "Graduates, or those who will graduate at the end of the current academic year (before August)",
+        "Master's programmes: under 30 years of age; PhD under 35",
+        "Minimum academic achievement: 75% for graduate candidates (70% for associate and bachelor's candidates)",
+        "Not currently enrolled at the same level in a Turkish university",
+        "Language proof such as TOEFL or DELF only if the chosen university or programme requires it",
+        "Up to 12 programme choices in the online application system (TBBS); evaluation, then interviews"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "nationality_requirements",
+      "old": [
+        "Reported as open to citizens of all countries except Turkiye"
+      ],
+      "new": [
+        "Citizens of all countries except Türkiye (official criteria page); the DRC is not excluded"
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "age_requirement",
+      "old": "Under 30 for master's programmes (official pages as indexed by search; not opened directly)",
+      "new": "Under 30 for master's programmes (official criteria page); the reference date is not stated on the page"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "funding_type",
+      "old": "Substantially Funded",
+      "new": "Fully Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "funding_type",
+      "old": "Fully Funded",
+      "new": "Substantially Funded"
+    },
+    {
+      "date": "2026-11-02",
+      "id": "glocal-erasmus-mundus-2027",
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "field": "coverage",
+      "old": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Partially covered",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Partially covered",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      }
+    },
+    {
+      "date": "2026-11-02",
       "id": "tony-elumelu-entrepreneurship-programme-2027",
       "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
       "field": "funding_type",

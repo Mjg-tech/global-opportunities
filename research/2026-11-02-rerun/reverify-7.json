@@ -1,0 +1,171 @@
+[
+  {
+    "id": "turkiye-burslari-2027",
+    "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+    "organization": "Government of Turkiye (Turkiye Scholarships)",
+    "overview": "Government scholarship for bachelor's, master's and PhD study in Turkiye, with a free online application. The 2027 dates are not yet on the official site.",
+    "category": [
+      "Scholarship"
+    ],
+    "subcategory": [
+      "Master's scholarship",
+      "Government-funded"
+    ],
+    "education_levels": [
+      "Bachelor's",
+      "Master's",
+      "PhD"
+    ],
+    "country": "Turkiye",
+    "city": "Varies by university",
+    "region": "Western Asia",
+    "continent": "Asia",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Unknown / Not specified",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "Official application calendar (2 November 2026): 'General Application Period: January 10 – February 20' (no year given); evaluation March to April; interviews April to June; results early August. The official 2026 announcement gave 10 January to 20 February 2026. No 2027 announcement is published yet.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "The official calendar lists the general application period as 10 January to 20 February (no year given), matching the 2026 cycle. 2027 dates not announced as of 19 October 2026.",
+    "last_cycle_deadline": "2026-02-20",
+    "status": "UPCOMING",
+    "funding_type": "Fully Funded",
+    "funding_details": [
+      "Official 'Why Türkiye Scholarships?' page: 'Apply now to get a fully funded and, high-quality education in Türkiye!'; the scholarship covers tuition fees, a one-year Turkish language course, accommodation, a once-off flight ticket and health insurance, and pays a monthly stipend",
+      "Monthly stipend: 6,500 TL (associate and bachelor's), 9,500 TL (master's), 13,000 TL (PhD); doubled for the merit scholarship",
+      "Accommodation: master's and doctoral students may stay in a dormitory in the first year, then rent with a housing allowance of 6,000 TL (Istanbul, Ankara) or 5,000 TL (other cities)",
+      "Awardees without a C1 Turkish certificate attend a one-year Turkish course, including those placed in English-medium programmes"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Covered",
+      "accommodation": "Covered",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Not specified"
+    },
+    "travel_funded": true,
+    "flight_funded": true,
+    "accommodation_funded": true,
+    "meals_funded": false,
+    "visa_funded": false,
+    "insurance_funded": true,
+    "local_transport_funded": false,
+    "participation_fee": "None: the online application is free according to the earlier reading; no fee appears on the official pages read",
+    "stipend": "9,500 TL a month at master's level (6,500 TL bachelor's, 13,000 TL PhD), as stated on the official page; amounts in Turkish lira",
+    "eligibility": [
+      "Citizens of all countries; Turkish citizens and people who lost Turkish citizenship are ineligible",
+      "Graduates, or those who will graduate at the end of the current academic year (before August)",
+      "Master's programmes: under 30 years of age; PhD under 35",
+      "Minimum academic achievement: 75% for graduate candidates (70% for associate and bachelor's candidates)",
+      "Not currently enrolled at the same level in a Turkish university",
+      "Language proof such as TOEFL or DELF only if the chosen university or programme requires it",
+      "Up to 12 programme choices in the online application system (TBBS); evaluation, then interviews"
+    ],
+    "nationality_requirements": [
+      "Citizens of all countries except Türkiye (official criteria page); the DRC is not excluded"
+    ],
+    "age_requirement": "Under 30 for master's programmes (official criteria page); the reference date is not stated on the page",
+    "education_requirement": "A first degree (or graduating before August of the application year); at least 75% for graduate candidates",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "TOEFL, DELF or similar only if the programme requires it; a one-year Turkish course for awardees without C1 Turkish",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply online in the Türkiye Scholarships application system (TBBS) during the general window (10 January to 20 February in the calendar)",
+      "Evaluation in March and April, interviews in April to June, results in early August"
+    ],
+    "official_application_url": "https://tbbs.turkiyeburslari.gov.tr",
+    "official_information_url": "https://www.turkiyeburslari.gov.tr/",
+    "source_url": "https://www.turkiyeburslari.gov.tr/",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "Turkiye Scholarships (official site)",
+        "url": "https://www.turkiyeburslari.gov.tr/",
+        "type": "Official"
+      },
+      {
+        "label": "Application calendar",
+        "url": "https://www.turkiyeburslari.gov.tr/calendar",
+        "type": "Official"
+      },
+      {
+        "label": "Turkiye Scholarships 2026 applications (announcement)",
+        "url": "https://www.turkiyeburslari.gov.tr/announcements/turkiye-scholarships-2026-applications-121",
+        "type": "Official"
+      },
+      {
+        "label": "Criteria & Scholarship Programs (age, minimum grades, eligible groups)",
+        "url": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms",
+        "type": "Official"
+      },
+      {
+        "label": "Why Türkiye Scholarships? (fully funded; stipend, accommodation, flight, insurance)",
+        "url": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships",
+        "type": "Official"
+      },
+      {
+        "label": "Application in 5 steps (language proof, Turkish course)",
+        "url": "https://www.turkiyeburslari.gov.tr/applysteps",
+        "type": "Official"
+      },
+      {
+        "label": "Secondary summary (75% minimum)",
+        "url": "https://www.globaladmissions.com/scholarship/turkiye-burslari",
+        "type": "Aggregator"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "DRC citizenship qualifies and a 2024 first degree fits. The master's age limit is under 30 (the profile records only an under-30 band, and the reference date is not stated) and the 75% minimum grade for graduate candidates is not recorded.",
+    "potential_issues": [
+      "2027 dates are not yet published; the calendar gives 10 January to 20 February without a year",
+      "Minimum 75% for graduate candidates; the degree grade is not recorded",
+      "Master's age limit under 30; the reference date is not stated",
+      "A mandatory one-year Turkish language course precedes or accompanies the degree for awardees without C1 Turkish",
+      "Stipend and housing amounts are in Turkish lira and may change"
+    ],
+    "benefits": [
+      "Stipend, accommodation, insurance and flight",
+      "One-year Turkish language course"
+    ],
+    "relevance": {
+      "academic": "High",
+      "career": "Medium",
+      "travel": "Very High",
+      "networking": "Medium",
+      "funding": "Very High",
+      "accessibility": "High",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Free application, full coverage and no work-experience requirement make it accessible; the subject match depends on the university programme chosen.",
+    "travel_value": "Very High",
+    "career_value": "Medium",
+    "academic_value": "High",
+    "networking_value": "Medium",
+    "visa": {
+      "required": "Unknown / Not specified",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Check the official site in December 2026 for the 2027 announcement; the general window has been 10 January to 20 February.",
+    "last_verified": "2026-11-02",
+    "date_discovered": "2026-10-02",
+    "notes": "2 November 2026 (rerun): criteria, benefits, calendar and application-steps pages were opened directly (earlier cycles had read the criteria only as search snippets). The organiser's own words are 'fully funded'; label confirmed and itemised; record upgraded to VERIFIED.",
+    "match_keywords": [
+      "turkiye burslari",
+      "türkiye bursları",
+      "türkiye scholarships",
+      "turkiye scholarships"
+    ]
+  }
+]
