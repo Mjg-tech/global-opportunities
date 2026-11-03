@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "opportunities": [
     {
       "id": "mckinsey-forward-fall-2026",
@@ -594,6 +594,155 @@
       ],
       "archive_id": "aspire-leaders-program-2026-cohort-4@2026-10-16",
       "archived_on": "2026-10-31"
+    },
+    {
+      "id": "hsc-youth-ambassador-program-2027",
+      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
+      "organization": "Hamburg Sustainability Conference (HSC)",
+      "overview": "Young sustainability leaders from Global South countries are selected as HSC Youth Ambassadors. They attend an HSC Youth Roundtable Series in December 2026 and the Hamburg Sustainability Conference on 31 May - 1 June 2027. The organiser describes participation as fully funded, with travel and accommodation covered.",
+      "category": [
+        "Conference",
+        "Leadership",
+        "Travel"
+      ],
+      "subcategory": [
+        "Youth delegation",
+        "Sustainability"
+      ],
+      "education_levels": [
+        "Open to all"
+      ],
+      "country": "Germany",
+      "city": "Hamburg (conference); Roundtable Series location not stated on the 2027 pages read",
+      "region": "Western Europe",
+      "continent": "Europe",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "HSC Youth Roundtable Series: December 7-11, 2026. Hamburg Sustainability Conference: May 31 - June 1, 2027.",
+      "application_deadline": "2026-10-19",
+      "deadline_utc": "",
+      "deadline_text": "Application deadline: October 19, 2026 (\"Apply by October 19, 2026 to join us for the HSC Youth Roundtable Series in December\"), read on the application form on 12 and 19 October 2026. Interviews with short-listed candidates at the end of October 2026; participation confirmed end of October / early November 2026. On 26 October 2026 the form page returns HTTP 404 and the programme page shows only the 2026 cohort.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "2026-10-06",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "The 2027 application form was taken down after the 19 October 2026 deadline. No later cycle is announced on the programme page read on 26 October 2026.",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "Application form page: 'Fully funded participation'",
+        "Application form page: 'Your travel and accommodation costs are covered.'",
+        "No application or participation fee is mentioned on the pages read"
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": true,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "None mentioned on the official pages read",
+      "stipend": "Unknown / Not specified",
+      "eligibility": [
+        "Aged between 18 and 30",
+        "Come from and reside in a Global South country, based on the OECD DAC List of ODA Recipients; only countries in the form's dropdown are eligible",
+        "A young leader actively driving sustainability efforts in your community",
+        "Can communicate confidently in English and dedicate time to the programme",
+        "Available to travel for the Roundtables on December 7-11, 2026 and to attend HSC on May 31 - June 1, 2027",
+        "Prior participation in international conferences or youth programmes is asked about but 'is not a mandatory requirement'"
+      ],
+      "nationality_requirements": [
+        "Country of origin and residence must be in the form's dropdown (OECD DAC ODA recipients). 'Democratic Republic of the Congo' appears in the dropdown of the 2027 application form (checked 2026-10-12)."
+      ],
+      "age_requirement": "18 to 30",
+      "education_requirement": "Unknown / Not specified",
+      "experience_requirement": "Active sustainability engagement in your community; previous international conference experience not mandatory",
+      "language_requirement": "Confident communication in English",
+      "other_requirements": [
+        "Availability for the December 7-11, 2026 Roundtable Series (travel required) and the May 31 - June 1, 2027 conference"
+      ],
+      "documents_required": [
+        "Online form only: personal details, country of origin and residence, occupation, themes, LinkedIn profile link",
+        "Written answers: your sustainability work so far and plans; which HSC 26 session you would have joined and why; an example of private-sector collaboration with government or civil society in your country; prior international conferences or youth programmes"
+      ],
+      "application_process": [
+        "Complete the online form at the official site by October 19, 2026",
+        "Short-listed candidates are interviewed at the end of October 2026",
+        "Participation confirmed end of October / early November 2026"
+      ],
+      "official_application_url": "https://www.sustainability-conference.org/en/hsc27youth",
+      "official_information_url": "https://www.sustainability-conference.org/en/hsc27youth",
+      "source_url": "https://www.sustainability-conference.org/en/hsc27youth",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "HSC Youth Ambassador Program 2027 (read 26 October 2026: shows the 2026 cohort, no application details)",
+          "url": "https://www.sustainability-conference.org/en/hsc27youth",
+          "type": "Official"
+        },
+        {
+          "label": "HSC Youth Ambassador Program 2027 application form (deadline, funding and eligibility read 12 and 19 October 2026; HTTP 404 on 26 October 2026)",
+          "url": "https://www.sustainability-conference.org/en/hsc27youthform",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "Age, DRC origin and residence (DRC is in the form's country list) and English are met by the recorded profile. The programme requires 'a young leader actively driving sustainability efforts in your community', which the profile does not record.",
+      "potential_issues": [
+        "Deadline is October 19, 2026 with no time zone stated; submit well before",
+        "The December 2026 Roundtable location is not named on the 2027 pages read, so a second visa may be needed besides the Schengen visa for Germany",
+        "Meals, visa fees and insurance are not mentioned in the coverage wording",
+        "Highly competitive: the 2026 cohort had 16 ambassadors"
+      ],
+      "benefits": [
+        "Funded travel and accommodation for the Roundtable Series and the Hamburg conference",
+        "Speaking, moderation and workshop roles with high-level decision-makers at HSC",
+        "International youth cohort and network"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "High",
+        "travel": "Very High",
+        "networking": "Very High",
+        "funding": "High",
+        "accessibility": "Medium",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "Two funded international trips and high-level networking, with no degree condition and the DRC explicitly listed. Fit depends on demonstrable sustainability work, which the profile does not record, and on making the very short deadline.",
+      "travel_value": "Very High",
+      "career_value": "High",
+      "academic_value": "Low",
+      "networking_value": "Very High",
+      "visa": {
+        "required": "Yes (Schengen visa for Germany; Roundtable host country not stated)",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Low",
+      "action": "Applications closed on October 19, 2026. If you applied, watch for an interview invitation (end of October 2026) and keep December 7-11, 2026 free.",
+      "last_verified": "2026-10-26",
+      "date_discovered": "2026-10-12",
+      "notes": "Lead from Opportunity Desk / Opportunities for Africans. 26 October 2026: the application form URL returns HTTP 404 (WebFetch and curl) and the programme page now only profiles the 16 ambassadors of 2026, so the deadline, funding wording ('Fully funded participation'; 'Your travel and accommodation costs are covered.') and eligibility could not be re-read; they are from the form as read on 12 and 19 October 2026. Aggregators' 'program fees covered' wording was not found on the official pages.",
+      "match_keywords": [
+        "hamburg sustainability conference",
+        "hsc youth ambassador",
+        "hsc youth"
+      ],
+      "archive_id": "hsc-youth-ambassador-program-2027@2026-10-19",
+      "archived_on": "2026-11-03"
     }
   ]
 }

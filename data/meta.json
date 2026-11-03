@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-02T13:30:12Z",
+  "last_refresh": "2026-11-03T12:48:50Z",
   "counts": {
     "total": 77,
-    "archived": 4,
+    "archived": 5,
     "by_status": {
       "OPEN": 31,
-      "CLOSING SOON": 6,
-      "UPCOMING": 23,
+      "CLOSING SOON": 5,
+      "UPCOMING": 24,
       "DEADLINE PASSED": 8,
       "ROLLING": 2,
       "DATE UNKNOWN": 7
@@ -58,17 +58,34 @@
     "3": [
       "global-leadership-challenge-2026"
     ],
-    "1": [
-      "raisina-young-fellows-2027-pcns"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 77,
-    "ok": 66,
-    "blocked_or_unreachable": 11,
+    "ok": 65,
+    "blocked_or_unreachable": 12,
     "dead": 0
   },
-  "flags": [],
+  "flags": [
+    {
+      "id": "stipendium-hungaricum-2027",
+      "type": "source_changed",
+      "since": "2026-11-03",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "turkiye-burslari-2027",
+      "type": "source_changed",
+      "since": "2026-11-03",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "eu-delegation-drc-subsidised-internship",
+      "type": "source_changed",
+      "since": "2026-11-03",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    }
+  ],
   "feeds": [
     {
       "name": "African Union announcements",
@@ -92,7 +109,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 6
     },
     {
       "name": "Opportunities for Africans",
@@ -100,7 +117,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 2
     },
     {
       "name": "Global South Opportunities",
@@ -132,7 +149,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Opportunities Corners",
@@ -140,7 +157,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 2
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -148,7 +165,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 2
     },
     {
       "name": "Afri-Carrieres",
@@ -188,58 +205,23 @@
       "tier": 3,
       "status": 200,
       "items": 15,
-      "new": 2
+      "new": 0
     }
   ],
   "reseen": [
-    {
-      "id": "mastercard-foundation-scholars-cambridge-2027",
-      "title": "Mastercard Foundation Scholars Program at Sciences Po 2027 (Fully-funded)",
-      "url": "https://opportunitydesk.org/2026/10/31/mastercard-foundation-scholars-program-at-sciences-po-2027/",
-      "source": "Opportunity Desk",
-      "seen": "2026-11-02"
-    },
-    {
-      "id": "irex-community-solutions-program",
-      "title": "IREX Community Solutions Program (CSP) 2026-2027 (Fully-funded)",
-      "url": "https://opportunitydesk.org/2026/10/31/irex-community-solutions-program-2027/",
-      "source": "Opportunity Desk",
-      "seen": "2026-11-02"
-    },
-    {
-      "id": "irex-community-solutions-program",
-      "title": "The IREX Community Solutions Program 2027 for Community youth leaders (Fully Funded to the United States)",
-      "url": "https://www.opportunitiesforafricans.com/irex-community-solutions-program-2027-for-community-youth-leaders/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-11-02"
-    },
     {
       "id": "irex-community-solutions-program",
       "title": "IREX Community Solutions Program 2027: Fully Funded Fellowship in the USA for Community Leaders",
       "url": "https://oyaop.com/opportunity/exchange-programs/irex-community-solutions-program-2027-fully-funded-fellowship-in-the-usa-for-community-leaders/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-02"
+      "seen": "2026-11-03"
     },
     {
       "id": "mastercard-foundation-scholars-cambridge-2027",
       "title": "Mastercard Foundation Scholars Program at ALCHE 2026–2027 | Fully Funded Mastercard Foundation Scholars Program 2026–2027 | Fully Funded",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-at-alche-2026-2027-fully-funded-mastercard-foundation-scholars-program-2026-2027-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-02"
-    },
-    {
-      "id": "mastercard-foundation-scholars-cambridge-2027",
-      "title": "Mastercard Foundation Scholars Program 2027–2028: Fully Funded Scholarships for International Students",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-2027-2028-fully-funded-scholarships-for-international-students/",
-      "source": "OYA Opportunities",
-      "seen": "2026-11-02"
-    },
-    {
-      "id": "si-scholarship-global-professionals",
-      "title": "Swedish Institute Scholarships for Global Professionals 2027/2028 in Sweden (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/swedish-institute-scholarships-for-global-professionals-2027-2028-in-sweden-fully-funded/",
-      "source": "OYA Opportunities",
-      "seen": "2026-11-02"
+      "seen": "2026-11-03"
     }
   ],
   "new_leads_last_run": 11

@@ -4466,17 +4466,17 @@
       "location_type": "International travel",
       "delivery_mode": "In-person",
       "program_dates": "HSC Youth Roundtable Series: December 7-11, 2026. Hamburg Sustainability Conference: May 31 - June 1, 2027.",
-      "application_deadline": "2026-10-19",
+      "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Application deadline: October 19, 2026 (\"Apply by October 19, 2026 to join us for the HSC Youth Roundtable Series in December\"), read on the application form on 12 and 19 October 2026. Interviews with short-listed candidates at the end of October 2026; participation confirmed end of October / early November 2026. On 26 October 2026 the form page returns HTTP 404 and the programme page shows only the 2026 cohort.",
+      "deadline_text": "Last cycle closed on 2026-10-19. Next cycle not announced yet.",
       "deadline_timezone": "Unknown / Not specified",
-      "opens_on": "2026-10-06",
+      "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
       "expected_next_cycle": "The 2027 application form was taken down after the 19 October 2026 deadline. No later cycle is announced on the programme page read on 26 October 2026.",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "last_cycle_deadline": "2026-10-19",
+      "status": "UPCOMING",
       "funding_type": "Fully Funded",
       "funding_details": [
         "Application form page: 'Fully funded participation'",
@@ -4582,7 +4582,7 @@
       "action": "Applications closed on October 19, 2026. If you applied, watch for an interview invitation (end of October 2026) and keep December 7-11, 2026 free.",
       "last_verified": "2026-10-26",
       "date_discovered": "2026-10-12",
-      "notes": "Lead from Opportunity Desk / Opportunities for Africans. 26 October 2026: the application form URL returns HTTP 404 (WebFetch and curl) and the programme page now only profiles the 16 ambassadors of 2026, so the deadline, funding wording ('Fully funded participation'; 'Your travel and accommodation costs are covered.') and eligibility could not be re-read; they are from the form as read on 12 and 19 October 2026. Aggregators' 'program fees covered' wording was not found on the official pages.",
+      "notes": "Lead from Opportunity Desk / Opportunities for Africans. 26 October 2026: the application form URL returns HTTP 404 (WebFetch and curl) and the programme page now only profiles the 16 ambassadors of 2026, so the deadline, funding wording ('Fully funded participation'; 'Your travel and accommodation costs are covered.') and eligibility could not be re-read; they are from the form as read on 12 and 19 October 2026. Aggregators' 'program fees covered' wording was not found on the official pages. [auto 2026-11-03] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "hamburg sustainability conference",
         "hsc youth ambassador",
@@ -8643,7 +8643,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Fully Funded",
       "funding_details": [
         "PCNS 'has allocated two fully funded places'",
@@ -11271,5 +11271,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-02"
+  "status_computed_on": "2026-11-03"
 }

@@ -1,7 +1,131 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-02",
+  "updated": "2026-11-03",
   "leads": [
+    {
+      "id": "f6c1c65f0b8a",
+      "title": "Home-Grown Solutions Agribusiness Accelerator 2027",
+      "url": "https://opportunitydesk.org/2026/11/03/home-grown-solutions-agribusiness-accelerator-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "735a89d0add1",
+      "title": "Harvard Pollman Fellowship in Real Estate and Urban Development 2027 (up to $55,000)",
+      "url": "https://opportunitydesk.org/2026/11/03/harvard-pollman-fellowship-in-real-estate-and-urban-development-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c11906ca7145",
+      "title": "Mastercard Foundation EdTech Fellowship Uganda Cohort 2",
+      "url": "https://opportunitydesk.org/2026/11/03/mastercard-foundation-edtech-fellowship-uganda-cohort-2/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "984b86faeb90",
+      "title": "Purdue University Summer Fellowship 2027 in USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/purdue-university-summer-fellowship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a8d7dd1a38c1",
+      "title": "Les candidatures au programme de Bourses de la Fondation Mastercard pour la rentrée 2027 sont officiellement ouvertes",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/formation/les-candidatures-au-programme-de-bourses-de-la-fondation-mastercard-pour-la-rentree-2027-sont-officiellement-ouvertes/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-03",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "edbe29d5f865",
+      "title": "IJP Southern African-German Journalists’ Programme 2027",
+      "url": "https://opportunitydesk.org/2026/11/02/ijp-southern-african-german-journalists-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6f53c31b7953",
+      "title": "Planet Health Film Fund 2027 (£20,000 award)",
+      "url": "https://opportunitydesk.org/2026/11/02/planet-health-film-fund-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "83fd739062a7",
+      "title": "Land and Soil Management Award 2026/2027 (€5,000 award)",
+      "url": "https://opportunitydesk.org/2026/11/02/land-and-soil-management-award-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8ceb5ec19810",
+      "title": "2027/2029 Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation (Fully Funded study in Europe)",
+      "url": "https://www.opportunitiesforafricans.com/2027-2029-erasmus-mundus-masters-scholarship-in-journalism/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "12cb8bd4409c",
+      "title": "The Government of Mauritius Africa Scholarships Scheme 2027 for study in Mauritius (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-government-of-mauritius-africa-scholarships-scheme-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "075682f78902",
+      "title": "Plusieurs postes vacants à pourvoir au sein du Programme Alimentaire Mondial (PAM)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/avis-de-recrutement/comptabilite-audit/plusieurs-postes-vacants-a-pourvoir-au-sein-du-programme-alimentaire-mondial-pam/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-02",
+      "first_seen": "2026-11-03",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "d85e2db822e1",
       "title": "Call for Submissions: New Developments in AI for Social, Economic, and Policy Research Conference 2027",
@@ -55,7 +179,10 @@
       "language": "en",
       "published": "2026-11-02",
       "first_seen": "2026-11-02",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "1ee5a9b9cfb1",
@@ -66,7 +193,10 @@
       "language": "en",
       "published": "2026-11-02",
       "first_seen": "2026-11-02",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "66bfb9cc5ea9",
@@ -2764,130 +2894,6 @@
       "source_tier": 3,
       "language": "en",
       "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "87d3cddfdb27",
-      "title": "Gulbenkian Institute for Advanced Study (GIAS) Opens Applications for 2027/28 Fellowship Programme",
-      "url": "https://www.globalsouthopportunities.com/2026/10/08/institute-8/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "fc0e9d77ea01",
-      "title": "Georg Arnhold Senior Fellowship 2028: €3,300 Monthly Stipend for Peace Education Research",
-      "url": "https://www.globalsouthopportunities.com/2026/10/08/fellowship-270/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c7264b01d1f8",
-      "title": "Paid Internship at Apple in USA",
-      "url": "https://oyaop.com/opportunity/internships/paid-internship-at-apple-in-usa/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "304f779e2495",
-      "title": "Cultural Futures Forum 2027 in Austria (Fully Funded)",
-      "url": "https://opportunitiescorners.com/cultural-futures-forum-2027-in-austria/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "8a68a64d516e",
-      "title": "Formation gratuite en ligne sur la « Gouvernance des données en Afrique »",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/technologie/formation-gratuite-en-ligne-sur-la-gouvernance-des-donnees-en-afrique/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "7198ef76527b",
-      "title": "Appel à candidatures – Programme de Formation gratuite et certifiante de la Banque Mondiale sur l’Intelligence Artificielle (IA)",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/technologie/appel-a-candidatures-programme-de-formation-gratuite-et-certifiante-de-la-banque-mondiale-sur-lintelligence-artificielle-ia/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "09461c6f331e",
-      "title": "Appel à Candidatures : Erasmus Mundus EMMIR 2027-2029",
-      "url": "https://www.mastere.tn/erasmus-mundus-emmir/",
-      "source": "Mastere.tn",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "07aba374979b",
-      "title": "27 Scholarship Opportunities Closing in October – October 7, 2026",
-      "url": "https://opportunitydesk.org/2026/10/07/27-scholarship-opportunities-closing-in-october-october-7-2026/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "25e1c4470958",
-      "title": "Bipartisan Policy Center Internship Program – Spring 2027",
-      "url": "https://opportunitydesk.org/2026/10/07/bipartisan-policy-center-internship-program-spring-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6a9bdd5334dc",
-      "title": "Stanford University Center for International Security and Cooperation Fellowship 2027-2028",
-      "url": "https://opportunitydesk.org/2026/10/07/stanford-cisac-fellowship-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
-      "first_seen": "2026-10-08",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "8ce0e9537cf4",
-      "title": "University of Global Health Equity Master of Science in Health Professions Education Program (MSc-HPE) 2027",
-      "url": "https://opportunitydesk.org/2026/10/07/university-of-global-health-equity-master-of-science-in-health-professions-education-program-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-07",
       "first_seen": "2026-10-08",
       "status": "NEEDS VERIFICATION"
     }
