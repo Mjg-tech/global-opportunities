@@ -1,12 +1,12 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-03T12:48:50Z",
+  "last_refresh": "2026-11-04T12:59:47Z",
   "counts": {
     "total": 77,
     "archived": 5,
     "by_status": {
-      "OPEN": 31,
-      "CLOSING SOON": 5,
+      "OPEN": 30,
+      "CLOSING SOON": 6,
       "UPCOMING": 24,
       "DEADLINE PASSED": 8,
       "ROLLING": 2,
@@ -44,21 +44,21 @@
       "sciences-po-emile-boutmy-masters-2027",
       "wageningen-africa-scholarship-programme-2027",
       "wff-youth-policy-board-2027-2028",
-      "yenching-academy-2027",
-      "youth-global-forum-2027-paris-cgdl"
+      "yenching-academy-2027"
     ],
     "14": [
-      "dalai-lama-fellows-2027",
-      "kectil-program-2027"
+      "kectil-program-2027",
+      "youth-global-forum-2027-paris-cgdl"
     ],
     "7": [
+      "dalai-lama-fellows-2027",
       "fortis-fellowship-2027",
       "ustc-international-winter-camp-2027"
     ],
-    "3": [
+    "3": [],
+    "1": [
       "global-leadership-challenge-2026"
-    ],
-    "1": []
+    ]
   },
   "watch": {
     "checked": 77,
@@ -68,9 +68,15 @@
   },
   "flags": [
     {
+      "id": "irex-community-solutions-program",
+      "type": "source_changed",
+      "since": "2026-11-04",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
       "id": "stipendium-hungaricum-2027",
       "type": "source_changed",
-      "since": "2026-11-03",
+      "since": "2026-11-04",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -109,7 +115,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 6
+      "new": 4
     },
     {
       "name": "Opportunities for Africans",
@@ -117,7 +123,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 3
     },
     {
       "name": "Global South Opportunities",
@@ -149,7 +155,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunities Corners",
@@ -165,7 +171,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Afri-Carrieres",
@@ -214,15 +220,8 @@
       "title": "IREX Community Solutions Program 2027: Fully Funded Fellowship in the USA for Community Leaders",
       "url": "https://oyaop.com/opportunity/exchange-programs/irex-community-solutions-program-2027-fully-funded-fellowship-in-the-usa-for-community-leaders/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-03"
-    },
-    {
-      "id": "mastercard-foundation-scholars-cambridge-2027",
-      "title": "Mastercard Foundation Scholars Program at ALCHE 2026–2027 | Fully Funded Mastercard Foundation Scholars Program 2026–2027 | Fully Funded",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-at-alche-2026-2027-fully-funded-mastercard-foundation-scholars-program-2026-2027-fully-funded/",
-      "source": "OYA Opportunities",
-      "seen": "2026-11-03"
+      "seen": "2026-11-04"
     }
   ],
-  "new_leads_last_run": 11
+  "new_leads_last_run": 9
 }

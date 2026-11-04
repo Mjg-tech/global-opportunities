@@ -11153,7 +11153,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "Fully Funded category (30 seats, competitive): round-trip international airfare support, twin-shared accommodation at a 4-star hotel, meals and coffee breaks, forum participation, workshops, institutional visits, conference materials, certificate, visa invitation letter",
@@ -11271,5 +11271,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-03"
+  "status_computed_on": "2026-11-04"
 }
