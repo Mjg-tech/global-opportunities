@@ -1,7 +1,142 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "leads": [
+    {
+      "id": "246bfd9d6c3b",
+      "title": "CRASSH Visiting Fellowships for Scholars from the Global South 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/05/crassh-visiting-fellowships-for-scholars-from-the-global-south-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "69c22f1904b2",
+      "title": "ILO Writing Competitions on Safe Labour Migration in East and Horn of Africa 2027",
+      "url": "https://opportunitydesk.org/2026/11/05/ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7bde77953e39",
+      "title": "Cannes Lions Scholarship 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/11/05/cannes-lions-scholarship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "86ca8e8f911f",
+      "title": "Young Security Conference 2026/2027 in Germany (Fully Funded)",
+      "url": "https://opportunitiescorners.com/oung-security-conference-in-germany/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "948ce51a4fa8",
+      "title": "Santa Fe Institute Summer Program 2027 in USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/santa-fe-institute-summer-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "52d8376baa6d",
+      "title": "Stage National – Unité Éducation, Yaoundé, Cameroun, 6 mois (ressortissants camerounais uniquement)",
+      "url": "https://www.lesopportunites.com/opportunite/cameroun/stages/economie/stage-national-unite-education-yaounde-cameroun-6-mois-ressortissants-camerounais-uniquement/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "214f15a2cdce",
+      "title": "Friedrich Ebert Foundation (FES) Young Leaders Program 2027",
+      "url": "https://opportunitydesk.org/2026/11/04/fes-young-leaders-programme-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "98673b21e8e7",
+      "title": "EDSAFE AI Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/11/04/edsafe-ai-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e1bf1a7c5652",
+      "title": "Precursor Ventures AI & Investment Operations Internship 2027",
+      "url": "https://opportunitydesk.org/2026/11/04/precursor-ventures-ai-investment-operations-internship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "f22d8bda4926",
+      "title": "The FirstRand Oxford Blavatnik School of Government Scholarship 2027/2028 for a Master of Public Policy at the University of Oxford (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-firstrand-oxford-blavatnik-school-of-government-scholarship-2027-2028-for-a-master-of-public-policy/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "62b59323ba60",
+      "title": "The Centre for Research in the Arts, Humanities and Social Sciences (CRASSH) at the University of Cambridge Visiting Fellowships 2027/2028 (Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-centre-for-research-in-the-arts-humanities-and-social-sciences-crassh-at-the-university-of-cambridge-visiting-fellowships-2027-2028/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b6fbd91a219a",
+      "title": "New Generation Leaders Summit 2027 in Thailand (Fully Funded)",
+      "url": "https://opportunitiescorners.com/new-generation-leaders-summit-2027-in-thailand/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-04",
+      "first_seen": "2026-11-05",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "b135ca98e46d",
       "title": "TechCongress Programs Internship 2027",
@@ -91,7 +226,11 @@
       "language": "en",
       "published": "2026-11-04",
       "first_seen": "2026-11-04",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk",
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "d8deab6350ea",
@@ -2745,156 +2884,6 @@
       "language": "en",
       "published": "2026-10-09",
       "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2571b44d24e5",
-      "title": "World Bank Group Government Analytics Fellowship 2027",
-      "url": "https://opportunitydesk.org/2026/10/09/world-bank-group-government-analytics-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans",
-        "OYA Opportunities",
-        "Opportunities Corners"
-      ]
-    },
-    {
-      "id": "2dd35df0201f",
-      "title": "EQUALS in Tech Awards 2027",
-      "url": "https://opportunitydesk.org/2026/10/09/equals-in-tech-awards-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "859c5a84af85",
-      "title": "ICG Scholars-in-Residence Programme 2027 – Funded Writing and Research Residency in India",
-      "url": "https://www.globalsouthopportunities.com/2026/10/09/programme-78/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c0c86a24fc4d",
-      "title": "Training Initiative for Modelling Epidemic Response in Africa (TIMERA) Fellowship 2026–2029",
-      "url": "https://www.globalsouthopportunities.com/2026/10/09/africa-151/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "7640ba01f571",
-      "title": "Heinz Heinen Fellowship Program 2026/2027 in Germany – Fully Funded",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/heinz-heinen-fellowship-program-2026-2027-in-germany-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e89ec7ae0882",
-      "title": "KAUST VSRP Internship 2027 in Saudi Arabia (Fully Funded)",
-      "url": "https://opportunitiescorners.com/kaust-vsrp-internship-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "e1703bf88263",
-      "title": "Appel à candidatures – Troisième édition du Prix international UNESCO – Al Fozan pour la promotion des jeunes scientifiques en sciences, technologies, ingénierie et mathématiques (STEM)",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/ingenierie/appel-a-candidatures-troisieme-edition-du-prix-international-unesco-al-fozan-pour-la-promotion-des-jeunes-scientifiques-en-sciences-technologies-ingenierie-et-mathematiques-stem/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "684b82176546",
-      "title": "Appel à candidatures – Programme de Volontariat Régulier de la FAO pour l’Afrique 2026 (RAF)",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/volontaires/agriculture/appel-a-candidatures-programme-de-volontariat-regulier-de-la-fao-pour-lafrique-2026-raf/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "8bdbd986219b",
-      "title": "Bourses Erasmus Mundus PlantHealth 2027-2029",
-      "url": "https://www.mastere.tn/erasmus-mundus-planthealth/",
-      "source": "Mastere.tn",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "234d689b3a8e",
-      "title": "WISE EdTech Accelerator 2026-2027",
-      "url": "https://opportunitydesk.org/2026/10/08/wise-edtech-accelerator-2026-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Global South Opportunities"
-      ]
-    },
-    {
-      "id": "ce7e028addc6",
-      "title": "Atlantic Fellows for Social and Economic Equity (AFSEE) Programme 2027-2028 (Fully-funded)",
-      "url": "https://opportunitydesk.org/2026/10/08/afsee-programme-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans",
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "40f119a60692",
-      "title": "Gloria’s Foundation Fellowship 2027 ($5,000 stipend)",
-      "url": "https://opportunitydesk.org/2026/10/08/gloria-foundation-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-08",
-      "first_seen": "2026-10-09",
       "status": "NEEDS VERIFICATION"
     }
   ]
