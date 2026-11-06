@@ -1,7 +1,106 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "leads": [
+    {
+      "id": "9614b09c6dcf",
+      "title": "Appel à candidatures – Programme de Stage affirmatif UNFPA Burkina Faso 2026-2027",
+      "url": "https://www.lesopportunites.com/opportunite/burkina-faso/stages/communication/appel-a-candidatures-programme-de-stage-affirmatif-unfpa-burkina-faso-2026-2027/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "4808dac5ccdf",
+      "title": "Appel à candidatures – 3 Programmes de Bourses d’études entièrement financés de la Banque Africaine de Développement (BAD) au titre de l’année 2027",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/formation/appel-a-candidatures-3-programmes-de-bourses-detudes-entierement-finances-de-la-banque-africaine-de-developpement-bad-au-titre-de-lannee-2027/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "23edec56429b",
+      "title": "University of Vienna Faculty of Law Fellowship Programme – Summer 2027",
+      "url": "https://opportunitydesk.org/2026/11/05/university-of-vienna-faculty-of-law-fellowship-programme-summer-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8e69e31ecb38",
+      "title": "15 Global Scholarship Opportunities Currently Open – November 5, 2026",
+      "url": "https://opportunitydesk.org/2026/11/05/15-global-scholarship-opportunities-currently-open-november-5-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5f51972bf998",
+      "title": "IX-WAI Early Career Development Grant 2027 (up to £1,000)",
+      "url": "https://opportunitydesk.org/2026/11/05/ix-wai-early-career-development-grant-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7b468eb471a9",
+      "title": "The Microsoft Imagine Cup Student Startup Competition 2027 for early-stage startups and founders worldwide (US$250,000 in cash prizes and US$1 million in Azure prize credits)",
+      "url": "https://www.opportunitiesforafricans.com/the-microsoft-imagine-cup-student-startup-competition-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7e151d58dda4",
+      "title": "The MCW Global’s Young Leaders Fellowship 2027 for young changemakers worldwide (Fully Funded to New York, USA)",
+      "url": "https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "57b75accd1b8",
+      "title": "The Equality Fund Journalism Fellowship 2027 for Journalists from the Global South ($4000 CAD stipend)",
+      "url": "https://www.opportunitiesforafricans.com/the-equality-fund-journalism-fellowship-2027-for-journalists-from-the-global-south/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6497bb987276",
+      "title": "MCW Young Leaders Fellowship 2027 in USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/mcw-young-leaders-fellowship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "246bfd9d6c3b",
       "title": "CRASSH Visiting Fellowships for Scholars from the Global South 2027 (Funded)",
@@ -47,7 +146,10 @@
       "language": "en",
       "published": "2026-11-05",
       "first_seen": "2026-11-05",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "948ce51a4fa8",
@@ -201,7 +303,10 @@
       "language": "en",
       "published": "2026-11-04",
       "first_seen": "2026-11-04",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "dfa45013b7dd",
@@ -2775,114 +2880,6 @@
       "source_tier": 3,
       "language": "en",
       "published": "2026-10-10",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "d057fc86c3ae",
-      "title": "United Nations Young Professionals Programme (YPP) 2026: International Careers for Young Graduates",
-      "url": "https://www.globalsouthopportunities.com/2026/10/10/nations-4/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities Corners"
-      ]
-    },
-    {
-      "id": "75157f6c7559",
-      "title": "VICTAM Foundation Funding 2027: Grants for Animal Feed and Flour Milling Industry Innovation",
-      "url": "https://www.globalsouthopportunities.com/2026/10/10/foundation-90/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c7598a23db7b",
-      "title": "ClimateCAP MBA Fellowship 2027: Applications Open for MBA Students Interested in Climate Leadership",
-      "url": "https://www.globalsouthopportunities.com/2026/10/10/cap-3/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a7cf875cc57d",
-      "title": "YLabs Seeks a Grants Lead: Remote Opportunity Paying Up to $55,909 Annually",
-      "url": "https://www.globalsouthopportunities.com/2026/10/10/lead-15/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2e8244d171e4",
-      "title": "Shenzhen FinTech Competition 2026 in China (Fully Funded)",
-      "url": "https://opportunitiescorners.com/shenzhen-fintech-competition-2026/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "7456cea862d0",
-      "title": "MENA Regenerative Agriculture Venture Programme 2026/2027",
-      "url": "https://opportunitydesk.org/2026/10/09/mena-regenerative-agriculture-venture-programme-2026-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "3d48f82d2a45",
-      "title": "UN Voluntary Fund for Indigenous Peoples 2027",
-      "url": "https://opportunitydesk.org/2026/10/09/un-voluntary-fund-for-indigenous-peoples-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "3893d168a20d",
-      "title": "Youth Diplomacy Convention 2027 in Belgium (Fully Funded)",
-      "url": "https://opportunitiescorners.com/youth-diplomacy-convention-2027-in-belgium/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "d1b904e9419b",
-      "title": "SDG Innovation Summit Malaysia 2026 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/sdg-innovation-summit-malaysia-2026/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-09",
       "first_seen": "2026-10-10",
       "status": "NEEDS VERIFICATION"
     }
