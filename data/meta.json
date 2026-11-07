@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-06T12:57:52Z",
+  "last_refresh": "2026-11-07T11:44:43Z",
   "counts": {
     "total": 77,
     "archived": 5,
@@ -53,16 +53,16 @@
     "7": [
       "dalai-lama-fellows-2027"
     ],
-    "3": [
+    "3": [],
+    "1": [
       "fortis-fellowship-2027",
       "ustc-international-winter-camp-2027"
-    ],
-    "1": []
+    ]
   },
   "watch": {
     "checked": 77,
-    "ok": 64,
-    "blocked_or_unreachable": 13,
+    "ok": 65,
+    "blocked_or_unreachable": 12,
     "dead": 0
   },
   "flags": [
@@ -144,7 +144,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 5
     },
     {
       "name": "Opportunities for Africans",
@@ -152,7 +152,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 2
     },
     {
       "name": "Global South Opportunities",
@@ -192,7 +192,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 1
+      "new": 2
     },
     {
       "name": "Opportunites du Monde",
@@ -200,7 +200,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Afri-Carrieres",
@@ -214,7 +214,7 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 520,
+      "status": 202,
       "items": 0,
       "new": 0
     },
@@ -243,6 +243,14 @@
       "new": 0
     }
   ],
-  "reseen": [],
+  "reseen": [
+    {
+      "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+      "title": "The Sir Cyril Taylor Young African Leaders Fellowship Program 2027 for young changemakers (Fully Funded to the 2027 AFS Youth Assembly in Switzerland)",
+      "url": "https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-11-07"
+    }
+  ],
   "new_leads_last_run": 9
 }

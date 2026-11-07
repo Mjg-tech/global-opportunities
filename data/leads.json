@@ -1,7 +1,113 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "leads": [
+    {
+      "id": "a3236a5eb721",
+      "title": "Call for judges : Join the OD Impact Challenge 2026 global judging panel",
+      "url": "https://opportunitydesk.org/2026/11/07/call-for-judges-join-the-od-impact-challenge-2026-global-judging-panel/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "710ea78edf00",
+      "title": "Nusuk App Challenge 2026 – Win a FREE Umrah Trip",
+      "url": "https://opportunitiescorners.com/nusuk-app-challenge-2026/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-07",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "159f91aaf782",
+      "title": "Spencer Fellowship for Education Reporting 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/06/spencer-fellowship-for-education-reporting-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0124c38ff583",
+      "title": "Asia Foundation Development Fellows Program 2027",
+      "url": "https://opportunitydesk.org/2026/11/06/asia-foundation-development-fellows-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities Corners"
+      ]
+    },
+    {
+      "id": "36d550089080",
+      "title": "International Blue Carbon Institute (IBCI) Fellowship Program 2027 ($60,000 grant)",
+      "url": "https://opportunitydesk.org/2026/11/06/ibci-fellowship-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8de007d1e567",
+      "title": "Reagan-Fascell Democracy Fellows Program 2027-2028 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/11/06/reagan-fascell-democracy-fellows-program-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans",
+        "OYA Opportunities"
+      ]
+    },
+    {
+      "id": "4a08599cd117",
+      "title": "The Hurford Youth Fellows Program 2027 for emerging youth Leaders (Fully Funded to Washington D.C., United States)",
+      "url": "https://www.opportunitiesforafricans.com/the-hurford-youth-fellows-program-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c7acf5054fdc",
+      "title": "CFA Institute Access Scholarship Programme 2026/2027 for aspiring Finance Professionals",
+      "url": "https://www.opportunitiesforafricans.com/cfa-institute-access-scholarship-programme-2026-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7530d4fd2531",
+      "title": "Hurford Youth Fellowship 2027 in USA (Fully Funded)",
+      "url": "https://opportunitiescorners.com/hurford-youth-fellowship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "9614b09c6dcf",
       "title": "Appel à candidatures – Programme de Stage affirmatif UNFPA Burkina Faso 2026-2027",
@@ -2779,108 +2885,6 @@
       "language": "en",
       "published": "2026-10-12",
       "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e200114fa9d1",
-      "title": "Branco Weiss Fellowship – Society in Science 2027 (up to CHF600,000)",
-      "url": "https://opportunitydesk.org/2026/10/12/branco-weiss-fellowship-society-in-science-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-12",
-      "first_seen": "2026-10-12",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c5097d084703",
-      "title": "True Story Award 2027 for Journalists ($20,000 prize)",
-      "url": "https://opportunitydesk.org/2026/10/12/true-story-award-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-12",
-      "first_seen": "2026-10-12",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "0de6a7e8f5cb",
-      "title": "Digital Brand Architects HBCU Summer Talent Management Internship 2026",
-      "url": "https://opportunitydesk.org/2026/10/12/hbcu-summer-talent-management-internship-2026/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-12",
-      "first_seen": "2026-10-12",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "fb5dc125b1d6",
-      "title": "Clinton School International Public Service Projects (IPSP) 2027 (Funded)",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/clinton-school-international-public-service-projects-ipsp-2027-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-12",
-      "first_seen": "2026-10-12",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b81910f292cc",
-      "title": "AIxBio Research Fellowship 2027 in UK (Fully Funded)",
-      "url": "https://opportunitiescorners.com/aixbio-research-fellowship-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-11",
-      "first_seen": "2026-10-11",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "955ba490b617",
-      "title": "Apply for the William Southam Journalism Fellowship 2027: Fully Funded Opportunity in Canada for African and Middle Eastern Journalists with 7+ Years’ Experience",
-      "url": "https://www.globalsouthopportunities.com/2026/10/10/fellowship-300/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-11",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "dbd7632ea863",
-      "title": "UN Volunteer Fund 2026 (Fully Funded)",
-      "url": "https://oyaop.com/opportunity/exchange-programs/un-volunteer-fund-2026-fully-funded/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-11",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c13c377c4a0e",
-      "title": "WomanKind Creative Grant 2027",
-      "url": "https://opportunitydesk.org/2026/10/10/womankind-creative-grant-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-10",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Global South Opportunities"
-      ]
-    },
-    {
-      "id": "ac57559c190c",
-      "title": "Pivotal AI Safety Research Fellowship 2027 in London: £15,000–£18,000 Stipend and Research Mentorship",
-      "url": "https://www.globalsouthopportunities.com/2026/10/10/safety-6/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-10",
-      "first_seen": "2026-10-10",
       "status": "NEEDS VERIFICATION"
     }
   ]
