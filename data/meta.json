@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-07T11:44:43Z",
+  "last_refresh": "2026-11-08T11:56:36Z",
   "counts": {
-    "total": 77,
-    "archived": 5,
+    "total": 76,
+    "archived": 6,
     "by_status": {
       "OPEN": 29,
       "CLOSING SOON": 6,
       "UPCOMING": 24,
-      "DEADLINE PASSED": 9,
+      "DEADLINE PASSED": 8,
       "ROLLING": 2,
       "DATE UNKNOWN": 7
     },
@@ -19,25 +19,27 @@
       "Travel Funded": 2,
       "Participation Funded": 7,
       "Self Funded": 0,
-      "Funding Unclear": 18
+      "Funding Unclear": 17
     },
     "by_eligibility": {
       "LIKELY ELIGIBLE": 8,
-      "POSSIBLY ELIGIBLE": 59,
+      "POSSIBLY ELIGIBLE": 58,
       "NOT ELIGIBLE": 5,
       "INSUFFICIENT INFORMATION": 5
     },
     "by_verification": {
       "VERIFIED": 47,
       "PARTIALLY VERIFIED": 25,
-      "NEEDS VERIFICATION": 5
+      "NEEDS VERIFICATION": 4
     },
     "travel_funded": 34
   },
   "deadline_buckets": {
     "30": [
+      "gates-cambridge-2027",
       "gtf-telemachus-mentoring-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
+      "mastercard-foundation-scholars-cambridge-2027",
       "mastercard-foundation-scholars-sciences-po-2027",
       "mundus-mapp-2027",
       "sciences-po-emile-boutmy-masters-2027",
@@ -47,21 +49,22 @@
     ],
     "14": [
       "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
-      "kectil-program-2027",
       "youth-global-forum-2027-paris-cgdl"
     ],
     "7": [
+      "kectil-program-2027"
+    ],
+    "3": [
       "dalai-lama-fellows-2027"
     ],
-    "3": [],
     "1": [
       "fortis-fellowship-2027",
       "ustc-international-winter-camp-2027"
     ]
   },
   "watch": {
-    "checked": 77,
-    "ok": 65,
+    "checked": 76,
+    "ok": 64,
     "blocked_or_unreachable": 12,
     "dead": 0
   },
@@ -144,7 +147,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 5
+      "new": 4
     },
     {
       "name": "Opportunities for Africans",
@@ -152,7 +155,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Global South Opportunities",
@@ -192,7 +195,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Opportunites du Monde",
@@ -214,7 +217,7 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 202,
+      "status": 520,
       "items": 0,
       "new": 0
     },
@@ -249,8 +252,8 @@
       "title": "The Sir Cyril Taylor Young African Leaders Fellowship Program 2027 for young changemakers (Fully Funded to the 2027 AFS Youth Assembly in Switzerland)",
       "url": "https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/",
       "source": "Opportunities for Africans",
-      "seen": "2026-11-07"
+      "seen": "2026-11-08"
     }
   ],
-  "new_leads_last_run": 9
+  "new_leads_last_run": 4
 }
