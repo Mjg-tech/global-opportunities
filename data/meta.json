@@ -1,47 +1,47 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-08T11:56:36Z",
+  "last_refresh": "2026-11-09T07:32:01Z",
   "counts": {
-    "total": 76,
-    "archived": 6,
+    "total": 80,
+    "archived": 7,
     "by_status": {
-      "OPEN": 29,
+      "OPEN": 31,
       "CLOSING SOON": 6,
-      "UPCOMING": 24,
-      "DEADLINE PASSED": 8,
+      "UPCOMING": 26,
+      "DEADLINE PASSED": 9,
       "ROLLING": 2,
-      "DATE UNKNOWN": 7
+      "DATE UNKNOWN": 6
     },
     "by_funding": {
-      "Fully Funded": 24,
-      "Substantially Funded": 19,
-      "Partially Funded": 7,
+      "Fully Funded": 25,
+      "Substantially Funded": 21,
+      "Partially Funded": 8,
       "Travel Funded": 2,
-      "Participation Funded": 7,
+      "Participation Funded": 8,
       "Self Funded": 0,
-      "Funding Unclear": 17
+      "Funding Unclear": 16
     },
     "by_eligibility": {
-      "LIKELY ELIGIBLE": 8,
-      "POSSIBLY ELIGIBLE": 58,
-      "NOT ELIGIBLE": 5,
+      "LIKELY ELIGIBLE": 7,
+      "POSSIBLY ELIGIBLE": 62,
+      "NOT ELIGIBLE": 6,
       "INSUFFICIENT INFORMATION": 5
     },
     "by_verification": {
-      "VERIFIED": 47,
-      "PARTIALLY VERIFIED": 25,
+      "VERIFIED": 53,
+      "PARTIALLY VERIFIED": 23,
       "NEEDS VERIFICATION": 4
     },
-    "travel_funded": 34
+    "travel_funded": 38
   },
   "deadline_buckets": {
     "30": [
       "gates-cambridge-2027",
-      "gtf-telemachus-mentoring-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
       "mastercard-foundation-scholars-cambridge-2027",
-      "mastercard-foundation-scholars-sciences-po-2027",
+      "mcw-global-young-leaders-fellowship-2027",
       "mundus-mapp-2027",
+      "ned-hurford-youth-fellows-2027",
       "sciences-po-emile-boutmy-masters-2027",
       "wageningen-africa-scholarship-programme-2027",
       "wff-youth-policy-board-2027-2028",
@@ -49,6 +49,8 @@
     ],
     "14": [
       "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+      "gtf-telemachus-mentoring-2027",
+      "mastercard-foundation-scholars-sciences-po-2027",
       "youth-global-forum-2027-paris-cgdl"
     ],
     "7": [
@@ -57,10 +59,7 @@
     "3": [
       "dalai-lama-fellows-2027"
     ],
-    "1": [
-      "fortis-fellowship-2027",
-      "ustc-international-winter-camp-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 76,

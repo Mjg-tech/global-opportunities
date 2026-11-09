@@ -2,6 +2,493 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-09",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "deadline_text",
+      "old": "Official page, 29 October 2026: 'Applications live on November 9! Please check back here to apply, then.' The page gives no year and no closing date. Its general rule is that applicants 'may apply in November of the preceding year to join the program', so 9 November is read as 9 November 2026.",
+      "new": "Official page, 29 October 2026: 'Applications live on November 9! Please check back here to apply, then.' The page gives no year and no closing date. Its general rule is that applicants 'may apply in November of the preceding year to join the program', so 9 November is read as 9 November 2026. Re-read on 9 November 2026 at 07:31 UTC: the Leaders page and the Leaders Africa page still showed the same sentence (the call was not yet live)."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "funding_type",
+      "old": "Funding Unclear",
+      "new": "Participation Funded"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "coverage",
+      "old": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      },
+      "new": {
+        "tuition": "Covered",
+        "stipend": "Not covered",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "participation_fee",
+      "old": "Unknown / Not specified",
+      "new": "None: 'Participants selected for the Obama Foundation Leaders program incur no fees' (2026-2027 FAQ)"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "obama-foundation-leaders",
+      "title": "Obama Foundation Leaders programme",
+      "field": "eligibility",
+      "old": [
+        "From Africa, Asia-Pacific, Europe or the United States",
+        "Between the ages of 24 and 45 during the programme"
+      ],
+      "new": [
+        "From Africa, Asia-Pacific, Europe or the United States; Leaders Africa covers 'All nations and territories on/in the continent'",
+        "Between the ages of 24 and 45 during the programme (the 2026-2027 FAQ measured it on 1 September 2026)",
+        "2026-2027 FAQ: citizen or permanent resident of an eligible country (or a refugee or asylum seeker there, or five years' residence), living in the region for the whole programme",
+        "2026-2027 FAQ: at least three years of relevant experience in your issue area, and a leadership position in changemaking work, full-time or volunteer",
+        "2026-2027 FAQ: professionally proficient in English",
+        "2026-2027 FAQ: 8 to 12 hours a month of virtual programming (Wednesdays from 18:00 Central Africa Time), coaching and community groups",
+        "No education requirement"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "rlrh-graduate-horizons-2027",
+      "title": "Graduate Horizons 2027: master's scholarship application mentorship for displaced African learners",
+      "field": "(cycle closed)",
+      "old": "2026-10-25",
+      "new": "rolled to next cycle"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "mastercard-foundation-scholars-uc-berkeley-2027",
+      "title": "Mastercard Foundation Scholars Program at UC Berkeley (master's, 2027-2028 admissions cycle)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "mcw-global-young-leaders-fellowship-2027",
+      "title": "MCW Global Young Leaders Fellowship 2027 (New York and Vermont)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "ned-hurford-youth-fellows-2027",
+      "title": "Hurford Youth Fellows Program 2027 (National Endowment for Democracy, Washington DC)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "mauritius-africa-scholarship-scheme-2027",
+      "title": "Mauritius-Africa Scholarship Scheme 2027 (MPhil and PhD in Mauritius)",
+      "field": "(new record)",
+      "old": null,
+      "new": "added"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "mckinsey-forward-fall-2026",
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "field": "deadline_text",
+      "old": "Official FAQ, 2 November 2026: 'Applications are not open at the moment. However, you can still register your interest through this online form to stay informed ... when a new application cycle opens in your country.' The previous cycle closed on 2026-10-05 (earlier reading).",
+      "new": "Official FAQ, 9 November 2026: 'Applications are not open at the moment. However, you can still register your interest through this online form to stay informed ... when a new application cycle opens in your country.' The previous cycle closed on 2026-10-05 (earlier reading)."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "french-african-foundation-young-leaders",
+      "title": "French-African Foundation Young Leaders programme",
+      "field": "deadline_text",
+      "old": "No call dates on the page read. The application is made on the Foundation's website.",
+      "new": "The Young Leaders page shows 'EDITION 2025 - Candidatures clôturées !' (applications closed). No dates for the next call."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "french-african-foundation-young-leaders",
+      "title": "French-African Foundation Young Leaders programme",
+      "field": "program_dates",
+      "old": "Unknown / Not specified",
+      "new": "Two weeks: one in France and one in an African country (dates of the next edition not stated)"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "french-african-foundation-young-leaders",
+      "title": "French-African Foundation Young Leaders programme",
+      "field": "eligibility",
+      "old": [
+        "Age: between 28 and 40",
+        "Nationality of a country of the African continent, or French nationality",
+        "Selection by an independent jury on excellence, commitment and potential"
+      ],
+      "new": [
+        "Âge : avoir entre 28 et 40 ans (aged 28 to 40)",
+        "Langue : être bilingue en anglais ; la maîtrise du français est un atout (bilingual in English; French is an asset)",
+        "Expérience professionnelle : au moins 5 années d'expérience professionnelle avec des compétences en leadership et un impact démontrables (at least five years of professional experience with demonstrable leadership and impact)",
+        "Vision : a clear wish to build bridges between African countries and France",
+        "Nationality of a country of the African continent, or French nationality",
+        "Selection by an independent jury on excellence, commitment and potential"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "french-african-foundation-young-leaders",
+      "title": "French-African Foundation Young Leaders programme",
+      "field": "eligibility_for_me",
+      "old": "POSSIBLY ELIGIBLE",
+      "new": "NOT ELIGIBLE"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly, Geneva)",
+      "field": "eligibility",
+      "old": [
+        "Aged 18 to 35",
+        "From a Sub-Saharan African country",
+        "Holds an unexpired passport",
+        "Able to attend the AFS Youth Assembly in Geneva in person in August 2027",
+        "Proficient in English (intermediate level)",
+        "Has demonstrable leadership qualities or a proven track record of leadership experience",
+        "Enrols in the AFS Global Competence Certificate (GCC) programme"
+      ],
+      "new": [
+        "Aged 18 to 35",
+        "From a Sub-Saharan African country",
+        "Holds an unexpired passport",
+        "Able to attend the AFS Youth Assembly in Geneva in person in August 2027",
+        "Proficient in English (intermediate level)",
+        "Has demonstrable leadership qualities or a proven track record of leadership experience",
+        "Enrols in the AFS Global Competence Certificate (GCC) programme",
+        "Potential for personal and professional growth",
+        "Demonstrable interest in global affairs, sustainable development and youth issues",
+        "Leading a social impact project related to the Sustainable Development Goals (preferred)"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "gtf-telemachus-mentoring-2027",
+      "title": "Telemachus Mentoring Programme 2027 (Global Thinkers Forum)",
+      "field": "participation_fee",
+      "old": "Unknown / Not specified",
+      "new": "No fee is asked on the official application form"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "gtf-telemachus-mentoring-2027",
+      "title": "Telemachus Mentoring Programme 2027 (Global Thinkers Forum)",
+      "field": "eligibility",
+      "old": [
+        "Telemachus: 'a young individual between 18-29' (official home page)",
+        "Applicants with a Bachelor's degree or at least five years of relevant professional experience are prioritised",
+        "Fluent English is prioritised",
+        "Detailed eligibility criteria are linked from the application page but were not readable"
+      ],
+      "new": [
+        "Telemachus: 'a young individual between 18-29' (official home page)",
+        "Applicants with fluent English who have completed a Bachelor's degree, or have equally relevant professional experience of at least five years, are prioritised",
+        "Candidates are expected to show motivation, commitment and critical thinking skills",
+        "Able to communicate with the mentor by email, instant messaging and video calls (application form)"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "gtf-telemachus-mentoring-2027",
+      "title": "Telemachus Mentoring Programme 2027 (Global Thinkers Forum)",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "mastercard-foundation-scholars-sciences-po-2027",
+      "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+      "field": "eligibility",
+      "old": [
+        "'Hold the citizenship of an African country.' Dual citizenship that includes a country outside the African continent is not eligible",
+        "'Be currently completing, or already hold, a Bachelor's degree from one of the universities on this list of institutions' (the only DRC institution listed is the Université de Kinshasa); or a Bachelor's plus a recognised bridge or mentoring programme of an approved organisation; or a Bachelor's plus current or past UNHCR refugee status",
+        "'Be under 35 years of age on 1 September of the year in which the scholarship application is submitted.'",
+        "'Not already hold, or currently pursuing, a Master's degree'; applying to the Mastercard Foundation Scholars Program for the first time",
+        "Students currently enrolled in, or graduated from, a French higher education institution are not eligible"
+      ],
+      "new": [
+        "'Hold the citizenship of an African country.' Dual citizenship that includes a country outside the African continent is not eligible",
+        "'Be currently completing, or already hold, a Bachelor's degree from one of the universities on this list of institutions' (the only DRC institution listed is the Université de Kinshasa); or a Bachelor's plus a recognised bridge or mentoring programme of an approved organisation; or a Bachelor's plus current or past UNHCR refugee status",
+        "'Be under 35 years of age on 1 September of the year in which the scholarship application is submitted.'",
+        "'Not already hold, or currently pursuing, a Master's degree'; applying to the Mastercard Foundation Scholars Program for the first time",
+        "Students currently enrolled in, or graduated from, a French higher education institution are not eligible",
+        "Sciences Po master's academic prerequisite for a degree from the DRC: '14/20 or 70%' (table of minimum academic results); applicants below it are 'automatically deemed ineligible'"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "sciences-po-emile-boutmy-masters-2027",
+      "title": "Sciences Po Émile Boutmy Scholarship for two-year master's programmes (2027 entry)",
+      "field": "eligibility",
+      "old": [
+        "First-time applicant to Sciences Po",
+        "National of a non-European Union state whose household does not file taxes within the European Union",
+        "Admitted to a two-year master's programme (one-year master's, PhD and exchange candidates are excluded; dual EU citizens, Swiss and Norwegian applicants excluded)",
+        "Awarded on merit and the profile sought by the programme, assessed within the admission review",
+        "Undergraduate degree of 180 ECTS (bachelor's or equivalent)"
+      ],
+      "new": [
+        "First-time applicant to Sciences Po",
+        "National of a non-European Union state whose household does not file taxes within the European Union",
+        "Admitted to a two-year master's programme (one-year master's, PhD and exchange candidates are excluded; dual EU citizens, Swiss and Norwegian applicants excluded)",
+        "Awarded on merit and the profile sought by the programme, assessed within the admission review",
+        "Undergraduate degree of 180 ECTS (bachelor's or equivalent)",
+        "Sciences Po master's academic prerequisite for a degree from the DRC: '14/20 or 70%' (table of minimum academic results); applicants below it are 'automatically deemed ineligible'"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "yenching-academy-2027",
+      "title": "Yenching Academy of Peking University (2027 entry)",
+      "field": "eligibility",
+      "old": [
+        "A bachelor's degree in any field, or a bachelor's diploma expected by August of the enrolment year",
+        "English: IELTS Academic 7.0 overall or TOEFL iBT 100 overall, unless English is the native language or the degree was taught in English",
+        "Test taken after 1 September 2025, with scores sent directly by the test organisation",
+        "Recommendation letters only from full or associate professors in the intended field",
+        "Students and alumni of partner universities apply through their home university"
+      ],
+      "new": [
+        "A bachelor's degree in any field, or a bachelor's diploma expected by August of the enrolment year",
+        "English: IELTS Academic 7.0 overall; TOEFL iBT overall 5 (scores of 100 or above obtained between 1 September 2025 and 21 January 2026 also accepted); Cambridge English Scale (Advanced) 185; unless English is the native language or the degree was taught in English",
+        "Test taken after 1 September 2025, with scores sent directly by the test organisation",
+        "Recommendation letters only from full or associate professors in the intended field",
+        "Students and alumni of partner universities apply through their home university",
+        "Non-Chinese citizen with a valid passport"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Cambridge (2027/28 master's)",
+      "field": "eligibility",
+      "old": [
+        "Have a bachelor's degree",
+        "Meet the course's academic entry requirements: 'Some courses require the equivalent of a UK first-class honours degree and others an upper second-class degree'",
+        "'Be from, and live in, an African country'",
+        "Any full-time master's except MACC, MBA, MCL and MFIN",
+        "'There is no upper age limit'",
+        "IELTS not needed to apply ('conditional offer'); the required score is 'either 7.0 or 7.5 overall'"
+      ],
+      "new": [
+        "Have a bachelor's degree",
+        "Meet the course's academic entry requirements: 'Some courses require the equivalent of a UK first-class honours degree and others an upper second-class degree'",
+        "'Be from, and live in, an African country'",
+        "Any full-time master's except MACC, MBA, MCL and MFIN",
+        "'There is no upper age limit'",
+        "IELTS not needed to apply ('conditional offer'); the required score is 'either 7.0 or 7.5 overall'",
+        "Demonstrate a commitment to giving back to your community, home country or Africa more generally, and to the themes of sustainability and climate resilience"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "field": "deadline_text",
+      "old": "Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline.",
+      "new": "Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline. 9 November 2026: the apply page now reads 'Applications are Closed' and 'Results will be communicated via Email by 9 November 2026'."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "icann-fellowship",
+      "title": "ICANN Fellowship Program",
+      "field": "application_deadline",
+      "old": "",
+      "new": "2027-04-22"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "icann-fellowship",
+      "title": "ICANN Fellowship Program",
+      "field": "deadline_utc",
+      "old": "",
+      "new": "2027-04-22T23:59:00Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "icann-fellowship",
+      "title": "ICANN Fellowship Program",
+      "field": "deadline_text",
+      "old": "The round for the ICANN88 Community Forum is closed. The round for the ICANN89 Policy Forum opens 5 November 2026 and closes 5 December 2026, but only Fellowship alumni may apply for a Policy Forum fellowship.",
+      "new": "Official 'Application Dates & Deadlines' table: ICANN90 Annual General Meeting in Adelaide, Australia (30 Oct-4 Nov 2027): opening of application round 22 March 2027 at 23:59 UTC, closing 22 April 2027 at 23:59 UTC, announcement of selected Fellows 28 June 2027. 'The Fellowship application round for ICANN89 Policy Forum* is now open. The deadline for submission is 5 December 2026 at 23:59 UTC Time', but '*Only those who have successfully completed an ICANN Fellowship Program before (Fellowship Program Alumni) are eligible'. ICANN88 (Lisbon): closed; selected Fellows announced 10 November 2026."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "icann-fellowship",
+      "title": "ICANN Fellowship Program",
+      "field": "opens_on",
+      "old": "",
+      "new": "2027-03-22"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "icann-fellowship",
+      "title": "ICANN Fellowship Program",
+      "field": "program_dates",
+      "old": "ICANN meetings: 13-18 March 2027 (Community Forum) and 14-17 June 2027 (Policy Forum)",
+      "new": "Next round open to first-time applicants: ICANN90 Annual General Meeting, Adelaide, Australia, 30 October - 4 November 2027. ICANN88 Community Forum, Lisbon, 13-18 March 2027: round closed. ICANN89 Policy Forum, Vancouver, 14-17 June 2027: Fellowship alumni only."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "icann-fellowship",
+      "title": "ICANN Fellowship Program",
+      "field": "eligibility",
+      "old": [
+        "At least 21 years of age when applying",
+        "Interested in, or already engaged in, ICANN's work on policy, the Domain Name System and Internet security and stability",
+        "Not involved in another ICANN-supported travel programme at the time of selection"
+      ],
+      "new": [
+        "At least 21 years of age by the time of the application submission",
+        "Interested in, or already engaged in, ICANN's work on policy, the Domain Name System and the security and stability of the global Internet",
+        "Complete the mandatory ICANN Learn course(s)",
+        "Not involved in or associated with other ICANN-supported travel programmes at the time of selection",
+        "No more than two previous fellowships (second- and third-time fellows must prove involvement in an ICANN community)",
+        "Policy Forum rounds (such as ICANN89) are for Fellowship alumni only"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "internet-society-fellowship-2027",
+      "title": "Internet Society Fellowship Program 2027",
+      "field": "deadline_text",
+      "old": "Complete all required Pre-Fellowship Training modules before 22 November 2026; fellowship applications close 18 December 2026 and are accepted on a rolling basis.",
+      "new": "'To become eligible to apply for the fellowship program, participants must enroll in the required Pre-Fellowship Training modules before 22 November 2026.' Once the modules are completed the application link is emailed within 24 hours; applications are rolling and must be submitted 'no later than 18 December 2026' (the Timeline also says '18 December 2026 Fellowship applications close'). The page's Applicant Journey graphic says 'By 22 December 2026' instead; the earlier date is recorded. Open enrolment for the self-paced training: 23 September - 22 November 2026."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "internet-society-fellowship-2027",
+      "title": "Internet Society Fellowship Program 2027",
+      "field": "program_dates",
+      "old": "Kick-off 22 February 2027; mentored project 1 June to 30 November 2027; final delivery 3 December 2027",
+      "new": "Timeline: application review and selection 21 December 2026 - 29 January 2027, further dates on 19 and 22 February 2027. Selected-fellows section: kick-off (1.5-hour onboarding call) 24 February 2027; leadership sessions 1 March - 28 May 2027; project execution 1 June - 30 November 2027; reporting and graduation 29 November - 13 December 2027."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "internet-society-fellowship-2027",
+      "title": "Internet Society Fellowship Program 2027",
+      "field": "eligibility",
+      "old": [
+        "Enrol in and complete the Pre-Fellowship Training before 22 November 2026",
+        "Choose a track: Internet Policy and Mobilization, Internet Connectivity, or Internet Safety and Security",
+        "High level of reading, speaking and writing skills in English"
+      ],
+      "new": [
+        "Enrol in the required Pre-Fellowship Training before 22 November 2026 and complete it before applying",
+        "Choose a track and sub-track: Internet Policy and Mobilization, Internet Connectivity, or Internet Safety and Security",
+        "High level of reading, speaking and writing skills in English",
+        "Reliable Internet access and equipment to join virtual sessions",
+        "At least four hours a week, with weekly sessions, during the 10-month programme",
+        "A valid passport that remains valid for at least six months beyond anticipated fellowship-related travel dates",
+        "Not currently taking part in a 2026 Internet Society fellowship"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "internet-society-fellowship-2027",
+      "title": "Internet Society Fellowship Program 2027",
+      "field": "eligibility_for_me",
+      "old": "LIKELY ELIGIBLE",
+      "new": "POSSIBLY ELIGIBLE"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "deadline_text",
+      "old": "No 2027-2028 call published on 2 November 2026: the African Union announcements page still lists the 2026-2027 call (15 November 2025) as the latest PAU item, and the application platform still states 'Applications closed on 15/12/2025'. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
+      "new": "No 2027-2028 call published on 9 November 2026: au-pau.org/submission still states 'Applications closed on 15/12/2025', the au.int calls list still shows the 2026-2027 call as the latest PAU item, and pau-au.africa shows no new call. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "stipendium-hungaricum-2027",
+      "title": "Stipendium Hungaricum scholarship (2027/2028)",
+      "field": "deadline_text",
+      "old": "No 2027/2028 call seen on 19 or 29 October 2026. The apply page still shows the 'Call for Applications 2026/2027' with the deadline '15th January 2026, 2 pm (CET)', and the latest news items (to 29 September 2026) do not announce a new call.",
+      "new": "No 2027/2028 call on 9 November 2026. The home page says 'Application is closed for the 2026/27 academic year.' The Apply page still shows the 2026/2027 timeline (application deadline 2026-01-15), and the latest news item is dated 29 September 2026."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "field": "deadline_utc",
+      "old": "",
+      "new": "2026-11-30T22:59:00Z"
+    },
+    {
+      "date": "2026-11-09",
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "field": "deadline_text",
+      "old": "Reported by secondary sources: deadline November 30, 2026 (Opportunity Desk). The official call page embeds a Microsoft Form that could not be read, and the official Terms of Reference give no deadline.",
+      "new": "Official application form ('Open Call for Applications: Youth Policy Board 2027-2028', embedded on the call page): 'Please submit your application by 30 November 23:59 (CET/Rome time).' The form gives no year; it is the call for the 2027-2028 cohort and 'The Final Selection will be announced by April 2027', so the date is read as 30 November 2026 (Opportunity Desk also gives November 30, 2026)."
+    },
+    {
+      "date": "2026-11-09",
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "field": "eligibility",
+      "old": [
+        "Have graduated from high school and either have completed or be enrolled in a bachelor's degree programme at the time of application",
+        "Be between 18 and 35 years as of 30 April 2027",
+        "Be national of an FAO Member State",
+        "Proficiency in spoken and written English at C1 level (fluency in other FAO official languages is an advantage)",
+        "Available for at least one weekly 1-hour YPB meeting between 09:00-18:00 CEST/CET",
+        "Demonstrated experience, knowledge or strong engagement in agrifood systems, policy advocacy and youth empowerment",
+        "About 25 hours per month (20 core area, 5 supporting area)",
+        "Ability to work in an international, multicultural environment",
+        "Not immediate family of FAO employees; not employed by FAO; not a current or former WFF YSG or YPB member"
+      ],
+      "new": [
+        "Have graduated from high school and either have completed or be enrolled in a bachelor's degree programme at the time of application",
+        "Be between 18 and 35 years as of 30 April 2027",
+        "Be national of an FAO Member State",
+        "Proficiency in spoken and written English at C1 level (fluency in other FAO official languages is an advantage)",
+        "Available for at least one weekly 1-hour YPB meeting between 09:00-18:00 CEST/CET",
+        "Demonstrated experience, knowledge or strong engagement in agrifood systems, policy advocacy and youth empowerment",
+        "About 25 hours per month (20 core area, 5 supporting area)",
+        "Ability to work in an international, multicultural environment",
+        "Not immediate family of FAO employees; not employed by FAO; not a current or former WFF YSG or YPB member",
+        "Not applying for a third YPB term (application form)"
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "id": "wff-youth-policy-board-2027-2028",
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "field": "verification",
+      "old": "PARTIALLY VERIFIED",
+      "new": "VERIFIED"
+    },
+    {
       "date": "2026-11-08",
       "id": "international-dialogue-sdg17-baku-2026",
       "title": "International Dialogue on SDG 17 - Baku 2026",

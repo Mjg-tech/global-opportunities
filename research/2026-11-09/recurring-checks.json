@@ -1,0 +1,621 @@
+[
+  {
+    "id": "european-forum-alpbach-scholarships",
+    "title": "European Forum Alpbach scholarship programme",
+    "organization": "European Forum Alpbach",
+    "overview": "Scholarships to take part in the annual two-week European Forum Alpbach in the Austrian Alps. The scholarship pays the participation fee and accommodation, not travel.",
+    "category": [
+      "Conference",
+      "Leadership",
+      "Travel"
+    ],
+    "subcategory": [
+      "Forum",
+      "Partial scholarship"
+    ],
+    "education_levels": [
+      "Open to all"
+    ],
+    "country": "Austria",
+    "city": "Alpbach",
+    "region": "Western Europe",
+    "continent": "Europe",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "European Forum Alpbach 2027: 23 August to 3 September 2027, Conference Days open 29 August 2027",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "No 2027 call yet. For the 2026 Forum: 'The European Forum Alpbach application platform will open from 2-22 March 2026.'",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "The 2027 Forum dates are announced (23 August to 3 September 2027) but the scholarship application period is not. In 2026 the platform was open 2-22 March.",
+    "last_cycle_deadline": "2026-03-22",
+    "funding_type": "Participation Funded",
+    "funding_details": [
+      "A scholarship covers the participation fee for the entire Forum and accommodation",
+      "Travel to and from Alpbach, daily expenses, health care and travel insurance are paid by the participant",
+      "An 'advanced scholarship' adds a lump sum toward travel and on-site costs for applicants with the greatest need"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Not specified",
+      "flight": "Not covered",
+      "accommodation": "Covered",
+      "meals": "Not covered",
+      "visa": "Not specified",
+      "insurance": "Not covered",
+      "local_transport": "Not specified"
+    },
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Up to the age of 30; up to 35 for applicants from the Global South, which by the UNCTAD definition includes Africa",
+      "Applicants from all countries and professional or academic backgrounds"
+    ],
+    "nationality_requirements": [
+      "All countries"
+    ],
+    "age_requirement": "Up to 30, or up to 35 for applicants from the Global South",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply on the Forum's application platform during the March window",
+      "Ask for an advanced scholarship in the same application if travel costs are a barrier"
+    ],
+    "official_application_url": "https://www.alpbach.org/faq-scholarship-programme",
+    "official_information_url": "https://www.alpbach.org/faq-scholarship-programme",
+    "source_url": "https://www.alpbach.org/faq-scholarship-programme",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "FAQ: scholarship programme",
+        "url": "https://www.alpbach.org/faq-scholarship-programme",
+        "type": "Official"
+      },
+      {
+        "label": "European Forum Alpbach home page (2027 dates)",
+        "url": "https://www.alpbach.org/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "LIKELY ELIGIBLE",
+    "eligibility_reason": "Applicants from Africa are accepted up to age 35 and from any background, which the profile meets.",
+    "potential_issues": [
+      "Flights to Austria, the Schengen visa, insurance and daily expenses are not covered by a regular scholarship",
+      "The advanced scholarship lump sum is awarded only to those with the greatest need"
+    ],
+    "benefits": [
+      "Two weeks of seminars and debates",
+      "European and international network"
+    ],
+    "relevance": {
+      "academic": "Medium",
+      "career": "Medium",
+      "travel": "High",
+      "networking": "Very High",
+      "funding": "Medium",
+      "accessibility": "Medium",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Open to any background and to Africans up to 35, but the uncovered travel cost from Kinshasa is the real obstacle.",
+    "visa": {
+      "required": "Yes",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "High: flights, visa and insurance must be paid before travel unless an advanced scholarship is granted.",
+    "action": "Look again in February 2027 and apply for the advanced scholarship if you go ahead.",
+    "last_verified": "2026-11-09",
+    "date_discovered": "2026-10-02",
+    "notes": "9 November 2026: scholarship FAQ re-read; it still describes the 2026 call (2-22 March 2026). No 2027 call yet.",
+    "match_keywords": [
+      "forum alpbach"
+    ]
+  },
+  {
+    "id": "aspire-leaders-program-2026-cohort-4",
+    "title": "Aspire Leaders Program (2026 Cohort 4)",
+    "organization": "Aspire Institute",
+    "overview": "Free six-week online leadership programme for first-generation or limited-income university students and graduates aged 18 to 29. Cohort 4 runs from 21 October to 30 November 2026.",
+    "category": [
+      "Leadership",
+      "Training"
+    ],
+    "subcategory": [
+      "Online programme"
+    ],
+    "education_levels": [
+      "Bachelor's",
+      "Graduate",
+      "Open to all"
+    ],
+    "country": "Online",
+    "city": "Online",
+    "region": "Global",
+    "continent": "Global",
+    "location_type": "Remote",
+    "delivery_mode": "Online",
+    "program_dates": "21 October to 30 November 2026",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "Last cycle closed on 2026-10-16. Next cycle not announced yet.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "Programme page (26 October 2026): '2027' Cohort 1 marked 'COMING SOON' with no dates; home page: 'Check back in for future updates regarding our 2027 program.' The site's Apply button leads to a 2027 interest form; no 2027 application dates or deadline are stated.",
+    "last_cycle_deadline": "2026-10-16",
+    "funding_type": "Fully Funded",
+    "funding_details": [
+      "'No application fee. No tuition. No catch.'",
+      "Free certificate of completion; an optional verifiable e-credential bundle costs USD 5",
+      "Programme page lists alumni/graduate support: Skills Advancement Grants (up to USD 200), Community Action Award (up to USD 5,000), Seed Fund, Academic Advancement Grant and Conference Grant (amounts for the last three not stated)"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Not applicable",
+      "flight": "Not applicable",
+      "accommodation": "Not applicable",
+      "meals": "Not applicable",
+      "visa": "Not applicable",
+      "insurance": "Not applicable",
+      "local_transport": "Not applicable"
+    },
+    "participation_fee": "None: 'No tuition, no application fee, no cost at any point.' An optional verifiable e-credential bundle costs USD 5; a free certificate is still given.",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Limited-income or first-generation university students and graduates, anywhere in the world",
+      "18 to 29 years old",
+      "Currently enrolled in or graduated from an undergraduate or postgraduate university programme",
+      "Eligibility is self-identified; no documentation is required (programme page)"
+    ],
+    "nationality_requirements": [
+      "Open worldwide (195 countries represented)"
+    ],
+    "age_requirement": "18 to 29",
+    "education_requirement": "University student or graduate",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Complete the online application before 16 October 2026"
+    ],
+    "official_application_url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+    "official_information_url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+    "source_url": "https://www.aspireleaders.org/",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "Aspire Leaders Program",
+        "url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
+        "type": "Official"
+      },
+      {
+        "label": "Aspire Institute home page (closed banner)",
+        "url": "https://www.aspireleaders.org/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "The age range fits a graduate under 30. The programme is reserved for first-generation or limited-income students and graduates, and the profile does not record either.",
+    "potential_issues": [
+      "Cohort 4 closed on 16 October 2026; 2027 dates not announced",
+      "Reserved for first-generation or limited-income applicants",
+      "Live sessions need a reliable internet connection"
+    ],
+    "benefits": [
+      "Live masterclasses and peer cohort",
+      "Certificate",
+      "Seed funds for alumni projects"
+    ],
+    "relevance": {
+      "academic": "Medium",
+      "career": "Medium",
+      "travel": "Low",
+      "networking": "High",
+      "funding": "High",
+      "accessibility": "Very High",
+      "profile_fit": "High"
+    },
+    "relevance_reason": "Free, short and built for recent graduates; it also adds a leadership credential that later applications (for example the Mandela Washington Fellowship) look for.",
+    "visa": {
+      "required": "No",
+      "support": "Not applicable (online)"
+    },
+    "upfront_cost_risk": "None stated.",
+    "action": "Cohort 4 is closed. If you are the first in your family at university or come from a limited-income household, watch aspireleaders.org for the 2027 Cohort 1 dates (the site offers a 2027 interest form).",
+    "last_verified": "2026-11-09",
+    "date_discovered": "2026-10-02",
+    "notes": "Several cohorts run each year. 26 October 2026: Cohort 4 (21 Oct-30 Nov 2026) is marked Closed and the 2027 programme is 'coming soon' with no dates. Eligibility (18-29, enrolled in or graduated from a university programme, limited-income or first-generation) and cost wording ('No application fee. No tuition. No catch.'; optional USD 5 e-credential bundle) unchanged. The feed item 'Aspire Leaders Program 2026' matches this cohort. [auto 2026-10-31] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens. 9 November 2026: programme and home pages re-read; '2027 Cohort 1' still 'COMING SOON', no dates.",
+    "match_keywords": [
+      "aspire leaders"
+    ]
+  },
+  {
+    "id": "mckinsey-forward-fall-2026",
+    "title": "McKinsey.org Forward learning programme (Fall 2026)",
+    "organization": "McKinsey.org",
+    "overview": "Free multi-week online programme teaching practical workplace skills: adaptability, communication, problem-solving, and digital and AI essentials. Applications are open until 5 October.",
+    "category": [
+      "Training",
+      "Leadership"
+    ],
+    "subcategory": [
+      "Online programme",
+      "Early-career skills"
+    ],
+    "education_levels": [
+      "Open to all",
+      "Professional"
+    ],
+    "country": "Online",
+    "city": "Online",
+    "region": "Global",
+    "continent": "Global",
+    "location_type": "Remote",
+    "delivery_mode": "Online",
+    "program_dates": "Multi-week programme following the application window",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "Official FAQ, 9 November 2026: 'Applications are not open at the moment. However, you can still register your interest through this online form to stay informed ... when a new application cycle opens in your country.' The previous cycle closed on 2026-10-05 (earlier reading).",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-10-05.",
+    "last_cycle_deadline": "2026-10-05",
+    "funding_type": "Participation Funded",
+    "funding_details": [
+      "Official FAQ: 'No, Forward is free for eligible participants as part of McKinsey's social responsibility commitment. There are no fees to apply, register, or partake in any of the two levels, provided you are eligible.'",
+      "Participants use their own internet-connected device and internet access; ten weeks, about two hours a week for the Core Skills level",
+      "No stipend, travel or certificate fee is mentioned; this is a free online programme, not a funded mobility"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Not applicable",
+      "flight": "Not applicable",
+      "accommodation": "Not applicable",
+      "meals": "Not applicable",
+      "visa": "Not applicable",
+      "insurance": "Not applicable",
+      "local_transport": "Not applicable"
+    },
+    "participation_fee": "None: 'There are no fees to apply, register, or partake'",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Live in a country where Forward is available; the FAQ's Africa list includes the Democratic Republic of the Congo",
+      "Working or with prior work experience (including internships or apprenticeships), or preparing to start work in the next 12 months",
+      "Less than 5 years of total work experience (exceptions stated for nonprofit, non-corporate or non-managerial roles)",
+      "At least a high school education or equivalent",
+      "Command of English, French, Brazilian Portuguese, Latin American Spanish or Arabic"
+    ],
+    "nationality_requirements": [
+      "Available in more than 130 countries"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Reported: under 5 years of work experience; internships count",
+    "language_requirement": "Primarily English; a secondary source says the digital content is also translated into French",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply online from the Forward overview page before 5 October"
+    ],
+    "official_application_url": "https://www.mckinsey.org/our-programs/forward/overview",
+    "official_information_url": "https://www.mckinsey.org/our-programs/forward/faq",
+    "source_url": "https://www.mckinsey.org/our-programs/forward/overview",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "VERIFIED",
+    "sources": [
+      {
+        "label": "McKinsey.org Forward overview",
+        "url": "https://www.mckinsey.org/our-programs/forward/overview",
+        "type": "Official"
+      },
+      {
+        "label": "McKinsey.org Forward FAQ (deadline, eligibility, country list, no fees)",
+        "url": "https://www.mckinsey.org/our-programs/forward/faq",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "LIKELY ELIGIBLE",
+    "eligibility_reason": "The official FAQ lists the DRC among Forward countries; internships count as prior work experience, total experience is under 5 years, and the course can be followed in English or French.",
+    "potential_issues": [
+      "No application is open; the next cohort date is not announced",
+      "Missed applicants can only register interest; cohorts are delivered once a year and cannot be joined late",
+      "The programme is online and free: it brings no stipend and no travel"
+    ],
+    "benefits": [
+      "Digital badge",
+      "Global learner network",
+      "Skills that employers in the target roles ask for"
+    ],
+    "relevance": {
+      "academic": "Medium",
+      "career": "High",
+      "travel": "Low",
+      "networking": "Medium",
+      "funding": "High",
+      "accessibility": "Very High",
+      "profile_fit": "Very High"
+    },
+    "relevance_reason": "Free, short and aimed exactly at people starting their career. Problem-solving and digital skills are the gaps that business analyst and operations postings keep naming.",
+    "visa": {
+      "required": "No",
+      "support": "Not applicable (online)"
+    },
+    "upfront_cost_risk": "None stated.",
+    "action": "Applications are not open. Register your interest on the Forward page to be told when a new cycle opens in the DRC (the DRC is on the Africa list), and check the eligibility rules again then.",
+    "last_verified": "2026-11-09",
+    "date_discovered": "2026-10-02",
+    "notes": "Re-verified 5 October 2026: no extension and no spring 2027 cohort announced. Missed applicants 'can register their interest on the Forward website and will be contacted for the next cohort'. [auto 2026-10-20] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens. 2 November 2026 (rerun): the FAQ answers (embedded in the page data, collapsed in the visible text) were read: DRC on the Africa list, free of charge, eligibility unchanged (prior work experience including internships, under 5 years, high school, English or French), 'Applications are not open at the moment'. The earlier 'Apply today' action was out of date. Label changed from Fully Funded to Participation Funded (a free online course). 9 November 2026: FAQ re-read; applications still not open.",
+    "match_keywords": [
+      "mckinsey forward",
+      "mckinsey.org forward",
+      "mckinsey's forward",
+      "mckinsey"
+    ]
+  },
+  {
+    "id": "mastercard-foundation-associates-program",
+    "title": "Mastercard Foundation Associates Program (12-month paid work placements across Africa)",
+    "organization": "Mastercard Foundation, with partner organisations (Talenteum for remote roles; Talent2Africa for Francophone Africa; Youth Employment Service; LEAP Africa and others)",
+    "overview": "A 12-month paid internship placement for young Africans after graduation, with employability training and mentorship, run through partner platforms by region. The official page says applications are open to Mastercard Foundation alumni and young people across Africa, who apply for roles in their country of residence or for remote roles; the Francophone Africa route is marked closed.",
+    "category": [
+      "Internship"
+    ],
+    "subcategory": [
+      "Paid placement",
+      "Career transition"
+    ],
+    "education_levels": [
+      "Open to all"
+    ],
+    "country": "Multiple countries (Africa)",
+    "city": "Unknown / Not specified",
+    "region": "Africa",
+    "continent": "Africa",
+    "location_type": "Hybrid",
+    "delivery_mode": "Hybrid",
+    "program_dates": "12-month placements; roles are posted on an ongoing basis",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "No closing date on the official page: 'Roles will be posted on an ongoing basis.' The Francophone Africa route shows 'Closed for Applications'.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": true,
+    "rolling": true,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "funding_type": "Funding Unclear",
+    "funding_details": [
+      "Official page: 'A stipend is provided for the duration of the internship.' No amount is stated on the page read (aggregators quote about USD 300 a month, which varies by location)",
+      "No travel, relocation, visa or accommodation support is mentioned; remote roles need no relocation"
+    ],
+    "coverage": {
+      "tuition": "Not applicable",
+      "stipend": "Covered",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "participation_fee": "None mentioned on the pages read",
+    "stipend": "Provided for the 12 months; the amount is not stated on the official page",
+    "eligibility": [
+      "'Applications are open to Mastercard Foundation Alumni and young people across Africa'",
+      "Apply for roles based only in your country of residence, or for remote roles",
+      "Reported by secondary sources, not confirmed on the official page: ages 18 to 35 and 0 to 2 years of work experience"
+    ],
+    "nationality_requirements": [
+      "Young people across Africa; the DRC is not named on the page read"
+    ],
+    "age_requirement": "Not stated on the official page read (aggregators report 18 to 35)",
+    "education_requirement": "Post-graduation placement; the level is not stated on the page read",
+    "experience_requirement": "Not stated on the official page read (aggregators report 0 to 2 years)",
+    "language_requirement": "Unknown / Not specified",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Choose the regional portal that matches your country of residence, or the remote-roles portal (Talenteum), from the official page",
+      "The Francophone Africa portal (Talent2Africa) shows 'Closed for Applications' on the official page; roles are posted on an ongoing basis"
+    ],
+    "official_application_url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+    "official_information_url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+    "source_url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+    "source_type": "Official",
+    "source_confidence": "MEDIUM",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "Mastercard Foundation: Associates Program for Associates (how to apply, where to apply, stipend, Francophone route closed)",
+        "url": "https://mastercardfdn.org/en/mastercard-foundation-associates-program-for-associates/",
+        "type": "Official"
+      },
+      {
+        "label": "Mastercard Foundation: Associates Program overview (12-month paid placements, 22 countries)",
+        "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-associates-program/",
+        "type": "Official"
+      },
+      {
+        "label": "LEAP Africa: Associates Program portal page (partner portals by region)",
+        "url": "https://leapafrica.org/mfassociate/",
+        "type": "Institutional"
+      },
+      {
+        "label": "Talent2Africa home page ('Partenaire Mastercard Foundation'; RD Congo appears among countries with candidate activity)",
+        "url": "https://www.talent2africa.com/",
+        "type": "Institutional"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "The programme is for young Africans after graduation and the profile is a 2024 graduate with under a year of experience. The official page does not state the age or experience rules or name the DRC; whether a DRC resident can use the remote roles, now that the Francophone route is closed, is not confirmed.",
+    "potential_issues": [
+      "The Francophone Africa route (Talent2Africa) is marked 'Closed for Applications' on the official page",
+      "Age and experience rules and the stipend amount come from secondary sources only; the official FAQ could not be reached",
+      "The DRC is not named on the pages read; applicants must apply for roles in their country of residence or remote roles",
+      "The placement is an internship stipend, not a scholarship: no relocation support is mentioned"
+    ],
+    "benefits": [
+      "12 months of paid work experience",
+      "Employability training, mentorship and career transition support"
+    ],
+    "relevance": {
+      "academic": "Low",
+      "career": "High",
+      "travel": "Low",
+      "networking": "Medium",
+      "funding": "Medium",
+      "accessibility": "Medium",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "A paid year of work experience would fill the gap that blocks several scholarships in this database (two years of experience), but DRC access and the stipend amount are unconfirmed.",
+    "visa": {
+      "required": "Not applicable for remote roles; unknown for in-country roles elsewhere",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Low: no fee mentioned; use only the official partner portals",
+    "action": "Open the official page and the remote-roles portal (Talenteum) to see whether DRC residents can apply, and re-check the Francophone Africa route (Talent2Africa), which shows closed today. A paid year of experience would also count towards the two-year work rules of several scholarships.",
+    "last_verified": "2026-11-09",
+    "date_discovered": "2026-11-02",
+    "notes": "Found through a web search on 2 November 2026; the official Mastercard Foundation pages were read. The Associates programme page lists these partners: Youth Employment Service, Shortlist Futures, Talent 2 Africa, Talenteum, Light for the World, LifeHikes, Leap Africa, KPMG and Coburwas International Youth Organisation to Transform Africa. 9 November 2026: official page re-read; roles still posted on an ongoing basis and the Francophone Africa route still 'Closed for Applications'.",
+    "match_keywords": [
+      "mastercard foundation associates",
+      "associates program",
+      "associates programme"
+    ]
+  },
+  {
+    "id": "french-african-foundation-young-leaders",
+    "title": "French-African Foundation Young Leaders programme",
+    "organization": "French-African Foundation",
+    "overview": "Annual French-African Foundation programme for young leaders from Africa and France: two weeks of meetings, training and exchanges with public and private decision-makers, one week in France and one in an African country. Applicants must be 28 to 40 with at least five years of professional experience.",
+    "category": [
+      "Leadership",
+      "Fellowship"
+    ],
+    "subcategory": [
+      "Young leaders",
+      "France-Africa"
+    ],
+    "education_levels": [
+      "Professional"
+    ],
+    "country": "Multiple countries (France and Africa)",
+    "city": "Unknown / Not specified",
+    "region": "Unknown / Not specified",
+    "continent": "Unknown / Not specified",
+    "location_type": "International travel",
+    "delivery_mode": "In-person",
+    "program_dates": "Two weeks: one in France and one in an African country (dates of the next edition not stated)",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "The Young Leaders page shows 'EDITION 2025 - Candidatures clôturées !' (applications closed). No dates for the next call.",
+    "deadline_timezone": "Unknown / Not specified",
+    "opens_on": "",
+    "open_now": false,
+    "rolling": false,
+    "recurring": true,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "funding_type": "Funding Unclear",
+    "funding_details": [
+      "Not stated on the page read."
+    ],
+    "coverage": {
+      "tuition": "Not specified",
+      "stipend": "Not specified",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "participation_fee": "Unknown / Not specified",
+    "stipend": "Unknown / Not specified",
+    "eligibility": [
+      "Âge : avoir entre 28 et 40 ans (aged 28 to 40)",
+      "Langue : être bilingue en anglais ; la maîtrise du français est un atout (bilingual in English; French is an asset)",
+      "Expérience professionnelle : au moins 5 années d'expérience professionnelle avec des compétences en leadership et un impact démontrables (at least five years of professional experience with demonstrable leadership and impact)",
+      "Vision : a clear wish to build bridges between African countries and France",
+      "Nationality of a country of the African continent, or French nationality",
+      "Selection by an independent jury on excellence, commitment and potential"
+    ],
+    "nationality_requirements": [
+      "Any African country, or France"
+    ],
+    "age_requirement": "28 to 40",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "At least five years of professional experience with demonstrable leadership skills and impact",
+    "language_requirement": "Bilingual in English; French is an asset",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Apply on the Foundation's website when the yearly call opens"
+    ],
+    "official_application_url": "",
+    "official_information_url": "https://french-african.org/young-leaders/",
+    "source_url": "https://french-african.org/young-leaders/",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "Young Leaders programme",
+        "url": "https://french-african.org/young-leaders/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "NOT ELIGIBLE",
+    "eligibility_reason": "The programme requires at least five years of professional experience with demonstrable leadership and impact, and a minimum age of 28. The profile records under one year of internships and field assignments.",
+    "potential_issues": [
+      "Five years of professional experience required",
+      "Minimum age of 28; alumni averaged 34 years old in 2024",
+      "Over 5,000 applications in one month in 2023",
+      "Funding and costs are not stated on the page"
+    ],
+    "benefits": [
+      "High-level network between Africa and France"
+    ],
+    "relevance": {
+      "academic": "Low",
+      "career": "High",
+      "travel": "High",
+      "networking": "Very High",
+      "funding": "Medium",
+      "accessibility": "Low",
+      "profile_fit": "Low"
+    },
+    "relevance_reason": "A strong francophone network, but aimed at people several years into their career.",
+    "visa": {
+      "required": "Unknown / Not specified",
+      "support": "Unknown / Not specified"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Not eligible now. Revisit once you have five years of professional experience and are 28 or older.",
+    "last_verified": "2026-11-09",
+    "date_discovered": "2026-10-02",
+    "notes": "9 November 2026: Young Leaders page re-read. It lists criteria the record lacked (five years of professional experience, bilingual English) and shows 'EDITION 2025 - Candidatures clôturées !'. Label changed from POSSIBLY ELIGIBLE to NOT ELIGIBLE.",
+    "match_keywords": [
+      "french-african foundation",
+      "french african foundation"
+    ]
+  }
+]
