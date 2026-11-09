@@ -1,16 +1,71 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "leads": [
     {
-      "id": "c46983b8c5dc",
-      "title": "MCW Global Young Leaders Fellowship 2027 (Funded)",
-      "url": "https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/",
+      "id": "3c6c7644f81b",
+      "title": "State of Black Entrepreneurship Fellows Program 2027 (up to $10,000)",
+      "url": "https://opportunitydesk.org/2026/11/09/state-of-black-entrepreneurship-fellows-program-2027/",
       "source": "Opportunity Desk",
       "source_tier": 3,
       "language": "en",
-      "published": "2026-11-07",
-      "first_seen": "2026-11-08",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "119f78638187",
+      "title": "ICANN89 Policy Forum 2027 in Canada (Fully Funded)",
+      "url": "https://opportunitiescorners.com/icann89-policy-forum-2027-in-canada/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d2f4272dc7c7",
+      "title": "La plateforme DisasterReady propose 6 formations gratuites en Suivi et Évaluation (S&E)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/suivi-evaluation/la-plateforme-disasterready-propose-6-formations-gratuites-en-suivi-et-evaluation-se/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "edaf49fc9a07",
+      "title": "Formation gratuite et certifiante en ligne sur les systèmes de semences dans les zones touchées par les conflits",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/environnement/formation-gratuite-et-certifiante-en-ligne-sur-les-systemes-de-semences-dans-les-zones-touchees-par-les-conflits/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "df737c1762c1",
+      "title": "Bourse d’études BAD 2027 en Chine – Licence entièrement financée à Shanghai Ocean University pour les étudiants africains",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/formation/bourse-detudes-bad-2027-en-chine-licence-entierement-financee-a-shanghai-ocean-university-pour-les-etudiants-africains/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-09",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ccc2c64c11a2",
+      "title": "UNIL Summer Program 2027 in Switzerland (Fully Funded)",
+      "url": "https://opportunitiescorners.com/unil-summer-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-08",
+      "first_seen": "2026-11-09",
       "status": "NEEDS VERIFICATION"
     },
     {
@@ -120,35 +175,10 @@
       ]
     },
     {
-      "id": "4a08599cd117",
-      "title": "The Hurford Youth Fellows Program 2027 for emerging youth Leaders (Fully Funded to Washington D.C., United States)",
-      "url": "https://www.opportunitiesforafricans.com/the-hurford-youth-fellows-program-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-06",
-      "first_seen": "2026-11-07",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunity Desk"
-      ]
-    },
-    {
       "id": "c7acf5054fdc",
       "title": "CFA Institute Access Scholarship Programme 2026/2027 for aspiring Finance Professionals",
       "url": "https://www.opportunitiesforafricans.com/cfa-institute-access-scholarship-programme-2026-2027/",
       "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-06",
-      "first_seen": "2026-11-07",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "7530d4fd2531",
-      "title": "Hurford Youth Fellowship 2027 in USA (Fully Funded)",
-      "url": "https://opportunitiescorners.com/hurford-youth-fellowship-2027/",
-      "source": "Opportunities Corners",
       "source_tier": 3,
       "language": "en",
       "published": "2026-11-06",
@@ -222,32 +252,10 @@
       "status": "NEEDS VERIFICATION"
     },
     {
-      "id": "7e151d58dda4",
-      "title": "The MCW Global’s Young Leaders Fellowship 2027 for young changemakers worldwide (Fully Funded to New York, USA)",
-      "url": "https://www.opportunitiesforafricans.com/the-mcw-globals-young-leaders-fellowship-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
       "id": "57b75accd1b8",
       "title": "The Equality Fund Journalism Fellowship 2027 for Journalists from the Global South ($4000 CAD stipend)",
       "url": "https://www.opportunitiesforafricans.com/the-equality-fund-journalism-fellowship-2027-for-journalists-from-the-global-south/",
       "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6497bb987276",
-      "title": "MCW Young Leaders Fellowship 2027 in USA (Fully Funded)",
-      "url": "https://opportunitiescorners.com/mcw-young-leaders-fellowship-2027/",
-      "source": "Opportunities Corners",
       "source_tier": 3,
       "language": "en",
       "published": "2026-11-05",
@@ -596,17 +604,6 @@
       "id": "8ceb5ec19810",
       "title": "2027/2029 Erasmus Mundus Master’s Scholarship in Journalism, Media and Globalisation (Fully Funded study in Europe)",
       "url": "https://www.opportunitiesforafricans.com/2027-2029-erasmus-mundus-masters-scholarship-in-journalism/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-02",
-      "first_seen": "2026-11-03",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "12cb8bd4409c",
-      "title": "The Government of Mauritius Africa Scholarships Scheme 2027 for study in Mauritius (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/the-government-of-mauritius-africa-scholarships-scheme-2027/",
       "source": "Opportunities for Africans",
       "source_tier": 3,
       "language": "en",
