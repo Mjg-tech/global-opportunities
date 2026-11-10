@@ -1,7 +1,117 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "leads": [
+    {
+      "id": "0ea026be2109",
+      "title": "Computation & Cognition Tübingen Summer (CaCTüS) Internship Program 2027",
+      "url": "https://opportunitydesk.org/2026/11/10/cactus-internship-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c34383a99636",
+      "title": "CERN Summer Student Program 2027 in Switzerland (Fully Funded)",
+      "url": "https://opportunitiescorners.com/cern-summer-student-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "99f41e030db1",
+      "title": "Rockefeller University USA Summer Fellowship 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/rockefeller-university-usa-summer-fellowship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "db4598685da7",
+      "title": "Appel à candidatures – Lancement du 2e cycle du Programme d’Inclusion Économique de 20 000 Jeunes Camerounais — PFS-AIE",
+      "url": "https://www.lesopportunites.com/opportunite/cameroun/avis-de-recrutement/sciences-economiques/appel-a-candidatures-lancement-du-2e-cycle-du-programme-dinclusion-economique-de-20-000-jeunes-camerounais-pfs-aie/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "da8417104bb1",
+      "title": "Chatham House Research Fellow Africa Programme 2026-2027",
+      "url": "https://opportunitydesk.org/2026/11/09/chatham-house-research-fellow-africa-programme-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "980212669771",
+      "title": "Morgridge Acceleration Program (MAP) Fellowship 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/09/morgridge-acceleration-program-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d6a11baa0b98",
+      "title": "Voices of the Future Global Fellowship 2027 (Fully-funded trip to France)",
+      "url": "https://opportunitydesk.org/2026/11/09/effie-lions-foundation-voices-of-the-future-global-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0b1844a06736",
+      "title": "The African Wildlife Foundation (AWF) Geospatial Leaders Fellowship (GIS) 2027 for mid-level conservation GIS professionals.",
+      "url": "https://www.opportunitiesforafricans.com/the-african-wildlife-foundation-awf-geospatial-leaders-fellowship-gis-2027-for-mid-level-conservation-gis-professionals/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d13e2e68bf49",
+      "title": "The Johannesburg Institute for Advanced Study (JIAS) Writing Fellowships 2027 for emerging African creatives (Fully Funded to Johannesburg, South Africa)",
+      "url": "https://www.opportunitiesforafricans.com/the-johannesburg-institute-for-advanced-study-jias-writing-fellowships-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5bba70dfe33a",
+      "title": "RIKEN CBS Summer Program 2027 in Japan (Fully Funded)",
+      "url": "https://opportunitiescorners.com/riken-cbs-summer-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "3c6c7644f81b",
       "title": "State of Black Entrepreneurship Fellows Program 2027 (up to $10,000)",
@@ -22,7 +132,10 @@
       "language": "en",
       "published": "2026-11-09",
       "first_seen": "2026-11-09",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "d2f4272dc7c7",
@@ -2763,126 +2876,6 @@
       "published": "2026-10-13",
       "first_seen": "2026-10-14",
       "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "65751c09a347",
-      "title": "Rescate Wildlife Rescue Center Conservation Internship Opportunity: Gain Hands-On Experience with Endangered Animals",
-      "url": "https://www.globalsouthopportunities.com/2026/10/13/conservation-7/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "72ecde4f6933",
-      "title": "Explore the Beit Trust Postgraduate Scholarships 2027: Fully Funded Master’s Study in the UK and South Africa",
-      "url": "https://www.globalsouthopportunities.com/2026/10/13/trust-7/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a18de2a4a702",
-      "title": "Vancouver Digital Diplomacy Forum 2027 in Canada",
-      "url": "https://opportunitiescorners.com/vancouver-digital-diplomacy-forum-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "64396711a298",
-      "title": "Global Investigative Journalism Conference (GIJC) Fellowship 2027 (Funded)",
-      "url": "https://opportunitydesk.org/2026/10/13/global-investigative-journalism-conference-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans",
-        "Opportunities Corners"
-      ]
-    },
-    {
-      "id": "37a756ef2cc5",
-      "title": "Five Light Impact Foundation Project Intern 2026: Fully Remote Nonprofit Internship for 3 Months — Apply Now",
-      "url": "https://www.globalsouthopportunities.com/2026/10/13/project-18/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "adddbcb004d7",
-      "title": "Apply for the Citadel Associate Program 2028: Earn Up to $3,000 Per Week in a New York Summer Investment Internship",
-      "url": "https://www.globalsouthopportunities.com/2026/10/13/citadel/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2beead3d9db7",
-      "title": "WHO Ethics Internship 2027 in Switzerland (PAID)",
-      "url": "https://opportunitiescorners.com/who-ethics-internship-2027-in-switzerland/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "e808171c2686",
-      "title": "Formation gratuite en ligne de l’OIM sur la Santé Mentale et le Soutien Psychosocial (MHPSS)",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/genre/formation-gratuite-en-ligne-de-loim-sur-la-sante-mentale-et-le-soutien-psychosocial-mhpss/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "514071d0839a",
-      "title": "L’Institut des Nations Unies pour la Formation et la Recherche (UNITAR) propose une formation gratuite en ligne intitulée « Eau propre et Assainissement »",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/assainissement/linstitut-des-nations-unies-pour-la-formation-et-la-recherche-unitar-propose-une-formation-gratuite-en-ligne-intitulee-eau-propre-et-assainissement/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "d47f210e1178",
-      "title": "Echidna Global Scholars Visiting Fellowship 2027 ($26,500 stipend)",
-      "url": "https://opportunitydesk.org/2026/10/12/echidna-global-scholars-visiting-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-12",
-      "first_seen": "2026-10-13",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
     }
   ]
 }

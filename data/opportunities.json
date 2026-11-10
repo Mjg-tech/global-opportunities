@@ -6396,17 +6396,17 @@
       "location_type": "International travel",
       "delivery_mode": "In-person",
       "program_dates": "2027/28 academic year",
-      "application_deadline": "2026-10-26",
-      "deadline_utc": "2026-10-26T17:00:00Z",
-      "deadline_text": "Timeline page (table headed 'Date (UK time)'), as read on 19 October 2026: '20 October 2026 | Mastercard Foundation Scholars Program applications open – Eligible applicants are invited to apply. Must complete the Applicant Declaration Form by 19th October.'; '26 October 2026, 5pm | Applicant Declaration Form closes. The form may close earlier once we have reached the limit.'; '19 November 2026, 5pm | Postgraduate Assessment and Scholarship Main Application forms close.' FAQ: 'Receive an invitation to apply (from Survey Monkey Apply) from 20 October ... Complete the Applicant Declaration Form by 26 October 2026, 5pm UK time. Complete and submit the Main Application by 19 November 2026, 5pm UK time.' The earlier timeline (read 12 October) had the declaration form opening 13 October and closing 19 October 2026, 5pm.",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "Last cycle closed on 2026-10-26. Next cycle not announced yet.",
       "deadline_timezone": "UK time (GMT on 26 October 2026, after clocks change on 25 October)",
-      "opens_on": "2026-10-20",
+      "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-10-26.",
+      "last_cycle_deadline": "2026-10-26",
+      "status": "UPCOMING",
       "funding_type": "Fully Funded",
       "funding_details": [
         "On-campus postgraduate scholarships cover 'full approved tuition, accommodation, travel, living cost stipend and study materials'"
@@ -6463,7 +6463,7 @@
       "source_url": "https://edinburgh-global.ed.ac.uk/mastercard-foundation-scholars-program/apply-for-a-scholarship/application-timelines",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "Application timelines",
@@ -6523,7 +6523,7 @@
       "action": "The Applicant Declaration Form closed on 26 October 2026 (5pm UK time). If you completed it and received an invitation, submit the Postgraduate Assessment and Scholarship Main Application forms by 19 November 2026, 5pm UK time. If you did not attend an information session or complete the form, this cycle is closed to you: note it for the next intake.",
       "last_verified": "2026-10-29",
       "date_discovered": "2026-10-02",
-      "notes": "12 October 2026: eligibility read on the official eligibility page (previously secondary). 29 October 2026: timeline page re-read. The Applicant Declaration Form closed on 26 October 2026, 5pm UK time (17:00 UTC; UK clocks went back on 25 October); Main Application forms close 19 November 2026, 5pm UK time (17:00 UTC). Interviews: on-campus applicants invited in early February 2027, online applicants in mid-February 2027. The page adds that the application timeline 'is subject to change depending on the volume of applications received'.",
+      "notes": "12 October 2026: eligibility read on the official eligibility page (previously secondary). 29 October 2026: timeline page re-read. The Applicant Declaration Form closed on 26 October 2026, 5pm UK time (17:00 UTC; UK clocks went back on 25 October); Main Application forms close 19 November 2026, 5pm UK time (17:00 UTC). Interviews: on-campus applicants invited in early February 2027, online applicants in mid-February 2027. The page adds that the application timeline 'is subject to change depending on the volume of applications received'. [auto 2026-11-10] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "mastercard foundation scholars program at the university of edinburgh",
         "edinburgh mastercard"
@@ -11868,5 +11868,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-09"
+  "status_computed_on": "2026-11-10"
 }
