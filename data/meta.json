@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-10T13:28:38Z",
+  "last_refresh": "2026-11-11T12:43:47Z",
   "counts": {
     "total": 80,
     "archived": 8,
@@ -51,11 +51,11 @@
     "14": [
       "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
       "gtf-telemachus-mentoring-2027",
-      "mastercard-foundation-scholars-sciences-po-2027",
-      "youth-global-forum-2027-paris-cgdl"
+      "mastercard-foundation-scholars-sciences-po-2027"
     ],
     "7": [
-      "kectil-program-2027"
+      "kectil-program-2027",
+      "youth-global-forum-2027-paris-cgdl"
     ],
     "3": [],
     "1": [
@@ -64,11 +64,17 @@
   },
   "watch": {
     "checked": 80,
-    "ok": 66,
-    "blocked_or_unreachable": 14,
+    "ok": 67,
+    "blocked_or_unreachable": 13,
     "dead": 0
   },
   "flags": [
+    {
+      "id": "icann-fellowship",
+      "type": "source_changed",
+      "since": "2026-11-11",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
     {
       "id": "obama-foundation-leaders",
       "type": "source_changed",
@@ -129,7 +135,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4
+      "new": 7
     },
     {
       "name": "Opportunities for Africans",
@@ -137,7 +143,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Global South Opportunities",
@@ -151,7 +157,7 @@
       "name": "Opportunities for Youth",
       "url": "https://opportunitiesforyouth.org/feed/",
       "tier": 3,
-      "status": 403,
+      "status": 429,
       "items": 0,
       "new": 0
     },
@@ -177,7 +183,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 3
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -185,7 +191,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 4
     },
     {
       "name": "Afri-Carrieres",
@@ -231,46 +237,25 @@
   "reseen": [
     {
       "id": "obama-foundation-leaders",
-      "title": "Obama Foundation Leaders Program 2027-2028",
-      "url": "https://opportunitydesk.org/2026/11/10/obama-foundation-leaders-program-2027-2028/",
-      "source": "Opportunity Desk",
-      "seen": "2026-11-10"
-    },
-    {
-      "id": "icann-fellowship",
-      "title": "ICANN Fellowship Program 2027 to Attend ICANN89 Policy Forum in Vancouver, Canada (Funded)",
-      "url": "https://opportunitydesk.org/2026/11/09/icann-fellowship-program-2027/",
-      "source": "Opportunity Desk",
-      "seen": "2026-11-10"
-    },
-    {
-      "id": "obama-foundation-leaders",
       "title": "Obama Foundation’s Leaders Program 2027/2028 for emerging leaders worldwide.",
       "url": "https://www.opportunitiesforafricans.com/obama-foundations-leaders-program-2027-2028-for-emerging-leaders-worldwide/",
       "source": "Opportunities for Africans",
-      "seen": "2026-11-10"
+      "seen": "2026-11-11"
     },
     {
       "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
       "title": "The Sir Cyril Taylor Young African Leaders Fellowship Program 2027 for young changemakers (Fully Funded to the 2027 AFS Youth Assembly in Switzerland)",
       "url": "https://www.opportunitiesforafricans.com/the-sir-cyril-taylor-young-african-leaders-fellowship-program-2027/",
       "source": "Opportunities for Africans",
-      "seen": "2026-11-10"
-    },
-    {
-      "id": "ned-hurford-youth-fellows-2027",
-      "title": "The Hurford Youth Fellows Program 2027 for emerging youth Leaders (Fully Funded to Washington D.C., United States)",
-      "url": "https://www.opportunitiesforafricans.com/the-hurford-youth-fellows-program-2027/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-11-10"
+      "seen": "2026-11-11"
     },
     {
       "id": "ned-hurford-youth-fellows-2027",
       "title": "Hurford Youth Fellows Program 2027 in the USA (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/hurford-youth-fellows-program-2027-in-the-usa-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-10"
+      "seen": "2026-11-11"
     }
   ],
-  "new_leads_last_run": 10
+  "new_leads_last_run": 12
 }

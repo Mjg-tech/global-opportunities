@@ -1,7 +1,142 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "leads": [
+    {
+      "id": "101bf610f9ba",
+      "title": "Pladis Accelerator Programme 2026",
+      "url": "https://opportunitydesk.org/2026/11/11/pladis-accelerator-programme-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "aebadcabc2d7",
+      "title": "African Development Bank Group Shanghai Ocean University Scholarship Masters Degree Program 2027",
+      "url": "https://opportunitydesk.org/2026/11/11/afdb-group-shou-scholarship-masters-degree-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d998a18b9889",
+      "title": "Global Youth Mental Health Research Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/11/11/global-youth-mental-health-research-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1bffef48691a",
+      "title": "Commonwealth Shared Scholarship Programme 2027/2028 to Study in the U.K. (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/11/11/commonwealth-shared-scholarship-programme-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "04f80b135475",
+      "title": "Tsinghua Amgen Internship 2027 in China (Fully Funded)",
+      "url": "https://opportunitiescorners.com/tsinghua-amgen-internship-2027-in-china/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c36b483393aa",
+      "title": "Appel à candidatures – « Bourses de master – Réseau International » 2027",
+      "url": "https://www.lesopportunites.com/opportunite/france/bourses/formation/appel-a-candidatures-bourses-de-master-reseau-international-2027/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "995f10d5e1f2",
+      "title": "L’École du MEAL lance une nouvelle session de formation certifiante gratuite en Agent de Collecte des Données",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/informatique-electronique/lecole-du-meal-lance-une-nouvelle-session-de-formation-certifiante-gratuite-en-agent-de-collecte-des-donnees/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a4c24336ec77",
+      "title": "Wave Winter Research Fellowship 2026-2027",
+      "url": "https://opportunitydesk.org/2026/11/10/wave-winter-research-fellowship-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c22d214a81f3",
+      "title": "Career Pathways Initiative Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/11/10/career-pathways-initiative-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7a1bb6b01470",
+      "title": "Nature Culture Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/11/10/nature-culture-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "43430ccc7423",
+      "title": "Bourse d’études complète à la Hertie School en Allemagne pour les étudiants africains – 39 500 € de frais de scolarité et 1 000 € d’allocation mensuelle",
+      "url": "https://www.lesopportunites.com/opportunite/allemagne/bourses/formation/bourse-detudes-complete-a-la-hertie-school-en-allemagne-pour-les-etudiants-africains-39-500-e-de-frais-de-scolarite-et-1-000-e-dallocation-mensuelle/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "66a4394cfc7a",
+      "title": "Appel à candidatures – Subventions pour la continuité de la recherche en Afrique dans le cadre du programme « Science pour la réponse aux crises et la résolution des crises »",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/recherche-innovationdeveloppt/appel-a-candidatures-subventions-pour-la-continuite-de-la-recherche-en-afrique-dans-le-cadre-du-programme-science-pour-la-reponse-aux-crises-et-la-resolution-des-crises/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "0ea026be2109",
       "title": "Computation & Cognition Tübingen Summer (CaCTüS) Internship Program 2027",
@@ -88,7 +223,10 @@
       "language": "en",
       "published": "2026-11-09",
       "first_seen": "2026-11-10",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "d13e2e68bf49",
@@ -2733,148 +2871,6 @@
       "language": "en",
       "published": "2026-10-14",
       "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "62966af6a8cd",
-      "title": "OD Impact Challenge 2026: Get Ready to Share Your Impact!",
-      "url": "https://opportunitydesk.org/2026/10/14/od-impact-challenge-2026-get-ready-to-share-your-impact/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6f3c64a2d6f5",
-      "title": "From Rejections to ‘Congratulations’ : What to Do After Winning a Life-Changing Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/14/from-rejections-to-congratulations-what-to-do-after-winning-a-life-changing-scholarship/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b0a18d08dcac",
-      "title": "Call for Volunteers: Atlantic Dialogues Conference 2026",
-      "url": "https://opportunitydesk.org/2026/10/14/call-for-volunteers-atlantic-dialogues-2026/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "fafcca27ec6f",
-      "title": "World Economic Forum Technology Pioneers 2027",
-      "url": "https://opportunitydesk.org/2026/10/14/world-economic-forum-technology-pioneers-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "61fdacb37cff",
-      "title": "International Funders for Indigenous Peoples (IFIP) Global Conference 2027 Scholarship",
-      "url": "https://opportunitydesk.org/2026/10/14/ifip-global-conference-2027-scholarship/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "078c433ccd32",
-      "title": "The Deutsche Welle (DW) Akademie International Journalism Traineeship 2028/2029 for Journalists Worldwide (18-month paid journalism program)",
-      "url": "https://www.opportunitiesforafricans.com/the-deutsche-welle-dw-akademie-international-journalism-traineeship-2028-2029/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6513fe956ce5",
-      "title": "CERI Genomics and Bioinformatics Fellowships 2027 at Stellenbosch University, South Africa",
-      "url": "https://www.globalsouthopportunities.com/2026/10/14/fellow-36/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "2331d92a9b24",
-      "title": "AmaliTech Apprenticeship Programme 2026: Paid Software and Data Engineering Training in Rwanda",
-      "url": "https://www.globalsouthopportunities.com/2026/10/14/apprenticeship/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "82e7c6a5669f",
-      "title": "Fatima Institute for Global AI Research Fellowship 2026: AI Research Mentorship, Computing Resources and Graduate School Support",
-      "url": "https://www.globalsouthopportunities.com/2026/10/14/fellowship-302/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "27ddf8b227ef",
-      "title": "UNU Junior Fellows Internship 2027 in Japan (PAID)",
-      "url": "https://opportunitiescorners.com/unu-junior-fellows-internship-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans",
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "ec1eccf3ec03",
-      "title": "Appel à candidatures – Programme de Bourses d’excellence 2026 de la Fondation Banque Ouest-Africaine de Développement (BOAD)",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/droit/appel-a-candidatures-programme-de-bourses-dexcellence-2026-de-la-fondation-banque-ouest-africaine-de-developpement-boad/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "cb47f49f29da",
-      "title": "World Food Forum (WFF) Young Scientists Group 2027-2029",
-      "url": "https://opportunitydesk.org/2026/10/13/wff-young-scientists-group-2027-2029/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-13",
-      "first_seen": "2026-10-14",
       "status": "NEEDS VERIFICATION"
     }
   ]
