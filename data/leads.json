@@ -1,7 +1,139 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "leads": [
+    {
+      "id": "6b8e632dbc46",
+      "title": "Walk of Water Photostory Contest 2026: Out of Sight ($9,000 prize pool)",
+      "url": "https://opportunitydesk.org/2026/11/12/walk-of-water-photostory-contest-2026-out-of-sight/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d05bd178ebfa",
+      "title": "Gratitude Network Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/11/12/gratitude-network-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ab2295c00cc7",
+      "title": "AllPeopleBeHappy Volunteer Service Award Program 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/12/allpeoplebehappy-volunteer-service-award-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3daf4d27b904",
+      "title": "Thrive Capital Summer Fellowship 2027 ($100,000 salary)",
+      "url": "https://opportunitydesk.org/2026/11/12/thrive-capital-summer-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0e74124ae507",
+      "title": "Jodi Harris Scholarship 2027 for Emerging Marketing Leaders",
+      "url": "https://opportunitydesk.org/2026/11/12/jodi-harris-scholarship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "4dce148eeb23",
+      "title": "UTRIP Summer Internship 2027 in Japan (Fully Funded)",
+      "url": "https://opportunitiescorners.com/utrip-summer-internship-2027-in-japan/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "842209e57e54",
+      "title": "World Leaders Convention 2027 in Austria (Fully Funded)",
+      "url": "https://opportunitiescorners.com/world-leaders-convention-2027-in-austria/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "591588cbdcd0",
+      "title": "ANH Academy Science-Policy Fellowships 2027 (Round 3)",
+      "url": "https://opportunitydesk.org/2026/11/11/anh-academy-science-policy-fellowships-2027-round-3/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "111356569984",
+      "title": "Africa Dyslexia Teacher Fellowship Program 2027",
+      "url": "https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "60c9a76c5e51",
+      "title": "NNPC Ltd/ TotalEnergies International Masters Degree Scholarship 2027/2028 for Study in France (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/nnpc-ltd-totalenergies-international-masters-degree-scholarship-2027-2028/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "42598d849272",
+      "title": "Young Political Economy Forum Hong Kong 2026 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/young-political-economy-forum-hong-kong-2026/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b3b7905e61cc",
+      "title": "KM International organise à N’Djamena une formation certifiante en Power BI et Intelligence Artificielle",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/formation/informatique-electronique/km-international-organise-a-ndjamena-une-formation-certifiante-en-power-bi-et-intelligence-artificielle/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "101bf610f9ba",
       "title": "Pladis Accelerator Programme 2026",
@@ -2733,144 +2865,6 @@
       "language": "en",
       "published": "2026-10-15",
       "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "eed3db856ff4",
-      "title": "Harrison Middleton University (HMU) Fellowship in Ideas 2027",
-      "url": "https://opportunitydesk.org/2026/10/15/hmu-fellowship-in-ideas-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a1acd3f6c638",
-      "title": "The Changemakers for Youth Programme 2027 for young changemakers and social entrepreneurs.",
-      "url": "https://www.opportunitiesforafricans.com/the-changemakers-for-youth-programme-2027-for-young-changemakers-and-social-entrepreneurs/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "5f52e50d6fa9",
-      "title": "Anthropic Fellows Program 2027: AI Safety and Security Research Fellowship",
-      "url": "https://www.globalsouthopportunities.com/2026/10/15/anthropic-9/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "27289da2aca9",
-      "title": "Universal Youth Leadership Summit Malaysia 2027 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/universal-youth-leadership-summit-malaysia-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "3073974b4059",
-      "title": "Call for Applications: 2027 African Peacebuilding and Developmental Dynamics (APDD) Fellowship Awards – Research Fellowships and Opportunities",
-      "url": "https://www.globalsouthopportunities.com/2026/10/15/african-56/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunity Desk"
-      ]
-    },
-    {
-      "id": "6036d2b7b360",
-      "title": "UN DPoA MTR Journalism Fellowship 2027: Fully Funded Opportunity for Journalists from Least Developed Countries",
-      "url": "https://www.globalsouthopportunities.com/2026/10/15/fellowship-303/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "726f106cd782",
-      "title": "Marine Conservation Internships in Zanzibar 2027: International Applicants Invited",
-      "url": "https://www.globalsouthopportunities.com/2026/10/15/marine/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "605339c3ee53",
-      "title": "Highly Paying Microsoft Research Internship 2026: Machine Learning and Statistics Interns Earn Up to $14,610 Monthly",
-      "url": "https://www.globalsouthopportunities.com/2026/10/15/microsoft-4/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a65483eb92ce",
-      "title": "Symrise South Africa Internships 2026/2027: 8 Opportunities in Engineering, Marketing, Research and Business Support",
-      "url": "https://www.globalsouthopportunities.com/2026/10/15/symrise/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a1dd8505098d",
-      "title": "Appel à candidatures – Programme de Stages 2026 de la Banque Africaine d’Import-Export (une allocation de 1000 USD/mois + allocation logement de 500 USD pour les Stagiaires qui déménagent de leur pays d’origine)",
-      "url": "https://www.lesopportunites.com/opportunite/egypte/stages/comptabilite-audit/appel-a-candidatures-programme-de-stages-2026-de-la-banque-africaine-dimport-export-une-allocation-de-1000-usd-mois-allocation-logement-de-500-usd-pour-les-stagiaires-qui-demenagent-de-leur-pay/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "50dc7c44fe77",
-      "title": "Changemakers for Youth Programme 2027 (Stipend available)",
-      "url": "https://opportunitydesk.org/2026/10/14/changemakers-for-youth-programme-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-15",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "7e354414f2f6",
-      "title": "Tyler Prize Student Ambassador 2027",
-      "url": "https://opportunitydesk.org/2026/10/14/tyler-prize-student-ambassador-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-14",
-      "first_seen": "2026-10-15",
       "status": "NEEDS VERIFICATION"
     }
   ]
