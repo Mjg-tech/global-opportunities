@@ -1,7 +1,150 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "leads": [
+    {
+      "id": "c1ec3653f283",
+      "title": "CDI Community-Based Entrepreneurship Through Acquisition (CETA) Accelerator 2027",
+      "url": "https://opportunitydesk.org/2026/11/13/ceta-accelerator-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "03936430eeab",
+      "title": "EY Foundation Step Into Business Programme 2027: Business Training, Six Months of Coaching and a £2,000 Startup Grant for Young Entrepreneurs",
+      "url": "https://opportunitiesforyouth.org/2026/11/13/ey-foundation-step-into-business-programme-2027-business-training-six-months-of-coaching-and-a-2000-startup-grant-for-young-entrepreneurs/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5b650481d03b",
+      "title": "Global Youth Forum 2027 in Italy: €600 Scholarships Available for Eligible Applicants",
+      "url": "https://opportunitiesforyouth.org/2026/11/13/global-youth-forum-2027-in-italy-e600-scholarships-available-for-eligible-applicants/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "ad341943162f",
+      "title": "Switzer Fellowship 2027: $18,000 Environmental Leadership Fellowship for Graduate Students in the United States",
+      "url": "https://opportunitiesforyouth.org/2026/11/13/2027-switzer-fellowship-in-the-usa-18000-award-for-environmental-leaders/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "18609da22e53",
+      "title": "RC Trust Internship 2027 in Germany (Fully Funded)",
+      "url": "https://opportunitiescorners.com/rc-trust-internship-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "8210bb3bfade",
+      "title": "Stage à distance au PNUD – Opportunité de 6 mois avec une allocation mensuelle de 500 $",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/stages/economie/stage-a-distance-au-pnud-opportunite-de-6-mois-avec-une-allocation-mensuelle-de-500/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "266d09ef0273",
+      "title": "Appel à candidatures ouvert pour le Prix FAO de l’innovation",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/technologie/appel-a-candidatures-ouvert-pour-le-prix-fao-de-linnovation/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "de81212a17ab",
+      "title": "UCLA Library Special Collections (LSC) Research Fellowships 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/12/ucla-library-special-collections-research-fellowships-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d5b0bf408ded",
+      "title": "Ashoka Young Changemakers Program – Nigeria 2027",
+      "url": "https://opportunitydesk.org/2026/11/12/ashoka-young-changemakers-program-nigeria-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cbcee7028ed3",
+      "title": "E-JUST TICAD9 African Scholarship for STI – Fall 2027",
+      "url": "https://opportunitydesk.org/2026/11/12/e-just-ticad9-african-scholarship-for-sti-fall-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "52fe64b7db30",
+      "title": "Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program 2027 for African graduates. (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "9a8e734fb50b",
+      "title": "The Brokerage Next Gen Talent Network 2026: Free UK Career Platform Offering Paid Work Experience, Internships, Apprenticeships and Early-Career Opportunities for Young People Aged 16–25",
+      "url": "https://opportunitiesforyouth.org/2026/11/12/the-brokerage-next-gen-talent-network-2026-free-uk-career-platform-offering-paid-work-experience-internships-apprenticeships-and-early-career-opportunities-for-young-people-aged-16-25/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "b478d0878c9c",
+      "title": "The Allstate Foundation College Service Grants 2027–2028: Apply for $10,000 to Support Student-Led Community Service Projects in the USA",
+      "url": "https://opportunitiesforyouth.org/2026/11/12/the-allstate-foundation-college-service-grants-2025-2026-the-allstate-foundation-youth-led-service-grants-up-to-1-5-million-in-funding-for-u-s-colleges-and-universities/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "6b8e632dbc46",
       "title": "Walk of Water Photostory Contest 2026: Out of Sight ($9,000 prize pool)",
@@ -66,7 +209,10 @@
       "language": "en",
       "published": "2026-11-12",
       "first_seen": "2026-11-12",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "842209e57e54",
@@ -1985,7 +2131,10 @@
       "language": "en",
       "published": "2026-10-23",
       "first_seen": "2026-10-24",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "045e7f239e46",
@@ -2712,159 +2861,6 @@
       "language": "en",
       "published": "2026-10-17",
       "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "0c4211ba89c3",
-      "title": "Appel à Candidatures – Programme de Bourses d’Analyse Gouvernementale 2027 de la Banque Mondiale",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/cooperation-internationale/appel-a-candidatures-programme-de-bourses-danalyse-gouvernementale-2027-de-la-banque-mondiale/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-17",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "41d9cacb0432",
-      "title": "Apply Now: Allianz x Social Shifters MoveNow Social Innovation Challenge 2026 | $90,000 in Funding for Young Innovators",
-      "url": "https://opportunitydesk.org/2026/10/16/allianz-x-social-shifters-movenow-social-innovation-challenge-2026-for-young-innovators/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "43ae3a49180f",
-      "title": "EJN Reporting Fellowships 2026 for Journalists to Cover BBNJ COP1 in New York City, USA",
-      "url": "https://opportunitydesk.org/2026/10/16/ejn-reporting-fellowships-2026-for-journalists-to-cover-bbnj-cop1/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "eba4f4c17dbd",
-      "title": "Harvard Kennedy School Center for Public Leadership Equity Fellowship 2027-2028",
-      "url": "https://opportunitydesk.org/2026/10/16/hks-cpl-equity-fellowship-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "ec952f7b7b0c",
-      "title": "The Knight-Wallace Journalism Fellowship 2027/2028 for mid-career Journalists to study at the University of Michighan-USA (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/knight-wallace-journalism-fellowship-2027-2028/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "3d8a2e056eb0",
-      "title": "The MTN Y’ello Mums Reintegration Programme 2026 for career-oriented mothers.",
-      "url": "https://www.opportunitiesforafricans.com/the-mtn-yello-mums-reintegration-programme-2026-for-career-oriented-mothers/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b05224968e17",
-      "title": "THE DO IncuVersity Program 2027 (Two-year global entrepreneurship program) – Full and partial tuition scholarships available.",
-      "url": "https://www.opportunitiesforafricans.com/the-do-incuversity-program-2027-two-year-global-entrepreneurship-program/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e90d5babb602",
-      "title": "The World Intellectual Property Organization (WIPO) Intellectual Property Moot Court Competition 2027 for law students ( Fully Funded to In-person finals at WIPO Headquarters in Geneva, Switzerland)",
-      "url": "https://www.opportunitiesforafricans.com/world-intellectual-property-organization-wipo-intellectual-property-moot-court-competition-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "244ea6b09f90",
-      "title": "United Nations University (UNU) Junior Fellows Internship 2027",
-      "url": "https://opportunitydesk.org/2026/10/16/unu-junior-fellows-internship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e02c8812b661",
-      "title": "WWF Russell E. Train Fellowships 2027 (up to $15,000)",
-      "url": "https://opportunitydesk.org/2026/10/16/wwf-russell-e-train-fellowships-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "797738d56bfe",
-      "title": "UNICEF Yutopia Intrapreneur Fellowship Programme 2026: A Six-Month Leadership Opportunity for Young HR Professionals",
-      "url": "https://www.globalsouthopportunities.com/2026/10/16/fellowship-304/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6e6a13de9852",
-      "title": "Stanford University John S. Knight Journalism Fellowships 2027–28: Receive a $135,000 Stipend",
-      "url": "https://www.globalsouthopportunities.com/2026/10/16/stanford-8/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-16",
-      "first_seen": "2026-10-16",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "Opportunity Desk",
-        "Opportunities for Africans"
-      ]
-    },
-    {
-      "id": "511fe6946942",
-      "title": "Toronto Metropolitan University Global Migration Institute Scholarships 2027-2028",
-      "url": "https://opportunitydesk.org/2026/10/15/tmu-global-migration-institute-scholarships-2027-2028/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-15",
-      "first_seen": "2026-10-16",
       "status": "NEEDS VERIFICATION"
     }
   ]

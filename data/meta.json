@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-12T13:46:26Z",
+  "last_refresh": "2026-11-13T13:07:15Z",
   "counts": {
     "total": 80,
     "archived": 8,
@@ -63,15 +63,21 @@
   },
   "watch": {
     "checked": 80,
-    "ok": 67,
-    "blocked_or_unreachable": 13,
-    "dead": 0
+    "ok": 65,
+    "blocked_or_unreachable": 14,
+    "dead": 1
   },
   "flags": [
     {
       "id": "icann-fellowship",
       "type": "source_changed",
       "since": "2026-11-11",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "mandela-washington-fellowship-2027",
+      "type": "source_changed",
+      "since": "2026-11-13",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -87,15 +93,27 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
+      "id": "si-scholarship-global-professionals",
+      "type": "source_changed",
+      "since": "2026-11-13",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
       "id": "turkiye-burslari-2027",
       "type": "source_changed",
-      "since": "2026-11-10",
+      "since": "2026-11-13",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
       "id": "yenching-academy-2027",
       "type": "source_changed",
       "since": "2026-11-10",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "dalai-lama-fellows-2027",
+      "type": "source_changed",
+      "since": "2026-11-13",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -140,7 +158,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 7
+      "new": 4
     },
     {
       "name": "Opportunities for Africans",
@@ -162,9 +180,9 @@
       "name": "Opportunities for Youth",
       "url": "https://opportunitiesforyouth.org/feed/",
       "tier": 3,
-      "status": 403,
-      "items": 0,
-      "new": 0
+      "status": 200,
+      "items": 10,
+      "new": 5
     },
     {
       "name": "Mladiinfo",
@@ -188,7 +206,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 3
+      "new": 1
     },
     {
       "name": "Opportunites du Monde",
@@ -196,7 +214,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 2
     },
     {
       "name": "Afri-Carrieres",
@@ -241,19 +259,12 @@
   ],
   "reseen": [
     {
-      "id": "obama-foundation-leaders",
-      "title": "Obama Foundation’s Leaders Program 2027/2028 for emerging leaders worldwide.",
-      "url": "https://www.opportunitiesforafricans.com/obama-foundations-leaders-program-2027-2028-for-emerging-leaders-worldwide/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-11-12"
-    },
-    {
       "id": "ned-hurford-youth-fellows-2027",
       "title": "Hurford Youth Fellows Program 2027 in the USA (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/hurford-youth-fellows-program-2027-in-the-usa-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-12"
+      "seen": "2026-11-13"
     }
   ],
-  "new_leads_last_run": 12
+  "new_leads_last_run": 13
 }
