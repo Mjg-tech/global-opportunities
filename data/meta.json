@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-13T13:07:15Z",
+  "last_refresh": "2026-11-14T12:12:04Z",
   "counts": {
     "total": 80,
-    "archived": 8,
+    "archived": 9,
     "by_status": {
       "OPEN": 31,
       "CLOSING SOON": 5,
-      "UPCOMING": 27,
-      "DEADLINE PASSED": 9,
+      "UPCOMING": 28,
+      "DEADLINE PASSED": 8,
       "ROLLING": 2,
       "DATE UNKNOWN": 6
     },
@@ -28,8 +28,8 @@
       "INSUFFICIENT INFORMATION": 5
     },
     "by_verification": {
-      "VERIFIED": 52,
-      "PARTIALLY VERIFIED": 24,
+      "VERIFIED": 51,
+      "PARTIALLY VERIFIED": 25,
       "NEEDS VERIFICATION": 4
     },
     "travel_funded": 38
@@ -56,15 +56,15 @@
       "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
       "youth-global-forum-2027-paris-cgdl"
     ],
-    "3": [
+    "3": [],
+    "1": [
       "kectil-program-2027"
-    ],
-    "1": []
+    ]
   },
   "watch": {
     "checked": 80,
-    "ok": 65,
-    "blocked_or_unreachable": 14,
+    "ok": 68,
+    "blocked_or_unreachable": 11,
     "dead": 1
   },
   "flags": [
@@ -101,7 +101,7 @@
     {
       "id": "turkiye-burslari-2027",
       "type": "source_changed",
-      "since": "2026-11-13",
+      "since": "2026-11-14",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -123,9 +123,15 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
+      "id": "raisina-young-fellows-2027-pcns",
+      "type": "dead_link",
+      "since": "2026-11-14",
+      "detail": "Official page returned HTTP 404 on two runs."
+    },
+    {
       "id": "eu-delegation-drc-subsidised-internship",
       "type": "source_changed",
-      "since": "2026-11-05",
+      "since": "2026-11-14",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -158,7 +164,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4
+      "new": 3
     },
     {
       "name": "Opportunities for Africans",
@@ -166,7 +172,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 0
     },
     {
       "name": "Global South Opportunities",
@@ -180,9 +186,9 @@
       "name": "Opportunities for Youth",
       "url": "https://opportunitiesforyouth.org/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 10,
-      "new": 5
+      "status": 403,
+      "items": 0,
+      "new": 0
     },
     {
       "name": "Mladiinfo",
@@ -214,7 +220,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 1
     },
     {
       "name": "Afri-Carrieres",
@@ -263,8 +269,8 @@
       "title": "Hurford Youth Fellows Program 2027 in the USA (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/hurford-youth-fellows-program-2027-in-the-usa-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-13"
+      "seen": "2026-11-14"
     }
   ],
-  "new_leads_last_run": 13
+  "new_leads_last_run": 5
 }

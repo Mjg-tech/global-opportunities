@@ -1,7 +1,62 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "leads": [
+    {
+      "id": "42a4ca291da4",
+      "title": "Summer Programs in Europe in 2027 (Fully Funded)",
+      "url": "https://opportunitiescorners.com/summer-programs-in-europe-in-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "5983640802e2",
+      "title": "Bayer Foundation Scientific Fellowships 2027 (up to €10,000)",
+      "url": "https://opportunitydesk.org/2026/11/13/bayer-foundation-scientific-fellowships-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "68ae5926432a",
+      "title": "US-UK Fulbright Commission UK Summer Institutes 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/13/us-uk-fulbright-commission-uk-summer-institutes-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1075b7978eeb",
+      "title": "OD Impact Challenge 2026 for Young Changemakers (Win cash prizes & more)",
+      "url": "https://opportunitydesk.org/2026/11/13/od-impact-challenge-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "e5e3d66279dc",
+      "title": "Programme des jeunes leaders africains entièrement financé en 2027 – Voyage à Genève, formation au leadership et financement de démarrage",
+      "url": "https://www.lesopportunites.com/opportunite/suisse/call-for-papers/gestion/programme-des-jeunes-leaders-africains-entierement-finance-en-2027-voyage-a-geneve-formation-au-leadership-et-financement-de-demarrage/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-14",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "c1ec3653f283",
       "title": "CDI Community-Based Entrepreneurship Through Acquisition (CETA) Accelerator 2027",
@@ -2806,61 +2861,6 @@
       "language": "en",
       "published": "2026-10-18",
       "first_seen": "2026-10-18",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "e83bb207989a",
-      "title": "Kroc Institute Visiting Research Fellowships 2027–28: Earn $30,000 Per Semester and Receive Free Housing",
-      "url": "https://www.globalsouthopportunities.com/2026/10/18/institute-9/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-18",
-      "first_seen": "2026-10-18",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "cd23449014b3",
-      "title": "Japan Youth Summit 2027 | JYS Osaka (10-13 May)",
-      "url": "https://opportunitiescorners.com/japan-youth-summit-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-17",
-      "first_seen": "2026-10-18",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "21feec7be71d",
-      "title": "Appel à candidatures – Programme de Bourses de leadership Mo Ibrahim 2027 au siège de la BAD",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/banque/appel-a-candidatures-programme-de-bourses-de-leadership-mo-ibrahim-2027-au-siege-de-la-bad/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-17",
-      "first_seen": "2026-10-18",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b88185028555",
-      "title": "Bloomberg CTO AI Research Internship 2027: Graduate Students Can Apply for AI Research Opportunities — Deadline October 19",
-      "url": "https://www.globalsouthopportunities.com/2026/10/17/bloomberg-3/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-17",
-      "first_seen": "2026-10-17",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "9d4524104b66",
-      "title": "Fully Funded African Studies Visiting Fellowship at Oxford 2027-28: Applications Now Open for Sub-Saharan African Scholars",
-      "url": "https://www.globalsouthopportunities.com/2026/10/17/visiting-2/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-17",
-      "first_seen": "2026-10-17",
       "status": "NEEDS VERIFICATION"
     }
   ]

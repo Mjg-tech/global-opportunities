@@ -2,6 +2,14 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-14",
+      "id": "ebuteli-fellowship",
+      "title": "Ebuteli Fellowship, sixth edition (Kinshasa research institute)",
+      "field": "(cycle closed)",
+      "old": "2026-10-30",
+      "new": "rolled to next cycle"
+    },
+    {
       "date": "2026-11-10",
       "id": "mastercard-foundation-scholars-edinburgh-2027",
       "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
