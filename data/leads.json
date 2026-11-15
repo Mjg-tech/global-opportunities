@@ -1,7 +1,142 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "leads": [
+    {
+      "id": "de2725ae424d",
+      "title": "Ocean Futures Fellowship 2027–2028 | Paid Remote International Fellowship by OceanX and IIE",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/ocean-futures-fellowship-2027-2028-paid-remote-international-fellowship-by-oceanx-and-iie/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "7143ff6c115e",
+      "title": "OIST Internship in Japan (Fully Funded) (Fall 2027)",
+      "url": "https://opportunitiescorners.com/oist-internship-in-japan-fall-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "3469dee58f2a",
+      "title": "BusinessDay Young Economists Writing Challenge 2026 (N450,000 in prizes)",
+      "url": "https://opportunitydesk.org/2026/11/14/businessday-young-economists-writing-challenge-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "26fb3429336c",
+      "title": "Morris Animal Foundation Veterinary Student Scholar Program 2026 ($5,500 stipend)",
+      "url": "https://opportunitydesk.org/2026/11/14/morris-animal-foundation-veterinary-student-scholar-program-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "66bacd6c0907",
+      "title": "Ocean Futures Fellowship 2027: Building Ocean Career Pathways",
+      "url": "https://opportunitydesk.org/2026/11/14/ocean-futures-fellowship-2027-building-ocean-career-pathways/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a57adc25325a",
+      "title": "Food and Agriculture Organization of the United Nations (UN FAO) Award for Innovation 2027 ($10,000 prize)",
+      "url": "https://opportunitydesk.org/2026/11/14/un-fao-award-for-innovation-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "d4b27e579a4a",
+      "title": "Council of Europe Grants for Civil Society Organisations 2026 (up to €20,000)",
+      "url": "https://opportunitydesk.org/2026/11/14/council-of-europe-grants-for-civil-society-organisations-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Youth"
+      ]
+    },
+    {
+      "id": "05cb5b7818c7",
+      "title": "AFS Global STEM Academies 2027: Fully Funded International Study Abroad Scholarship for Students from 12 Countries",
+      "url": "https://opportunitiesforyouth.org/2026/11/14/afs-global-stem-academies-2027-fully-funded-international-study-abroad-scholarship-for-students-from-12-countries/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "98da409ac768",
+      "title": "UNICEF USA Youth Council Learning Exchange 2027: Six-Month Virtual Programme Invites U.S. City and County Leaders to Strengthen Youth Participation in Local Government",
+      "url": "https://opportunitiesforyouth.org/2026/11/14/unicef-usa-youth-council-learning-exchange-2027-six-month-virtual-programme-invites-u-s-city-and-county-leaders-to-strengthen-youth-participation-in-local-government/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "6c461f707486",
+      "title": "2027 Fully Funded Youth Delegate Programme: Apply for the Council of Europe Congress in Strasbourg",
+      "url": "https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "cf8d065d0bde",
+      "title": "EdLight Scholars 2027 : 600 Bourses de formation en ligne entièrement gratuites – Postulez avant le 10 décembre 2026",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/bourses/formation/edlight-scholars-2027-600-bourses-de-formation-en-ligne-entierement-gratuites-postulez-avant-le-10-decembre-2026/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-14",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "09e3fac1dcd7",
+      "title": "Bayer Foundation Fellowships 2026: Apply for Up to €10,000 in International Research and Internship Funding",
+      "url": "https://opportunitiesforyouth.org/2026/11/13/bayer-foundation-fellowships-2026-apply-for-up-to-e10000-in-international-research-and-internship-funding/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-13",
+      "first_seen": "2026-11-15",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "42a4ca291da4",
       "title": "Summer Programs in Europe in 2027 (Fully Funded)",
@@ -2726,141 +2861,6 @@
       "language": "en",
       "published": "2026-10-19",
       "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "005ba42eace3",
-      "title": "The United Nations Young Professionals Programme 2026 (Launch Your Career at the United Nations)",
-      "url": "https://www.opportunitiesforafricans.com/the-united-nations-young-professionals-programme-2026-launch-your-career-at-the-united-nations/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "fe191216269b",
-      "title": "The International Institute for Applied Systems Analysis (IIASA) Young Scientists Summer Program 2027",
-      "url": "https://www.opportunitiesforafricans.com/the-international-institute-for-applied-systems-analysis-iiasa-young-scientists-summer-program-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "210c33868a65",
-      "title": "SADC Media Awards Competition 2027 for Journalists from Southern Africa (USD 14,000 in prizes)",
-      "url": "https://www.opportunitiesforafricans.com/sadc-media-awards-competition-2027-for-journalists-from-southern-africa/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "16d767f6f3ba",
-      "title": "The Joint ICTP-CCG Catalyst Facility Academic Writing Residency Program for Global South Scholars (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/the-joint-ictp-ccg-catalyst-facility-academic-writing-residency-program-for-global-south-scholars/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c23bc2c58761",
-      "title": "EJN Reporting Fellowship 2027 in USA (Fully Funded)",
-      "url": "https://opportunitiescorners.com/ejn-reporting-fellowship-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "ed10091f7c65",
-      "title": "Emerging Leaders Programme 2026: Fully Sponsored Leadership Opportunity for Mid-Level Executives Across Africa",
-      "url": "https://www.globalsouthopportunities.com/2026/10/19/emerging-2/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-19",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a05f80147c56",
-      "title": "CrossCulture Program 2027 in Germany (Fully Funded)",
-      "url": "https://opportunitiescorners.com/crossculture-program-2027-in-germany/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-19",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "28d01aaa6c35",
-      "title": "Scout Adventures Volunteer Program 2026 UK (Fully Funded)",
-      "url": "https://opportunitiescorners.com/scout-adventures-volunteer-program/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
-      "first_seen": "2026-10-19",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "22f24a8d6710",
-      "title": "Keio University Japan ADB Scholarship 2027 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/keio-university-japan-adb-scholarship-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-18",
-      "first_seen": "2026-10-19",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "a2ebf6551e45",
-      "title": "Palantir Meritocracy Fellowship 2026: Five-Week Programme Offers Intensive Learning and Software Engineering Experience",
-      "url": "https://www.globalsouthopportunities.com/2026/10/18/palantir-2/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-18",
-      "first_seen": "2026-10-18",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "1ad8f2aa514c",
-      "title": "Apple Machine Learning Research Internship 2026 in Switzerland: Computer Vision and LLM Efficiency",
-      "url": "https://www.globalsouthopportunities.com/2026/10/18/internship-130/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-18",
-      "first_seen": "2026-10-18",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b632df8c2cca",
-      "title": "Restless Development People and Performance Internship 2026 in Uganda: Earn UGX 700,000 Monthly",
-      "url": "https://www.globalsouthopportunities.com/2026/10/18/development-53/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-18",
-      "first_seen": "2026-10-18",
       "status": "NEEDS VERIFICATION"
     }
   ]

@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-14T12:12:04Z",
+  "last_refresh": "2026-11-15T12:44:26Z",
   "counts": {
     "total": 80,
-    "archived": 9,
+    "archived": 11,
     "by_status": {
-      "OPEN": 31,
-      "CLOSING SOON": 5,
-      "UPCOMING": 28,
-      "DEADLINE PASSED": 8,
+      "OPEN": 30,
+      "CLOSING SOON": 6,
+      "UPCOMING": 30,
+      "DEADLINE PASSED": 6,
       "ROLLING": 2,
       "DATE UNKNOWN": 6
     },
@@ -28,14 +28,15 @@
       "INSUFFICIENT INFORMATION": 5
     },
     "by_verification": {
-      "VERIFIED": 51,
-      "PARTIALLY VERIFIED": 25,
+      "VERIFIED": 50,
+      "PARTIALLY VERIFIED": 26,
       "NEEDS VERIFICATION": 4
     },
     "travel_funded": 38
   },
   "deadline_buckets": {
     "30": [
+      "auc-african-graduate-fellowship-2027",
       "gates-cambridge-2027",
       "jim-leech-mastercard-foundation-fellowship-2027",
       "maastricht-nl-high-potential-2027",
@@ -43,20 +44,22 @@
       "mcw-global-young-leaders-fellowship-2027",
       "mundus-mapp-2027",
       "ned-hurford-youth-fellows-2027",
-      "sciences-po-emile-boutmy-masters-2027",
+      "noha-erasmus-mundus-humanitarian-action-2027",
       "wageningen-africa-scholarship-programme-2027",
       "wff-youth-policy-board-2027-2028",
       "yenching-academy-2027"
     ],
     "14": [
       "gtf-telemachus-mentoring-2027",
-      "mastercard-foundation-scholars-sciences-po-2027"
+      "mastercard-foundation-scholars-sciences-po-2027",
+      "sciences-po-emile-boutmy-masters-2027"
     ],
     "7": [
-      "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+      "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027"
+    ],
+    "3": [
       "youth-global-forum-2027-paris-cgdl"
     ],
-    "3": [],
     "1": [
       "kectil-program-2027"
     ]
@@ -125,7 +128,7 @@
     {
       "id": "raisina-young-fellows-2027-pcns",
       "type": "dead_link",
-      "since": "2026-11-14",
+      "since": "2026-11-15",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
@@ -164,7 +167,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3
+      "new": 5
     },
     {
       "name": "Opportunities for Africans",
@@ -186,9 +189,9 @@
       "name": "Opportunities for Youth",
       "url": "https://opportunitiesforyouth.org/feed/",
       "tier": 3,
-      "status": 403,
-      "items": 0,
-      "new": 0
+      "status": 200,
+      "items": 10,
+      "new": 4
     },
     {
       "name": "Mladiinfo",
@@ -204,7 +207,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1
     },
     {
       "name": "Opportunities Corners",
@@ -269,8 +272,8 @@
       "title": "Hurford Youth Fellows Program 2027 in the USA (Fully Funded)",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/hurford-youth-fellows-program-2027-in-the-usa-fully-funded/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-14"
+      "seen": "2026-11-15"
     }
   ],
-  "new_leads_last_run": 5
+  "new_leads_last_run": 12
 }

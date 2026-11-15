@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "opportunities": [
     {
       "id": "mckinsey-forward-fall-2026",
@@ -1331,6 +1331,297 @@
       ],
       "archive_id": "ebuteli-fellowship@2026-10-30",
       "archived_on": "2026-11-14"
+    },
+    {
+      "id": "mastercard-foundation-scholars-uct-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Cape Town (2027 postgraduate intake)",
+      "organization": "University of Cape Town (UCT) with the Mastercard Foundation",
+      "overview": "UCT's Mastercard Foundation Scholars Program for the 2027 intake funds African citizens with significant financial barriers for honours degrees, coursework master's programmes and Health Sciences postgraduate diplomas. Postgraduate scholarship applications close on 31 October 2026; a UCT academic application and offer are also required.",
+      "category": [
+        "Scholarship",
+        "Leadership"
+      ],
+      "subcategory": [
+        "Master's scholarship",
+        "Honours scholarship",
+        "Mastercard Foundation"
+      ],
+      "education_levels": [
+        "Master's",
+        "Graduate"
+      ],
+      "country": "South Africa",
+      "city": "Cape Town",
+      "region": "Southern Africa",
+      "continent": "Africa",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "2027 academic year intake (full-time study)",
+      "application_deadline": "2026-10-31",
+      "deadline_utc": "",
+      "deadline_text": "Postgraduate: applications close 31 October 2026 (undergraduate closed 30 September 2026). UCT academic applications for most postgraduate programmes containing coursework closed on 30 September 2026; exceptions are listed in the 2027 Directions for Postgraduate Applicants.",
+      "deadline_timezone": "Not stated (South Africa, SAST)",
+      "opens_on": "",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "UCT pages say the programme 'provides scholarships and comprehensive support' plus mentoring, leadership development and career support, without itemising the costs covered",
+        "Reported by secondary sources: tuition, accommodation, living expenses, medical aid, laptop, study visa where applicable and annual travel"
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "eligibility": [
+        "Citizen of an African country, including South Africa",
+        "Limited in ability to access education owing to significant financial barriers",
+        "Academically talented with a demonstrated commitment to learning",
+        "Applying for a first bachelor's, a Health Sciences postgraduate diploma, an honours degree or a coursework master's at UCT (full-time)",
+        "Only applicants who receive a UCT admission offer are eligible"
+      ],
+      "nationality_requirements": [
+        "Citizens of any African country (DRC included)"
+      ],
+      "age_requirement": "Unknown / Not specified",
+      "education_requirement": "Admission to an eligible UCT honours or coursework master's programme",
+      "experience_requirement": "Unknown / Not specified",
+      "language_requirement": "Unknown / Not specified",
+      "other_requirements": [
+        "Part-time study and research-only qualifications are not covered"
+      ],
+      "documents_required": [],
+      "application_process": [
+        "Submit a UCT academic application at applyonline.uct.ac.za (check the programme's own closing date)",
+        "Submit the Mastercard Foundation Scholars Program application via uct.ac.za/mastercardfdn by 31 October 2026"
+      ],
+      "official_application_url": "https://www.uct.ac.za/mastercardfdn/how-apply",
+      "official_information_url": "https://www.uct.ac.za/node/648803",
+      "source_url": "https://www.uct.ac.za/node/648803",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "UCT: Apply to the Mastercard Foundation Scholars Program (2027 intake, eligibility, deadlines)",
+          "url": "https://www.uct.ac.za/node/648803",
+          "type": "Official"
+        },
+        {
+          "label": "UCT Mastercard Foundation Scholars Program home",
+          "url": "https://www.uct.ac.za/mastercardfdn",
+          "type": "Official"
+        },
+        {
+          "label": "UCT MCF How to apply",
+          "url": "https://www.uct.ac.za/mastercardfdn/how-apply",
+          "type": "Official"
+        },
+        {
+          "label": "UCT Applications and registration (postgraduate closing dates 2027)",
+          "url": "https://uct.ac.za/applications-and-registration",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunities for Africans listing (benefits, secondary)",
+          "url": "https://www.opportunitiesforafricans.com/the-university-of-cape-town-mastercard-foundation-scholars-program-2027/",
+          "type": "Aggregator"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "DRC citizenship qualifies and a Licence can lead to an honours or coursework master's. Eligibility depends on obtaining a UCT offer (most coursework applications closed on 30 September 2026), on demonstrated financial need and on the academic record, none of which the profile records.",
+      "potential_issues": [
+        "UCT academic applications for most coursework postgraduate programmes closed on 30 September 2026; only programmes listed as exceptions may still be open",
+        "Benefits are not itemised on the UCT pages read; coverage comes from secondary sources",
+        "The scholarship deadline is 31 October 2026, two days after this check"
+      ],
+      "benefits": [
+        "Scholarship and comprehensive support at a leading African university",
+        "Mentoring, leadership development, career and entrepreneurship training",
+        "Access to the Mastercard Foundation alumni network"
+      ],
+      "relevance": {
+        "academic": "High",
+        "career": "High",
+        "travel": "High",
+        "networking": "High",
+        "funding": "High",
+        "accessibility": "Low",
+        "profile_fit": "High"
+      },
+      "relevance_reason": "A strong, Africa-focused funded route to a postgraduate degree in business or policy, but timing is tight because most UCT coursework programmes have already closed for 2027.",
+      "travel_value": "High",
+      "career_value": "High",
+      "academic_value": "High",
+      "networking_value": "High",
+      "visa": {
+        "required": "Yes",
+        "support": "Reported by secondary sources: study visa support where applicable"
+      },
+      "upfront_cost_risk": "UCT application fee may apply (not checked)",
+      "action": "Check the 2027 Directions for Postgraduate Applicants for a Commerce honours or coursework master's still open after 30 September; if one is, apply to UCT and submit the scholarship application before 31 October 2026. Otherwise note the cycle for 2028.",
+      "last_verified": "2026-10-29",
+      "date_discovered": "2026-10-12",
+      "notes": "29 October 2026: UCT page uct.ac.za/node/648803 re-read. It states that the Mastercard Foundation Scholars Program application deadline is 31 October 2026 for postgraduate diploma, honours and master's applicants, and requires African citizenship ('including South Africa'). uct.ac.za/mastercardfdn/how-apply says undergraduate applications are closed, postgraduate applications are open, and a UCT offer is needed first.",
+      "match_keywords": [
+        "university of cape town mastercard",
+        "uct mastercard",
+        "mastercard foundation scholars program at the university of cape town"
+      ],
+      "archive_id": "mastercard-foundation-scholars-uct-2027@2026-10-31",
+      "archived_on": "2026-11-15"
+    },
+    {
+      "id": "one-young-world-leading-scholarship-2026",
+      "title": "One Young World Leading Scholarship 2026",
+      "organization": "One Young World",
+      "overview": "One Young World's flagship scholarship to attend its 2026 Summit in Cape Town (3-6 November). The country list on the official page does not include the Democratic Republic of the Congo.",
+      "category": [
+        "Conference",
+        "Leadership",
+        "Travel"
+      ],
+      "subcategory": [
+        "Summit scholarship"
+      ],
+      "education_levels": [
+        "Open to all"
+      ],
+      "country": "South Africa",
+      "city": "Cape Town",
+      "region": "Southern Africa",
+      "continent": "Africa",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "One Young World Summit, 3-6 November 2026",
+      "application_deadline": "2026-10-31",
+      "deadline_utc": "",
+      "deadline_text": "Application deadline: 31 October 2026 (opening date 11 June 2026). Re-read 2 November 2026: the page now shows 'Application Deadline: Closed.' Selected candidates were notified by email between June and October 2026.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "2026-06-11",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Participation Funded",
+      "funding_details": [
+        "General scholarships page: most scholarships cover Summit access, shared hotel accommodation, catering and travel to and from the Summit",
+        "For this scholarship: 'Whether transport and accommodation is provided is on a case-by-case basis for each scholar.'",
+        "The visa fee and related costs are paid by the participant"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Not specified",
+        "flight": "Partially covered",
+        "accommodation": "Partially covered",
+        "meals": "Not specified",
+        "visa": "Not covered",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": true,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "eligibility": [
+        "Aged 18 to 35",
+        "From one of the countries listed on the scholarship page (may reside elsewhere)",
+        "Proven leadership and ability to create change in the home country"
+      ],
+      "nationality_requirements": [
+        "The 51 listed countries include Congo-Brazzaville; the Democratic Republic of the Congo does not appear on the list re-read on 12 October 2026"
+      ],
+      "age_requirement": "18 to 35",
+      "education_requirement": "Unknown / Not specified",
+      "experience_requirement": "Unknown / Not specified",
+      "language_requirement": "Unknown / Not specified",
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Online application on the scholarship page"
+      ],
+      "official_application_url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+      "official_information_url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+      "source_url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Leading Scholarship 2026",
+          "url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+          "type": "Official"
+        },
+        {
+          "label": "One Young World scholarships",
+          "url": "https://www.oneyoungworld.com/scholarships",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "NOT ELIGIBLE",
+      "eligibility_reason": "The Leading Scholarship is limited to a list of countries. That list includes Congo-Brazzaville but not the Democratic Republic of the Congo.",
+      "potential_issues": [
+        "Nationality not on this scholarship's list",
+        "Summit is days after the deadline and selection is rolling (the page shows both '31 October 2026' and 'Rolling')",
+        "Travel and hotel are decided case by case"
+      ],
+      "benefits": [
+        "Access to the One Young World Summit and ambassador community"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "Medium",
+        "travel": "Very High",
+        "networking": "Very High",
+        "funding": "Medium",
+        "accessibility": "Low",
+        "profile_fit": "Low"
+      },
+      "relevance_reason": "Listed to save time: it is promoted widely, but this particular scholarship is closed to DRC nationals.",
+      "travel_value": "Very High",
+      "career_value": "Medium",
+      "academic_value": "Low",
+      "networking_value": "Very High",
+      "visa": {
+        "required": "Unknown / Not specified",
+        "support": "Visa fee and visa-related travel are paid by the participant."
+      },
+      "upfront_cost_risk": "Visa costs, and possibly travel and hotel.",
+      "action": "No action. Other One Young World scholarships open through the year: check the scholarships page in early 2027 for one that lists the DRC.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-10-02",
+      "notes": "Re-verified 2 November 2026 after a source_changed flag: the change is the deadline line now reading 'Closed'. The country list still includes Congo-Brazzaville but not the Democratic Republic of the Congo. Summit: Cape Town, 3-6 November 2026. Visa fees for South Africa are at the scholar's expense; transport and accommodation are decided case by case.",
+      "match_keywords": [
+        "one young world"
+      ],
+      "archive_id": "one-young-world-leading-scholarship-2026@2026-10-31",
+      "archived_on": "2026-11-15"
     }
   ]
 }

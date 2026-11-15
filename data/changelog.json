@@ -2,6 +2,22 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-15",
+      "id": "mastercard-foundation-scholars-uct-2027",
+      "title": "Mastercard Foundation Scholars Program at the University of Cape Town (2027 postgraduate intake)",
+      "field": "(cycle closed)",
+      "old": "2026-10-31",
+      "new": "rolled to next cycle"
+    },
+    {
+      "date": "2026-11-15",
+      "id": "one-young-world-leading-scholarship-2026",
+      "title": "One Young World Leading Scholarship 2026",
+      "field": "(cycle closed)",
+      "old": "2026-10-31",
+      "new": "rolled to next cycle"
+    },
+    {
       "date": "2026-11-14",
       "id": "ebuteli-fellowship",
       "title": "Ebuteli Fellowship, sixth edition (Kinshasa research institute)",
