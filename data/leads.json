@@ -1,7 +1,40 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "leads": [
+    {
+      "id": "0ed1cb20bfd3",
+      "title": "Digispace Africa Research Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/11/16/digispace-africa-research-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "755639a52780",
+      "title": "UNIQLO Global Management Program 2027 in Japan (Fully Funded)",
+      "url": "https://opportunitiescorners.com/uniqlo-global-management-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-16",
+      "first_seen": "2026-11-16",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "edcb3e8997a7",
+      "title": "HZDR Summer Student Program 2027 in Germany (Fully Funded)",
+      "url": "https://opportunitiescorners.com/hzdr-summer-student-program-2027/",
+      "source": "Opportunities Corners",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-15",
+      "first_seen": "2026-11-16",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "de2725ae424d",
       "title": "Ocean Futures Fellowship 2027–2028 | Paid Remote International Fellowship by OceanX and IIE",
@@ -2827,39 +2860,6 @@
       "source_tier": 3,
       "language": "en",
       "published": "2026-10-20",
-      "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "321ec8cb52ad",
-      "title": "AI for Social Science Research Methods Conference 2027 at Yale University",
-      "url": "https://www.globalsouthopportunities.com/2026/10/20/social-21/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-20",
-      "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "54e172bc790c",
-      "title": "Appel à candidatures – (3) Programmes de Stages au siège de l’UNESCO, dans ses Bureaux extérieurs et Instituts",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/stages/communication/appel-a-candidatures-3-programmes-de-stages-au-siege-de-lunesco-dans-ses-bureaux-exterieurs-et-instituts/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-20",
-      "first_seen": "2026-10-20",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "a3c2daad2b57",
-      "title": "Foreign Affairs Information Technology (FAIT) Fellowship 2027 (Funded)",
-      "url": "https://opportunitydesk.org/2026/10/19/fait-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-19",
       "first_seen": "2026-10-20",
       "status": "NEEDS VERIFICATION"
     }

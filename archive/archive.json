@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "opportunities": [
     {
       "id": "mckinsey-forward-fall-2026",
@@ -1622,6 +1622,154 @@
       ],
       "archive_id": "one-young-world-leading-scholarship-2026@2026-10-31",
       "archived_on": "2026-11-15"
+    },
+    {
+      "id": "open-doors-russian-scholarship-masters-2027",
+      "title": "Open Doors: Russian Scholarship Project, Master's track (2027/28 entry)",
+      "organization": "'Global Universities' Association of Russian universities",
+      "overview": "A free two-stage online competition whose Master's-track winners receive federally funded tuition places and a monthly stipend at leading Russian universities. Living, travel and insurance costs are paid by the student.",
+      "category": [
+        "Scholarship"
+      ],
+      "subcategory": [
+        "Master's degree",
+        "Government quota"
+      ],
+      "education_levels": [
+        "Master's"
+      ],
+      "country": "Russia",
+      "city": "Various (HSE, MGIMO, RUDN, Plekhanov, ITMO and others)",
+      "region": "Eastern Europe",
+      "continent": "Europe",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "First Stage 20 August - 13 November 2026; Second Stage (online, proctored, 180 min) 13 November - 21 December 2026; Master's winners announced 21 December 2026; studies from the 2027/28 academic year",
+      "application_deadline": "2026-11-01",
+      "deadline_utc": "",
+      "deadline_text": "1 November 2026 Open Doors registration deadline. Second Stage registration deadline: 16 November 2026.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "2026-08-20",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Partially Funded",
+      "funding_details": [
+        "Tuition 'funded from the federal budget'; home page: 'Your tuition fees will be covered by the Government of the Russian Federation.'",
+        "Winners receive a monthly stipend; 'The amount varies depending on the university'",
+        "'All other expenses — including transportation, food, accommodation, communication services, and medical insurance — must be covered by the student.'",
+        "A Russian-language preparatory year is federally funded if needed",
+        "The home page title says 'Study in Russia on Fully Funded Scholarships', but the same page and the rules list travel, food, accommodation and insurance as the student's own costs, so the label stays Partially Funded"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Partially covered",
+        "flight": "Not covered",
+        "accommodation": "Not covered",
+        "meals": "Not covered",
+        "visa": "Not specified",
+        "insurance": "Not covered",
+        "local_transport": "Not covered"
+      },
+      "travel_funded": false,
+      "flight_funded": false,
+      "accommodation_funded": false,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "None: 'No fee is charged for participation in the Open Doors.'",
+      "stipend": "Monthly; amount varies by university",
+      "eligibility": [
+        "'Foreign citizens and stateless persons ... are eligible' (no country list)",
+        "Master's track: aged between 20 and 33 as of the registration opening date",
+        "At least a Bachelor's degree, and no Specialist or Master's degree",
+        "Subject areas include Business and Management, Economics and Econometrics, and Politics and International Studies",
+        "Official competition languages: Russian and English"
+      ],
+      "nationality_requirements": [
+        "Any foreign citizen or stateless person"
+      ],
+      "age_requirement": "20-33 on the registration opening date",
+      "education_requirement": "Bachelor's degree; no Master's or Specialist degree",
+      "experience_requirement": "Unknown / Not specified",
+      "language_requirement": "Competition in Russian or English; no test score required to register",
+      "other_requirements": [],
+      "documents_required": [
+        "Portfolio: entry test, motivation letter, achievements, educational documents, passport"
+      ],
+      "application_process": [
+        "Register at od.globaluni.ru before 1 November 2026 and choose the Master's track and a subject area",
+        "Complete the First Stage portfolio by 13 November 2026",
+        "Register for and sit the online Second Stage (deadline to register 16 November 2026)"
+      ],
+      "official_application_url": "https://od.globaluni.ru/",
+      "official_information_url": "https://od.globaluni.ru/rules",
+      "source_url": "https://od.globaluni.ru/rules",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Open Doors home page (dates, FAQ)",
+          "url": "https://od.globaluni.ru/",
+          "type": "Official"
+        },
+        {
+          "label": "Open Doors rules",
+          "url": "https://od.globaluni.ru/rules",
+          "type": "Official"
+        },
+        {
+          "label": "MISIS: separate Russian government quota route",
+          "url": "https://en.misis.ru/applicants/scholarships/quota/",
+          "type": "Institutional"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "Any foreign citizen with a bachelor's and no master's may enter, and Business and Management is an available subject. The age band is 20 to 33; the profile records only 'under 30', so the lower bound is not confirmed.",
+      "potential_issues": [
+        "Partial funding only: flights, housing, food and insurance are paid by the student",
+        "Stipend amount varies by university and is not stated",
+        "Teaching language may be Russian unless an English-taught programme is chosen"
+      ],
+      "benefits": [
+        "Free tuition at a leading Russian university",
+        "No application fee and no English test needed to enter the competition"
+      ],
+      "relevance": {
+        "academic": "High",
+        "career": "Medium",
+        "travel": "High",
+        "networking": "Medium",
+        "funding": "Medium",
+        "accessibility": "High",
+        "profile_fit": "High"
+      },
+      "relevance_reason": "One of the few master's routes open now with no fee and no language test up front, with a business track; the living costs are the drawback.",
+      "travel_value": "High",
+      "career_value": "Medium",
+      "academic_value": "High",
+      "networking_value": "Medium",
+      "visa": {
+        "required": "Yes (Russian student visa)",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Medium: flights and living costs are the student's",
+      "action": "Register at od.globaluni.ru by 1 November 2026 (no time zone stated) and choose the Master's track. Then finish the First Stage portfolio by 13 November and register for the Second Stage by 16 November 2026. Budget for travel, accommodation, food and insurance, which the scholarship does not cover.",
+      "last_verified": "2026-10-29",
+      "date_discovered": "2026-10-05",
+      "notes": "The separate Russian government quota is not this record; MISIS (read 12 October 2026) states 'by December 15, 2026 — for CIS countries' and 'by January 15, 2027 — for all other countries'. Open Doors dates unchanged on 12 October and 29 October 2026. On 29 October 2026 the page also said that after 1 November the account and portfolio can no longer be edited.",
+      "match_keywords": [
+        "open doors",
+        "russian scholarship project",
+        "open doors olympiad"
+      ],
+      "archive_id": "open-doors-russian-scholarship-masters-2027@2026-11-01",
+      "archived_on": "2026-11-16"
     }
   ]
 }
