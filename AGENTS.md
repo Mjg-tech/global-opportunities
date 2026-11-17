@@ -30,7 +30,8 @@ procedure for a research cycle. Follow it in order.
 - `reports/latest.md`: generated daily. Flags, deadline windows, programmes seen again in feeds.
 - `data/leads.json`: unverified titles and links harvested from feeds, each with a `status`, a `score` (it only orders the list) and `flags`.
 - `data/lead-audit.json`: titles the filters set aside, with the reason. Read it in the monthly audit for false exclusions. `archive/leads-archive.json`: leads that left the active list.
-- `data/sources.json`: feeds, and `research_watchlist` (programmes not yet researched).
+- `data/sources.json`: aggregator feeds, and `research_watchlist` (programmes not yet researched).
+- `data/source-registry.json`: the official sources the daily job scans. `data/source-state.json`: how each one is doing (do not edit).
 - `data/opportunities.json`: the live records.
 
 ## The cycle
@@ -53,7 +54,10 @@ procedure for a research cycle. Follow it in order.
    adding `exclusion_reason` (the page and the requirement), or `REJECTED - NOT A LEGITIMATE
    OPPORTUNITY` with the reason. Never delete a lead. Mark a lead you are working on `UNDER REVIEW`
    so the daily job does not archive it. The daily job archives finished leads.
-5. **Discover.** Work through `research_watchlist`, then search for opportunities the feeds miss:
+5. **Discover.** Open every registry source whose `status` is `manual` in a browser (the daily job
+   cannot read them) and look for open calls. Read the state file: a source with a long `fail_streak`
+   needs its entry fixed or set to `manual`; a `proposed` source with a real `trial_would_be_leads`
+   after two weeks can become `active`. Work through `research_watchlist`, then search for opportunities the feeds miss:
    sponsored delegations, travel grants, youth observer programmes, funded summits, study tours,
    embassy programmes, mobility grants, innovation missions, volunteering schemes. Search in
    English, French, Portuguese and Spanish. Check explicitly whether the Democratic Republic of
@@ -75,6 +79,20 @@ procedure for a research cycle. Follow it in order.
    eligibility, suspicious or unverified items, expired items, and the action queue.
 10. **Publish.** `git add -A`, commit as `Research cycle YYYY-MM-DD`, `git pull --rebase`,
     `git push`. The workflow validates and deploys.
+
+## Adding a source to the registry
+
+Only a source you opened and probed this cycle goes in `data/source-registry.json`.
+
+1. Run `python scripts/sources.py probe URL`. Read what it prints; a page that answers 403 or resets the
+   connection is registered as `manual` (never `active`), and you do not work around the block.
+2. The source must be the organiser's or an institution's own page. Aggregators stay in `data/sources.json`.
+3. Add the entry as `proposed`, with `verified_on` today and a `verification_note` that states what you
+   saw (HTTP status, items, which were kept). Copy the shape of an existing entry.
+4. A site that shows spam, a wrong organisation or anything suspicious goes in the registry's `rejected`
+   list with the reason. Do not register it.
+5. Run `python scripts/validate.py` and `python -m unittest discover -s tests`.
+6. Never edit `data/source-state.json`.
 
 ## Field guidance
 

@@ -22,15 +22,14 @@ from __future__ import annotations
 
 import argparse
 import datetime as dt
-import email.utils
 import hashlib
-import html
 import re
 import sys
 from concurrent.futures import ThreadPoolExecutor
 
 import leadfilter as LF
 import oplib as L
+import sourcelib as S
 
 # Lead filtering, scoring and retention numbers live in leadfilter.py and data/lead-rules.json.
 LEADS_ARCHIVE = L.ROOT / "archive" / "leads-archive.json"
@@ -133,37 +132,7 @@ def watch(db: dict, today: dt.date) -> tuple[dict, list[dict]]:
 
 
 # ---------------------------------------------------------------- feed harvest
-def _tag(block: str, name: str) -> str:
-    match = re.search(rf"<{name}\b[^>]*>(.*?)</{name}>", block, flags=re.S | re.I)
-    if not match:
-        return ""
-    value = match.group(1).strip()
-    value = re.sub(r"^<!\[CDATA\[(.*)\]\]>$", r"\1", value, flags=re.S)
-    value = re.sub(r"<[^>]+>", " ", html.unescape(value))
-    return re.sub(r"\s+", " ", html.unescape(value)).strip()
-
-
-def parse_feed(raw: bytes) -> list[dict]:
-    text = raw.decode("utf-8", errors="replace")
-    blocks = (re.findall(r"<item[\s>].*?</item>", text, flags=re.S | re.I)
-              or re.findall(r"<entry[\s>].*?</entry>", text, flags=re.S | re.I))
-    items = []
-    for block in blocks:
-        link = _tag(block, "link")
-        if not link:
-            match = re.search(r"<link[^>]+href=[\"']([^\"']+)", block, re.I)
-            link = match.group(1) if match else ""
-        link = re.sub(r"[?&]utm_[^=]+=[^&#]*", "", html.unescape(link)).rstrip("?&")
-        raw_date = (_tag(block, "pubDate") or _tag(block, "published") or _tag(block, "updated")
-                    or _tag(block, "dc:date"))
-        published = ""
-        try:
-            published = email.utils.parsedate_to_datetime(raw_date).date().isoformat()
-        except (TypeError, ValueError):
-            if re.match(r"\d{4}-\d{2}-\d{2}", raw_date or ""):
-                published = raw_date[:10]
-        items.append({"title": _tag(block, "title"), "url": link, "published": published})
-    return items
+parse_feed = S.parse_feed          # the feed parser lives in sourcelib; kept here for callers and tests
 
 
 def title_tokens(title: str) -> set[str]:
@@ -195,7 +164,7 @@ def lead_id_of(url: str) -> str:
 
 
 def harvest(db: dict, archive: dict, today: dt.date) -> tuple[list[dict], list[dict], int, dict]:
-    """Read the feeds into data/leads.json. Nothing is deleted:
+    """Read the feeds and the due registry sources into data/leads.json. Nothing is deleted:
 
     * a title the filters reject is written to data/lead-audit.json with the reason;
     * a lead that expires, is published as a record, or no longer fits under the cap moves to
@@ -229,17 +198,36 @@ def harvest(db: dict, archive: dict, today: dt.date) -> tuple[list[dict], list[d
     gone = {x["id"] for x in lead_archive["leads"]} | {lead["id"] for lead, _ in retired}
     audited = {e["id"] for e in audit["entries"]}
     feeds = [f for f in sources.get("feeds", []) if f.get("enabled", True)]
+    registry = S.load_registry()["sources"]
+    src_state = S.load_state()
+    state_map = src_state.setdefault("sources", {})
+    for src in registry:                      # registry sources join the legacy feeds as scan units
+        if S.is_due(src, state_map, today):
+            spec = S.spec_of(src)
+            feeds.append({"name": spec["name"], "url": spec["scan_url"], "tier": spec["tier"],
+                          "lang": spec["lang"], "filter": spec["filter"], "_spec": spec, "_src": src,
+                          "_trial": src["status"] == "proposed"})
+
+    def run_unit(unit: dict) -> S.ScanResult:
+        if "_spec" not in unit:
+            status, _final, body = L.fetch(
+                unit["url"], timeout=25, accept="application/rss+xml,application/atom+xml,application/xml,*/*")
+            return S.ScanResult(status, parse_feed(body) if status == 200 else [], "")
+        try:
+            return S.scan(unit["_spec"])
+        except Exception as exc:  # noqa: BLE001 - one broken source must not stop the others
+            return S.ScanResult(0, [], f"scan error: {type(exc).__name__}")
 
     with ThreadPoolExecutor(max_workers=6) as pool:
-        fetched = list(pool.map(lambda f: L.fetch(
-            f["url"], timeout=25, accept="application/rss+xml,application/atom+xml,application/xml,*/*"),
-            feeds))
+        scans = list(pool.map(run_unit, feeds))
 
     health, reseen, new_count = [], [], 0
+    source_rows: list[dict] = []
     rejected_total: dict[str, int] = {}
-    for feed, (status, _final, body) in zip(feeds, fetched):
-        items = parse_feed(body) if status == 200 else []
-        added, valid = 0, 0
+    for feed, scan in zip(feeds, scans):
+        status, items = scan.status, scan.items
+        trial = feed.get("_trial", False)
+        added, valid, would_add = 0, 0, 0
         skipped: dict[str, int] = {}
         for item in items:
             title, url = item["title"], item["url"]
@@ -247,6 +235,12 @@ def harvest(db: dict, archive: dict, today: dt.date) -> tuple[list[dict], list[d
                 continue
             valid += 1
             result = LF.assess(title, item["published"], feed.get("tier", 3), feed.get("filter", ""), today, rules)
+            if trial:                         # trial scan: measure what would become a lead, store nothing
+                lid = lead_id_of(url)
+                if (result.kind == "lead" and lid not in by_id and lid not in gone
+                        and not known_record(title, records)):
+                    would_add += 1
+                continue
             if result.kind == "reject":
                 skipped[result.reason] = skipped.get(result.reason, 0) + 1
                 rejected_total[result.reason] = rejected_total.get(result.reason, 0) + 1
@@ -286,6 +280,15 @@ def harvest(db: dict, archive: dict, today: dt.date) -> tuple[list[dict], list[d
             by_id[lead_id] = lead
             added += 1
         new_count += added
+        if "_src" in feed:                    # registry source: its counters live in data/source-state.json
+            entry = S.record_scan(state_map.setdefault(feed["_src"]["source_id"], {}), feed["_src"], scan, added, today)
+            if trial:
+                entry["trial_scans"] = entry.get("trial_scans", 0) + 1
+                entry["trial_would_be_leads"] = entry.get("trial_would_be_leads", 0) + would_add
+            source_rows.append({"id": feed["_src"]["source_id"], "name": feed["name"], "status": feed["_src"]["status"],
+                                "http": status, "items": len(items), "new": added, "would_add": would_add,
+                                "note": scan.note if status != 200 or not items else ""})
+            continue
         prev = previous.get(feed["name"], {})
         empty = status != 200 or not items
         stale = status == 200 and valid > 0 and skipped.get("too_old", 0) == valid
@@ -322,9 +325,15 @@ def harvest(db: dict, archive: dict, today: dt.date) -> tuple[list[dict], list[d
     L.save(L.LEADS, store)
     L.save(LEADS_ARCHIVE, lead_archive)
     L.save(LEAD_AUDIT, audit)
+    if source_rows:
+        src_state["updated"] = stamp
+        L.save(S.STATE, src_state)
     summary = {"active": len(leads), "archived_total": len(lead_archive["leads"]),
                "retired_this_run": len(retired), "rejected_this_run": rejected_total,
-               "audit_entries": len(audit["entries"])}
+               "audit_entries": len(audit["entries"]),
+               "sources": {"registered": len(registry), "scanned": len(source_rows),
+                           "failed": [r["id"] for r in source_rows if r["http"] != 200 or not r["items"]],
+                           "new_leads": sum(r["new"] for r in source_rows), "rows": source_rows}}
     return health, reseen[:40], new_count, summary
 
 
@@ -404,6 +413,14 @@ def write_report(db: dict, meta: dict, today: dt.date) -> None:
                   f"- Active: {info['active']} | archived in total: {info['archived_total']} | "
                   f"retired this run: {info['retired_this_run']}",
                   f"- Titles rejected this run: {rej}. Reasons are logged in `data/lead-audit.json`."]
+    src = (info or {}).get("sources")
+    if src and src["scanned"]:
+        lines += ["", "## Registry sources scanned this run", "",
+                  f"- {src['scanned']} of {src['registered']} registered sources were due; "
+                  f"{src['new_leads']} new leads; failed or empty: {', '.join(src['failed']) or 'none'}.", "",
+                  "| Source | Mode | HTTP | Items | New leads | Trial yield | Note |", "|---|---|---|---|---|---|---|"]
+        lines += [f"| {r['name']} | {r['status']} | {r['http']} | {r['items']} | {r['new']} | "
+                  f"{r['would_add'] if r['status'] == 'proposed' else ''} | {r['note']} |" for r in src["rows"]]
     lines += ["", "## Feed health", "", "| Feed | Tier | HTTP | Items | New leads | Alert |", "|---|---|---|---|---|---|"]
     lines += [f"| {f['name']} | {f['tier']} | {f['status']} | {f['items']} | {f['new']} | {f.get('alert') or ''} |"
               for f in meta.get("feeds", [])] or ["| (not run) | | | | | |"]

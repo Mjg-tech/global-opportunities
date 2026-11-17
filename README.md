@@ -53,7 +53,9 @@ assets/js/app.js        shared: data loading, status rules, badges, cards, detai
 assets/js/*.js          one script per page
 data/opportunities.json the database (live records)
 data/profile.json       anonymous applicant profile used for the eligibility labels
-data/sources.json       feeds read daily, feeds rejected, research watchlist
+data/sources.json       aggregator feeds read daily, feeds rejected, research watchlist
+data/source-registry.json  official sources (curated): where each is, how to read it, whether it is active
+data/source-state.json  what the daily job learned about each source: last scan, failures, yield (machine-written)
 data/leads.json         active unverified leads, each with a status, score and flags (written by the daily refresh)
 data/lead-rules.json    retention and scoring numbers for leads (cap, expiry, weights)
 data/lead-audit.json    every title the lead filters set aside, with the reason (90 days)
@@ -65,7 +67,7 @@ archive/leads-archive.json  leads that expired, were published, were closed by r
 research/YYYY-MM-DD/    the raw batch files of each research cycle
 tests/                  unit tests and the discovery benchmark (python -m unittest discover -s tests)
 reports/                latest.md (generated daily) and one report per research cycle
-scripts/                oplib.py, leadfilter.py, upsert.py, validate.py, refresh.py, integrity.py, measure.py (standard library only)
+scripts/                oplib.py, leadfilter.py, sourcelib.py, sources.py, upsert.py, validate.py, refresh.py, integrity.py, measure.py (standard library only)
 AGENTS.md               runbook for the research cycle
 ```
 
@@ -235,6 +237,44 @@ opportunities; job ads are still rejected). `data/meta.json` counts, per feed, c
 items or only stale items, and `reports/latest.md` shows an alert after `feed_alert_after_runs` (7).
 
 `lead_filters.exclude_title_patterns` in `data/profile.json` is no longer read. Its owner may remove it.
+
+## Source registry
+
+`data/sources.json` holds aggregator feeds, which find a lot and verify nothing. `data/source-registry.json`
+holds **official places**: an institution's call-for-applications page, a youth portal, an embassy feed.
+The daily job scans them next to the feeds, and their items go through the same lead filters. An item
+from a registry source starts with the `Official` tier, so it ranks above the same title from an aggregator.
+
+Each entry says where the source is (`official_opportunities_url`, `official_domain`), how to read it
+(`discovery_method`: `rss`, `atom`, `html`, `sitemap` or `json_api`, with options under `harvest`), which
+channel it serves (A institutional, B government and diplomatic, C academic, D professional and
+entrepreneurship, E travel and events), how often to look (`priority`: high daily, medium every 3 days,
+low weekly), and what was seen when it was verified (`verified_on`, `verification_note`).
+
+| `status` | What the daily job does |
+|---|---|
+| `active` | scans it; new items become leads |
+| `proposed` | scans it as a trial: counts what *would* become leads, stores none (`trial_would_be_leads` in the state file) |
+| `manual` | never fetches it. The site refuses automated readers (403, connection reset, time-outs) or lists nothing a scanner can read. A research cycle opens it in a browser |
+| `disabled` | ignored |
+
+Rules the scanner follows: `robots.txt` is read first and a disallowed page is not fetched (an
+unreachable `robots.txt` means skip the source that day); links must stay on the source's own domain;
+nothing is read from a listing except a title, a link and, when the URL carries one, a date; a page that
+blocks automated readers is recorded as `manual`, never worked around.
+
+The registry (edited by research cycles) and the state (written by the daily job) are separate files so
+a daily commit and a research commit never touch the same file. The state holds, per source: last
+check, last HTTP status, items seen, leads created, consecutive failures and a reliability grade
+(`HIGH`/`MEDIUM`/`LOW` from the success ratio over the last 60 scans, `UNRATED` before 5). A failed scan is
+retried the next day. `scripts/validate.py` checks the registry's structure and warns when an active
+source has failed 7 times in a row or has not been re-verified for 180 days.
+
+**Adding a source.** Probe it first: `python scripts/sources.py probe URL` reports robots, HTTP status,
+the method it detects, the feeds it advertises, and which items the lead filters would keep, then prints a
+draft entry. Add it as `proposed`, let it run a week or two, and set it `active` once its trial yield is
+real. `python scripts/sources.py list` shows every source with its latest state. A domain that is
+compromised or not what it claims goes in the registry's `rejected` list, which `validate.py` enforces.
 
 ## Tests
 

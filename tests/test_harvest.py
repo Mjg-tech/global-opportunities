@@ -16,6 +16,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 import leadfilter as LF  # noqa: E402
 import oplib as L  # noqa: E402
 import refresh as R  # noqa: E402
+import sourcelib as S  # noqa: E402
 
 TODAY = dt.date(2026, 11, 17)
 
@@ -42,6 +43,12 @@ class HarvestCase(unittest.TestCase):
             self.addCleanup(patcher.stop)
         for name, path in (("LEADS_ARCHIVE", base / "leads-archive.json"), ("LEAD_AUDIT", base / "lead-audit.json")):
             patcher = mock.patch.object(R, name, path)
+            patcher.start()
+            self.addCleanup(patcher.stop)
+        # the real registry and state files must never be read or written by a test
+        self.registry_path, self.state_path = base / "source-registry.json", base / "source-state.json"
+        for name, path in (("REGISTRY", self.registry_path), ("STATE", self.state_path)):
+            patcher = mock.patch.object(S, name, path)
             patcher.start()
             self.addCleanup(patcher.stop)
         self.feed_body = rss()
@@ -202,6 +209,121 @@ class FeedHealth(HarvestCase):
         self.feed_body = rss(("Old fellowship", "https://a.example/10", OLD), ("Old award", "https://a.example/11", OLD))
         health, *_ = self.run_harvest()
         self.assertEqual(health[0]["stale_streak"], 1)
+
+
+LISTING = b"""<html><body>
+<a href="/opportunities/young-leaders-fellowship-2027">Call for applications: Young Leaders Fellowship 2027</a>
+<a href="/about">About the organisation and its long history of work</a>
+<a href="https://elsewhere.example/scholarship-2027">Scholarship 2027 on another domain entirely here</a>
+</body></html>"""
+
+
+class RegistrySources(HarvestCase):
+    """Sources from data/source-registry.json run through the same lead pipeline as the legacy feeds."""
+
+    def setUp(self):
+        super().setUp()
+        self.pages, self.calls = {}, []
+        S._ROBOTS.clear()                      # robots.txt answers are cached per process; tests must not share them
+        self.addCleanup(S._ROBOTS.clear)
+        patcher = mock.patch.object(L, "fetch", self.route)
+        patcher.start()
+        self.addCleanup(patcher.stop)
+        self.feed_body = rss()                 # the legacy feed stays empty so only registry sources matter
+
+    def route(self, url, timeout=25, accept=None):
+        self.calls.append(url)
+        if url in self.pages:
+            status, body = self.pages[url]
+            return status, url, body
+        if url.endswith("/robots.txt"):
+            return 404, url, b""
+        if url == "https://feed.example/rss":
+            return self.feed_status, url, self.feed_body
+        return 404, url, b""
+
+    def source(self, sid="src-one", status="active", **extra):
+        base = {"source_id": sid, "organization": "Example Org", "label": "Listing", "channel": "A",
+                "official_domain": "example.org", "official_opportunities_url": "https://example.org/listing",
+                "discovery_method": "html", "status": status, "priority": "high", "source_type": "Official",
+                "languages": ["en"], "verified_on": "2026-11-17", "verification_note": "test", "harvest": {}}
+        base.update(extra)
+        return base
+
+    def put_registry(self, *sources):
+        L.save(S.REGISTRY, {"schema_version": 1, "updated": "", "sources": list(sources)})
+
+    def state(self):
+        return L.load(S.STATE, {"sources": {}})["sources"]
+
+    def test_an_active_source_makes_leads_from_its_own_domain_only(self):
+        self.pages["https://example.org/listing"] = (200, LISTING)
+        self.put_registry(self.source())
+        _h, _r, new, summary = self.run_harvest()
+        lead, = self.leads()
+        self.assertEqual(new, 1)
+        self.assertEqual(lead["url"], "https://example.org/opportunities/young-leaders-fellowship-2027")
+        self.assertEqual(lead["source_tier"], 1)
+        self.assertTrue(lead["source"].startswith("Example Org"))
+        self.assertEqual(summary["sources"]["scanned"], 1)
+        self.assertEqual(summary["sources"]["new_leads"], 1)
+
+    def test_a_proposed_source_is_measured_but_stores_no_lead(self):
+        self.pages["https://example.org/listing"] = (200, LISTING)
+        self.put_registry(self.source(status="proposed"))
+        self.run_harvest()
+        self.assertEqual(self.leads(), [])
+        entry = self.state()["src-one"]
+        self.assertEqual((entry["trial_scans"], entry["trial_would_be_leads"]), (1, 1))
+        self.assertEqual(self.audit(), [])
+
+    def test_manual_and_disabled_sources_are_never_fetched(self):
+        self.pages["https://example.org/listing"] = (200, LISTING)
+        self.put_registry(self.source("m", status="manual"), self.source("d", status="disabled"))
+        _h, _r, _n, summary = self.run_harvest()
+        self.assertEqual(summary["sources"]["scanned"], 0)
+        self.assertFalse([c for c in self.calls if "example.org" in c])
+        self.assertFalse(self.state_path.exists())
+
+    def test_a_source_is_scanned_again_only_when_due(self):
+        self.pages["https://example.org/listing"] = (200, LISTING)
+        self.put_registry(self.source(priority="medium"))
+        self.run_harvest()
+        self.assertEqual(self.state()["src-one"]["next_check"], "2026-11-20")
+        _h, _r, _n, again = self.run_harvest()
+        self.assertEqual(again["sources"]["scanned"], 0)
+
+    def test_a_failing_source_is_retried_the_next_day_and_reported(self):
+        self.pages["https://example.org/listing"] = (503, b"")
+        self.put_registry(self.source(priority="low"))
+        _h, _r, _n, summary = self.run_harvest()
+        entry = self.state()["src-one"]
+        self.assertEqual((entry["fail_streak"], entry["next_check"]), (1, "2026-11-18"))
+        self.assertEqual(summary["sources"]["failed"], ["src-one"])
+
+    def test_robots_disallow_means_the_page_is_not_fetched(self):
+        self.pages["https://example.org/robots.txt"] = (200, b"User-agent: *\nDisallow: /listing\n")
+        self.pages["https://example.org/listing"] = (200, LISTING)
+        self.put_registry(self.source())
+        _h, _r, new, summary = self.run_harvest()
+        self.assertEqual(new, 0)
+        row, = summary["sources"]["rows"]
+        self.assertEqual(row["http"], -1)
+        self.assertIn("robots", row["note"])
+
+    def test_one_broken_source_does_not_stop_the_others(self):
+        self.pages["https://example.org/listing"] = (200, LISTING)
+        self.put_registry(self.source("bad", official_opportunities_url="https://example.org/missing"),
+                          self.source("good"))
+        _h, _r, new, _s = self.run_harvest()
+        self.assertEqual(new, 1)
+
+    def test_state_is_not_written_into_the_registry(self):
+        self.pages["https://example.org/listing"] = (200, LISTING)
+        self.put_registry(self.source())
+        before = self.registry_path.read_text(encoding="utf-8")
+        self.run_harvest()
+        self.assertEqual(self.registry_path.read_text(encoding="utf-8"), before)
 
 
 if __name__ == "__main__":

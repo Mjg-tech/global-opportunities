@@ -11,6 +11,7 @@ import re
 import sys
 
 import oplib as L
+import sourcelib as S
 
 URL = re.compile(r"^https?://[^\s]+$")
 ISO = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -116,6 +117,18 @@ def main() -> int:
     for rec in archive["opportunities"]:
         if not rec.get("archive_id"):
             errors.append(f"archive: {rec.get('id')} has no archive_id")
+
+    registry = S.load_registry()
+    errors += S.validate_registry(registry, L.today_utc())
+    state = S.load_state().get("sources", {})
+    for src in registry.get("sources", []):
+        entry = state.get(src.get("source_id"), {})
+        if src.get("status") == "active" and entry.get("fail_streak", 0) >= 7:
+            warnings.append(f"source {src['source_id']}: {entry['fail_streak']} failed scans in a row - "
+                            "check the page and fix or set it to manual")
+        checked = L.parse_date(src.get("verified_on"))
+        if checked and (L.today_utc() - checked).days > 180:
+            warnings.append(f"source {src['source_id']}: not re-verified for over 180 days")
 
     for line in warnings:
         print("warning:", line)
