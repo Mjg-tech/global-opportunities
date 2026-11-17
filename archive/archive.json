@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "opportunities": [
     {
       "id": "mckinsey-forward-fall-2026",
@@ -1770,6 +1770,154 @@
       ],
       "archive_id": "open-doors-russian-scholarship-masters-2027@2026-11-01",
       "archived_on": "2026-11-16"
+    },
+    {
+      "id": "raisina-young-fellows-2027-pcns",
+      "title": "Raisina Young Fellows Programme 2027 (PCNS places)",
+      "organization": "Policy Center for the New South (PCNS), Morocco, for the Observer Research Foundation (ORF) programme in India",
+      "overview": "The Policy Center for the New South (PCNS), Morocco, has allocated two fully funded places for participation in the Raisina Young Fellows Programme 2027, held in New Delhi, India, from 11 to 20 March 2027. The programme convenes emerging leaders from around the world to discuss political, economic and social issues with a focus on Asia, and inducts them as Raisina Young Fellows at the Raisina Dialogue.",
+      "category": [
+        "Fellowship",
+        "Leadership",
+        "Conference",
+        "Travel"
+      ],
+      "subcategory": [
+        "Young leaders",
+        "Policy",
+        "Geopolitics"
+      ],
+      "education_levels": [
+        "Professional"
+      ],
+      "country": "India",
+      "city": "New Delhi",
+      "region": "South Asia",
+      "continent": "Asia",
+      "location_type": "International travel",
+      "delivery_mode": "In-person",
+      "program_dates": "11 to 20 March 2027, New Delhi, including induction at the Raisina Dialogue.",
+      "application_deadline": "2026-11-02",
+      "deadline_utc": "2026-11-02T16:00:00Z",
+      "deadline_text": "Complete the application form by Monday, November 2, 2026. Event listing: from 16 October 2026 5:00 pm to 02 November 2026 5:00 pm (Africa/Casablanca). If you have not received a response by Monday, November 23, 2026, consider that your application was not selected.",
+      "deadline_timezone": "Africa/Casablanca (UTC+1)",
+      "opens_on": "2026-10-16",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Fully Funded",
+      "funding_details": [
+        "PCNS 'has allocated two fully funded places'",
+        "Selected participants receive: a comprehensive fellows' program; roundtrip economy airfare; accommodation, meals, and in-country transportation",
+        "Visa and insurance costs are not mentioned"
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Covered",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Covered"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": true,
+      "meals_funded": true,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": true,
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "eligibility": [
+        "Be between 28 and 35 years old",
+        "Demonstrate outstanding achievements and proven leadership",
+        "Work in politics, diplomacy, business, media, civil society, or academia",
+        "Be available for the full duration of the program",
+        "Show the capacity and readiness to contribute to international forums",
+        "Be proficient in English"
+      ],
+      "nationality_requirements": [
+        "Not stated on the PCNS call page"
+      ],
+      "age_requirement": "28 to 35",
+      "education_requirement": "Unknown / Not specified",
+      "experience_requirement": "Outstanding achievements and proven leadership; working in politics, diplomacy, business, media, civil society or academia",
+      "language_requirement": "Proficient in English",
+      "other_requirements": [
+        "Availability for 11-20 March 2027"
+      ],
+      "documents_required": [],
+      "application_process": [
+        "Complete the PCNS application form (Google Form linked from the PCNS page) by 2 November 2026, 5:00 pm Casablanca time",
+        "Only selected applicants are contacted; no reply by 23 November 2026 means not selected"
+      ],
+      "official_application_url": "https://docs.google.com/forms/d/e/1FAIpQLSe9gR7bzqeWS6rRQ1hhrbZPopbJxc9-57Bq9qSyC2yZDLLZjA/viewform?usp=sharing&ouid=114640157538604531792",
+      "official_information_url": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027",
+      "source_url": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "PCNS: Call for Applications, Raisina Young Fellows Programme 2027",
+          "url": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunity Desk listing (lead)",
+          "url": "https://opportunitydesk.org/2026/10/23/raisina-young-fellows-programme-2027/",
+          "type": "Aggregator"
+        }
+      ],
+      "eligibility_for_me": "INSUFFICIENT INFORMATION",
+      "eligibility_reason": "Two facts decide it. The minimum age is 28 and the profile records only 'under 30'. The version of this call read on 26 October (now removed from its old address) reserved the places for members of the PCNS youth community and the profile records no such membership; the current page does not mention membership. 'Outstanding achievements and proven leadership' and English proficiency are also not recorded.",
+      "potential_issues": [
+        "The earlier version of this call (read on 26 October at an address that now returns 404) said the places were reserved for PCNS youth community members; the current page states no membership condition. Which rule applies is unconfirmed",
+        "Only two places, allocated by PCNS; ORF's own open call was not found",
+        "Minimum age 28",
+        "Deadline 2 November 2026, 5:00 pm Casablanca time",
+        "Visa for India and insurance not mentioned",
+        "The Google Form answers HTTP 401 (sign-in required) to a plain reader on 2 November 2026, so its questions and documents were not read"
+      ],
+      "benefits": [
+        "Round-trip economy airfare, accommodation, meals and in-country transport",
+        "Induction as Raisina Young Fellow at the Raisina Dialogue",
+        "Access to ORF's alumni network of more than 2,500 former participants"
+      ],
+      "relevance": {
+        "academic": "Medium",
+        "career": "High",
+        "travel": "Very High",
+        "networking": "Very High",
+        "funding": "Very High",
+        "accessibility": "Low",
+        "profile_fit": "Low"
+      },
+      "relevance_reason": "A fully funded policy programme in India matches the policy-analysis interest, but access is narrow: only two places, a minimum age of 28 and senior-sounding achievement criteria.",
+      "travel_value": "Very High",
+      "career_value": "High",
+      "academic_value": "Medium",
+      "networking_value": "Very High",
+      "visa": {
+        "required": "Yes, for India (not stated on the page; general requirement)",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Low: airfare, accommodation, meals and local transport are covered",
+      "action": "Closes today, 2 November 2026, 5:00 pm Casablanca time (16:00 UTC). Apply only if you are 28 to 35 and can show leadership achievements in politics, diplomacy, business, media, civil society or academia. The call page re-read on 2 November states no PCNS-membership or nationality condition; the Google Form itself could not be opened to check its questions.",
+      "last_verified": "2026-11-02",
+      "date_discovered": "2026-10-26",
+      "notes": "Part of the strategic partnership between PCNS, ORF and the Italian Institute for International Political Studies (ISPI), through which each institution nominates people for the others' programmes. 29 October 2026: the former page (pcns-youth-community-call-applications-raisina-young-fellows-programme-2027) returns 404 and the call now sits at the address above; the application form link is unchanged. 2 November 2026 (rerun, 12:00 UTC): call page re-read; the text is the same as on 29 October (age 28-35, two fully funded places, New Delhi 11-20 March 2027, response by 23 November).",
+      "match_keywords": [
+        "raisina young fellows",
+        "raisina young fellow"
+      ],
+      "archive_id": "raisina-young-fellows-2027-pcns@2026-11-02",
+      "archived_on": "2026-11-17"
     }
   ]
 }

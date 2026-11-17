@@ -5230,7 +5230,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Participation Funded",
       "funding_details": [
         "The page does not use the words 'fully funded'. It says the fellowship gives 'access to training, resources, financial support and a network of mentors'",
@@ -7797,7 +7797,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Substantially Funded",
       "funding_details": [
         "Official financial-aid page: 'A limited number of EMJM scholarships are awarded to the highest-ranked applicants for the duration of the programme (24 months)', calculated on 'a monthly unit cost of 1400 EUR/month', a maximum of EUR 33,600; the contribution 'assists students in covering travel, visa, installation and subsistence costs, and any other costs'. 'EMJM scholarship recipients receive a full tuition-fee waiver.'",
@@ -9214,17 +9214,17 @@
       "location_type": "International travel",
       "delivery_mode": "In-person",
       "program_dates": "11 to 20 March 2027, New Delhi, including induction at the Raisina Dialogue.",
-      "application_deadline": "2026-11-02",
-      "deadline_utc": "2026-11-02T16:00:00Z",
-      "deadline_text": "Complete the application form by Monday, November 2, 2026. Event listing: from 16 October 2026 5:00 pm to 02 November 2026 5:00 pm (Africa/Casablanca). If you have not received a response by Monday, November 23, 2026, consider that your application was not selected.",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "Last cycle closed on 2026-11-02. Next cycle not announced yet.",
       "deadline_timezone": "Africa/Casablanca (UTC+1)",
-      "opens_on": "2026-10-16",
+      "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-11-02.",
+      "last_cycle_deadline": "2026-11-02",
+      "status": "UPCOMING",
       "funding_type": "Fully Funded",
       "funding_details": [
         "PCNS 'has allocated two fully funded places'",
@@ -9278,7 +9278,7 @@
       "source_url": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "PCNS: Call for Applications, Raisina Young Fellows Programme 2027",
@@ -9328,7 +9328,7 @@
       "action": "Closes today, 2 November 2026, 5:00 pm Casablanca time (16:00 UTC). Apply only if you are 28 to 35 and can show leadership achievements in politics, diplomacy, business, media, civil society or academia. The call page re-read on 2 November states no PCNS-membership or nationality condition; the Google Form itself could not be opened to check its questions.",
       "last_verified": "2026-11-02",
       "date_discovered": "2026-10-26",
-      "notes": "Part of the strategic partnership between PCNS, ORF and the Italian Institute for International Political Studies (ISPI), through which each institution nominates people for the others' programmes. 29 October 2026: the former page (pcns-youth-community-call-applications-raisina-young-fellows-programme-2027) returns 404 and the call now sits at the address above; the application form link is unchanged. 2 November 2026 (rerun, 12:00 UTC): call page re-read; the text is the same as on 29 October (age 28-35, two fully funded places, New Delhi 11-20 March 2027, response by 23 November).",
+      "notes": "Part of the strategic partnership between PCNS, ORF and the Italian Institute for International Political Studies (ISPI), through which each institution nominates people for the others' programmes. 29 October 2026: the former page (pcns-youth-community-call-applications-raisina-young-fellows-programme-2027) returns 404 and the call now sits at the address above; the application form link is unchanged. 2 November 2026 (rerun, 12:00 UTC): call page re-read; the text is the same as on 29 October (age 28-35, two fully funded places, New Delhi 11-20 March 2027, response by 23 November). [auto 2026-11-17] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "raisina young fellows",
         "raisina young fellow"
@@ -11018,7 +11018,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Substantially Funded",
       "funding_details": [
         "Components listed on the page: 'Travel to and from The Netherlands'; 'Living allowance for the duration of the programme (24 months)'; 'Tuition fee coverage for the duration of the programme (24 months)'; 'Visa costs and costs for health insurance'",
@@ -11868,5 +11868,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-16"
+  "status_computed_on": "2026-11-17"
 }
