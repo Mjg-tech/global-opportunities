@@ -28,7 +28,8 @@ procedure for a research cycle. Follow it in order.
 
 - `data/profile.json`: the anonymous profile every eligibility label is measured against.
 - `reports/latest.md`: generated daily. Flags, deadline windows, programmes seen again in feeds.
-- `data/leads.json`: unverified titles and links harvested from feeds.
+- `data/leads.json`: unverified titles and links harvested from feeds, each with a `status`, a `score` (it only orders the list) and `flags`.
+- `data/lead-audit.json`: titles the filters set aside, with the reason. Read it in the monthly audit for false exclusions. `archive/leads-archive.json`: leads that left the active list.
 - `data/sources.json`: feeds, and `research_watchlist` (programmes not yet researched).
 - `data/opportunities.json`: the live records.
 
@@ -42,9 +43,16 @@ procedure for a research cycle. Follow it in order.
    actually re-read.
 3. **Check "seen again" programmes.** A known programme reappearing in feeds often means a new
    cycle opened. Read the official page and update dates.
-4. **Promote leads.** Choose leads that fit the profile. For each one, find the organiser's own
-   page (not the aggregator), read deadline, eligibility and funding there, then write a record.
-   Skip leads aimed at another nationality, another degree level or another profession.
+4. **Promote leads.** Work down `data/leads.json` by score; the score only orders the list. For each
+   lead worth a look, find the organiser's own page (not the aggregator), read deadline, eligibility
+   and funding there, then write a record. A flag (`audience:*`, `check:*`, `risk:*`) is a reason to
+   read the page closely, never a reason to skip the lead: a title alone does not establish
+   ineligibility. Set a lead aside only when the organiser's page states a requirement the profile
+   cannot meet (a nationality list without the DRC, a degree level the profile lacks, a fee). Record
+   that in `data/leads.json` by setting the lead's `status` to `EXCLUDED - CONFIRMED INELIGIBLE` and
+   adding `exclusion_reason` (the page and the requirement), or `REJECTED - NOT A LEGITIMATE
+   OPPORTUNITY` with the reason. Never delete a lead. Mark a lead you are working on `UNDER REVIEW`
+   so the daily job does not archive it. The daily job archives finished leads.
 5. **Discover.** Work through `research_watchlist`, then search for opportunities the feeds miss:
    sponsored delegations, travel grants, youth observer programmes, funded summits, study tours,
    embassy programmes, mobility grants, innovation missions, volunteering schemes. Search in

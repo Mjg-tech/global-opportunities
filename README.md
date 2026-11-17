@@ -37,7 +37,7 @@ Two loops feed the same files:
 
 | Loop | Runs | May change | May never change |
 |---|---|---|---|
-| Daily refresh (`scripts/refresh.py`) | every day at 05:17 UTC on GitHub, no secrets | statuses, archive, link and change flags, the list of unverified leads | any fact: deadline, funding, eligibility, URL |
+| Daily refresh (`scripts/refresh.py`) | every day at 05:17 UTC on GitHub, no secrets | statuses, archive, link and change flags, the list of unverified leads (scored, archived, never deleted) | any fact: deadline, funding, eligibility, URL |
 | Research cycle (`AGENTS.md`) | weekly, by an AI agent or by hand | records, through `scripts/upsert.py` | the applicant profile, unless its owner asks |
 
 The site reads the JSON files at load time, so a push to `main` is all it takes to publish.
@@ -47,21 +47,25 @@ The site reads the JSON files at load time, so a push to `main` is all it takes 
 ```
 index.html              dashboard: key numbers, action queue, deadline monitor, charts
 opportunities.html      explorer: search, filters, sorting, cards, detail view
-leads.html              unverified leads found by the daily refresh, feed health
+leads.html              unverified leads found by the daily refresh: score, flags, paging, feed health
 assets/css/style.css    one stylesheet, light and dark
 assets/js/app.js        shared: data loading, status rules, badges, cards, detail dialog
 assets/js/*.js          one script per page
 data/opportunities.json the database (live records)
 data/profile.json       anonymous applicant profile used for the eligibility labels
 data/sources.json       feeds read daily, feeds rejected, research watchlist
-data/leads.json         unverified leads (written by the daily refresh)
+data/leads.json         active unverified leads, each with a status, score and flags (written by the daily refresh)
+data/lead-rules.json    retention and scoring numbers for leads (cap, expiry, weights)
+data/lead-audit.json    every title the lead filters set aside, with the reason (90 days)
 data/meta.json          counts, deadline buckets, feed health, flags (written by the refresh)
 data/changelog.json     every change to a tracked field, newest first
 data/watch-state.json   HTTP status and date-line fingerprint of each official page
 archive/archive.json    closed cycles and retired records (never deleted)
+archive/leads-archive.json  leads that expired, were published, were closed by research, or fell below the cap
 research/YYYY-MM-DD/    the raw batch files of each research cycle
+tests/                  unit tests and the discovery benchmark (python -m unittest discover -s tests)
 reports/                latest.md (generated daily) and one report per research cycle
-scripts/                oplib.py, upsert.py, validate.py, refresh.py (standard library only)
+scripts/                oplib.py, leadfilter.py, upsert.py, validate.py, refresh.py, integrity.py, measure.py (standard library only)
 AGENTS.md               runbook for the research cycle
 ```
 
@@ -186,13 +190,72 @@ gh workflow run refresh.yml
 
 Pushing workflow files needs a token with the `workflow` scope.
 
+## Leads
+
+A lead is a title and a link from a feed. It is a pointer, never a fact. `scripts/leadfilter.py`
+decides what happens to each feed title:
+
+| Outcome | When | What is kept |
+|---|---|---|
+| Rejected, counted only | the item is older than `max_item_age_days` (30) | nothing: it is simply old |
+| Rejected, logged | the title is a job ad, tender, guide or how-to (`not_opportunity`) | a line in `data/lead-audit.json` |
+| Rejected, logged | the title has no opportunity word at all, such as news or a report (`no_opportunity_word`) | a line in `data/lead-audit.json` |
+| Lead | everything else | a record in `data/leads.json` with a `score` and `flags` |
+
+**A title alone never rules an opportunity out.** Words such as a nationality, "PhD", "undergraduates"
+or "women" lower the score and add a flag (`audience:nationality`, `audience:level-only`,
+`audience:country`, `check:gender-term`, `risk:fee-in-title`). A flag is a reason to read the
+organiser's page. It can name the venue ("Arab American Leadership Program ... in the USA"), list
+several levels ("Master, PhD and medical students"), or describe a group the profile does not record
+(the profile stores no gender). A lead is set aside as ineligible only when the organiser's own page
+states a requirement the profile cannot meet.
+
+The score (0 to 100) only orders the list. It rises for strong words (scholarship, fellowship,
+fully funded), an official feed, an Africa or DRC signal and a recent date, and falls for flags. Its
+weights are in `data/lead-rules.json`. `scripts/leadfilter.py` holds the keyword patterns.
+
+**Nothing is deleted.** Lead statuses are `NEW`, `UNDER REVIEW`, `OFFICIAL SOURCE FOUND`,
+`VERIFICATION REQUIRED`, `VERIFIED`, `PUBLISHED`, `NOT CURRENTLY OPEN`, `RECURRING PROGRAMME`,
+`EXCLUDED - CONFIRMED INELIGIBLE`, `REJECTED - NOT A LEGITIMATE OPPORTUNITY` and `ARCHIVED`. The daily
+job moves a lead to `archive/leads-archive.json` when it:
+
+- stays `NEW` for more than `ttl_days` (45);
+- becomes a record in the database (status `PUBLISHED`);
+- is closed by a research cycle (`PUBLISHED`, `EXCLUDED - CONFIRMED INELIGIBLE`, `REJECTED - NOT A
+  LEGITIMATE OPPORTUNITY`), which keeps its status and reason;
+- is a `NEW` lead with one of the lowest scores while more than `max_active_leads` (1500) are active.
+
+A lead that a research cycle is working on (`UNDER REVIEW` and the other in-progress statuses) is never
+archived by the daily job. A new feed item that resembles an archived lead is flagged
+`recurring:seen-before`, which is how a new edition of a known programme is noticed.
+
+A feed in `data/sources.json` may set `"filter": "strict"` (official news streams: keep only titles that
+name a call) or `"filter": "none"` (skip the opportunity-word check for a feed that only publishes
+opportunities; job ads are still rejected). `data/meta.json` counts, per feed, consecutive runs with no
+items or only stale items, and `reports/latest.md` shows an alert after `feed_alert_after_runs` (7).
+
+`lead_filters.exclude_title_patterns` in `data/profile.json` is no longer read. Its owner may remove it.
+
+## Tests
+
+```
+python -m unittest discover -s tests -v       # filters, harvest, deadlines, integrity, privacy
+python scripts/integrity.py snapshot data/snapshots/baseline-YYYY-MM-DD.json
+python scripts/integrity.py check    data/snapshots/baseline-YYYY-MM-DD.json   # fails if a record disappears
+python scripts/measure.py                      # discovery funnel and false-exclusion measurement
+```
+
+`tests/benchmark.json` lists real programme titles the lead filters must keep and non-opportunities they
+must reject. `recall_floor` is a ratchet: raise it when the filters improve, never lower it. The workflow
+runs the tests before it publishes, so a regression stops the deployment.
+
 ## How automated research runs
 
 - **Daily, on GitHub, free, no credentials.** `scripts/refresh.py` recomputes statuses, rolls or
   archives closed cycles, re-fetches each official page (HTTP status plus a fingerprint of its
   deadline lines), reads the feeds in `data/sources.json`, and stores new titles as leads
-  labelled NEEDS VERIFICATION. Titles that match a known record are reported as "seen again"
-  instead of being stored twice.
+  (status NEW, never treated as verified). Titles that match a known record are reported as
+  "seen again" instead of being stored twice. See "Leads" below.
 - **Weekly research cycle.** An AI agent follows `AGENTS.md`: it re-verifies flagged and
   closing records, promotes good leads to full records after reading the official source,
   searches for new and unusual opportunities, and pushes. It never submits an application, pays

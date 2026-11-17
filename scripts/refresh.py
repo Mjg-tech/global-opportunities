@@ -7,8 +7,9 @@ What it does, in order:
      one-off opportunity out of the live database.
   3. Re-fetches each official page, stores its HTTP status and a fingerprint of
      its date/deadline lines, and flags dead links and changed pages.
-  4. Harvests the RSS feeds listed in data/sources.json into data/leads.json.
-     Leads are pointers only (title + link), always labelled NEEDS VERIFICATION.
+  4. Harvests the RSS feeds listed in data/sources.json into data/leads.json (scored, never
+     deleted: see scripts/leadfilter.py and data/lead-rules.json).
+     Leads are pointers only (title + link). They start as NEW and are never treated as verified.
   5. Writes data/meta.json and reports/latest.md.
 
 What it never does: edit a factual field (deadline, funding, eligibility, URL).
@@ -28,26 +29,12 @@ import re
 import sys
 from concurrent.futures import ThreadPoolExecutor
 
+import leadfilter as LF
 import oplib as L
 
-LEAD_TTL_DAYS = 45
-LEAD_MAX_AGE_DAYS = 30
-MAX_LEADS = 250
-
-INCLUDE = re.compile(
-    r"scholarship|fellowship|fully[- ]funded|\bfunded\b|\bgrants?\b|bourses?\b|\bbecas?\b|\bbolsas?\b|"
-    r"exchange|summit|conference|forum|\bprogram(me)?\b|\bawards?\b|\bprize\b|\bprix\b|competition|"
-    r"concours|challenge|internship|\bstage\b|training|formation|volunt|bootcamp|accelerator|incubat|"
-    r"residenc|summer school|winter school|appel [àa] candidatures|call for applications|"
-    r"convocatoria|leadership|academy|delegat", re.I)
-STRICT = re.compile(
-    r"scholarship|fellowship|bourses?\b|call for applications|appel [àa] candidatures|volunt|"
-    r"internship|\bstage\b|\bprix\b|award|concours|competition", re.I)
-EXCLUDE = re.compile(
-    r"\bjobs?\b|recrut|recruit|vacanc|appel d.offres|avis d.appel|consultan|prestataire|\btender\b|"
-    r"lecturer|professor|post-?doc|\bhiring\b|\bRFP\b|\bRFAs?\b|how to\b|\bguide\b|comment postuler|"
-    r"\btips\b|\bg[ée]n[ée]rateur\b|assurance|\bCV\b|recherche une?\b|\brecherche \d", re.I)
-PROFILE = L.ROOT / "data" / "profile.json"
+# Lead filtering, scoring and retention numbers live in leadfilter.py and data/lead-rules.json.
+LEADS_ARCHIVE = L.ROOT / "archive" / "leads-archive.json"
+LEAD_AUDIT = L.ROOT / "data" / "lead-audit.json"
 STOP = {"scholarship", "scholarships", "program", "programme", "fellowship", "fellowships", "fully",
         "funded", "international", "students", "student", "young", "youth", "applications", "apply",
         "africa", "african", "africans", "global", "world", "from", "with", "master", "masters",
@@ -203,23 +190,44 @@ def known_record(title: str, records: list[dict]) -> dict | None:
     return None
 
 
-def audience_filter() -> re.Pattern | None:
-    """Titles aimed at an audience the profile is not part of (set in data/profile.json)."""
-    patterns = L.load(PROFILE, {}).get("lead_filters", {}).get("exclude_title_patterns", [])
-    return re.compile("|".join(f"(?:{p})" for p in patterns), re.I) if patterns else None
+def lead_id_of(url: str) -> str:
+    return hashlib.sha1(L.norm_url(url).encode("utf-8")).hexdigest()[:12]
 
 
-def harvest(db: dict, archive: dict, today: dt.date) -> tuple[list[dict], list[dict], int]:
+def harvest(db: dict, archive: dict, today: dt.date) -> tuple[list[dict], list[dict], int, dict]:
+    """Read the feeds into data/leads.json. Nothing is deleted:
+
+    * a title the filters reject is written to data/lead-audit.json with the reason;
+    * a lead that expires, is published as a record, or no longer fits under the cap moves to
+      archive/leads-archive.json;
+    * words that suggest a restricted audience lower a lead's score, they never remove it.
+    """
     stamp = today.isoformat()
-    other_audience = audience_filter()
+    rules = LF.load_rules()
+    ret = rules["retention"]
     sources = L.load(L.SOURCES, {"feeds": []})
     store = L.load(L.LEADS, {"schema_version": 1, "updated": "", "leads": []})
+    lead_archive = L.load(LEADS_ARCHIVE, {"schema_version": 1, "updated": "", "leads": []})
+    audit = L.load(LEAD_AUDIT, {"schema_version": 1, "updated": "", "entries": []})
+    previous = {f["name"]: f for f in L.load(L.META, {}).get("feeds", [])}
     records = db["opportunities"] + archive["opportunities"]
-    # Keep a lead until it expires, or until a research cycle turns it into a record.
-    leads = [lead for lead in store["leads"]
-             if (today - (L.parse_date(lead.get("first_seen")) or today)).days <= LEAD_TTL_DAYS
-             and not known_record(lead["title"], records)]
-    have = {lead["id"] for lead in leads}
+
+    leads, retired = [], []
+    for lead in store["leads"]:
+        LF.migrate_lead(lead, today, rules)
+        age = (today - (L.parse_date(lead.get("first_seen")) or today)).days
+        if known_record(lead["title"], records):
+            lead["status"] = "PUBLISHED"
+            retired.append((lead, "now a record in the database"))
+        elif lead["status"] in LF.TERMINAL_STATUSES:
+            retired.append((lead, f"closed by research ({lead['status']})"))
+        elif lead["status"] == "NEW" and age > ret["ttl_days"]:
+            retired.append((lead, f"not reviewed within {ret['ttl_days']} days"))
+        else:
+            leads.append(lead)
+    by_id = {lead["id"]: lead for lead in leads}
+    gone = {x["id"] for x in lead_archive["leads"]} | {lead["id"] for lead, _ in retired}
+    audited = {e["id"] for e in audit["entries"]}
     feeds = [f for f in sources.get("feeds", []) if f.get("enabled", True)]
 
     with ThreadPoolExecutor(max_workers=6) as pool:
@@ -228,49 +236,96 @@ def harvest(db: dict, archive: dict, today: dt.date) -> tuple[list[dict], list[d
             feeds))
 
     health, reseen, new_count = [], [], 0
+    rejected_total: dict[str, int] = {}
     for feed, (status, _final, body) in zip(feeds, fetched):
         items = parse_feed(body) if status == 200 else []
-        added = 0
-        pattern = STRICT if feed.get("filter") == "strict" else INCLUDE
+        added, valid = 0, 0
+        skipped: dict[str, int] = {}
         for item in items:
             title, url = item["title"], item["url"]
             if not title or not url.startswith("http"):
                 continue
-            published = L.parse_date(item["published"])
-            if published and (today - published).days > LEAD_MAX_AGE_DAYS:
-                continue
-            if not pattern.search(title) or EXCLUDE.search(title):
-                continue
-            if other_audience and other_audience.search(title):
+            valid += 1
+            result = LF.assess(title, item["published"], feed.get("tier", 3), feed.get("filter", ""), today, rules)
+            if result.kind == "reject":
+                skipped[result.reason] = skipped.get(result.reason, 0) + 1
+                rejected_total[result.reason] = rejected_total.get(result.reason, 0) + 1
+                lid = lead_id_of(url)
+                if result.reason != "too_old" and lid not in audited:
+                    audit["entries"].append({"id": lid, "date": stamp, "source": feed["name"], "title": title,
+                                             "url": url, "reason": result.reason, "detail": result.detail})
+                    audited.add(lid)
                 continue
             match = known_record(title, records)
             if match:
                 reseen.append({"id": match["id"], "title": title, "url": url, "source": feed["name"],
                                "seen": stamp})
                 continue
-            lead_id = hashlib.sha1(L.norm_url(url).encode("utf-8")).hexdigest()[:12]
-            if lead_id in have:
+            lead_id = lead_id_of(url)
+            if lead_id in by_id:
+                by_id[lead_id]["last_seen"] = stamp
+                continue
+            if lead_id in gone:
                 continue
             twin = next((x for x in leads if same_lead(title, x["title"])), None)
             if twin:                              # same programme from another feed: corroboration
                 if feed["name"] != twin["source"] and feed["name"] not in twin.setdefault("also_seen_in", []):
                     twin["also_seen_in"].append(feed["name"])
+                twin["last_seen"] = stamp
                 continue
-            have.add(lead_id)
-            leads.append({"id": lead_id, "title": title, "url": url, "source": feed["name"],
-                          "source_tier": feed.get("tier", 3), "language": feed.get("lang", "en"),
-                          "published": item["published"], "first_seen": stamp,
-                          "status": "NEEDS VERIFICATION"})
+            flags = list(result.flags)
+            earlier = next((x for x in lead_archive["leads"] if same_lead(title, x["title"])), None)
+            lead = {"id": lead_id, "title": title, "url": url, "source": feed["name"],
+                    "source_tier": feed.get("tier", 3), "language": feed.get("lang", "en"),
+                    "published": item["published"], "first_seen": stamp, "last_seen": stamp,
+                    "status": "NEW", "score": result.score, "flags": flags}
+            if earlier:                           # a programme seen in an earlier cycle: possible new edition
+                lead["seen_before"] = earlier["id"]
+                flags.append("recurring:seen-before")
+            leads.append(lead)
+            by_id[lead_id] = lead
             added += 1
         new_count += added
-        health.append({"name": feed["name"], "url": feed["url"], "tier": feed.get("tier", 3),
-                       "status": status, "items": len(items), "new": added})
+        prev = previous.get(feed["name"], {})
+        empty = status != 200 or not items
+        stale = status == 200 and valid > 0 and skipped.get("too_old", 0) == valid
+        row = {"name": feed["name"], "url": feed["url"], "tier": feed.get("tier", 3), "status": status,
+               "items": len(items), "new": added, "skipped": skipped,
+               "empty_streak": prev.get("empty_streak", 0) + 1 if empty else 0,
+               "stale_streak": prev.get("stale_streak", 0) + 1 if stale else 0}
+        limit = ret["feed_alert_after_runs"]
+        row["alert"] = (f"no items for {row['empty_streak']} runs" if row["empty_streak"] >= limit
+                        else f"only stale items for {row['stale_streak']} runs" if row["stale_streak"] >= limit
+                        else "")
+        health.append(row)
 
-    leads.sort(key=lambda lead: (lead.get("first_seen", ""), lead.get("published", "")), reverse=True)
-    store["leads"] = leads[:MAX_LEADS]
-    store["updated"] = stamp
+    cap = ret["max_active_leads"]
+    over = len(leads) - cap
+    if over > 0:                                  # only untouched (NEW) leads can fall below the cap
+        weakest = sorted((x for x in leads if x["status"] == "NEW"),
+                         key=lambda x: (x["score"], x.get("first_seen", ""), x["id"]))[:over]
+        dropped = {x["id"] for x in weakest}
+        retired += [(x, f"below the cap of {cap} active leads") for x in weakest]
+        leads = [x for x in leads if x["id"] not in dropped]
+    leads.sort(key=lambda x: (x["score"], x.get("first_seen", ""), x["id"]), reverse=True)
+
+    for lead, reason in retired:
+        old = dict(lead)
+        old.update({"archived_on": stamp, "archive_reason": reason})
+        if old["status"] == "NEW":               # a research status (PUBLISHED, EXCLUDED, ...) is kept as it was
+            old["status_before_archive"], old["status"] = "NEW", "ARCHIVED"
+        lead_archive["leads"].append(old)
+    audit["entries"] = LF.trim_audit(audit["entries"], today, ret["audit_days"])
+    for doc in (store, lead_archive, audit):
+        doc["updated"] = stamp
+    store["leads"] = leads
     L.save(L.LEADS, store)
-    return health, reseen[:40], new_count
+    L.save(LEADS_ARCHIVE, lead_archive)
+    L.save(LEAD_AUDIT, audit)
+    summary = {"active": len(leads), "archived_total": len(lead_archive["leads"]),
+               "retired_this_run": len(retired), "rejected_this_run": rejected_total,
+               "audit_entries": len(audit["entries"])}
+    return health, reseen[:40], new_count, summary
 
 
 # ---------------------------------------------------------------- meta + report
@@ -342,9 +397,16 @@ def write_report(db: dict, meta: dict, today: dt.date) -> None:
     lines += ["", "## Programmes seen again in the feeds (possible new cycle)", ""]
     reseen = meta.get("reseen", [])
     lines += [f"- `{r['id']}` <- {r['title']} ({r['source']}) {r['url']}" for r in reseen] or ["- none"]
-    lines += ["", "## Feed health", "", "| Feed | Tier | HTTP | Items | New leads |", "|---|---|---|---|---|"]
-    lines += [f"| {f['name']} | {f['tier']} | {f['status']} | {f['items']} | {f['new']} |"
-              for f in meta.get("feeds", [])] or ["| (not run) | | | | |"]
+    info = meta.get("leads")
+    if info:
+        rej = ", ".join(f"{k} {v}" for k, v in sorted(info["rejected_this_run"].items())) or "none"
+        lines += ["", "## Leads", "",
+                  f"- Active: {info['active']} | archived in total: {info['archived_total']} | "
+                  f"retired this run: {info['retired_this_run']}",
+                  f"- Titles rejected this run: {rej}. Reasons are logged in `data/lead-audit.json`."]
+    lines += ["", "## Feed health", "", "| Feed | Tier | HTTP | Items | New leads | Alert |", "|---|---|---|---|---|---|"]
+    lines += [f"| {f['name']} | {f['tier']} | {f['status']} | {f['items']} | {f['new']} | {f.get('alert') or ''} |"
+              for f in meta.get("feeds", [])] or ["| (not run) | | | | | |"]
     path = L.ROOT / "reports" / "latest.md"
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
@@ -375,8 +437,9 @@ def main() -> int:
         except Exception as exc:  # noqa: BLE001 - never let a network hiccup block publishing
             print("watch failed:", exc)
         try:
-            health, reseen, new_leads = harvest(db, archive, today)
-            extra.update({"feeds": health, "reseen": reseen, "new_leads_last_run": new_leads})
+            health, reseen, new_leads, leads_summary = harvest(db, archive, today)
+            extra.update({"feeds": health, "reseen": reseen, "new_leads_last_run": new_leads,
+                          "leads": leads_summary})
         except Exception as exc:  # noqa: BLE001
             print("harvest failed:", exc)
 

@@ -1,0 +1,462 @@
+{
+  "about": "Titles the lead filters must keep (positives) or keep out (negatives). Positives from the database are real programmes already verified; the four feed titles are kept because a title alone never establishes ineligibility. recall_floor is a ratchet: raise it whenever the filters improve, never lower it.",
+  "created": "2026-11-17",
+  "recall_floor": 85,
+  "positives": [
+    {
+      "title": "ABE Initiative: Master's Degree and Internship Program of the African Business Education Initiative for Youth",
+      "origin": "database",
+      "id": "abe-initiative-jica"
+    },
+    {
+      "title": "AfOx Graduate Scholarships for the Oxford MBA (2027-28)",
+      "origin": "database",
+      "id": "afox-graduate-scholarships-oxford-mba-2027"
+    },
+    {
+      "title": "Afreximbank Group Internship Programme",
+      "origin": "database",
+      "id": "afreximbank-internship-programme"
+    },
+    {
+      "title": "African Union Youth Volunteer Corps (AU-YVC)",
+      "origin": "database",
+      "id": "african-union-youth-volunteer-corps"
+    },
+    {
+      "title": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly, Geneva)",
+      "origin": "database",
+      "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027"
+    },
+    {
+      "title": "ALX sponsored tech programmes",
+      "origin": "database",
+      "id": "alx-sponsored-programmes"
+    },
+    {
+      "title": "ARES scholarships for international training programmes (Belgium)",
+      "origin": "database",
+      "id": "ares-formations-internationales"
+    },
+    {
+      "title": "Aspire Leaders Program (2026 Cohort 4)",
+      "origin": "database",
+      "id": "aspire-leaders-program-2026-cohort-4"
+    },
+    {
+      "title": "American University in Cairo African Graduate Fellowship (Fall 2027)",
+      "origin": "database",
+      "id": "auc-african-graduate-fellowship-2027"
+    },
+    {
+      "title": "Chevening Scholarships 2027/28",
+      "origin": "database",
+      "id": "chevening-scholarships-2027"
+    },
+    {
+      "title": "CLIDE: Erasmus Mundus Master in Intercultural Leadership in the Digital Era (2027-2029)",
+      "origin": "database",
+      "id": "clide-erasmus-mundus-intercultural-leadership-2027"
+    },
+    {
+      "title": "DAAD Helmut-Schmidt-Programme (Master's Scholarships for Public Policy and Good Governance)",
+      "origin": "database",
+      "id": "daad-helmut-schmidt-programme"
+    },
+    {
+      "title": "DAAD In-Country/In-Region scholarships in Sub-Saharan Africa (2027 start)",
+      "origin": "database",
+      "id": "daad-in-country-in-region-2027"
+    },
+    {
+      "title": "Dalai Lama Fellows Program (2027-2028)",
+      "origin": "database",
+      "id": "dalai-lama-fellows-2027"
+    },
+    {
+      "title": "EAC Scholarship Programme (EACSP) Phase II: KfW-funded two-year master's in another EAC country (IUCEA, cohort 4)",
+      "origin": "database",
+      "id": "eacsp-iucea-kfw-masters-scholarship-2026-cohort-4"
+    },
+    {
+      "title": "Ebuteli Fellowship, sixth edition (Kinshasa research institute)",
+      "origin": "database",
+      "id": "ebuteli-fellowship"
+    },
+    {
+      "title": "EPOG-JM: Erasmus Mundus Joint Master in Economic Policies (2027-2029)",
+      "origin": "database",
+      "id": "epog-jm-erasmus-mundus-2027"
+    },
+    {
+      "title": "Erasmus Mundus Joint Masters scholarships (2027 intake)",
+      "origin": "database",
+      "id": "erasmus-mundus-joint-masters-2027"
+    },
+    {
+      "title": "Eric Bleumink Fellowship, University of Groningen (master's starting September 2027)",
+      "origin": "database",
+      "id": "eric-bleumink-fellowship-groningen-2027"
+    },
+    {
+      "title": "EU Delegation to the DRC: subsidised internship for young graduates (Political, Press and Information section)",
+      "origin": "database",
+      "id": "eu-delegation-drc-subsidised-internship"
+    },
+    {
+      "title": "European Forum Alpbach scholarship programme",
+      "origin": "database",
+      "id": "european-forum-alpbach-scholarships"
+    },
+    {
+      "title": "FAO Internship Programme for Africa (RAF), Call for Expression of Interest 2601980",
+      "origin": "database",
+      "id": "fao-internship-programme-africa-2026-2027"
+    },
+    {
+      "title": "Fortis Fellowship 2027",
+      "origin": "database",
+      "id": "fortis-fellowship-2027"
+    },
+    {
+      "title": "France Excellence Eiffel scholarship programme",
+      "origin": "database",
+      "id": "france-excellence-eiffel-2027"
+    },
+    {
+      "title": "French-African Foundation Young Leaders programme",
+      "origin": "database",
+      "id": "french-african-foundation-young-leaders"
+    },
+    {
+      "title": "Gates Cambridge Scholarship (2027-28 entry)",
+      "origin": "database",
+      "id": "gates-cambridge-2027"
+    },
+    {
+      "title": "Global Leadership Challenge 2026",
+      "origin": "database",
+      "id": "global-leadership-challenge-2026"
+    },
+    {
+      "title": "GLOCAL: Erasmus Mundus Master in Global Markets, Local Creativities (2027-2029)",
+      "origin": "database",
+      "id": "glocal-erasmus-mundus-2027"
+    },
+    {
+      "title": "Erasmus Mundus Joint Master in Greening Energy Market and Finance (GrEnFIn) 2027-2029",
+      "origin": "database",
+      "id": "grenfin-erasmus-mundus-energy-finance-2027"
+    },
+    {
+      "title": "Telemachus Mentoring Programme 2027 (Global Thinkers Forum)",
+      "origin": "database",
+      "id": "gtf-telemachus-mentoring-2027"
+    },
+    {
+      "title": "Hamburg Sustainability Conference (HSC) Youth Ambassador Program 2027",
+      "origin": "database",
+      "id": "hsc-youth-ambassador-program-2027"
+    },
+    {
+      "title": "Erasmus Mundus Joint Master on Coordinated Humanitarian Response, Health and Displacement (Human Response) 2027-2029",
+      "origin": "database",
+      "id": "humanresponse-erasmus-mundus-humanitarian-2027"
+    },
+    {
+      "title": "ICANN Fellowship Program",
+      "origin": "database",
+      "id": "icann-fellowship"
+    },
+    {
+      "title": "Internet Society Fellowship Program 2027",
+      "origin": "database",
+      "id": "internet-society-fellowship-2027"
+    },
+    {
+      "title": "Community Solutions Program",
+      "origin": "database",
+      "id": "irex-community-solutions-program"
+    },
+    {
+      "title": "Jim Leech Mastercard Foundation Fellowship on Entrepreneurship",
+      "origin": "database",
+      "id": "jim-leech-mastercard-foundation-fellowship-2027"
+    },
+    {
+      "title": "The Kectil Program 2027",
+      "origin": "database",
+      "id": "kectil-program-2027"
+    },
+    {
+      "title": "Knight-Hennessy Scholars (2027 cohort)",
+      "origin": "database",
+      "id": "knight-hennessy-scholars-2027"
+    },
+    {
+      "title": "Maastricht University NL-High Potential Scholarship (2027-2028)",
+      "origin": "database",
+      "id": "maastricht-nl-high-potential-2027"
+    },
+    {
+      "title": "Mandela Rhodes Scholarship (Class of 2028)",
+      "origin": "database",
+      "id": "mandela-rhodes-scholarship-2028"
+    },
+    {
+      "title": "Mandela Washington Fellowship for Young African Leaders 2027",
+      "origin": "database",
+      "id": "mandela-washington-fellowship-2027"
+    },
+    {
+      "title": "Mastercard Foundation Associates Program (12-month paid work placements across Africa)",
+      "origin": "database",
+      "id": "mastercard-foundation-associates-program"
+    },
+    {
+      "title": "Mastercard Foundation Scholars Program at the University of Cambridge (2027/28 master's)",
+      "origin": "database",
+      "id": "mastercard-foundation-scholars-cambridge-2027"
+    },
+    {
+      "title": "Mastercard Foundation Scholars Program at the University of Edinburgh (2027/28 postgraduate)",
+      "origin": "database",
+      "id": "mastercard-foundation-scholars-edinburgh-2027"
+    },
+    {
+      "title": "Mastercard Foundation Scholars Program at McGill University (master's, Fall 2027 cohort)",
+      "origin": "database",
+      "id": "mastercard-foundation-scholars-mcgill-2027"
+    },
+    {
+      "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+      "origin": "database",
+      "id": "mastercard-foundation-scholars-sciences-po-2027"
+    },
+    {
+      "title": "Mastercard Foundation Scholars Program at UC Berkeley (master's, 2027-2028 admissions cycle)",
+      "origin": "database",
+      "id": "mastercard-foundation-scholars-uc-berkeley-2027"
+    },
+    {
+      "title": "Mastercard Foundation Scholars Program at the University of Cape Town (2027 postgraduate intake)",
+      "origin": "database",
+      "id": "mastercard-foundation-scholars-uct-2027"
+    },
+    {
+      "title": "Mauritius-Africa Scholarship Scheme 2027 (MPhil and PhD in Mauritius)",
+      "origin": "database",
+      "id": "mauritius-africa-scholarship-scheme-2027"
+    },
+    {
+      "title": "McKinsey.org Forward learning programme (Fall 2026)",
+      "origin": "database",
+      "id": "mckinsey-forward-fall-2026"
+    },
+    {
+      "title": "MCW Global Young Leaders Fellowship 2027 (New York and Vermont)",
+      "origin": "database",
+      "id": "mcw-global-young-leaders-fellowship-2027"
+    },
+    {
+      "title": "Japanese Government (MEXT) Scholarship via the Embassy of Japan in the DRC",
+      "origin": "database",
+      "id": "mext-scholarship-embassy-drc"
+    },
+    {
+      "title": "Mundus MAPP: Erasmus Mundus Master's in Public Policy (2027-2029)",
+      "origin": "database",
+      "id": "mundus-mapp-2027"
+    },
+    {
+      "title": "Nasser Fellowship for International Leadership",
+      "origin": "database",
+      "id": "nasser-fellowship-international-leadership"
+    },
+    {
+      "title": "Hurford Youth Fellows Program 2027 (National Endowment for Democracy, Washington DC)",
+      "origin": "database",
+      "id": "ned-hurford-youth-fellows-2027"
+    },
+    {
+      "title": "NOHA Erasmus Mundus Joint Master in International Humanitarian Action (2027-2029)",
+      "origin": "database",
+      "id": "noha-erasmus-mundus-humanitarian-action-2027"
+    },
+    {
+      "title": "Obama Foundation Leaders programme",
+      "origin": "database",
+      "id": "obama-foundation-leaders"
+    },
+    {
+      "title": "Objectif 2030: free certified online courses on environment and sustainable development (IFDD / OIF)",
+      "origin": "database",
+      "id": "objectif-2030-ifdd-free-moocs"
+    },
+    {
+      "title": "One Young World Leading Scholarship 2026",
+      "origin": "database",
+      "id": "one-young-world-leading-scholarship-2026"
+    },
+    {
+      "title": "Open Doors: Russian Scholarship Project, Master's track (2027/28 entry)",
+      "origin": "database",
+      "id": "open-doors-russian-scholarship-masters-2027"
+    },
+    {
+      "title": "Orange Digital Center (DRC): free digital training",
+      "origin": "database",
+      "id": "orange-digital-center-drc"
+    },
+    {
+      "title": "Pan African University scholarships (master's and PhD)",
+      "origin": "database",
+      "id": "pan-african-university-scholarships"
+    },
+    {
+      "title": "Raisina Young Fellows Programme 2027 (PCNS places)",
+      "origin": "database",
+      "id": "raisina-young-fellows-2027-pcns"
+    },
+    {
+      "title": "Regional Leadership Center East Africa (formerly YALI RLC East Africa)",
+      "origin": "database",
+      "id": "rlc-east-africa"
+    },
+    {
+      "title": "Graduate Horizons 2027: master's scholarship application mentorship for displaced African learners",
+      "origin": "database",
+      "id": "rlrh-graduate-horizons-2027"
+    },
+    {
+      "title": "Schwarzman Scholars (Class of 2028-2029)",
+      "origin": "database",
+      "id": "schwarzman-scholars-2028"
+    },
+    {
+      "title": "Sciences Po Émile Boutmy Scholarship for two-year master's programmes (2027 entry)",
+      "origin": "database",
+      "id": "sciences-po-emile-boutmy-masters-2027"
+    },
+    {
+      "title": "Swedish Institute Scholarship for Global Professionals",
+      "origin": "database",
+      "id": "si-scholarship-global-professionals"
+    },
+    {
+      "title": "Stipendium Hungaricum scholarship (2027/2028)",
+      "origin": "database",
+      "id": "stipendium-hungaricum-2027"
+    },
+    {
+      "title": "Tony Elumelu Foundation Entrepreneurship Programme 2027",
+      "origin": "database",
+      "id": "tony-elumelu-entrepreneurship-programme-2027"
+    },
+    {
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "origin": "database",
+      "id": "turkiye-burslari-2027"
+    },
+    {
+      "title": "USTC International Winter Camp 2027",
+      "origin": "database",
+      "id": "ustc-international-winter-camp-2027"
+    },
+    {
+      "title": "VLIR-UOS ICP Connect scholarships (2027-2028)",
+      "origin": "database",
+      "id": "vlir-uos-icp-connect-2027"
+    },
+    {
+      "title": "Volontaires unis pour la Francophonie (V-Francophonie)",
+      "origin": "database",
+      "id": "volontaires-unis-pour-la-francophonie"
+    },
+    {
+      "title": "Wageningen University Africa Scholarship Programme (ASP), MSc 2027-28",
+      "origin": "database",
+      "id": "wageningen-africa-scholarship-programme-2027"
+    },
+    {
+      "title": "Weidenfeld-Hoffmann Scholarships and Leadership Programme (Oxford, 2027-28)",
+      "origin": "database",
+      "id": "weidenfeld-hoffmann-scholarships-oxford-2027"
+    },
+    {
+      "title": "World Food Forum Youth Policy Board 2027-2028",
+      "origin": "database",
+      "id": "wff-youth-policy-board-2027-2028"
+    },
+    {
+      "title": "World Forum for Democracy: Youth Delegation",
+      "origin": "database",
+      "id": "world-forum-for-democracy-youth-delegation"
+    },
+    {
+      "title": "Yenching Academy of Peking University (2027 entry)",
+      "origin": "database",
+      "id": "yenching-academy-2027"
+    },
+    {
+      "title": "Youth Global Forum 2027, Paris (Center for Global Dialogue and Leadership)",
+      "origin": "database",
+      "id": "youth-global-forum-2027-paris-cgdl"
+    },
+    {
+      "title": "International Dialogue on SDG 17 - Baku 2026",
+      "origin": "database",
+      "id": "international-dialogue-sdg17-baku-2026"
+    },
+    {
+      "title": "Arab American Leadership Program 2027 in the USA (AALP)",
+      "origin": "feed 2026-11-17",
+      "note": "title alone does not show ineligibility"
+    },
+    {
+      "title": "The UNIQLO Global Management Program 2027 for undergraduates and postgraduates worldwide (Fully Funded to Tokyo)",
+      "origin": "feed 2026-11-17",
+      "note": "title alone does not show ineligibility"
+    },
+    {
+      "title": "The Bayer Foundation Scientific Fellowships 2027 for Master, PhD, and Medical Students (10.000 € grant)",
+      "origin": "feed 2026-11-17",
+      "note": "title alone does not show ineligibility"
+    },
+    {
+      "title": "The WIPO IP and Women Fellowship 2027 for young professionals (CHF 6,000 monthly stipend)",
+      "origin": "feed 2026-11-17",
+      "note": "title alone does not show ineligibility"
+    }
+  ],
+  "negatives": [
+    {
+      "title": "La Délégation de l’Union européenne en RDC recrute un(e) Assistant(e) de support informatique à Kinshasa",
+      "origin": "feed 2026-11-17"
+    },
+    {
+      "title": "OXFAM Tchad recrute un(e) Coordinateur(trice) PQMEAL basé(e) à N’Djamena",
+      "origin": "feed 2026-11-17"
+    },
+    {
+      "title": "Comment créer un CV professionnel avec l’intelligence artificielle ? Découvrez Kleva",
+      "origin": "feed 2026-11-17"
+    },
+    {
+      "title": "Assurance santé étudiant étranger en France : CPAM, mutuelle, que choisir ?",
+      "origin": "feed 2026-11-17"
+    },
+    {
+      "title": "Clôture du 20e Sommet de la Francophonie à Phnom Penh",
+      "origin": "feed 2026-11-17"
+    },
+    {
+      "title": "World Vision Tchad lance un appel d’offres pour l’achat de semences et d’outils aratoires",
+      "origin": "feed 2026-11-17"
+    },
+    {
+      "title": "Voici enfin disponible le guide de création de compte du Programme des Volontaires des Nations Unies",
+      "origin": "feed 2026-11-17"
+    }
+  ]
+}

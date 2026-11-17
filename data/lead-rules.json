@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "note": "Numbers only. The keyword patterns live in scripts/leadfilter.py so they can be tested. Change a number here and the next daily refresh uses it. Nothing in this file is personal data.",
+  "retention": {
+    "max_active_leads": 1500,
+    "ttl_days": 45,
+    "max_item_age_days": 30,
+    "audit_days": 90,
+    "feed_alert_after_runs": 7
+  },
+  "score": {
+    "base": 40,
+    "tier1": 25,
+    "tier2": 15,
+    "strong_word": 15,
+    "weak_word": 8,
+    "region_signal": 5,
+    "fresh_within_7_days": 5,
+    "nationality_for": -35,
+    "level_only": -25,
+    "country_specific": -15,
+    "fee_risk": -10,
+    "max_total_penalty": -45
+  }
+}

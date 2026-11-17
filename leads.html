@@ -24,7 +24,7 @@
 
   <main>
     <h1 class="page-title">New leads</h1>
-    <p class="page-lede">This list fills itself. Once a day the site reads opportunity feeds in English, French, Portuguese and Spanish and keeps the titles it has not seen before.</p>
+    <p class="page-lede">This list fills itself. Once a day the site reads opportunity feeds in English, French, Portuguese and Spanish and keeps the titles it has not seen before. Each lead gets a score that only orders this page. Words that hint at a restricted audience lower a lead's score and add a note; they never remove it, because a title alone does not show that anyone is ineligible.</p>
 
     <div class="notice tone-serious" style="margin-top:18px">
       <svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M10 3.5l7 12H3l7-12zM10 8.5v3.5M10 14.2v.3" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -40,10 +40,14 @@
         <svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M9 4a5 5 0 100 10A5 5 0 009 4zM13 13l3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
         <input type="search" id="search" placeholder="Search lead titles" autocomplete="off">
       </label>
+      <label class="field"><span>Sort</span><select id="f-sort"></select></label>
+      <label class="field"><span>Audience flags</span><select id="f-flags"></select></label>
       <label class="field"><span>Language</span><select id="f-lang"></select></label>
       <label class="field"><span>Source</span><select id="f-source"></select></label>
+      <label class="field" id="field-status" hidden><span>Status</span><select id="f-status"></select></label>
     </div>
     <p class="muted small" id="count" aria-live="polite"></p>
+    <p class="muted small" id="lead-summary"></p>
     <section class="panel"><div id="list"><p class="muted">Loading.</p></div></section>
 
     <h2 class="section-title">Feeds watched</h2>

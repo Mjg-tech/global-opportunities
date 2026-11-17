@@ -1,0 +1,321 @@
+{
+  "measured_on": "2026-11-17",
+  "known": {
+    "known_titles": 81,
+    "rejected": 0,
+    "by_stage": {},
+    "items": []
+  },
+  "retention": {
+    "leads": 270,
+    "cap": 1500,
+    "nominal_ttl_days": 45,
+    "oldest_days": 28,
+    "newest_days": 0,
+    "median_days": 14,
+    "by_source": {
+      "Opportunity Desk": 119,
+      "Opportunities Corners": 49,
+      "Opportunites du Monde": 34,
+      "Opportunities for Africans": 27,
+      "OYA Opportunities": 13,
+      "Global South Opportunities": 12,
+      "Opportunities for Youth": 9,
+      "Organisation internationale de la Francophonie": 3,
+      "Mas Oportunidades": 2,
+      "Afri-Carrieres": 1,
+      "Partiu Intercambio": 1
+    },
+    "by_tier": {
+      "3": 267,
+      "1": 3
+    }
+  },
+  "funnel": {
+    "feeds": [
+      {
+        "feed": "African Union announcements",
+        "tier": 1,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "too_old": 10
+        }
+      },
+      {
+        "feed": "Organisation internationale de la Francophonie",
+        "tier": 1,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "too_old": 1,
+          "no_opportunity_word": 9
+        }
+      },
+      {
+        "feed": "Opportunity Desk",
+        "tier": 3,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "already_lead": 8,
+          "no_opportunity_word": 1,
+          "pass": 1
+        }
+      },
+      {
+        "feed": "Opportunities for Africans",
+        "tier": 3,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "pass": 3,
+          "already_lead": 7
+        }
+      },
+      {
+        "feed": "Global South Opportunities",
+        "tier": 3,
+        "http": 200,
+        "items": 0,
+        "stages": {}
+      },
+      {
+        "feed": "Opportunities for Youth",
+        "tier": 3,
+        "http": 403,
+        "items": 0,
+        "stages": {}
+      },
+      {
+        "feed": "Mladiinfo",
+        "tier": 3,
+        "http": 200,
+        "items": 12,
+        "stages": {
+          "too_old": 12
+        }
+      },
+      {
+        "feed": "OYA Opportunities",
+        "tier": 3,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "pass": 7,
+          "already_lead": 2,
+          "duplicate": 1
+        }
+      },
+      {
+        "feed": "Opportunities Corners",
+        "tier": 3,
+        "http": 200,
+        "items": 6,
+        "stages": {
+          "already_lead": 6
+        }
+      },
+      {
+        "feed": "Opportunites du Monde",
+        "tier": 3,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "not_opportunity": 8,
+          "already_lead": 2
+        }
+      },
+      {
+        "feed": "Afri-Carrieres",
+        "tier": 3,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "not_opportunity": 2,
+          "no_opportunity_word": 6,
+          "already_lead": 1,
+          "too_old": 1
+        }
+      },
+      {
+        "feed": "Mastere.tn",
+        "tier": 3,
+        "http": 520,
+        "items": 0,
+        "stages": {}
+      },
+      {
+        "feed": "Partiu Intercambio",
+        "tier": 3,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "already_lead": 1,
+          "too_old": 9
+        }
+      },
+      {
+        "feed": "Becas para todos",
+        "tier": 3,
+        "http": 200,
+        "items": 10,
+        "stages": {
+          "too_old": 10
+        }
+      },
+      {
+        "feed": "Mas Oportunidades",
+        "tier": 3,
+        "http": 522,
+        "items": 0,
+        "stages": {}
+      }
+    ],
+    "totals": {
+      "too_old": 43,
+      "no_opportunity_word": 16,
+      "already_lead": 27,
+      "pass": 11,
+      "duplicate": 1,
+      "not_opportunity": 10
+    },
+    "new_candidates_this_run": 11,
+    "rejected_samples": {
+      "no_opportunity_word": [
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "Présidentielle au Cabo Verde : premier bilan de la Mission électorale de la Francophonie",
+          "detail": ""
+        },
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "Financement de l’éducation en Afrique : transformer les contraintes budgétaires en leviers d’action",
+          "detail": ""
+        },
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "Deux nouveaux Etats et gouvernements rejoignent la Francophonie",
+          "detail": ""
+        },
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "Clôture du 20e Sommet de la Francophonie à Phnom Penh",
+          "detail": ""
+        },
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "Déclaration de Phnom Penh",
+          "detail": ""
+        },
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "Appel de Phnom Penh (patrimoine et diversité culturelle)",
+          "detail": ""
+        },
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "Résolution sur les situations de crise, de sortie de crise et de consolidation de la paix dans l’espace francophone",
+          "detail": ""
+        },
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "La Secrétaire générale présente aux Etats et gouvernements son rapport 2024-2026",
+          "detail": ""
+        },
+        {
+          "feed": "Organisation internationale de la Francophonie",
+          "title": "Rapport de la Secrétaire générale (2024-2026)",
+          "detail": ""
+        },
+        {
+          "feed": "Opportunity Desk",
+          "title": "Refugee-Led Research Hub (RLRH) East Africa Operations Manager",
+          "detail": ""
+        },
+        {
+          "feed": "Afri-Carrieres",
+          "title": "Faire reconnaître son diplôme africain en France, en Belgique ou au Canada",
+          "detail": ""
+        },
+        {
+          "feed": "Afri-Carrieres",
+          "title": "Envoyer de l’argent en Afrique depuis l’Europe : comparatif des frais (Wise, Western Union, Taptap Send…)",
+          "detail": ""
+        },
+        {
+          "feed": "Afri-Carrieres",
+          "title": "Garant pour un logement : Visale, GarantMe… comment louer sans garant en France",
+          "detail": ""
+        },
+        {
+          "feed": "Afri-Carrieres",
+          "title": "Trouver un logement étudiant en France depuis l’étranger : sites fiables et arnaques à éviter",
+          "detail": ""
+        },
+        {
+          "feed": "Afri-Carrieres",
+          "title": "Les métiers en tension en France ouverts aux diplômés africains",
+          "detail": ""
+        },
+        {
+          "feed": "Afri-Carrieres",
+          "title": "Passeport talent en France: qui peut en bénéficier et comment l’obtenir.",
+          "detail": ""
+        }
+      ],
+      "not_opportunity": [
+        {
+          "feed": "Opportunites du Monde",
+          "title": "Le Cabinet Fidusao, basé à N’Djamena, lance un recrutement pour quatre (04) postes d’Auditeurs Comptables et Financiers",
+          "detail": "recrut"
+        },
+        {
+          "feed": "Opportunites du Monde",
+          "title": "Le Cabinet Fidusao basé à N’Djamena recrute quatre (04) Stagiaires professionnels (H/F) – Niveau licence",
+          "detail": "recrut"
+        },
+        {
+          "feed": "Opportunites du Monde",
+          "title": "Plan International Tchad lance un appel d’offres national pour la fourniture, l’installation et la mise en service d’un système solaire photovoltaïque à N’Djamena et Adré",
+          "detail": "appel d’offres"
+        },
+        {
+          "feed": "Opportunites du Monde",
+          "title": "BAOBAB recrute des Stagiaires Pré-embauche Gestionnaires de Portefeuille (GP) au Burkina Faso",
+          "detail": "recrut"
+        },
+        {
+          "feed": "Opportunites du Monde",
+          "title": "La Délégation de l’Union européenne en RDC recrute un(e) Assistant(e) de support informatique à Kinshasa",
+          "detail": "recrut"
+        },
+        {
+          "feed": "Opportunites du Monde",
+          "title": "World Vision Tchad lance un appel d’offres pour l’achat de semences et d’outils aratoires dans le cadre du projet RESA à Bol",
+          "detail": "appel d’offres"
+        },
+        {
+          "feed": "Opportunites du Monde",
+          "title": "AFRAH International recrute un Agent d’entretien du magasin (Warehouse Cleaner) à N’Djamena, au Tchad",
+          "detail": "recrut"
+        },
+        {
+          "feed": "Opportunites du Monde",
+          "title": "Avis de recrutement d’un Consultant national chargé de l’élaboration du Plan stratégique intégré 2027-2030 de lutte contre la lèpre, les leishmanioses et la gale au Tchad",
+          "detail": "recrut"
+        },
+        {
+          "feed": "Afri-Carrieres",
+          "title": "Comment créer un CV professionnel avec l’intelligence artificielle ? Découvrez Kleva",
+          "detail": "CV"
+        },
+        {
+          "feed": "Afri-Carrieres",
+          "title": "Assurance santé étudiant étranger en France : CPAM, mutuelle, que choisir ?",
+          "detail": "Assurance"
+        }
+      ]
+    }
+  }
+}

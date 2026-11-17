@@ -1,0 +1,367 @@
+{
+  "live": {
+    "abe-initiative-jica": {
+      "fact_hash": "fcb921d7206f7b8b",
+      "last_verified": "2026-10-29"
+    },
+    "afox-graduate-scholarships-oxford-mba-2027": {
+      "fact_hash": "ab58788c672e5203",
+      "last_verified": "2026-10-02"
+    },
+    "afreximbank-internship-programme": {
+      "fact_hash": "c32cba94b69966ad",
+      "last_verified": "2026-10-19"
+    },
+    "african-union-youth-volunteer-corps": {
+      "fact_hash": "716a38c2cd998d43",
+      "last_verified": "2026-10-26"
+    },
+    "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027": {
+      "fact_hash": "903b30502069ea9f",
+      "last_verified": "2026-11-09"
+    },
+    "alx-sponsored-programmes": {
+      "fact_hash": "d60877c3b13c6e19",
+      "last_verified": "2026-10-02"
+    },
+    "ares-formations-internationales": {
+      "fact_hash": "cde5cca0fc2200e7",
+      "last_verified": "2026-11-02"
+    },
+    "aspire-leaders-program-2026-cohort-4": {
+      "fact_hash": "e40a31c5b8108ed3",
+      "last_verified": "2026-11-09"
+    },
+    "auc-african-graduate-fellowship-2027": {
+      "fact_hash": "13470f7bea779ed4",
+      "last_verified": "2026-11-02"
+    },
+    "chevening-scholarships-2027": {
+      "fact_hash": "99454889f29925c9",
+      "last_verified": "2026-11-02"
+    },
+    "clide-erasmus-mundus-intercultural-leadership-2027": {
+      "fact_hash": "eb82f57131055eeb",
+      "last_verified": "2026-10-12"
+    },
+    "daad-helmut-schmidt-programme": {
+      "fact_hash": "e5154dc0de6ef289",
+      "last_verified": "2026-11-02"
+    },
+    "daad-in-country-in-region-2027": {
+      "fact_hash": "88e286910ec4dc55",
+      "last_verified": "2026-11-02"
+    },
+    "dalai-lama-fellows-2027": {
+      "fact_hash": "11a542d3b8a2c2d9",
+      "last_verified": "2026-11-09"
+    },
+    "eacsp-iucea-kfw-masters-scholarship-2026-cohort-4": {
+      "fact_hash": "7d4cb530da9085fd",
+      "last_verified": "2026-11-02"
+    },
+    "ebuteli-fellowship": {
+      "fact_hash": "8e068df55c5e1078",
+      "last_verified": "2026-10-29"
+    },
+    "epog-jm-erasmus-mundus-2027": {
+      "fact_hash": "a24833aaa43c1c87",
+      "last_verified": "2026-10-19"
+    },
+    "erasmus-mundus-joint-masters-2027": {
+      "fact_hash": "75d15cfbbb01cb74",
+      "last_verified": "2026-10-02"
+    },
+    "eric-bleumink-fellowship-groningen-2027": {
+      "fact_hash": "e437fd3cf213f820",
+      "last_verified": "2026-10-19"
+    },
+    "eu-delegation-drc-subsidised-internship": {
+      "fact_hash": "fe0e2b8d0f0ebed7",
+      "last_verified": "2026-10-29"
+    },
+    "european-forum-alpbach-scholarships": {
+      "fact_hash": "3a23be93d3c87ca7",
+      "last_verified": "2026-11-09"
+    },
+    "fao-internship-programme-africa-2026-2027": {
+      "fact_hash": "4c4e6a96ef5ef389",
+      "last_verified": "2026-10-26"
+    },
+    "fortis-fellowship-2027": {
+      "fact_hash": "7a80af44193b544e",
+      "last_verified": "2026-11-09"
+    },
+    "france-excellence-eiffel-2027": {
+      "fact_hash": "79498b04fe1ebc75",
+      "last_verified": "2026-10-29"
+    },
+    "french-african-foundation-young-leaders": {
+      "fact_hash": "3644a166299fd25a",
+      "last_verified": "2026-11-09"
+    },
+    "gates-cambridge-2027": {
+      "fact_hash": "3e6d44ea44a13adf",
+      "last_verified": "2026-11-09"
+    },
+    "global-leadership-challenge-2026": {
+      "fact_hash": "5b93ebb29a191fc2",
+      "last_verified": "2026-11-09"
+    },
+    "glocal-erasmus-mundus-2027": {
+      "fact_hash": "22a279d269f9674e",
+      "last_verified": "2026-11-02"
+    },
+    "grenfin-erasmus-mundus-energy-finance-2027": {
+      "fact_hash": "16198e5297ecbc04",
+      "last_verified": "2026-10-26"
+    },
+    "gtf-telemachus-mentoring-2027": {
+      "fact_hash": "a9f0ef9a88df3270",
+      "last_verified": "2026-11-09"
+    },
+    "hsc-youth-ambassador-program-2027": {
+      "fact_hash": "c9deb5703ab13bb5",
+      "last_verified": "2026-10-26"
+    },
+    "humanresponse-erasmus-mundus-humanitarian-2027": {
+      "fact_hash": "11bdaa7798924331",
+      "last_verified": "2026-10-26"
+    },
+    "icann-fellowship": {
+      "fact_hash": "85d6c2791250b623",
+      "last_verified": "2026-11-09"
+    },
+    "internet-society-fellowship-2027": {
+      "fact_hash": "f219b46ae6775022",
+      "last_verified": "2026-11-09"
+    },
+    "irex-community-solutions-program": {
+      "fact_hash": "df147a6932113a4c",
+      "last_verified": "2026-11-09"
+    },
+    "jim-leech-mastercard-foundation-fellowship-2027": {
+      "fact_hash": "13211259b491c97f",
+      "last_verified": "2026-11-09"
+    },
+    "kectil-program-2027": {
+      "fact_hash": "0bb425f1a797681a",
+      "last_verified": "2026-11-09"
+    },
+    "knight-hennessy-scholars-2027": {
+      "fact_hash": "cb012e7baa34d603",
+      "last_verified": "2026-10-12"
+    },
+    "maastricht-nl-high-potential-2027": {
+      "fact_hash": "d0752ea959d36c23",
+      "last_verified": "2026-11-09"
+    },
+    "mandela-rhodes-scholarship-2028": {
+      "fact_hash": "6df5051dbd1ab363",
+      "last_verified": "2026-10-02"
+    },
+    "mandela-washington-fellowship-2027": {
+      "fact_hash": "403a55a03ed0c167",
+      "last_verified": "2026-11-02"
+    },
+    "mastercard-foundation-associates-program": {
+      "fact_hash": "de6e5e3c280f4c56",
+      "last_verified": "2026-11-09"
+    },
+    "mastercard-foundation-scholars-cambridge-2027": {
+      "fact_hash": "3f2b020a87c5c8fe",
+      "last_verified": "2026-11-09"
+    },
+    "mastercard-foundation-scholars-edinburgh-2027": {
+      "fact_hash": "cc1b7b0dd1df68a4",
+      "last_verified": "2026-10-29"
+    },
+    "mastercard-foundation-scholars-mcgill-2027": {
+      "fact_hash": "439053ffd0ab0033",
+      "last_verified": "2026-11-02"
+    },
+    "mastercard-foundation-scholars-sciences-po-2027": {
+      "fact_hash": "9c25d0eab1761beb",
+      "last_verified": "2026-11-09"
+    },
+    "mastercard-foundation-scholars-uc-berkeley-2027": {
+      "fact_hash": "aa81d08d6b344ae0",
+      "last_verified": "2026-11-09"
+    },
+    "mastercard-foundation-scholars-uct-2027": {
+      "fact_hash": "a9abbbc9344ff209",
+      "last_verified": "2026-10-29"
+    },
+    "mauritius-africa-scholarship-scheme-2027": {
+      "fact_hash": "8e6b629ac442dbbd",
+      "last_verified": "2026-11-09"
+    },
+    "mckinsey-forward-fall-2026": {
+      "fact_hash": "02ebce9a3715fa70",
+      "last_verified": "2026-11-09"
+    },
+    "mcw-global-young-leaders-fellowship-2027": {
+      "fact_hash": "8543f918bfcd7196",
+      "last_verified": "2026-11-09"
+    },
+    "mext-scholarship-embassy-drc": {
+      "fact_hash": "ee6fded4fab9615e",
+      "last_verified": "2026-10-02"
+    },
+    "mundus-mapp-2027": {
+      "fact_hash": "1aa581f0121755a0",
+      "last_verified": "2026-11-09"
+    },
+    "nasser-fellowship-international-leadership": {
+      "fact_hash": "77a403c76156e1a0",
+      "last_verified": "2026-11-02"
+    },
+    "ned-hurford-youth-fellows-2027": {
+      "fact_hash": "e52fb02b8eeda9ae",
+      "last_verified": "2026-11-09"
+    },
+    "noha-erasmus-mundus-humanitarian-action-2027": {
+      "fact_hash": "7eb13c80f081eebf",
+      "last_verified": "2026-10-29"
+    },
+    "obama-foundation-leaders": {
+      "fact_hash": "d12592e39de4c6cf",
+      "last_verified": "2026-11-09"
+    },
+    "objectif-2030-ifdd-free-moocs": {
+      "fact_hash": "b95e3d1e2588c54a",
+      "last_verified": "2026-10-12"
+    },
+    "one-young-world-leading-scholarship-2026": {
+      "fact_hash": "991ca04ccc4c5844",
+      "last_verified": "2026-11-02"
+    },
+    "open-doors-russian-scholarship-masters-2027": {
+      "fact_hash": "8df3125f222f61bb",
+      "last_verified": "2026-10-29"
+    },
+    "orange-digital-center-drc": {
+      "fact_hash": "d411a4167fafdead",
+      "last_verified": "2026-10-02"
+    },
+    "pan-african-university-scholarships": {
+      "fact_hash": "885febf04a60e27d",
+      "last_verified": "2026-11-09"
+    },
+    "raisina-young-fellows-2027-pcns": {
+      "fact_hash": "b7ed870e27ab10d3",
+      "last_verified": "2026-11-02"
+    },
+    "rlc-east-africa": {
+      "fact_hash": "5bd180d0e60904a9",
+      "last_verified": "2026-10-02"
+    },
+    "rlrh-graduate-horizons-2027": {
+      "fact_hash": "7d2d61bb24fa2007",
+      "last_verified": "2026-10-12"
+    },
+    "schwarzman-scholars-2028": {
+      "fact_hash": "6dc99da2614ba5f7",
+      "last_verified": "2026-10-26"
+    },
+    "sciences-po-emile-boutmy-masters-2027": {
+      "fact_hash": "2dc84eb917a18245",
+      "last_verified": "2026-11-09"
+    },
+    "si-scholarship-global-professionals": {
+      "fact_hash": "65bafa36a08a3799",
+      "last_verified": "2026-10-26"
+    },
+    "stipendium-hungaricum-2027": {
+      "fact_hash": "175ef5710656e28a",
+      "last_verified": "2026-11-09"
+    },
+    "tony-elumelu-entrepreneurship-programme-2027": {
+      "fact_hash": "77da10aa579c68f7",
+      "last_verified": "2026-11-02"
+    },
+    "turkiye-burslari-2027": {
+      "fact_hash": "b56dcebc622da0d5",
+      "last_verified": "2026-11-09"
+    },
+    "ustc-international-winter-camp-2027": {
+      "fact_hash": "1475ff24a14863b6",
+      "last_verified": "2026-11-09"
+    },
+    "vlir-uos-icp-connect-2027": {
+      "fact_hash": "f6c0675ddb3057e6",
+      "last_verified": "2026-10-26"
+    },
+    "volontaires-unis-pour-la-francophonie": {
+      "fact_hash": "35cea70c9de3b6b8",
+      "last_verified": "2026-10-02"
+    },
+    "wageningen-africa-scholarship-programme-2027": {
+      "fact_hash": "e3c75d0cee8fe34d",
+      "last_verified": "2026-11-09"
+    },
+    "weidenfeld-hoffmann-scholarships-oxford-2027": {
+      "fact_hash": "cb62eccb8a2edee1",
+      "last_verified": "2026-10-19"
+    },
+    "wff-youth-policy-board-2027-2028": {
+      "fact_hash": "02b9a42bee7e407a",
+      "last_verified": "2026-11-09"
+    },
+    "world-forum-for-democracy-youth-delegation": {
+      "fact_hash": "649b989b41df7b6a",
+      "last_verified": "2026-10-02"
+    },
+    "yenching-academy-2027": {
+      "fact_hash": "0939defe0092a1af",
+      "last_verified": "2026-11-09"
+    },
+    "youth-global-forum-2027-paris-cgdl": {
+      "fact_hash": "b475a5711b900189",
+      "last_verified": "2026-11-09"
+    }
+  },
+  "archive": {
+    "mckinsey-forward-fall-2026@2026-10-05": {
+      "fact_hash": "deb6c31fa33ad1b7"
+    },
+    "chevening-scholarships-2027@2026-10-06": {
+      "fact_hash": "d1195f42a6863f62"
+    },
+    "mandela-washington-fellowship-2027@2026-10-13": {
+      "fact_hash": "9854e93ce11f4ef0"
+    },
+    "aspire-leaders-program-2026-cohort-4@2026-10-16": {
+      "fact_hash": "6098457841e07fc4"
+    },
+    "hsc-youth-ambassador-program-2027@2026-10-19": {
+      "fact_hash": "77474ac1c2b0bacb"
+    },
+    "international-dialogue-sdg17-baku-2026@2026-10-24": {
+      "fact_hash": "6a754723b0fe2f59"
+    },
+    "rlrh-graduate-horizons-2027@2026-10-25": {
+      "fact_hash": "e96771b0fbc4aab2"
+    },
+    "mastercard-foundation-scholars-edinburgh-2027@2026-10-26": {
+      "fact_hash": "970b2ccf871ece5b"
+    },
+    "ebuteli-fellowship@2026-10-30": {
+      "fact_hash": "ade80b37c9e2b9df"
+    },
+    "mastercard-foundation-scholars-uct-2027@2026-10-31": {
+      "fact_hash": "114b02b3f1038ecc"
+    },
+    "one-young-world-leading-scholarship-2026@2026-10-31": {
+      "fact_hash": "68c695fe2cc6d74d"
+    },
+    "open-doors-russian-scholarship-masters-2027@2026-11-01": {
+      "fact_hash": "f9b5aea2eff29160"
+    }
+  },
+  "taken_on": "2026-11-17",
+  "counts": {
+    "live": 80,
+    "archive": 12
+  }
+}
