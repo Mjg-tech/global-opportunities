@@ -35,6 +35,9 @@ def main(paths: list[str]) -> int:
     for path in paths:
         batch = json.loads(Path(path).read_text(encoding="utf-8"))
         if isinstance(batch, dict):
+            if "opportunities" not in batch and not batch.get("title"):
+                print(f"upsert: {path} is not a batch of records (no 'opportunities' list and no title); skipped")
+                continue
             batch = batch.get("opportunities", [batch])
         for raw in batch:
             raw.setdefault("id", L.slug(raw.get("title", "")))

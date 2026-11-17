@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "updated": "2026-11-17",
+  "about": "Search-phrase bank for the weekly scouts. scripts/scouts.py plan picks a few per language for each channel, rotating by ISO week so the same searches are not repeated every Monday. {year} becomes the next intake year, {year_now} the current year. A query is a starting point: results are leads, never facts. Research cycles may add or retire phrases; keep each phrase short and do not put personal data in it.",
+  "languages": ["en", "fr", "pt", "es"],
+  "channels": {
+    "A": {
+      "en": [
+        "call for applications {year} young Africans fellowship United Nations",
+        "African Union youth call for applications {year}",
+        "World Bank OR IMF OR AfDB young professionals programme {year} applications",
+        "foundation fellowship {year} applications open Africa fully funded",
+        "regional economic community youth programme call for applications Central Africa",
+        "UN agency internship OR fellowship {year} Kinshasa OR Africa call",
+        "international organisation youth delegate programme {year} apply",
+        "Democratic Republic of the Congo youth programme call for applications {year}"
+      ],
+      "fr": [
+        "appel à candidatures {year} jeunes africains bourse organisation internationale",
+        "appel à candidatures {year} RDC jeunes programme",
+        "Union africaine appel à candidatures jeunes {year}",
+        "Francophonie appel à candidatures jeunes {year}",
+        "programme jeunes professionnels {year} Afrique candidature ouverte"
+      ],
+      "pt": ["chamada de candidaturas {year} jovens africanos programa organização internacional"],
+      "es": ["convocatoria {year} jóvenes africanos programa organismo internacional"]
+    },
+    "B": {
+      "en": [
+        "government scholarship {year} international students Africa applications open",
+        "embassy scholarship programme {year} Democratic Republic of the Congo",
+        "fully funded government scholarship {year} master's Africa",
+        "bilateral scholarship {year} developing countries application",
+        "foreign ministry fellowship {year} young diplomats Africa",
+        "exchange programme funded by government {year} Africa youth"
+      ],
+      "fr": [
+        "bourse gouvernement {year} étudiants africains candidature",
+        "ambassade bourse {year} RDC candidatures",
+        "bourse d'excellence {year} étudiants étrangers master",
+        "programme d'échange financé gouvernement {year} jeunes africains"
+      ],
+      "pt": ["bolsa governo {year} estudantes africanos candidaturas abertas"],
+      "es": ["beca gobierno {year} estudiantes africanos convocatoria abierta"]
+    },
+    "C": {
+      "en": [
+        "fully funded master's scholarship {year} Africa applications open",
+        "Erasmus Mundus joint master {year} scholarship applications",
+        "university scholarship {year} international students Democratic Republic of the Congo eligible",
+        "research fellowship {year} early career Africa funded",
+        "summer school {year} fully funded African students",
+        "postgraduate scholarship {year} deadline Africa women OR youth",
+        "scholarship for students from Central Africa {year}",
+        "PhD OR doctoral scholarship {year} Africa funded application"
+      ],
+      "fr": [
+        "bourse master {year} entièrement financée étudiants africains",
+        "bourse d'études {year} candidature ouverte Afrique centrale",
+        "bourse Erasmus Mundus {year} master conjoint",
+        "bourse université {year} étudiants internationaux RDC",
+        "école d'été {year} bourse jeunes africains"
+      ],
+      "pt": ["bolsa de estudo {year} mestrado totalmente financiada estudantes africanos"],
+      "es": ["beca maestría {year} totalmente financiada estudiantes africanos"]
+    },
+    "D": {
+      "en": [
+        "entrepreneurship programme {year} Africa grant seed funding applications",
+        "startup accelerator {year} Africa applications open equity-free",
+        "business plan competition {year} Africa prize applications",
+        "young entrepreneurs fellowship {year} Africa fully funded",
+        "professional fellowship {year} early career Africa leadership funded",
+        "innovation challenge {year} Africa youth prize deadline",
+        "social enterprise programme {year} Africa grant application"
+      ],
+      "fr": [
+        "programme entrepreneuriat {year} Afrique appel à candidatures subvention",
+        "concours entrepreneurs {year} jeunes africains prix candidature",
+        "incubateur accélérateur {year} Afrique francophone candidature",
+        "programme de leadership {year} jeunes professionnels Afrique"
+      ],
+      "pt": ["programa de empreendedorismo {year} África candidaturas abertas financiamento"],
+      "es": ["programa de emprendimiento {year} África convocatoria abierta financiamiento"]
+    },
+    "E": {
+      "en": [
+        "fully funded summit {year} young leaders Africa apply",
+        "youth forum {year} sponsored participants travel covered Africa",
+        "funded conference {year} travel grant African students OR youth",
+        "study tour OR delegation {year} fully funded Africa applications",
+        "youth delegate programme {year} sponsored travel apply",
+        "volunteer programme abroad {year} Africa funded flights accommodation",
+        "international youth exchange {year} Africa all expenses paid",
+        "leadership summit {year} scholarship ticket Africa young people"
+      ],
+      "fr": [
+        "sommet {year} jeunes leaders entièrement financé Afrique candidature",
+        "forum jeunesse {year} participants pris en charge voyage Afrique",
+        "programme de volontariat {year} Afrique billet d'avion pris en charge",
+        "échange international jeunes {year} frais couverts Afrique",
+        "conférence {year} bourse de voyage jeunes africains"
+      ],
+      "pt": ["cúpula {year} jovens líderes totalmente financiada África candidaturas"],
+      "es": ["cumbre {year} jóvenes líderes financiada África convocatoria"]
+    }
+  }
+}

@@ -56,6 +56,7 @@ data/profile.json       anonymous applicant profile used for the eligibility lab
 data/sources.json       aggregator feeds read daily, feeds rejected, research watchlist
 data/source-registry.json  official sources (curated): where each is, how to read it, whether it is active
 data/source-state.json  what the daily job learned about each source: last scan, failures, yield (machine-written)
+data/scout-queries.json search phrases (en, fr, pt, es) per channel, rotated weekly by the planner
 data/leads.json         active unverified leads, each with a status, score and flags (written by the daily refresh)
 data/lead-rules.json    retention and scoring numbers for leads (cap, expiry, weights)
 data/lead-audit.json    every title the lead filters set aside, with the reason (90 days)
@@ -64,10 +65,11 @@ data/changelog.json     every change to a tracked field, newest first
 data/watch-state.json   HTTP status and date-line fingerprint of each official page
 archive/archive.json    closed cycles and retired records (never deleted)
 archive/leads-archive.json  leads that expired, were published, were closed by research, or fell below the cap
-research/YYYY-MM-DD/    the raw batch files of each research cycle
+research/YYYY-MM-DD/    one research cycle: scouts/ (plan and one file per channel), judge/ (verdicts and report), accepted.json
 tests/                  unit tests and the discovery benchmark (python -m unittest discover -s tests)
-reports/                latest.md (generated daily) and one report per research cycle
-scripts/                oplib.py, leadfilter.py, sourcelib.py, sources.py, upsert.py, validate.py, refresh.py, integrity.py, measure.py (standard library only)
+reports/                latest.md (generated daily), one report per research cycle, one audit per month
+scripts/                oplib.py, leadfilter.py, sourcelib.py, sources.py, scouts.py, judge.py, audit.py, upsert.py,
+                        validate.py, refresh.py, integrity.py, measure.py (standard library only)
 AGENTS.md               runbook for the research cycle
 ```
 
@@ -276,6 +278,55 @@ draft entry. Add it as `proposed`, let it run a week or two, and set it `active`
 real. `python scripts/sources.py list` shows every source with its latest state. A domain that is
 compromised or not what it claims goes in the registry's `rejected` list, which `validate.py` enforces.
 
+## Scouts, judge and audit
+
+The weekly cycle is split by channel so that no one reader has to cover everything, and so that the
+reader who writes a record is never the one who approves it.
+
+```
+scripts/scouts.py plan   ->  research/DATE/scouts/plan.json     one packet per channel (A-E) + the orchestrator's list
+five scouts              ->  research/DATE/scouts/<channel>.json records, lead outcomes, blocked pages, proposed sources
+scripts/judge.py check   ->  rules every record must pass       (no network)
+the judge                ->  research/DATE/judge/verdicts.json   a decision and a verbatim quote per record
+scripts/judge.py apply   ->  research/DATE/accepted.json         only this file goes to upsert.py
+scripts/judge.py apply-leads  sets lead statuses from the scouts' outcomes
+```
+
+**The planner** gives each channel its registry sources (and the `manual` ones to open in a browser), the best
+open leads that belong to it, a slice of the research watchlist and eight search phrases picked from
+`data/scout-queries.json`, rotated by ISO week so consecutive weeks differ. The channel of a lead from a
+registry source is that source's channel; for an aggregator lead it is a keyword guess used only to split the
+work. The orchestrator's list names the records to re-verify (flagged, closing within 30 days) and the
+programmes seen again in feeds. `scouts.py` works before and after the daily job has migrated old leads.
+
+**One writer.** A scout never edits `data/` or uses git. Its file is a list of records (a full record or a
+patch over a stored one), the outcome for each lead it handled, the pages that blocked it and the sources it
+suggests. The orchestrator is the only role that merges and pushes. A weekly routine without the `Agent` tool
+runs the same passes one after another in a single session; the mechanical gates below do not depend on it.
+
+**The judge** has three layers and a limited power.
+
+| Layer | What it does | Where it lives |
+|---|---|---|
+| Rules | checks each record as `upsert.py` would store it (a patch is merged first): cited pages, official URLs that are not aggregators or social pages, VERIFIED backed by an official page on the right host, Fully Funded backed by the organiser, deadline wording and plausibility, LIKELY ELIGIBLE explained, personal data, text that reads like an instruction to an AI, duplicates, and what a patch changes in a stored record. `block` keeps a record out; `review` must be answered by the judge | `judge.py check` |
+| Verdict | an AI or a person re-reads each cited page itself and writes `ACCEPT`, `DOWNGRADE`, `RETURN` or `REJECT` with a quote copied from the page | `verdicts.json` |
+| Quote check | the quote must literally appear (whitespace, case and typographic marks ignored) on a page the record cites. A page the checker cannot read counts only if the judge declares another reader (`via`) | `judge.py apply` |
+
+The judge may only lower trust: a verification label, a confidence, an eligibility verdict, `funding_type`
+to `Funding Unclear`, extra `potential_issues`. It cannot raise anything or edit a fact; a wrong fact is
+`RETURN`ed to its scout for one more pass. A record with no verdict is not accepted. A lead set aside as
+ineligible takes effect only when the judge confirms it with a quote, because a wrongly excluded
+opportunity is the costliest error the pipeline can make. `via` is a declaration, not a proof: the monthly
+audit and the report are how it is checked.
+
+**Monthly audit.** On the first Monday of each month `scripts/audit.py sample` draws a reproducible sample
+of what the pipeline turned away without a person deciding (titles the filters rejected, `NEW` leads that
+aged out). Each page is opened and judged `FALSE_EXCLUSION`, `CORRECT` or `UNCLEAR`; `audit.py record` writes
+`reports/audit-YYYY-MM.md` with the false-exclusion rate per stratum, an estimate of how many were missed,
+the registry sources that fail or yield nothing, and the titles to add to `tests/benchmark.json`. A
+stratum above 10% means a filter or retention rule must change, and the applicant approves changes that alter
+what is thrown away.
+
 ## Tests
 
 ```
@@ -296,10 +347,11 @@ runs the tests before it publishes, so a regression stops the deployment.
   deadline lines), reads the feeds in `data/sources.json`, and stores new titles as leads
   (status NEW, never treated as verified). Titles that match a known record are reported as
   "seen again" instead of being stored twice. See "Leads" below.
-- **Weekly research cycle.** An AI agent follows `AGENTS.md`: it re-verifies flagged and
-  closing records, promotes good leads to full records after reading the official source,
-  searches for new and unusual opportunities, and pushes. It never submits an application, pays
-  a fee, or sends a message.
+- **Weekly research cycle.** An AI agent follows `AGENTS.md`: an orchestrator re-verifies flagged and
+  closing records and hands five channel scouts their work, the scouts promote good leads to
+  records after reading the official source and search for new and unusual opportunities, an
+  independent judge re-reads every page the records cite, and only what passes reaches the database.
+  See "Scouts, judge and audit". It never submits an application, pays a fee, or sends a message.
 - **Deadline monitoring.** `data/meta.json` lists the records whose deadline falls within 30, 14,
   7, 3 and 1 days; the dashboard shows the same windows live.
 

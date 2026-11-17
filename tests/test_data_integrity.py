@@ -87,9 +87,12 @@ class Leads(unittest.TestCase):
 
     def test_every_lead_is_a_link_with_a_known_unverified_status(self):
         allowed = set(LF.LEAD_STATUSES) | {LF.LEGACY_STATUS}      # legacy value until the next daily run migrates it
+        records = {r["id"] for r in DB} | {r["id"] for r in ARCHIVE}
         bad = [x["id"] for x in LEADS
                if not str(x.get("url", "")).startswith("http") or x.get("status") not in allowed
-               or x.get("status") in ("VERIFIED", "PUBLISHED")]
+               or x.get("status") == "VERIFIED"]                  # a lead never claims verification itself
+        # PUBLISHED is how a finished lead waits for the next daily run to archive it: it must name a real record
+        bad += [x["id"] for x in LEADS if x.get("status") == "PUBLISHED" and x.get("record_id") not in records]
         self.assertEqual(bad, [])
 
 
