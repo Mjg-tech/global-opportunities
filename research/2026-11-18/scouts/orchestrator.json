@@ -1,0 +1,99 @@
+{
+  "channel": "orchestrator",
+  "records": [
+    {
+      "id": "turkiye-burslari-2027",
+      "evidence": {
+        "criteria": [
+          {"criterion": "nationality", "requirement": "Eligible groups: citizens of all countries. Turkish citizens are the only excluded nationality.",
+           "applicant": "Citizen of the Democratic Republic of the Congo.", "assessment": "MET",
+           "quote": "Citizens of all countries", "page": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms"},
+          {"criterion": "education", "requirement": "A first degree already held, or graduating before August of the application year.",
+           "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.", "assessment": "MET",
+           "quote": "Graduates or those who will graduate at the end of the current academic year (before August)",
+           "page": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms"},
+          {"criterion": "education", "requirement": "Minimum academic achievement for graduate candidates: 75%.",
+           "applicant": "Degree grade not recorded.", "assessment": "UNKNOWN",
+           "missing": "The grade of the 2024 degree, as a percentage.",
+           "quote": "For graduate candidates: 75%", "page": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms"},
+          {"criterion": "age", "requirement": "Master's programmes: under the age of 30. The page does not say on which date the age is counted.",
+           "applicant": "Recorded only as under 30; exact age not recorded.", "assessment": "UNKNOWN",
+           "missing": "Exact age, and the date the age limit is counted on (not stated on the page).",
+           "quote": "For master’s programs: being under the age of 30", "page": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms"},
+          {"criterion": "enrolment", "requirement": "Not currently enrolled at the same level in a Turkish university (an ineligible group).",
+           "applicant": "Not enrolled in any degree programme.", "assessment": "MET",
+           "quote": "Individuals who are currently enrolled in programs in Turkish universities at the level of education will apply.",
+           "page": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms"},
+          {"criterion": "language_certificate", "requirement": "A language test such as TOEFL or DELF, only if the chosen university or programme requires it.",
+           "applicant": "No language test recorded.", "assessment": "UNKNOWN",
+           "missing": "Which programme and university, and whether it asks for a test.",
+           "quote": "International language test results such as TOEFL, DELF if required by the chosen university or program",
+           "page": "https://www.turkiyeburslari.gov.tr/applysteps"}
+        ],
+        "funding": [
+          {"item": "tuition", "arrangement": "Paid directly by organiser", "conditions": "Paid by the scholarship to the university.",
+           "quote": "your university tuition is covered by Türkiye Scholarships", "page": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships"},
+          {"item": "daily_allowance", "arrangement": "Covered through an allowance", "amount": "9.500 per month", "currency": "TL (Turkish lira)",
+           "conditions": "Master's level. Paid each month into a bank account opened on arrival. The page writes the figure as 9.500.",
+           "quote": "A monthly stipend of 6.500 TL at undergraduate level, 9.500 TL at master’s level, and 13.000 TL at doctorate level",
+           "page": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships"},
+          {"item": "airfare", "arrangement": "Paid directly by organiser", "conditions": "One ticket on first arrival and one on return after graduation, requested through the TBBS system.",
+           "quote": "Covers your once-off flight ticket.", "page": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships"},
+          {"item": "accommodation", "arrangement": "Paid directly by organiser",
+           "conditions": "The summary says accommodation is provided. The detailed text confirms dormitory fees only for undergraduate awardees and lists private options for others, so the master's terms are not spelled out.",
+           "quote": "Provides accommodation for students arriving in a new country.", "page": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships"},
+          {"item": "insurance", "arrangement": "Paid directly by organiser", "conditions": "General health insurance for international students.",
+           "quote": "Türkiye Scholarships also cover the health insurance of all our international students", "page": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships"},
+          {"item": "training", "arrangement": "Paid directly by organiser", "conditions": "One year of Turkish language education for all awardees.",
+           "quote": "We offer 1 year of free Turkish language education to all our students.", "page": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships"}
+        ],
+        "out_of_pocket": "Not estimated. The pages read give no figure for living costs beyond the stipend, and visa fees and costs before arrival are not stated.",
+        "cycles": [
+          {"cycle": "2026", "state": "HISTORICAL CYCLE", "opens_on": "2026-01-10", "deadline": "2026-02-20",
+           "quote": "applications will be open between 10th January- 20th February 2026 for international students from all countries",
+           "page": "https://www.turkiyeburslari.gov.tr/announcements/turkiye-scholarships-2026-applications-121"}
+        ]
+      }
+    },
+    {
+      "id": "pan-african-university-scholarships",
+      "evidence": {
+        "criteria": [
+          {"criterion": "nationality", "requirement": "Applicants from African countries and the Diaspora. The page publishes no country list and does not name the DRC.",
+           "applicant": "Citizen of the Democratic Republic of the Congo.", "assessment": "UNKNOWN",
+           "missing": "A country list, or a sentence naming the DRC. The page says 'African countries' only.",
+           "quote": "applicants from African countries and the Diaspora are invited to apply", "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"},
+          {"criterion": "education", "requirement": "An undergraduate degree from a recognised university.",
+           "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.", "assessment": "MET",
+           "quote": "Holder of an Undergraduate degree from a recognised university, with at least a second-class upper division or its equivalent, in a relevant field.",
+           "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"},
+          {"criterion": "education", "requirement": "At least a second-class upper division or its equivalent, in a field relevant to the chosen institute.",
+           "applicant": "Degree grade not recorded.", "assessment": "UNKNOWN",
+           "missing": "The grade of the 2024 degree, and whether Business Administration is 'relevant' for the institute chosen.",
+           "quote": "Holder of an Undergraduate degree from a recognised university, with at least a second-class upper division or its equivalent, in a relevant field.",
+           "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"},
+          {"criterion": "age", "requirement": "Master's: not older than 25 for male and 28 for female applicants.",
+           "applicant": "Recorded only as under 30; exact age and the gender the limit depends on are not recorded.", "assessment": "UNKNOWN",
+           "missing": "Exact age and the gender the limit depends on.",
+           "quote": "Not older than 25 years for male and 28 years for female applicants.",
+           "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"}
+        ],
+        "funding": [
+          {"item": "other_support", "arrangement": "Paid directly by organiser",
+           "conditions": "The call says 'full scholarships' without itemising them. The itemised cover is on other pages of the programme.",
+           "quote": "The African Union Commission will offer full scholarships to successful candidates.",
+           "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"}
+        ],
+        "cycles": [
+          {"cycle": "2026-2027", "state": "HISTORICAL CYCLE", "opens_on": "2025-11-15", "deadline": "2025-12-15",
+           "quote": "The Call will be launched on 15 November and will close on 15 December 2025.",
+           "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"}
+        ]
+      }
+    }
+  ],
+  "lead_outcomes": [],
+  "blocked": [],
+  "source_proposals": [],
+  "notes": "Step 4 pilot: per-criterion evidence for two records, written by the orchestrator from pages read on 2026-11-18."
+}

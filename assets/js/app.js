@@ -350,7 +350,102 @@
     return el("div", null, el("dt", { text: label }), el("dd", { text: known(value) ? value : "Not specified" }));
   }
 
-  function renderDetail(rec, flags) {
+  /* ---------------------------------------------------------------- evidence (data/evidence/<id>.json) */
+  const CRITERION_LABELS = {
+    nationality: "Nationality", residence: "Country of residence", age: "Age", education: "Education",
+    discipline: "Field of study", graduation: "Graduation date", enrolment: "Current enrolment",
+    experience: "Experience", language: "Language", language_certificate: "Language certificate",
+    passport: "Passport", employment: "Employment status", business: "Business ownership", other: "Other condition"
+  };
+  const ASSESS_META = {
+    "MET": { tone: "good", icon: "check", label: "Met" },
+    "NOT MET": { tone: "critical", icon: "cross", label: "Not met" },
+    "UNKNOWN": { tone: "warning", icon: "question", label: "Cannot tell yet" },
+    "NOT STATED": { tone: "muted", icon: "dash", label: "Not stated" }
+  };
+  const ITEM_LABELS = {
+    tuition: "Tuition", airfare: "International airfare", accommodation: "Accommodation", meals: "Meals",
+    daily_allowance: "Daily allowance or stipend", visa_fees: "Visa fees", insurance: "Insurance",
+    local_transport: "Local transport", airport_transfers: "Airport transfers", participation_fee: "Participation fee",
+    training: "Training expenses", study_materials: "Study materials", other_support: "Other financial support"
+  };
+  const ARRANGE_META = {
+    "Paid directly by organiser": { tone: "good", icon: "check", label: "Paid by the organiser" },
+    "Reimbursed after purchase": { tone: "warning", icon: "half", label: "Reimbursed after you pay" },
+    "Covered through an allowance": { tone: "good", icon: "check", label: "Covered by an allowance" },
+    "Partially covered": { tone: "warning", icon: "half", label: "Partly covered" },
+    "Not covered": { tone: "critical", icon: "cross", label: "Not covered" },
+    "Unknown": { tone: "muted", icon: "question", label: "Not stated" }
+  };
+  const CYCLE_META = {
+    "CONFIRMED CURRENT CYCLE": { tone: "good", icon: "check", label: "Confirmed current cycle" },
+    "EXPECTED NEXT CYCLE": { tone: "info", icon: "calendar", label: "Expected next cycle" },
+    "HISTORICAL CYCLE": { tone: "muted", icon: "clock", label: "Earlier cycle" },
+    "NOT YET ANNOUNCED": { tone: "muted", icon: "question", label: "Not yet announced" }
+  };
+
+  function quoteBlock(entry) {
+    if (!entry.quote) return null;
+    const href = safeUrl(entry.page);
+    return el("blockquote", { class: "quote" },
+      el("p", { text: "\u201C" + entry.quote + "\u201D" }),
+      href ? el("a", { href, target: "_blank", rel: "noopener noreferrer", text: "Read it on the cited page" }) : null);
+  }
+
+  function criteriaSection(evidence) {
+    const rows = (evidence && evidence.criteria) || [];
+    if (!rows.length) return null;
+    const tally = {};
+    rows.forEach((c) => { tally[c.assessment] = (tally[c.assessment] || 0) + 1; });
+    return el("section", { class: "d-section" }, el("h3", { text: "Eligibility, criterion by criterion" }),
+      el("p", { class: "muted small", text: "Checked " + fmtDate(evidence.checked_on) + " against the anonymous profile. "
+        + ["MET", "NOT MET", "UNKNOWN", "NOT STATED"].filter((k) => tally[k]).map((k) => tally[k] + " " + ASSESS_META[k].label.toLowerCase()).join(", ") + "." }),
+      el("ul", { class: "evidence-list" }, rows.map((c) => el("li", { class: "ev-item tone-" + (ASSESS_META[c.assessment] || ASSESS_META["UNKNOWN"]).tone },
+        el("div", { class: "ev-head" },
+          el("strong", { text: CRITERION_LABELS[c.criterion] || c.criterion }),
+          badge(ASSESS_META[c.assessment] || ASSESS_META["UNKNOWN"])),
+        el("p", { class: "ev-req", text: c.requirement }),
+        known(c.applicant) ? el("p", { class: "small" }, el("span", { class: "muted", text: "Your profile: " }), c.applicant) : null,
+        known(c.missing) ? el("p", { class: "small" }, el("span", { class: "muted", text: "Missing: " }), c.missing) : null,
+        quoteBlock(c)))));
+  }
+
+  function fundingSection(evidence) {
+    const rows = (evidence && evidence.funding) || [];
+    if (!rows.length) return null;
+    return el("section", { class: "d-section" }, el("h3", { text: "Funding, line by line" }),
+      el("ul", { class: "evidence-list" }, rows.map((f) => el("li", { class: "ev-item tone-" + (ARRANGE_META[f.arrangement] || ARRANGE_META["Unknown"]).tone },
+        el("div", { class: "ev-head" },
+          el("strong", { text: ITEM_LABELS[f.item] || f.item }),
+          badge(ARRANGE_META[f.arrangement] || ARRANGE_META["Unknown"])),
+        known(f.amount) ? el("p", { class: "ev-req", text: f.amount + (known(f.currency) ? " " + f.currency : "") }) : null,
+        known(f.conditions) ? el("p", { class: "small", text: f.conditions }) : null,
+        quoteBlock(f)))),
+      known(evidence.out_of_pocket) ? el("p", { class: "notice-inline" },
+        el("strong", { text: "What you may pay yourself: " }), evidence.out_of_pocket) : null);
+  }
+
+  function cycleSection(rec, evidence) {
+    const outlook = (((shared.meta || {}).upcoming || {}).items || []).find((i) => i.id === rec.id);
+    const stored = (evidence && evidence.cycles) || [];
+    if (!outlook && !stored.length) return null;
+    return el("section", { class: "d-section" }, el("h3", { text: "Application cycles" }),
+      outlook ? el("div", { class: "notice " + (outlook.basis === "pattern" ? "tone-info" : "tone-good") }, icon("calendar"),
+        el("div", null,
+          el("strong", { text: outlook.phase + ": " + outlook.window_text }),
+          outlook.basis === "pattern"
+            ? el("p", { text: "This is an estimate from earlier cycles (" + outlook.pattern + "), not an announced date. Earlier deadlines on record: "
+              + outlook.history.map(fmtDate).join(", ") + "." })
+            : el("p", { text: outlook.basis === "organiser states" ? "The organiser states this period." : "Announced on the organiser's page." }),
+          outlook.check_now ? el("p", { class: "small", text: "The call may already be open: read the official page." }) : null)) : null,
+      stored.length ? el("ul", { class: "evidence-list" }, stored.slice().reverse().map((c) => el("li", { class: "ev-item tone-" + (CYCLE_META[c.state] || CYCLE_META["NOT YET ANNOUNCED"]).tone },
+        el("div", { class: "ev-head" }, el("strong", { text: "Cycle " + c.cycle }), badge(CYCLE_META[c.state] || CYCLE_META["NOT YET ANNOUNCED"])),
+        el("p", { class: "small", text: [c.opens_on ? "Opened " + fmtDate(c.opens_on) : "", c.deadline ? "Closed " + fmtDate(c.deadline) : "", c.window_text || ""].filter(Boolean).join(" \u00b7 ") }),
+        known(c.basis) ? el("p", { class: "small muted", text: "Basis: " + c.basis }) : null,
+        quoteBlock(c)))) : null);
+  }
+
+  function renderDetail(rec, flags, evidence) {
     const status = statusOf(rec);
     const left = timeLeftLabel(rec);
     const cov = rec.coverage || {};
@@ -408,12 +503,15 @@
       section("Deadline", el("p", { text: known(rec.deadline_text) ? rec.deadline_text : "Not specified." }),
         known(rec.deadline_timezone) ? el("p", { class: "muted small", text: "Time zone: " + rec.deadline_timezone }) : null,
         known(rec.expected_next_cycle) ? el("p", { class: "muted small", text: "Expected next cycle: " + rec.expected_next_cycle }) : null),
+      cycleSection(rec, evidence),
       section("Who can apply", list(rec.eligibility)),
+      criteriaSection(evidence),
       section("What is funded", coverageTable,
         list(rec.funding_details),
         el("dl", { class: "facts-inline" },
           factRow("Participation or application fee", rec.participation_fee),
           factRow("Stipend", rec.stipend))),
+      fundingSection(evidence),
       section("Requirements", el("dl", { class: "facts-inline" },
         factRow("Education", rec.education_requirement),
         factRow("Age", rec.age_requirement),
@@ -469,10 +567,19 @@
   function openDetail(rec, flags) {
     const dlg = ensureDialog();
     const body = dlg.querySelector(".dialog-body");
-    body.replaceChildren(renderDetail(rec, flags));
+    body.replaceChildren(renderDetail(rec, flags, null));
     if (!dlg.open) dlg.showModal();
     body.scrollTop = 0;
     history.replaceState(null, "", location.pathname + location.search + "#o=" + encodeURIComponent(rec.id));
+    // The evidence file exists only for records whose criteria have been written out (meta.evidence.ids).
+    const ids = ((shared.meta || {}).evidence || {}).ids || [];
+    if (!ids.includes(rec.id)) return;
+    loadJSON("data/evidence/" + encodeURIComponent(rec.id) + ".json", null).then((evidence) => {
+      if (!evidence || !dlg.open || location.hash !== "#o=" + encodeURIComponent(rec.id)) return;
+      const keep = body.scrollTop;
+      body.replaceChildren(renderDetail(rec, flags, evidence));
+      body.scrollTop = keep;
+    });
   }
 
   /* ---------------------------------------------------------------- data */
@@ -488,6 +595,8 @@
     }
   }
 
+  const shared = { meta: null };
+
   async function loadAll() {
     const [db, archive, meta, leads, profile] = await Promise.all([
       loadJSON("data/opportunities.json"),
@@ -496,6 +605,7 @@
       loadJSON("data/leads.json", { leads: [] }),
       loadJSON("data/profile.json", {})
     ]);
+    shared.meta = meta;
     return {
       records: db.opportunities || [],
       updated: db.updated || "",
@@ -542,6 +652,6 @@
     RELEVANCE_LABELS, el, fill, icon, known, safeUrl, statusOf, daysLeft, timeLeftLabel, deadlineMoment,
     fmtDate, fmtDateTime, deadlineSummary, travelLabel, ratingValue, relevanceScore,
     matchesFundingFilter, matchesDeadlineFilter, matchesTravelFilter,
-    badge, meter, fundingChip, linkButton, card, openDetail, loadAll, initTheme, showError
+    badge, meter, fundingChip, linkButton, card, openDetail, loadAll, loadJSON, initTheme, showError
   };
 })();

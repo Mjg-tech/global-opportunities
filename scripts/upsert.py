@@ -10,7 +10,9 @@ For each record the script:
   * merges the new facts over the old ones;
   * logs every changed tracked field (deadline, funding, eligibility, URLs ...)
     to data/changelog.json;
-  * recomputes the derived fields (status, *_funded booleans).
+  * recomputes the derived fields (status, *_funded booleans);
+  * moves an `evidence` block (per-criterion eligibility, funding detail, cycles) out of the record into
+    data/evidence/<id>.json, where earlier cycles are kept and changes are logged.
 """
 from __future__ import annotations
 
@@ -18,6 +20,7 @@ import json
 import sys
 from pathlib import Path
 
+import evidence as EV
 import oplib as L
 
 
@@ -30,7 +33,7 @@ def main(paths: list[str]) -> int:
     today = L.today_utc()
     stamp = today.isoformat()
     changes: list[dict] = []
-    added = updated = 0
+    added = updated = stored = 0
 
     for path in paths:
         batch = json.loads(Path(path).read_text(encoding="utf-8"))
@@ -41,6 +44,7 @@ def main(paths: list[str]) -> int:
             batch = batch.get("opportunities", [batch])
         for raw in batch:
             raw.setdefault("id", L.slug(raw.get("title", "")))
+            evidence = raw.pop("evidence", None)
             existing = L.find_duplicate(records, raw)
             if existing is None:
                 raw.setdefault("date_discovered", stamp)
@@ -48,6 +52,9 @@ def main(paths: list[str]) -> int:
                 added += 1
                 changes.append({"date": stamp, "id": raw["id"], "title": raw.get("title", ""),
                                 "field": "(new record)", "old": None, "new": "added"})
+                if evidence:
+                    EV.store(raw["id"], evidence, today, changes, raw.get("title", ""))
+                    stored += 1
                 continue
             merged = dict(existing)
             merged.update(raw)
@@ -58,13 +65,16 @@ def main(paths: list[str]) -> int:
                 changes.append({"date": stamp, "id": merged["id"], "title": merged["title"], **change})
             records[records.index(existing)] = merged
             updated += 1
+            if evidence:
+                EV.store(merged["id"], evidence, today, changes, merged["title"])
+                stored += 1
 
     records.sort(key=lambda r: r["id"])
     db["updated"] = stamp
     L.save(L.DB, db)
     L.log_changes(changes)
     print(f"upsert: {added} added, {updated} updated, {len(records)} records in database, "
-          f"{len(changes)} change-log entries")
+          f"{len(changes)} change-log entries, {stored} evidence files written")
     return 0
 
 

@@ -4,7 +4,7 @@
   "use strict";
   const { el, fill, icon, statusOf, daysLeft, card, openDetail, loadAll, initTheme, showError, known,
     FUNDING_RANK, STATUS_ORDER, ELIG_ORDER, ELIG_META, VERIF_META, ratingValue, relevanceScore,
-    matchesFundingFilter, matchesDeadlineFilter, matchesTravelFilter } = window.OI;
+    matchesFundingFilter, matchesDeadlineFilter, matchesTravelFilter, VIEWS, viewContext, findView, viewCounts } = window.OI;
 
   const CATEGORIES = ["Scholarship", "Fellowship", "Conference", "Travel", "Exchange", "Internship", "Research",
     "Entrepreneurship", "Leadership", "Training", "Volunteering", "Cultural", "Technology", "Other"];
@@ -68,8 +68,9 @@
 
   function readState() {
     const params = new URLSearchParams(location.search);
-    state = { q: params.get("q") || "", sort: SORTS[params.get("sort")] ? params.get("sort") : "deadline",
-      archive: params.get("archive") === "1", fundingtype: params.get("fundingtype") || "" };
+    const view = findView(params.get("view"));
+    state = { q: params.get("q") || "", sort: SORTS[params.get("sort")] ? params.get("sort") : (view && SORTS[view.sort] ? view.sort : "deadline"),
+      archive: params.get("archive") === "1", fundingtype: params.get("fundingtype") || "", view: view ? view.id : "" };
     for (const filter of FILTERS) state[filter.key] = params.get(filter.key) || "";
   }
 
@@ -79,6 +80,7 @@
     if (state.sort !== "deadline") params.set("sort", state.sort);
     if (state.archive) params.set("archive", "1");
     if (state.fundingtype) params.set("fundingtype", state.fundingtype);
+    if (state.view) params.set("view", state.view);
     for (const filter of FILTERS) if (state[filter.key]) params.set(filter.key, state[filter.key]);
     const query = params.toString();
     history.replaceState(null, "", location.pathname + (query ? "?" + query : "") + location.hash);
@@ -93,7 +95,10 @@
   function apply() {
     const pool = state.archive ? data.records.concat(data.archive) : data.records;
     const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    const view = findView(state.view);
+    const ctx = viewContext(data.meta);
     let rows = pool.filter((rec) => {
+      if (view && !view.test(rec, ctx)) return false;
       if (words.length) {
         const text = searchable(rec);
         if (!words.every((w) => text.includes(w))) return false;
@@ -119,6 +124,7 @@
       return [f.key, f.label + ": " + (option ? option[1] : state[f.key])];
     });
     if (state.fundingtype) active.push(["fundingtype", "Funding: " + state.fundingtype]);
+    if (state.view) active.push(["view", "View: " + findView(state.view).label]);
     if (state.q) active.push(["q", "Search: " + state.q]);
     fill(document.getElementById("active"), 
       active.map(([key, label]) => el("button", {
@@ -126,7 +132,7 @@
         onclick: () => { state[key] = ""; syncControls(); writeState(); render(); }
       }, label, icon("close"))),
       active.length ? el("button", { type: "button", class: "btn ghost small", text: "Reset all",
-        onclick: () => { FILTERS.forEach((f) => { state[f.key] = ""; }); state.q = ""; state.fundingtype = ""; syncControls(); writeState(); render(); } }) : null);
+        onclick: () => { FILTERS.forEach((f) => { state[f.key] = ""; }); state.q = ""; state.fundingtype = ""; state.view = ""; syncControls(); writeState(); render(); } }) : null);
 
     const grid = document.getElementById("grid");
     fill(grid, rows.length ? rows.map((rec) => card(rec, open))
@@ -138,13 +144,39 @@
     document.getElementById("search").value = state.q;
     document.getElementById("sort").value = state.sort;
     document.getElementById("archive").checked = state.archive;
+    paintViews();
     for (const filter of FILTERS) {
       const select = document.getElementById("f-" + filter.key);
       if (select) select.value = state[filter.key];
     }
   }
 
+  function paintViews() {
+    const box = document.getElementById("views");
+    if (!box) return;
+    box.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.view === state.view)));
+    const view = findView(state.view);
+    document.getElementById("view-blurb").textContent = view ? view.blurb : "";
+  }
+
+  function buildViews() {
+    const box = document.getElementById("views");
+    if (!box) return;
+    const choose = (id) => {
+      state.view = id;
+      const view = findView(id);
+      if (view && SORTS[view.sort]) state.sort = view.sort;
+      syncControls(); writeState(); render();
+    };
+    fill(box, el("span", { class: "filter-label", id: "views-label", text: "Views" }),
+      el("button", { type: "button", class: "view-btn", "data-view": "", onclick: () => choose(""), text: "All" }),
+      viewCounts(data.records, data.meta).map(({ view, count }) => el("button", {
+        type: "button", class: "view-btn", "data-view": view.id, onclick: () => choose(state.view === view.id ? "" : view.id)
+      }, view.label, el("span", { class: "view-count", text: String(count) }))));
+  }
+
   function buildControls() {
+    buildViews();
     const all = data.records.concat(data.archive);
     const row = document.getElementById("filters");
     fill(row, FILTERS.map((filter) => {

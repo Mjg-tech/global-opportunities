@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "id": "turkiye-burslari-2027",
+      "decision": "ACCEPT",
+      "reason": "Pilot of step 4. The same session wrote and read this evidence, so it is not an independent human-style review; the independent part is the literal quote check. last_verified is left at 2026-11-09 on purpose: only the evidence pages were re-read today, not every tracked field of the record. The record's verdict (POSSIBLY ELIGIBLE) matches what its criteria allow.",
+      "evidence": [
+        {"url": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms", "quote": "Citizens of all countries"},
+        {"url": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms", "quote": "For master’s programs: being under the age of 30"},
+        {"url": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships", "quote": "Covers your once-off flight ticket."}
+      ]
+    },
+    {
+      "id": "pan-african-university-scholarships",
+      "decision": "ACCEPT",
+      "reason": "Pilot of step 4, same caveat as above. Nationality is UNKNOWN on purpose: the page says 'African countries' and publishes no country list. last_verified is unchanged for the same reason.",
+      "evidence": [
+        {"url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
+         "quote": "The Call will be launched on 15 November and will close on 15 December 2025."},
+        {"url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
+         "quote": "The African Union Commission will offer full scholarships to successful candidates."}
+      ]
+    }
+  ],
+  "lead_outcomes": []
+}

@@ -90,6 +90,8 @@ honesty.
   one is doing (do not edit).
 - `data/scout-queries.json`: the search-phrase bank the planner rotates through.
 - `data/opportunities.json`: the live records.
+- `data/evidence/<id>.json`: per-criterion eligibility, funding detail and cycles written so far. `data/meta.json`
+  `upcoming`: the derived watch list (announced openings and estimates). Neither is edited by hand.
 
 ## The cycle
 
@@ -110,7 +112,8 @@ Replace `DATE` with today's date, `YYYY-MM-DD`.
    the organiser's own page (not the aggregator), read deadline, eligibility and funding there, then write
    a record. A flag (`audience:*`, `check:*`, `risk:*`) is a reason to read the page closely, never a reason
    to skip the lead: a title alone does not establish ineligibility. Report what happened to each lead in
-   `lead_outcomes` (see below); do not edit `data/leads.json`.
+   `lead_outcomes` (see below); do not edit `data/leads.json`. Then work the packet's `evidence_backlog`: for each
+   record, read the organiser's page and add an `evidence` block (see "Evidence block"). New records get one too.
 5. **Discover** (scouts, per channel). Work the `open_in_browser` sources, the watchlist slice, then the
    search phrases and anything they lead to: sponsored delegations, travel grants, youth observer
    programmes, funded summits, study tours, embassy programmes, mobility grants, innovation missions,
@@ -141,8 +144,9 @@ Replace `DATE` with today's date, `YYYY-MM-DD`.
    `apply` runs again. After that round, anything still returned is left out and named in the report.
 9. **Report.** Write `reports/DATE-research.md` with: new records, updated records and what changed,
    closing soon, newly found travel-funded opportunities, strongest apparent eligibility, suspicious or
-   unverified items, expired items, what the judge blocked or returned and why, sources proposed or found
-   blocked, and the action queue.
+   unverified items, expired items, what the judge blocked or returned and why (including `evidence_dropped`),
+   evidence blocks written and how many live records now have criteria (`meta.evidence`), sources proposed or
+   found blocked, and the action queue.
 10. **Publish.** `git add -A`, commit as `Research cycle DATE`, `git pull --rebase`, `git push`. The workflow
     validates and deploys. **Checkpoint rule:** after any upsert that validates with 0 errors, commit and
     push at once as `Research cycle DATE (checkpoint N)`, so a usage-limit stop cannot lose finished work.
@@ -174,6 +178,58 @@ and the commit suffix `(rerun)`; `upsert.py` is run on `research/DATE-rerun/acce
 the organiser's page states a requirement the profile cannot meet (a nationality list without the DRC, a
 degree level the profile lacks, a fee) or shows it is not what it claims; give the `reason` and the `page`.
 An exclusion takes effect only when the judge confirms it. A lead is never deleted.
+
+## Evidence block (per-criterion eligibility, funding detail, cycles)
+
+A record may carry an `evidence` object; `upsert.py` moves it to `data/evidence/<id>.json`. A scout writes it
+for the records in its packet's `evidence_backlog` (open the organiser's page, read it, write it), and for any
+record it promotes. A patch is enough: `{"id": "...", "evidence": {...}}`.
+
+```json
+"evidence": {
+  "criteria": [
+    {"criterion": "nationality", "requirement": "what the organiser requires, in your words",
+     "applicant": "the profile fact used (from data/profile.json only)", "assessment": "MET",
+     "quote": "the organiser's sentence, copied exactly", "page": "https://... (a page in sources[])"},
+    {"criterion": "age", "requirement": "...", "applicant": "Recorded only as under 30.", "assessment": "UNKNOWN",
+     "missing": "exact age and the date the limit is counted on", "quote": "...", "page": "https://..."}
+  ],
+  "funding": [
+    {"item": "airfare", "arrangement": "Paid directly by organiser", "amount": "", "currency": "",
+     "conditions": "one ticket each way", "quote": "...", "page": "https://..."}
+  ],
+  "out_of_pocket": "what the applicant may pay, from confirmed amounts only; Unknown if none",
+  "cycles": [
+    {"cycle": "2026", "state": "HISTORICAL CYCLE", "opens_on": "2026-01-10", "deadline": "2026-02-20",
+     "quote": "...", "page": "https://..."}
+  ]
+}
+```
+
+- `criterion`: nationality, residence, age, education, discipline, graduation, enrolment, experience, language,
+  language_certificate, passport, employment, business, other. One entry per requirement; two education entries
+  (degree held, grade needed) are fine.
+- `assessment`: `MET` and `NOT MET` name the applicant fact used. `UNKNOWN` names the missing fact: use it
+  whenever the profile does not record what the criterion needs (exact age, gender, grade, language test).
+  `NOT STATED` means the page is silent on this criterion and needs no quote.
+- **Nationality.** `MET` needs a quote that names the DRC or says all nationalities or all countries. "African
+  countries" or "Africa" alone is `UNKNOWN` (no country list on the page) until a sentence or list settles it.
+- The record's `eligibility_for_me` may never be higher than the criteria allow: one `NOT MET` means NOT
+  ELIGIBLE; any `UNKNOWN` means at most POSSIBLY ELIGIBLE; LIKELY needs the nationality rule read. Lower is fine.
+- `funding.item`: tuition, airfare, accommodation, meals, daily_allowance, visa_fees, insurance, local_transport,
+  airport_transfers, participation_fee, training, study_materials, other_support. `arrangement`: Paid directly by
+  organiser, Reimbursed after purchase, Covered through an allowance, Partially covered, Not covered, Unknown.
+  An amount always has a currency. The record's `coverage` may not say more than these lines support.
+- `cycles.state`: `HISTORICAL CYCLE` and `CONFIRMED CURRENT CYCLE` need a quote and a page. `EXPECTED NEXT CYCLE`
+  says `basis`: `organiser states` (needs a quote and a page) or `pattern`; it never has a `deadline`. Predictions
+  are never application dates. `NOT YET ANNOUNCED` is for a programme with nothing to compare.
+- Every `page` must be listed in the record's `sources[]`. Do not put personal data in any field.
+- An evidence-only patch leaves `last_verified` alone: it was not a re-read of the deadline, funding and
+  eligibility fields. Set it to today only if you re-read and compared every tracked field (step 2).
+
+The judge re-reads the pages. If a quote is not on its page, or cannot be read and no `via` is declared, the whole
+evidence block is dropped (the record is kept) and `judge-report.json` lists it under `evidence_dropped`; fix and
+resubmit it next cycle. A wrong assessment is a `RETURN`.
 
 ## Judge output: `research/DATE/judge/verdicts.json`
 
@@ -209,9 +265,13 @@ How the judge works:
    it is true. Without it, a page the checker cannot read leaves the quote unproven and the record is held
    back. If nobody can read the page, the record is a warning: NEEDS VERIFICATION with LOW confidence,
    which needs no quote.
-5. Answer every `review` finding that `judge.py check` printed. Be hardest on the findings that raise
+5. For a record with `evidence`, compare each assessment with its quote and with `data/profile.json`: a `MET` the
+   quote does not support, an Africa-wide sentence taken as proof of the DRC, an amount without its condition, or
+   a coverage claim stronger than the funding lines are `RETURN`s. The mechanical gate only proves the quotes
+   exist; whether they mean what the scout says is your job.
+6. Answer every `review` finding that `judge.py check` printed. Be hardest on the findings that raise
    trust (`raised:*`), remove or change a deadline, or involve a fee.
-6. For each scout `lead_outcomes` exclusion, `CONFIRM` only if the page states the unmet requirement in
+7. For each scout `lead_outcomes` exclusion, `CONFIRM` only if the page states the unmet requirement in
    words you can quote; otherwise `OVERTURN` and the lead stays under review. An exclusion is the costliest
    mistake the pipeline can make: a good opportunity nobody sees again.
 
@@ -257,7 +317,8 @@ Only a source you opened and probed this cycle goes in `data/source-registry.jso
   set `open_now: true`.
 - Cycle closed, next one not announced: leave the date empty, set `last_cycle_deadline` if a
   page states it, and describe the evidence in `expected_next_cycle`. Never write a future date
-  that no page states.
+  that no page states. The site's estimate for the next cycle is computed from `last_cycle_deadline`, the archive
+  and `evidence.cycles`; do not write it into the record.
 - `coverage`: one of Covered, Partially covered, Not covered, Not specified, Not applicable for
   each expense. Online programmes use Not applicable for travel expenses.
 - `eligibility_for_me`: LIKELY ELIGIBLE only when every stated criterion is met by the recorded

@@ -28,6 +28,8 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 
 import leadfilter as LF
+import cycles as CY
+import evidence as EV
 import oplib as L
 import sourcelib as S
 
@@ -359,6 +361,13 @@ def build_meta(db: dict, archive: dict, today: dt.date, extra: dict) -> dict:
                 buckets[str(limit)].append(rec["id"])
                 break
     meta = L.load(L.META, {})
+    stored = EV.load_all()
+    # Derived, never written back to a record: confirmed openings, estimates and the programmes with no pattern yet.
+    meta["upcoming"] = CY.watch_list(records, stored, archive["opportunities"], today)
+    meta["evidence"] = {"files": len(stored), "ids": sorted(i for i, e in stored.items() if e.get("criteria") or e.get("funding") or e.get("cycles")),
+                        "records_with_criteria": sum(1 for r in records if stored.get(r["id"], {}).get("criteria")),
+                        "records_with_funding_detail": sum(1 for r in records if stored.get(r["id"], {}).get("funding")),
+                        "live_records": len(records)}
     meta.update({"schema_version": 1,
                  "last_refresh": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
                  "counts": counts, "deadline_buckets": buckets})
@@ -424,6 +433,16 @@ def write_report(db: dict, meta: dict, today: dt.date) -> None:
     lines += ["", "## Feed health", "", "| Feed | Tier | HTTP | Items | New leads | Alert |", "|---|---|---|---|---|---|"]
     lines += [f"| {f['name']} | {f['tier']} | {f['status']} | {f['items']} | {f['new']} | {f.get('alert') or ''} |"
               for f in meta.get("feeds", [])] or ["| (not run) | | | | | |"]
+    upcoming = meta.get("upcoming", {})
+    soon = [i for i in upcoming.get("items", []) if i.get("check_now")]
+    lines += ["", "## Upcoming to watch", "",
+              "Derived each day; estimates come from earlier cycles and are not announced dates.", "",
+              f"- {len(upcoming.get('items', []))} programmes to watch, {len(upcoming.get('not_yet_announced', []))} "
+              f"with no earlier cycle to compare, {upcoming.get('left_out_not_eligible', 0)} not eligible left out"]
+    lines += [f"- check the official page now: {i['title']} ({i['phase'].lower()}: {i['window_text']})" for i in soon]
+    ev = meta.get("evidence", {})
+    lines += [f"- evidence files: {ev.get('files', 0)} ({ev.get('records_with_criteria', 0)} of {ev.get('live_records', 0)} "
+              "live records have per-criterion eligibility)"]
     path = L.ROOT / "reports" / "latest.md"
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")

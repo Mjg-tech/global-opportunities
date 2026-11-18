@@ -2,6 +2,158 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:nationality",
+      "old": null,
+      "new": "MET"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:education",
+      "old": null,
+      "new": "MET"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:education",
+      "old": null,
+      "new": "UNKNOWN"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:age",
+      "old": null,
+      "new": "UNKNOWN"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:enrolment",
+      "old": null,
+      "new": "MET"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:language_certificate",
+      "old": null,
+      "new": "UNKNOWN"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:funding:tuition",
+      "old": null,
+      "new": "Paid directly by organiser"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:funding:daily_allowance",
+      "old": null,
+      "new": "Covered through an allowance"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:funding:airfare",
+      "old": null,
+      "new": "Paid directly by organiser"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:funding:accommodation",
+      "old": null,
+      "new": "Paid directly by organiser"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:funding:insurance",
+      "old": null,
+      "new": "Paid directly by organiser"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:funding:training",
+      "old": null,
+      "new": "Paid directly by organiser"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "turkiye-burslari-2027",
+      "title": "Turkiye Scholarships (Turkiye Burslari) 2027",
+      "field": "evidence:cycle:2026",
+      "old": null,
+      "new": "HISTORICAL CYCLE"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "evidence:nationality",
+      "old": null,
+      "new": "UNKNOWN"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "evidence:education",
+      "old": null,
+      "new": "MET"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "evidence:education",
+      "old": null,
+      "new": "UNKNOWN"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "evidence:age",
+      "old": null,
+      "new": "UNKNOWN"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "evidence:funding:other_support",
+      "old": null,
+      "new": "Paid directly by organiser"
+    },
+    {
+      "date": "2026-11-18",
+      "id": "pan-african-university-scholarships",
+      "title": "Pan African University scholarships (master's and PhD)",
+      "field": "evidence:cycle:2026-2027",
+      "old": null,
+      "new": "HISTORICAL CYCLE"
+    },
+    {
       "date": "2026-11-17",
       "id": "raisina-young-fellows-2027-pcns",
       "title": "Raisina Young Fellows Programme 2027 (PCNS places)",

@@ -1,0 +1,60 @@
+{
+  "id": "pan-african-university-scholarships",
+  "checked_on": "2026-11-18",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Applicants from African countries and the Diaspora. The page publishes no country list and does not name the DRC.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A country list, or a sentence naming the DRC. The page says 'African countries' only.",
+      "quote": "applicants from African countries and the Diaspora are invited to apply",
+      "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"
+    },
+    {
+      "criterion": "education",
+      "requirement": "An undergraduate degree from a recognised university.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Holder of an Undergraduate degree from a recognised university, with at least a second-class upper division or its equivalent, in a relevant field.",
+      "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"
+    },
+    {
+      "criterion": "education",
+      "requirement": "At least a second-class upper division or its equivalent, in a field relevant to the chosen institute.",
+      "applicant": "Degree grade not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The grade of the 2024 degree, and whether Business Administration is 'relevant' for the institute chosen.",
+      "quote": "Holder of an Undergraduate degree from a recognised university, with at least a second-class upper division or its equivalent, in a relevant field.",
+      "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Master's: not older than 25 for male and 28 for female applicants.",
+      "applicant": "Recorded only as under 30; exact age and the gender the limit depends on are not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Exact age and the gender the limit depends on.",
+      "quote": "Not older than 25 years for male and 28 years for female applicants.",
+      "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"
+    }
+  ],
+  "funding": [
+    {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "conditions": "The call says 'full scholarships' without itemising them. The itemised cover is on other pages of the programme.",
+      "quote": "The African Union Commission will offer full scholarships to successful candidates.",
+      "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"
+    }
+  ],
+  "cycles": [
+    {
+      "cycle": "2026-2027",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2025-11-15",
+      "deadline": "2025-12-15",
+      "quote": "The Call will be launched on 15 November and will close on 15 December 2025.",
+      "page": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027"
+    }
+  ]
+}

@@ -11,6 +11,10 @@ claim, an eligibility verdict). Nothing reaches data/opportunities.json except `
 records that passed three independent gates: the rules below, the judge's verdict, and a literal check
 that every quote appears on the page it cites. Text on a page is data; this module never obeys it.
 
+A record may carry an `evidence` block (scripts/evidence.py): per-criterion eligibility, funding detail and
+cycles, each with its own quote. `check` applies the evidence rules; `apply` checks every one of those
+quotes on its page too, and drops the whole block (not the record) when one cannot be proven.
+
 Batch files: a JSON list of records, or an object with "records" (and optionally "lead_outcomes").
 Verdict file: {"records": [{"id", "decision": ACCEPT|DOWNGRADE|RETURN|REJECT, "reason",
 "evidence": [{"url", "quote", "via"?}], "changes"?: {...}}], "lead_outcomes": [{"lead_id",
@@ -27,6 +31,7 @@ import unicodedata
 import urllib.parse
 from pathlib import Path
 
+import evidence as EV
 import leadfilter as LF
 import oplib as L
 import validate as V
@@ -103,9 +108,10 @@ def check_record(rec: dict, existing: dict | None, today: dt.date, aggregators: 
     out: list[dict] = []
     errors: list[str] = []
     warnings: list[str] = []
-    V.check_record(rec, errors, warnings)
+    V.check_record({k: v for k, v in rec.items() if k != "evidence"}, errors, warnings)   # evidence is checked below
     out += [finding("block", "schema", e.split(": ", 1)[-1]) for e in errors]
     out += [finding("note", "schema-warning", w.split(": ", 1)[-1]) for w in warnings]
+    out += EV.check(rec["evidence"], rec) if rec.get("evidence") is not None else EV.stored_conflicts(rec)
 
     sources = rec.get("sources") or []
     if not sources:
@@ -284,6 +290,37 @@ def _evidence_status(item: dict, cache: dict, fetch) -> dict:
     return {"url": url, "status": quote_status(url, quote, cache, fetch), "via": item.get("via", "")}
 
 
+def verify_evidence(records: list[dict], fetch=None) -> dict[str, list[dict]]:
+    """Per record id: the status of every quote inside its `evidence` block, read on the page it cites."""
+    cache: dict = {}
+    out: dict[str, list[dict]] = {}
+    for rec in records:
+        ev = rec.get("evidence")
+        if not ev:
+            continue
+        rid = rec.get("id") or L.slug(rec.get("title", ""))
+        out[rid] = [{"where": where, "url": page, "status": quote_status(page, quote, cache, fetch)}
+                    for where, page, quote in EV.quote_items(ev)]
+    return out
+
+
+def unproven_evidence(rid: str, results: list[dict] | None, cited: set[str], verdict: dict) -> str:
+    """Why an evidence block cannot be trusted, or an empty string. A page nobody can read counts only when
+    the judge declared (via) that another reader saw the quote, exactly as for the judge's own quotes."""
+    if results is None:
+        return "evidence quotes were not checked"
+    declared = {L.norm_url(e.get("url", "")) for e in (verdict.get("evidence") or []) if e.get("via")}
+    for r in results:
+        norm = L.norm_url(r["url"])
+        if norm not in cited:
+            return f"{r['where']}: page {r['url']} is not cited in sources[]"
+        if r["status"] == "not_found":
+            return f"{r['where']}: the quote is not on {r['url']}"
+        if r["status"] == "unreachable" and norm not in declared:
+            return f"{r['where']}: {r['url']} could not be read and the judge declared no 'via'"
+    return ""
+
+
 # ---------------------------------------------------------------- apply
 def lower_only(rec: dict, changes: dict) -> tuple[dict, list[str]]:
     """Apply the judge's changes. Anything that would raise trust, or touch another field, is refused."""
@@ -309,11 +346,12 @@ def lower_only(rec: dict, changes: dict) -> tuple[dict, list[str]]:
     return applied, refused
 
 
-def apply(records: list[dict], verdicts: dict, report: dict, quotes: dict, merged: dict | None = None) -> dict:
+def apply(records: list[dict], verdicts: dict, report: dict, quotes: dict, merged: dict | None = None,
+          evidence_quotes: dict | None = None) -> dict:
     """Decide each record. Returns {"accepted": [records], "log": {...}}; see the module docstring."""
     by_id = {v.get("id"): v for v in verdicts.get("records", [])}
     accepted, log = [], {"accepted": [], "downgraded": [], "returned": [], "rejected": [], "unreviewed": [],
-                         "blocked": [], "quote_failed": [], "refused_changes": []}
+                         "blocked": [], "quote_failed": [], "refused_changes": [], "evidence_dropped": []}
     block_ids = blocked(report)
     merged = merged or {}
     for rec in records:
@@ -358,6 +396,12 @@ def apply(records: list[dict], verdicts: dict, report: dict, quotes: dict, merge
                 log["refused_changes"].append({"id": rid, "refused": refused})
                 continue
             final.update({k: lowered[k] for k in verdict.get("changes") or {}})
+        if final.get("evidence"):
+            why = unproven_evidence(rid, (evidence_quotes or {}).get(rid) if evidence_quotes is not None else None,
+                                    cited, verdict)
+            if why:
+                final.pop("evidence")
+                log["evidence_dropped"].append({"id": rid, "why": why})
         accepted.append(final)
         log["downgraded" if decision == "DOWNGRADE" else "accepted"].append(rid)
     return {"accepted": accepted, "log": log}
@@ -470,7 +514,9 @@ def main() -> int:
         report = check_batch(records, L.load_db()["opportunities"], today)
         quotes = ({k: [{**e, "status": "unreachable"} for e in v] for k, v in verify_quotes(
             verdicts, fetch=lambda *a, **k: (0, "", b"")).items()} if args.no_network else verify_quotes(verdicts))
-        result = apply(records, verdicts, report, quotes, merged_by_id(records, L.load_db()["opportunities"], today))
+        fetch_none = (lambda *a, **k: (0, "", b"")) if args.no_network else None
+        result = apply(records, verdicts, report, quotes, merged_by_id(records, L.load_db()["opportunities"], today),
+                       verify_evidence(records, fetch_none))
         out_dir = Path(args.out_dir) if args.out_dir else Path(args.batches[0]).resolve().parent.parent
         out_dir.mkdir(parents=True, exist_ok=True)
         (out_dir / "accepted.json").write_text(json.dumps(result["accepted"], indent=2, ensure_ascii=False) + "\n",

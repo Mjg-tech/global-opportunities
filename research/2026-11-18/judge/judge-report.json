@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-18",
+  "accepted": [
+    "turkiye-burslari-2027",
+    "pan-african-university-scholarships"
+  ],
+  "downgraded": [],
+  "returned": [],
+  "rejected": [],
+  "unreviewed": [],
+  "blocked": [],
+  "quote_failed": [],
+  "refused_changes": [],
+  "evidence_dropped": [],
+  "findings": {
+    "turkiye-burslari-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-09: was this page read in this cycle?"
+      }
+    ],
+    "pan-african-university-scholarships": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-09: was this page read in this cycle?"
+      }
+    ]
+  }
+}

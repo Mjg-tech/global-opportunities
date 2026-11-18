@@ -54,6 +54,18 @@
       </div>
     </div>
 
+    <section class="panel watch" aria-labelledby="watch-title">
+      <div class="panel-head">
+        <h2 id="watch-title">Upcoming to watch</h2>
+        <a href="opportunities.html?view=future">All future opportunities</a>
+      </div>
+      <p class="panel-sub">Programmes that are not open yet. An announced opening comes from the organiser's page. An estimate comes only from earlier cycles and is never an application date.</p>
+      <div id="watch"></div>
+    </section>
+
+    <h2 class="section-title">Browse by view</h2>
+    <section class="view-grid" id="view-grid" aria-label="Views"></section>
+
     <h2 class="section-title">What is in the database</h2>
     <div class="charts" id="charts"></div>
 
@@ -94,6 +106,15 @@
           </ul>
         </div>
         <div>
+          <h3>Application cycles</h3>
+          <ul>
+            <li><strong>Confirmed current cycle</strong> A page states that applications are open or gives a deadline.</li>
+            <li><strong>Expected next cycle</strong> No date is announced. Either the organiser states a period, or earlier cycles suggest one (an estimate).</li>
+            <li><strong>Earlier cycle</strong> A closed cycle, kept for comparison.</li>
+            <li><strong>Not yet announced</strong> A recurring programme with no earlier cycle on record to compare with.</li>
+          </ul>
+        </div>
+        <div>
           <h3>Profile used</h3>
           <ul id="profile"></ul>
         </div>
@@ -107,6 +128,7 @@
   </footer>
 
   <script src="assets/js/app.js"></script>
+  <script src="assets/js/views.js"></script>
   <script src="assets/js/dashboard.js"></script>
 </body>
 </html>

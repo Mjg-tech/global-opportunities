@@ -3,14 +3,14 @@
 (function () {
   "use strict";
   const { el, fill, icon, statusOf, daysLeft, timeLeftLabel, fmtDate, fmtDateTime, deadlineSummary, badge,
-    STATUS_META, ELIG_META, ELIG_ORDER, openDetail, loadAll, initTheme, showError, known, safeUrl } = window.OI;
+    STATUS_META, ELIG_META, ELIG_ORDER, openDetail, loadAll, initTheme, showError, known, safeUrl, viewCounts } = window.OI;
 
   const SCOPES = {
     all: { label: "Everything tracked", test: () => true },
     open: { label: "Not ruled out", test: (r) => r.eligibility_for_me !== "NOT ELIGIBLE" },
     likely: { label: "Likely eligible only", test: (r) => r.eligibility_for_me === "LIKELY ELIGIBLE" }
   };
-  let state = { scope: "all" };
+  let state = { scope: "all", watchAll: false };
   let data = null;
   let tooltip = null;
 
@@ -83,6 +83,41 @@
     }
     return [...counts.entries()].map(([key, value]) => ({ key, label: key, value }))
       .sort((a, b) => b.value - a.value || a.label.localeCompare(b.label));
+  }
+
+  /* ------------------------------------------------------------ upcoming to watch */
+  const SHOWN = 8;
+
+  function renderWatch(records, open) {
+    const upcoming = (data.meta && data.meta.upcoming) || {};
+    const inScope = new Set(records.map((r) => r.id));
+    const items = (upcoming.items || []).filter((i) => inScope.has(i.id));
+    const box = document.getElementById("watch");
+    if (!upcoming.items) {
+      fill(box, el("p", { class: "muted", text: "The daily refresh has not produced this list yet." }));
+      return;
+    }
+    const shown = state.watchAll ? items : items.slice(0, SHOWN);
+    const noPattern = (upcoming.not_yet_announced || []).filter((i) => inScope.has(i.id)).length;
+    fill(box,
+      items.length ? el("ol", { class: "watch-list" }, shown.map((item) => {
+        const estimate = item.basis === "pattern";
+        const rec = data.records.find((r) => r.id === item.id);
+        return el("li", { class: "watch-item" },
+          el("div", { class: "watch-main" },
+            el("button", { type: "button", class: "linklike queue-title", onclick: () => open(item.id), text: item.title }),
+            el("p", { class: "queue-meta" },
+              badge({ tone: estimate ? "info" : "good", icon: "calendar", label: estimate ? "Estimate" : item.basis === "organiser states" ? "Organiser states a period" : "Announced" }),
+              el("span", { class: "queue-deadline" }, item.window_text),
+              rec ? badge(ELIG_META[rec.eligibility_for_me]) : null,
+              item.check_now ? el("span", { class: "tag", text: "Read the official page now" }) : null),
+            estimate ? el("p", { class: "small muted", text: "Based on " + item.pattern + ". Not an announced date." }) : null,
+            known(item.organiser_text) ? el("p", { class: "small muted", text: item.organiser_text.length > 200 ? item.organiser_text.slice(0, 197) + "..." : item.organiser_text }) : null));
+      })) : el("p", { class: "muted", text: "Nothing to watch in this scope." }),
+      items.length > SHOWN ? el("button", { type: "button", class: "btn ghost small", onclick: () => { state.watchAll = !state.watchAll; render(); },
+        text: state.watchAll ? "Show fewer" : "Show all " + items.length }) : null,
+      el("p", { class: "small muted", text: noPattern + " recurring programmes have no earlier cycle on record to compare with, so no estimate is given. "
+        + (upcoming.left_out_not_eligible || 0) + " not-eligible programmes are left out of this list." }));
   }
 
   /* ------------------------------------------------------------ render */
@@ -185,6 +220,11 @@
             rec ? el("button", { type: "button", class: "linklike", onclick: () => open(f.id), text: rec.title }) : f.id,
             el("span", { class: "muted small", text: " " + f.detail }));
         })))) : null);
+
+    renderWatch(records, open);
+
+    fill(document.getElementById("view-grid"), viewCounts(records, data.meta).map(({ view, count }) =>
+      tile(view.label, count, "opportunities.html?view=" + view.id + (state.scope === "likely" ? "&eligibility=LIKELY%20ELIGIBLE" : ""))));
 
     // charts
     fill(document.getElementById("charts"), 

@@ -10,6 +10,7 @@ from __future__ import annotations
 import re
 import sys
 
+import evidence as EV
 import oplib as L
 import sourcelib as S
 
@@ -96,6 +97,8 @@ def check_record(rec: dict, errors: list[str], warnings: list[str]) -> None:
         warn("deadline date set but deadline_text (original wording) is empty")
     if rec.get("source_confidence") == "LOW" and not rec.get("potential_issues"):
         err("LOW confidence records must explain why in potential_issues")
+    if "evidence" in rec:
+        err("an evidence block belongs in data/evidence/<id>.json, not in the record (scripts/upsert.py moves it)")
 
 
 def main() -> int:
@@ -118,6 +121,17 @@ def main() -> int:
         if not rec.get("archive_id"):
             errors.append(f"archive: {rec.get('id')} has no archive_id")
 
+    live = {r.get("id"): r for r in db["opportunities"]}
+    archived = {a.get("id") for a in archive["opportunities"]}
+    evidence_files = EV.load_all()
+    for rid, ev in evidence_files.items():
+        if ev.get("id") != rid:
+            errors.append(f"evidence/{rid}.json: id inside the file is {ev.get('id')!r}")
+        if rid not in live and rid not in archived:
+            errors.append(f"evidence/{rid}.json: no live or archived record has this id")
+        for item in EV.check(ev, live.get(rid)):
+            (errors if item["severity"] == "block" else warnings).append(f"evidence/{rid}.json: {item['rule']}: {item['message']}")
+
     registry = S.load_registry()
     errors += S.validate_registry(registry, L.today_utc())
     state = S.load_state().get("sources", {})
@@ -135,7 +149,7 @@ def main() -> int:
     for line in errors:
         print("ERROR:", line)
     print(f"validate: {len(db['opportunities'])} live records, {len(archive['opportunities'])} archived, "
-          f"{len(errors)} errors, {len(warnings)} warnings")
+          f"{len(errors)} errors, {len(warnings)} warnings, {len(evidence_files)} evidence files")
     return 1 if errors else 0
 
 

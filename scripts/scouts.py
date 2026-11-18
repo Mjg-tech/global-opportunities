@@ -18,6 +18,7 @@ import re
 import sys
 from pathlib import Path
 
+import evidence as EV
 import leadfilter as LF
 import oplib as L
 import sourcelib as S
@@ -57,6 +58,7 @@ _GUESS = [
 ]
 OPEN_STATUSES = {"NEW", "UNDER REVIEW", "OFFICIAL SOURCE FOUND", "VERIFICATION REQUIRED"}
 QUERIES_PER_LANGUAGE = {"en": 4, "fr": 2, "pt": 1, "es": 1}
+EVIDENCE_PER_SCOUT = 3           # records per channel per week that get their per-criterion evidence written
 
 
 def guess_channel(text: str) -> str:
@@ -91,8 +93,21 @@ def pick_queries(bank: dict, channel: str, today: dt.date) -> list[dict]:
     return chosen
 
 
+def evidence_backlog(records: list[dict], stored: dict, today: dt.date) -> list[dict]:
+    """Live records with no per-criterion evidence yet, most useful first: open and soonest-closing, then
+    upcoming, never the ones already ruled out."""
+    todo = [r for r in records if not (stored.get(r["id"]) or {}).get("criteria")
+            and r.get("eligibility_for_me") != "NOT ELIGIBLE"]
+    order = {"CLOSING SOON": 0, "OPEN": 1, "ROLLING": 2, "UPCOMING": 3, "DATE UNKNOWN": 4, "DEADLINE PASSED": 5}
+    todo.sort(key=lambda r: (order.get(L.compute_status(r, today), 9), r.get("application_deadline") or "9999", r["id"]))
+    return [{"id": r["id"], "title": r.get("title", ""), "status": L.compute_status(r, today),
+             "official_page": r.get("official_information_url") or r.get("source_url", ""),
+             "has_funding_detail": bool((stored.get(r["id"]) or {}).get("funding"))} for r in todo]
+
+
 def build_plan(today: dt.date, registry: dict, state: dict, leads: list[dict], watchlist: list[dict],
-               records: list[dict], meta: dict, bank: dict, leads_per_scout: int = 12) -> dict:
+               records: list[dict], meta: dict, bank: dict, leads_per_scout: int = 12,
+               stored_evidence: dict | None = None) -> dict:
     sources = registry.get("sources", [])
     source_channels = {S.spec_of(s)["name"]: s.get("channel", "") for s in sources}
     state = state.get("sources", {})
@@ -108,7 +123,7 @@ def build_plan(today: dt.date, registry: dict, state: dict, leads: list[dict], w
                          "trial_would_be_leads": state.get(s["source_id"], {}).get("trial_would_be_leads"),
                          "note": s.get("verification_note", "")} for s in mine],
             "open_in_browser": [s["official_opportunities_url"] for s in mine if s["status"] == "manual"],
-            "leads": [], "watchlist": [], "queries": pick_queries(bank, key, today)}
+            "leads": [], "watchlist": [], "queries": pick_queries(bank, key, today), "evidence_backlog": []}
 
     rules = LF.load_rules()
     migrated = [LF.migrate_lead(dict(x), today, rules) for x in leads]    # copies: works before the daily job migrates
@@ -124,6 +139,14 @@ def build_plan(today: dt.date, registry: dict, state: dict, leads: list[dict], w
         bucket = channels[guess_channel(f"{item.get('name', '')} {item.get('why', '')[:240]}")]["watchlist"]
         if len(bucket) < 6:
             bucket.append({"name": item.get("name", ""), "next_step": item.get("next_step", "")})
+
+    by_id = {r["id"]: r for r in records}
+    for item in evidence_backlog(records, stored_evidence or {}, today):
+        rec = by_id[item["id"]]
+        text = f"{rec.get('title', '')} {rec.get('organization', '')} {' '.join(rec.get('category') or [])}"
+        bucket = channels[guess_channel(text)]["evidence_backlog"]
+        if len(bucket) < EVIDENCE_PER_SCOUT:
+            bucket.append(item)
 
     flagged = [f["id"] for f in meta.get("flags", [])]
     closing = [r["id"] for r in records if (L.days_remaining(r, today) is not None
@@ -150,14 +173,15 @@ def main() -> int:
     result = build_plan(
         today, S.load_registry(), S.load_state(), L.load(L.LEADS, {"leads": []})["leads"],
         L.load(L.SOURCES, {}).get("research_watchlist", []), L.load_db()["opportunities"], L.load(L.META, {}),
-        L.load(QUERIES, {}), args.leads_per_scout)
+        L.load(QUERIES, {}), args.leads_per_scout, EV.load_all())
     out = Path(args.out) if args.out else L.ROOT / "research" / today.isoformat() / "scouts" / "plan.json"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(result, indent=2, ensure_ascii=False) + "\n", encoding="utf-8", newline="\n")
     print(f"plan for {today} (ISO week {result['iso_week']}) written to {out}")
     for key, ch in result["channels"].items():
         print(f"  {key} {ch['name']:<34} sources {len(ch['sources']):>2} (browser {len(ch['open_in_browser'])}) "
-              f"leads {len(ch['leads']):>2} watchlist {len(ch['watchlist'])} queries {len(ch['queries'])}")
+              f"leads {len(ch['leads']):>2} watchlist {len(ch['watchlist'])} queries {len(ch['queries'])} "
+              f"evidence {len(ch['evidence_backlog'])}")
     orch = result["orchestrator"]
     print(f"  orchestrator: reverify {len(orch['reverify_flagged'])} flagged + {len(orch['reverify_closing_30_days'])} "
           f"closing, {len(orch['seen_again'])} seen again, {len(orch['recurring_without_deadline'])} recurring without a date")

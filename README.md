@@ -50,6 +50,7 @@ opportunities.html      explorer: search, filters, sorting, cards, detail view
 leads.html              unverified leads found by the daily refresh: score, flags, paging, feed health
 assets/css/style.css    one stylesheet, light and dark
 assets/js/app.js        shared: data loading, status rules, badges, cards, detail dialog
+assets/js/views.js      the eleven preset views (shared by the dashboard and the explorer)
 assets/js/*.js          one script per page
 data/opportunities.json the database (live records)
 data/profile.json       anonymous applicant profile used for the eligibility labels
@@ -61,14 +62,16 @@ data/leads.json         active unverified leads, each with a status, score and f
 data/lead-rules.json    retention and scoring numbers for leads (cap, expiry, weights)
 data/lead-audit.json    every title the lead filters set aside, with the reason (90 days)
 data/meta.json          counts, deadline buckets, feed health, flags (written by the refresh)
-data/changelog.json     every change to a tracked field, newest first
+data/changelog.json     every change to a tracked field (and to evidence), newest first
+data/evidence/<id>.json per-criterion eligibility, funding detail and application cycles of one record
 data/watch-state.json   HTTP status and date-line fingerprint of each official page
 archive/archive.json    closed cycles and retired records (never deleted)
 archive/leads-archive.json  leads that expired, were published, were closed by research, or fell below the cap
 research/YYYY-MM-DD/    one research cycle: scouts/ (plan and one file per channel), judge/ (verdicts and report), accepted.json
 tests/                  unit tests and the discovery benchmark (python -m unittest discover -s tests)
 reports/                latest.md (generated daily), one report per research cycle, one audit per month
-scripts/                oplib.py, leadfilter.py, sourcelib.py, sources.py, scouts.py, judge.py, audit.py, upsert.py,
+scripts/                oplib.py, leadfilter.py, sourcelib.py, sources.py, scouts.py, judge.py, audit.py, evidence.py,
+                        cycles.py, upsert.py,
                         validate.py, refresh.py, integrity.py, measure.py (standard library only)
 AGENTS.md               runbook for the research cycle
 ```
@@ -327,6 +330,52 @@ the registry sources that fail or yield nothing, and the titles to add to `tests
 stratum above 10% means a filter or retention rule must change, and the applicant approves changes that alter
 what is thrown away.
 
+## Evidence, cycles and views
+
+**Evidence files** (`data/evidence/<record-id>.json`) hold the detail behind a record's one-line verdict.
+The record stays the summary; the file adds, each with the page and the sentence it came from:
+
+- *criteria*: one entry per requirement (nationality, age, education, grade, language certificate, enrolment...)
+  with the organiser's requirement, the applicant fact used, and `MET`, `NOT MET`, `UNKNOWN` (naming the missing
+  fact) or `NOT STATED`;
+- *funding*: one entry per expense (tuition, airfare, accommodation, meals, allowance, visa fees, insurance,
+  local transport, airport transfers, fees, training, materials) with who pays (`Paid directly by organiser`,
+  `Reimbursed after purchase`, `Covered through an allowance`, `Partially covered`, `Not covered`, `Unknown`),
+  the amount and currency when stated, the conditions, and `out_of_pocket`;
+- *cycles*: earlier and expected editions (`HISTORICAL CYCLE`, `CONFIRMED CURRENT CYCLE`,
+  `EXPECTED NEXT CYCLE`, `NOT YET ANNOUNCED`). Cycles accumulate: a new cycle never replaces an old one.
+
+A scout supplies it as the key `evidence` inside a batch record; `scripts/upsert.py` moves it into the file, so
+`opportunities.json` stays small and a record never carries it. Rules (`scripts/evidence.py`):
+
+| Rule | What it prevents |
+|---|---|
+| The verdict can never be higher than the criteria allow | a record saying LIKELY ELIGIBLE with an unknown age, or anything but NOT ELIGIBLE beside a `NOT MET`. LIKELY also needs the nationality rule read |
+| An Africa-wide sentence does not prove the DRC | `MET` on nationality needs a quote that names the DRC or says all nationalities, otherwise the judge must answer a `review` |
+| The record's `coverage` may not claim more than the funding evidence supports | "flight covered" when the page says nothing about flights |
+| An amount needs a currency and a payer | invented or unattached figures |
+| A predicted cycle never carries a date | a guess becoming a deadline |
+| Every quote must be on the page it cites | the judge's gate (`judge.py apply`) re-reads each page; one quote that cannot be proven drops the whole evidence block, never the record |
+
+**Cycles and "Upcoming to watch".** `scripts/cycles.py` reads each live record, the archived snapshots of its
+closed cycles and its evidence cycles, and the daily refresh writes the result to `data/meta.json` under
+`upcoming`. It never writes a record. An opening the organiser announced is shown as *Announced*. A programme
+with no date but with earlier cycles is shown as an *Estimate*: the next occurrence of the last deadline's
+month, labelled with how many earlier cycles it rests on and flagged "read the official page now" inside 90 days.
+Recurring programmes with no earlier cycle on record get no estimate. Not-eligible programmes are left out and
+counted. The dashboard panel and `reports/latest.md` show the list.
+
+**Views.** The explorer has eleven preset views (`assets/js/views.js`): Recommended, Fully funded, International
+travel, Scholarships and fellowships, Conferences and events, Youth and leadership, Entrepreneurship and
+innovation, International volunteering, Future opportunities, New discoveries, Needs verification. A view is a
+saved question over the same records, opened as `opportunities.html?view=<id>`; it combines with every filter and
+is shown with its definition. The dashboard shows each view's count.
+
+**Weekly backlog.** The planner gives each scout up to three live records without criteria
+(`evidence_backlog`: open and soonest-closing first, never the ruled-out ones), so the 80 records gain evidence
+over a few weeks instead of in one expensive pass. The detail view shows the criteria, funding and cycle sections
+only for records that have an evidence file.
+
 ## Tests
 
 ```
@@ -367,3 +416,7 @@ Pages carry `noindex` so search engines are asked not to list them.
   verification label; a person should open the page in a browser.
 - Leads are titles and links from aggregators. They are not checked by the daily refresh.
 - Programme rules change. The `last_verified` date on each record says how old the check is.
+- Per-criterion evidence exists only for records a scout has worked through (two pilots on 2026-11-18, then
+  about fifteen a week). A record without it still shows its summary fields; the detail view says nothing more.
+- A cycle estimate repeats last year's month. It cannot know that a programme changed its calendar, which is why
+  it is labelled an estimate and always sits beside the organiser's own text.
