@@ -113,7 +113,7 @@
   },
   "glocal-erasmus-mundus-2027": {
     "url": "https://globallocal-erasmusmundus.eu/",
-    "status": 0,
+    "status": 202,
     "checked": "2026-11-18",
     "fingerprint": "2a120ea2e4592154",
     "changed_on": "",
@@ -441,7 +441,7 @@
   },
   "rlrh-graduate-horizons-2027": {
     "url": "https://help.unhcr.org/rwanda/2026/10/02/call-for-applications-to-mentorship-for-masters-degree-and-scholarship-application-deadline-25-october-2026/",
-    "status": 403,
+    "status": 200,
     "checked": "2026-11-18",
     "fingerprint": "e8a80e7df9363cc3",
     "changed_on": "",
@@ -473,7 +473,7 @@
   },
   "weidenfeld-hoffmann-scholarships-oxford-2027": {
     "url": "https://whtrust.org/scholarship-application/",
-    "status": 0,
+    "status": 202,
     "checked": "2026-11-18",
     "fingerprint": "",
     "changed_on": "",
@@ -513,11 +513,11 @@
   },
   "raisina-young-fellows-2027-pcns": {
     "url": "https://www.policycenter.ma/events/call-applications-raisina-young-fellows-programme-2027",
-    "status": 404,
+    "status": 403,
     "checked": "2026-11-18",
     "fingerprint": "50f7de97b702650e",
     "changed_on": "",
-    "fail_streak": 7
+    "fail_streak": 0
   },
   "schwarzman-scholars-2028": {
     "url": "https://www.schwarzmanscholars.org/admissions/",
@@ -625,7 +625,7 @@
   },
   "mcw-global-young-leaders-fellowship-2027": {
     "url": "https://mcwglobal.org/young-leaders-fellowship-2027/",
-    "status": 200,
+    "status": 403,
     "checked": "2026-11-18",
     "fingerprint": "ceed80f67fb203b4",
     "changed_on": "",
