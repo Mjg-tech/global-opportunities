@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-18T13:58:50Z",
+  "last_refresh": "2026-11-18T14:02:08Z",
   "counts": {
     "total": 80,
     "archived": 13,
@@ -174,7 +174,13 @@
       "tier": 1,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 0,
+      "skipped": {
+        "too_old": 10
+      },
+      "empty_streak": 0,
+      "stale_streak": 1,
+      "alert": ""
     },
     {
       "name": "Organisation internationale de la Francophonie",
@@ -182,7 +188,14 @@
       "tier": 1,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 0,
+      "skipped": {
+        "too_old": 1,
+        "no_opportunity_word": 9
+      },
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Opportunity Desk",
@@ -190,7 +203,11 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 7
+      "new": 2,
+      "skipped": {},
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Opportunities for Africans",
@@ -198,7 +215,11 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4
+      "new": 1,
+      "skipped": {},
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Global South Opportunities",
@@ -206,7 +227,11 @@
       "tier": 3,
       "status": 200,
       "items": 0,
-      "new": 0
+      "new": 0,
+      "skipped": {},
+      "empty_streak": 1,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Opportunities for Youth",
@@ -214,7 +239,11 @@
       "tier": 3,
       "status": 403,
       "items": 0,
-      "new": 0
+      "new": 0,
+      "skipped": {},
+      "empty_streak": 1,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Mladiinfo",
@@ -222,7 +251,13 @@
       "tier": 3,
       "status": 200,
       "items": 12,
-      "new": 0
+      "new": 0,
+      "skipped": {
+        "too_old": 12
+      },
+      "empty_streak": 0,
+      "stale_streak": 1,
+      "alert": ""
     },
     {
       "name": "OYA Opportunities",
@@ -230,7 +265,11 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1,
+      "skipped": {},
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Opportunities Corners",
@@ -238,7 +277,11 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 0
+      "new": 0,
+      "skipped": {},
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Opportunites du Monde",
@@ -246,7 +289,13 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 1,
+      "skipped": {
+        "not_opportunity": 9
+      },
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Afri-Carrieres",
@@ -254,7 +303,15 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 0,
+      "skipped": {
+        "not_opportunity": 2,
+        "no_opportunity_word": 6,
+        "too_old": 1
+      },
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Mastere.tn",
@@ -262,7 +319,11 @@
       "tier": 3,
       "status": 520,
       "items": 0,
-      "new": 0
+      "new": 0,
+      "skipped": {},
+      "empty_streak": 1,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Partiu Intercambio",
@@ -270,7 +331,13 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 0,
+      "skipped": {
+        "too_old": 9
+      },
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     },
     {
       "name": "Becas para todos",
@@ -278,7 +345,13 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0
+      "new": 0,
+      "skipped": {
+        "too_old": 10
+      },
+      "empty_streak": 0,
+      "stale_streak": 1,
+      "alert": ""
     },
     {
       "name": "Mas Oportunidades",
@@ -286,7 +359,14 @@
       "tier": 3,
       "status": 200,
       "items": 15,
-      "new": 0
+      "new": 0,
+      "skipped": {
+        "no_opportunity_word": 2,
+        "too_old": 12
+      },
+      "empty_streak": 0,
+      "stale_streak": 0,
+      "alert": ""
     }
   ],
   "reseen": [
@@ -303,7 +383,250 @@
       "url": "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/",
       "source": "Opportunities for Africans",
       "seen": "2026-11-18"
+    },
+    {
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship Academic and leadership training for accomplished leaders ages 25-35. More about the Mandela Washington Fellowship",
+      "url": "https://yali.state.gov/mwf/",
+      "source": "Young African Leaders Initiative (US Department of State) - YALI programmes and courses",
+      "seen": "2026-11-18"
+    },
+    {
+      "id": "turkiye-burslari-2027",
+      "title": "Why Türkiye Scholarships?",
+      "url": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships",
+      "source": "Presidency for Turks Abroad and Related Communities (Türkiye Scholarships) - Türkiye Scholarships",
+      "seen": "2026-11-18"
+    },
+    {
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "Mastercard Foundation Scholars Program",
+      "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/",
+      "source": "Mastercard Foundation - News and programmes",
+      "seen": "2026-11-18"
     }
   ],
-  "new_leads_last_run": 11
+  "new_leads_last_run": 56,
+  "leads": {
+    "active": 306,
+    "archived_total": 0,
+    "retired_this_run": 0,
+    "rejected_this_run": {
+      "too_old": 78,
+      "no_opportunity_word": 143,
+      "not_opportunity": 14
+    },
+    "audit_entries": 157,
+    "sources": {
+      "registered": 29,
+      "scanned": 20,
+      "failed": [
+        "rdc-campusfrance",
+        "afdb-news-events"
+      ],
+      "new_leads": 51,
+      "rows": [
+        {
+          "id": "oif-jeunesse",
+          "name": "Organisation internationale de la Francophonie - Portail jeunesse - opportunités",
+          "status": "active",
+          "http": 200,
+          "items": 19,
+          "new": 17,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "au-announcements",
+          "name": "African Union Commission - Announcements (calls for applications)",
+          "status": "active",
+          "http": 200,
+          "items": 10,
+          "new": 2,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "mo-ibrahim-news",
+          "name": "Mo Ibrahim Foundation - News and calls",
+          "status": "active",
+          "http": 200,
+          "items": 14,
+          "new": 3,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "yali-state-gov",
+          "name": "Young African Leaders Initiative (US Department of State) - YALI programmes and courses",
+          "status": "active",
+          "http": 200,
+          "items": 17,
+          "new": 6,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "turkiye-burslari",
+          "name": "Presidency for Turks Abroad and Related Communities (Türkiye Scholarships) - Türkiye Scholarships",
+          "status": "active",
+          "http": 200,
+          "items": 10,
+          "new": 2,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "wbi-news",
+          "name": "Wallonie-Bruxelles International - Actualités (stages, bourses)",
+          "status": "active",
+          "http": 200,
+          "items": 6,
+          "new": 5,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "mastercard-foundation-news",
+          "name": "Mastercard Foundation - News and programmes",
+          "status": "active",
+          "http": 200,
+          "items": 11,
+          "new": 1,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "rdc-campusfrance",
+          "name": "Campus France RDC - Bourses et formations",
+          "status": "active",
+          "http": -1,
+          "items": 0,
+          "new": 0,
+          "would_add": 0,
+          "note": "robots.txt unreachable this run"
+        },
+        {
+          "id": "un-youth-affairs",
+          "name": "United Nations Office of the Secretary-General's Envoy on Youth - Youth affairs",
+          "status": "active",
+          "http": 200,
+          "items": 26,
+          "new": 7,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "afdb-news-events",
+          "name": "African Development Bank Group - News and events",
+          "status": "active",
+          "http": 403,
+          "items": 0,
+          "new": 0,
+          "would_add": 0,
+          "note": "no robots.txt"
+        },
+        {
+          "id": "sadc-latest-news",
+          "name": "Southern African Development Community - Latest news (calls for entries)",
+          "status": "active",
+          "http": 200,
+          "items": 60,
+          "new": 4,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "comesa-feed",
+          "name": "Common Market for Eastern and Southern Africa - News feed",
+          "status": "active",
+          "http": 200,
+          "items": 10,
+          "new": 2,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "eac-press-releases",
+          "name": "East African Community - Press releases feed",
+          "status": "active",
+          "http": 200,
+          "items": 27,
+          "new": 2,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "ifdd-appels",
+          "name": "Institut de la Francophonie pour le développement durable - Appels à candidatures",
+          "status": "proposed",
+          "http": 200,
+          "items": 9,
+          "new": 0,
+          "would_add": 3,
+          "note": ""
+        },
+        {
+          "id": "oneyoungworld",
+          "name": "One Young World - Opportunities",
+          "status": "proposed",
+          "http": 200,
+          "items": 15,
+          "new": 0,
+          "would_add": 3,
+          "note": ""
+        },
+        {
+          "id": "nepad-au",
+          "name": "African Union Development Agency (AUDA-NEPAD) - Home and programmes",
+          "status": "proposed",
+          "http": 200,
+          "items": 32,
+          "new": 0,
+          "would_add": 5,
+          "note": ""
+        },
+        {
+          "id": "jica-information",
+          "name": "Japan International Cooperation Agency - Information",
+          "status": "proposed",
+          "http": 200,
+          "items": 26,
+          "new": 0,
+          "would_add": 3,
+          "note": ""
+        },
+        {
+          "id": "worldbank-scholarships",
+          "name": "World Bank Group - Scholarships and fellowships",
+          "status": "proposed",
+          "http": 200,
+          "items": 5,
+          "new": 0,
+          "would_add": 3,
+          "note": ""
+        },
+        {
+          "id": "usembassy-kinshasa",
+          "name": "U.S. Embassy in the Democratic Republic of the Congo - Embassy news feed",
+          "status": "proposed",
+          "http": 200,
+          "items": 10,
+          "new": 0,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "tef-programme",
+          "name": "Tony Elumelu Foundation - Entrepreneurship programme",
+          "status": "proposed",
+          "http": 200,
+          "items": 11,
+          "new": 0,
+          "would_add": 1,
+          "note": ""
+        }
+      ]
+    }
+  }
 }
