@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-17T14:25:03Z",
+  "last_refresh": "2026-11-18T13:58:50Z",
   "counts": {
     "total": 80,
     "archived": 13,
@@ -38,6 +38,7 @@
     "30": [
       "auc-african-graduate-fellowship-2027",
       "gates-cambridge-2027",
+      "internet-society-fellowship-2027",
       "maastricht-nl-high-potential-2027",
       "mastercard-foundation-scholars-cambridge-2027",
       "mcw-global-young-leaders-fellowship-2027",
@@ -56,17 +57,16 @@
       "gtf-telemachus-mentoring-2027",
       "mastercard-foundation-scholars-sciences-po-2027"
     ],
-    "3": [
-      "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027"
-    ],
+    "3": [],
     "1": [
+      "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
       "youth-global-forum-2027-paris-cgdl"
     ]
   },
   "watch": {
     "checked": 80,
-    "ok": 68,
-    "blocked_or_unreachable": 11,
+    "ok": 67,
+    "blocked_or_unreachable": 12,
     "dead": 1
   },
   "flags": [
@@ -143,15 +143,21 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
+      "id": "sciences-po-emile-boutmy-masters-2027",
+      "type": "source_changed",
+      "since": "2026-11-18",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
       "id": "raisina-young-fellows-2027-pcns",
       "type": "dead_link",
-      "since": "2026-11-17",
+      "since": "2026-11-18",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
       "id": "eu-delegation-drc-subsidised-internship",
       "type": "source_changed",
-      "since": "2026-11-14",
+      "since": "2026-11-18",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
@@ -184,7 +190,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 6
+      "new": 7
     },
     {
       "name": "Opportunities for Africans",
@@ -192,7 +198,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 1
+      "new": 4
     },
     {
       "name": "Global South Opportunities",
@@ -224,7 +230,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Opportunities Corners",
@@ -232,7 +238,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Opportunites du Monde",
@@ -240,7 +246,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2
+      "new": 0
     },
     {
       "name": "Afri-Carrieres",
@@ -254,7 +260,7 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 202,
+      "status": 520,
       "items": 0,
       "new": 0
     },
@@ -278,11 +284,26 @@
       "name": "Mas Oportunidades",
       "url": "https://www.masoportunidades.org/feed/",
       "tier": 3,
-      "status": 522,
-      "items": 0,
+      "status": 200,
+      "items": 15,
       "new": 0
     }
   ],
-  "reseen": [],
-  "new_leads_last_run": 13
+  "reseen": [
+    {
+      "id": "french-african-foundation-young-leaders",
+      "title": "French-African Foundation Young Leaders Program 2027",
+      "url": "https://opportunitydesk.org/2026/11/18/french-african-foundation-young-leaders-program-2027/",
+      "source": "Opportunity Desk",
+      "seen": "2026-11-18"
+    },
+    {
+      "id": "french-african-foundation-young-leaders",
+      "title": "The French-African Foundation Young Leaders Program 2027 for young Africans (Fully Funded to France)",
+      "url": "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/",
+      "source": "Opportunities for Africans",
+      "seen": "2026-11-18"
+    }
+  ],
+  "new_leads_last_run": 11
 }

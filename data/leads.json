@@ -1,7 +1,134 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "leads": [
+    {
+      "id": "b8b1c23f0d24",
+      "title": "New America Fellows Program Class of 2028 (up to $30,000)",
+      "url": "https://opportunitydesk.org/2026/11/18/new-america-fellows-program-class-of-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "21ab78e72a07",
+      "title": "Stanley Park Climate Finance Scholarships 2027",
+      "url": "https://opportunitydesk.org/2026/11/18/stanley-park-climate-finance-scholarships-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c7605c5a05dc",
+      "title": "Healthy Futures Mastercard Scholarship 2027",
+      "url": "https://opportunitydesk.org/2026/11/18/healthy-futures-mastercard-scholarship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "3577209efa13",
+      "title": "iDAC Foundation Summer Fellowship 2027 ($6,000 stipend)",
+      "url": "https://opportunitydesk.org/2026/11/17/idac-foundation-summer-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "669c9b19a605",
+      "title": "DAAD Heilbronn AI Fellowship 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/17/daad-heilbronn-ai-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
+    },
+    {
+      "id": "0be73daf4eff",
+      "title": "CitizensNYC Neighborhood Business Grant 2027 (up to $5,000)",
+      "url": "https://opportunitydesk.org/2026/11/17/citizensnyc-neighborhood-business-grant-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "1b248ffab965",
+      "title": "CitizensNYC Community Leaders Grant 2027 (up to $5,000)",
+      "url": "https://opportunitydesk.org/2026/11/17/citizensnyc-community-leaders-grant-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "a145bf9fe1bb",
+      "title": "WeThinkCode_ Tuition-Free 16-month AI-native software engineering programme 2027 for young Africans in South Africa.",
+      "url": "https://www.opportunitiesforafricans.com/wethinkcode_-tuition-free-16-month-ai-native-software-engineering-programme-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "c73b630ea00c",
+      "title": "The FAO Innovation Beyond the Buzzword Video Challenge 2026 for students, young professionals and creatives worldwide.",
+      "url": "https://www.opportunitiesforafricans.com/the-fao-innovation-beyond-the-buzzword-video-challenge-2026/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "0035d1defa1a",
+      "title": "Knight Science Journalism Academic-Year Fellowship at MIT 2027/2028 for Science Journalists worldwide ($USD $87,500 Stipend)",
+      "url": "https://www.opportunitiesforafricans.com/knight-science-journalism-academic-year-fellowship-2027-2028/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
+    {
+      "id": "14002c1a1bbc",
+      "title": "The East Africa Biodesign Fellowship 2027/2028 Health Innovation Fellowship for African Innovators (Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-east-africa-biodesign-fellowship-2027-2028-health-innovation-fellowship/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "status": "NEEDS VERIFICATION"
+    },
     {
       "id": "24584cd1d078",
       "title": "EJN Story Grants to Report on Mining, Environment and Human Rights in Africa 2027 (up to $2,000)",
@@ -11,7 +138,10 @@
       "language": "en",
       "published": "2026-11-17",
       "first_seen": "2026-11-17",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "996307a52a70",
@@ -90,7 +220,8 @@
       "first_seen": "2026-11-17",
       "status": "NEEDS VERIFICATION",
       "also_seen_in": [
-        "Opportunities for Africans"
+        "Opportunities for Africans",
+        "OYA Opportunities"
       ]
     },
     {
@@ -102,7 +233,10 @@
       "language": "en",
       "published": "2026-11-16",
       "first_seen": "2026-11-17",
-      "status": "NEEDS VERIFICATION"
+      "status": "NEEDS VERIFICATION",
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "8935d7dfe588",
@@ -2756,130 +2890,6 @@
       "language": "en",
       "published": "2026-10-21",
       "first_seen": "2026-10-22",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "9742eac00167",
-      "title": "Novartis/University of Basel Next Generation Scientist Program 2027",
-      "url": "https://opportunitydesk.org/2026/10/21/next-generation-scientist-program-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "532e99b56324",
-      "title": "Wisconsin Population Health Service Fellowship Program 2027-2029 ($58,000 salary)",
-      "url": "https://opportunitydesk.org/2026/10/21/wisconsin-population-health-service-fellowship-program-2027-2029/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "47b2c6674022",
-      "title": "Institut für Auslandsbeziehungen CrossCulture Programme (CCP) Fellowships 2027",
-      "url": "https://opportunitydesk.org/2026/10/21/ifa-crossculture-programme-fellowships-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "b6e4cf739a69",
-      "title": "UNESCO Science for Crisis Response & Solutions Research Continuity Grants for Africa 2026 (up to $2,000)",
-      "url": "https://opportunitydesk.org/2026/10/21/unesco-scrs-grants-for-africa-2026/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "6631fac33985",
-      "title": "The WIPO Global Innovation Index Fellowship 2027 for international research (6,000 CHF monthly stipend and funded to Geneva, Switzerland)",
-      "url": "https://www.opportunitiesforafricans.com/the-wipo-global-innovation-index-fellowship-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "8f26f24b3e80",
-      "title": "United Diplomats Global Assembly 2027 in Thailand (Fully Funded)",
-      "url": "https://opportunitiescorners.com/united-diplomats-global-assembly-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-22",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "c3d40f657645",
-      "title": "Justice + Joy National Collaborative Policy & Advocacy Internship Spring 2027: Remote Internship + $2,500 Stipend & Congressional Advocacy Experience",
-      "url": "https://www.globalsouthopportunities.com/2026/10/21/policy-22/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "f8a41890e2bf",
-      "title": "IQMR 2027 Fellowships in the USA: Fully Funded Research Training Opportunities for Scholars from Africa, Latin America and Beyond",
-      "url": "https://www.globalsouthopportunities.com/2026/10/21/iqmr/",
-      "source": "Global South Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "98046f7fad1e",
-      "title": "Fully Funded Fellowship in USA 2027",
-      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/fully-funded-fellowship-in-usa-2027/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "status": "NEEDS VERIFICATION"
-    },
-    {
-      "id": "7ca54f129235",
-      "title": "UNICEF Internship 2026 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/unicef-internship-2026/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-21",
-      "status": "NEEDS VERIFICATION",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ]
-    },
-    {
-      "id": "a8160402c92a",
-      "title": "Appel à candidatures – Programme de Stages rémunéré de l’UNFPA",
-      "url": "https://www.lesopportunites.com/opportunite/afrique/stages/droit/appel-a-candidatures-programme-de-stages-remunere-de-lunfpa/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-10-21",
-      "first_seen": "2026-10-21",
       "status": "NEEDS VERIFICATION"
     }
   ]
