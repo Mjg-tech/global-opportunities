@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -1414,6 +1414,105 @@
       "url": "https://www.eac.int/press-releases/154-peace-security/3610-eac,-japan-and-unops-join-forces-to-strengthen-border-security-and-enhance-regional-trade%20",
       "reason": "no_opportunity_word",
       "detail": ""
+    },
+    {
+      "id": "5fff76a3f69f",
+      "date": "2026-11-19",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Tchad : À N’Djamena, l’état civil entre dans l’ère du numérique",
+      "url": "https://www.francophonie.org/tchad-ndjamena-l-etat-civil-entre-dans-l-ere-du-numerique-8791",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "765e9993c46e",
+      "date": "2026-11-19",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Chaque enfant compte : le droit à l’identité comme fondement d’une paix durable",
+      "url": "https://www.francophonie.org/chaque-enfant-compte-le-droit-a-l-identite-comme-fondement-d-une-paix-durable-8790",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "29374488d3d3",
+      "date": "2026-11-19",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "L'identité légale, socle de la paix",
+      "url": "https://www.francophonie.org/identite-legale-socle-de-paix-8789",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "4e3db41f0258",
+      "date": "2026-11-19",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Recommandations de la jeunesse francophone en vue du 20e Sommet de la Francophonie",
+      "url": "https://www.francophonie.org/node/8787",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "964d6b677c88",
+      "date": "2026-11-19",
+      "source": "Opportunities for Youth",
+      "title": "Plan International Ghana Announces Three Job Vacancies for November 2026: Project Accountant, District Officer and Supply Chain Coordinator",
+      "url": "https://opportunitiesforyouth.org/2026/11/18/plan-international-ghana-announces-three-job-vacancies-for-november-2026-project-accountant-district-officer-and-supply-chain-coordinator/",
+      "reason": "not_opportunity",
+      "detail": "Job"
+    },
+    {
+      "id": "85c405c22192",
+      "date": "2026-11-19",
+      "source": "Opportunites du Monde",
+      "title": "World Vision Tchad recrute un(e) Senior Wash Manager basé(e) à N’Djamena",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/assainissement/world-vision-tchad-recrute-une-senior-wash-manager-basee-a-ndjamena/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "9c355ac53d95",
+      "date": "2026-11-19",
+      "source": "Opportunites du Monde",
+      "title": "World Vision Tchad recrute un(e) Spécialiste en éducation et protection de l’enfance basé(e) à N’Djamena",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/sciences-de-leducation/world-vision-tchad-recrute-une-specialiste-en-education-et-protection-de-lenfance-basee-a-ndjamena/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "52bcfb522661",
+      "date": "2026-11-19",
+      "source": "Opportunites du Monde",
+      "title": "Cours de français en ligne ouverts aux personnes âgées de 18 à 65 ans et plus",
+      "url": "https://www.lesopportunites.com/opportunite/france/formation/langue-litterature/cours-de-francais-en-ligne-ouverts-aux-personnes-agees-de-18-a-65-ans-et-plus/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "7f97edc036f1",
+      "date": "2026-11-19",
+      "source": "Opportunites du Monde",
+      "title": "OIM recrute un(e) Associé(e) en multimédia et communication à Kalemie, en RDC",
+      "url": "https://www.lesopportunites.com/opportunite/rdcongo/avis-de-recrutement/communication/oim-recrute-une-associee-en-multimedia-et-communication-a-kalemie-en-rdc/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "464082aaaebb",
+      "date": "2026-11-19",
+      "source": "Opportunites du Monde",
+      "title": "Le Programme des Volontaires des Nations Unies (VNU) recrute un(e) Assistant(e) à l’engagement client au Bénin",
+      "url": "https://www.lesopportunites.com/opportunite/benin/volontaires/commerce/le-programme-des-volontaires-des-nations-unies-vnu-recrute-une-assistante-a-lengagement-client-au-benin/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "6f87b3da4d80",
+      "date": "2026-11-19",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services, Programme du Tchad, recrute un(e) Stagiaire aux Achats basé(e) à N’Djamena",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/achat-transport/catholic-relief-services-programme-du-tchad-recrute-une-stagiaire-aux-achats-basee-a-ndjamena/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
     }
   ]
 }

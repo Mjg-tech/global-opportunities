@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-18T14:30:44Z",
+  "last_refresh": "2026-11-19T14:26:34Z",
   "counts": {
     "total": 80,
     "archived": 13,
     "by_status": {
-      "OPEN": 24,
+      "OPEN": 23,
       "CLOSING SOON": 11,
       "UPCOMING": 32,
-      "DEADLINE PASSED": 5,
+      "DEADLINE PASSED": 6,
       "ROLLING": 2,
       "DATE UNKNOWN": 6
     },
@@ -41,11 +41,11 @@
       "internet-society-fellowship-2027",
       "maastricht-nl-high-potential-2027",
       "mastercard-foundation-scholars-cambridge-2027",
-      "mcw-global-young-leaders-fellowship-2027",
       "noha-erasmus-mundus-humanitarian-action-2027"
     ],
     "14": [
       "jim-leech-mastercard-foundation-fellowship-2027",
+      "mcw-global-young-leaders-fellowship-2027",
       "mundus-mapp-2027",
       "ned-hurford-youth-fellows-2027",
       "sciences-po-emile-boutmy-masters-2027",
@@ -59,15 +59,14 @@
     ],
     "3": [],
     "1": [
-      "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
-      "youth-global-forum-2027-paris-cgdl"
+      "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027"
     ]
   },
   "watch": {
     "checked": 80,
     "ok": 67,
-    "blocked_or_unreachable": 13,
-    "dead": 0
+    "blocked_or_unreachable": 12,
+    "dead": 1
   },
   "flags": [
     {
@@ -159,6 +158,12 @@
       "type": "source_changed",
       "since": "2026-11-12",
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
+    },
+    {
+      "id": "ned-hurford-youth-fellows-2027",
+      "type": "source_changed",
+      "since": "2026-11-19",
+      "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     }
   ],
   "feeds": [
@@ -173,7 +178,7 @@
         "too_old": 10
       },
       "empty_streak": 0,
-      "stale_streak": 2,
+      "stale_streak": 3,
       "alert": ""
     },
     {
@@ -197,7 +202,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0,
+      "new": 4,
       "skipped": {},
       "empty_streak": 0,
       "stale_streak": 0,
@@ -209,7 +214,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0,
+      "new": 2,
       "skipped": {},
       "empty_streak": 0,
       "stale_streak": 0,
@@ -219,11 +224,11 @@
       "name": "Global South Opportunities",
       "url": "https://www.globalsouthopportunities.com/feed/",
       "tier": 3,
-      "status": 415,
+      "status": 200,
       "items": 0,
       "new": 0,
       "skipped": {},
-      "empty_streak": 2,
+      "empty_streak": 3,
       "stale_streak": 0,
       "alert": ""
     },
@@ -231,11 +236,13 @@
       "name": "Opportunities for Youth",
       "url": "https://opportunitiesforyouth.org/feed/",
       "tier": 3,
-      "status": 403,
-      "items": 0,
-      "new": 0,
-      "skipped": {},
-      "empty_streak": 2,
+      "status": 200,
+      "items": 10,
+      "new": 6,
+      "skipped": {
+        "not_opportunity": 1
+      },
+      "empty_streak": 0,
       "stale_streak": 0,
       "alert": ""
     },
@@ -250,7 +257,7 @@
         "too_old": 12
       },
       "empty_streak": 0,
-      "stale_streak": 2,
+      "stale_streak": 3,
       "alert": ""
     },
     {
@@ -283,9 +290,10 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0,
+      "new": 4,
       "skipped": {
-        "not_opportunity": 9
+        "not_opportunity": 5,
+        "no_opportunity_word": 1
       },
       "empty_streak": 0,
       "stale_streak": 0,
@@ -300,8 +308,8 @@
       "new": 0,
       "skipped": {
         "not_opportunity": 2,
-        "no_opportunity_word": 6,
-        "too_old": 1
+        "no_opportunity_word": 5,
+        "too_old": 2
       },
       "empty_streak": 0,
       "stale_streak": 0,
@@ -311,11 +319,11 @@
       "name": "Mastere.tn",
       "url": "https://www.mastere.tn/feed/",
       "tier": 3,
-      "status": 202,
+      "status": 520,
       "items": 0,
       "new": 0,
       "skipped": {},
-      "empty_streak": 2,
+      "empty_streak": 3,
       "stale_streak": 0,
       "alert": ""
     },
@@ -344,18 +352,21 @@
         "too_old": 10
       },
       "empty_streak": 0,
-      "stale_streak": 2,
+      "stale_streak": 3,
       "alert": ""
     },
     {
       "name": "Mas Oportunidades",
       "url": "https://www.masoportunidades.org/feed/",
       "tier": 3,
-      "status": 415,
-      "items": 0,
+      "status": 200,
+      "items": 15,
       "new": 0,
-      "skipped": {},
-      "empty_streak": 1,
+      "skipped": {
+        "no_opportunity_word": 2,
+        "too_old": 12
+      },
+      "empty_streak": 0,
       "stale_streak": 0,
       "alert": ""
     }
@@ -366,37 +377,78 @@
       "title": "French-African Foundation Young Leaders Program 2027",
       "url": "https://opportunitydesk.org/2026/11/18/french-african-foundation-young-leaders-program-2027/",
       "source": "Opportunity Desk",
-      "seen": "2026-11-18"
+      "seen": "2026-11-19"
     },
     {
       "id": "french-african-foundation-young-leaders",
       "title": "The French-African Foundation Young Leaders Program 2027 for young Africans (Fully Funded to France)",
       "url": "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/",
       "source": "Opportunities for Africans",
-      "seen": "2026-11-18"
+      "seen": "2026-11-19"
+    },
+    {
+      "id": "french-african-foundation-young-leaders",
+      "title": "French-African Foundation Young Leaders Programme 2027 – International Leadership Fellowship",
+      "url": "https://oyaop.com/opportunity/exchange-programs/french-african-foundation-young-leaders-programme-2027-international-leadership-fellowship/",
+      "source": "OYA Opportunities",
+      "seen": "2026-11-19"
     }
   ],
-  "new_leads_last_run": 0,
+  "new_leads_last_run": 16,
   "leads": {
-    "active": 306,
+    "active": 322,
     "archived_total": 0,
     "retired_this_run": 0,
     "rejected_this_run": {
-      "too_old": 43,
-      "no_opportunity_word": 15,
-      "not_opportunity": 11
+      "too_old": 56,
+      "no_opportunity_word": 17,
+      "not_opportunity": 8
     },
-    "audit_entries": 157,
+    "audit_entries": 168,
     "sources": {
       "registered": 29,
-      "scanned": 0,
-      "failed": [],
+      "scanned": 3,
+      "failed": [
+        "rdc-campusfrance",
+        "afdb-news-events"
+      ],
       "new_leads": 0,
-      "rows": []
+      "rows": [
+        {
+          "id": "oif-jeunesse",
+          "name": "Organisation internationale de la Francophonie - Portail jeunesse - opportunités",
+          "status": "active",
+          "http": 200,
+          "items": 19,
+          "new": 0,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "rdc-campusfrance",
+          "name": "Campus France RDC - Bourses et formations",
+          "status": "active",
+          "http": -1,
+          "items": 0,
+          "new": 0,
+          "would_add": 0,
+          "note": "robots.txt unreachable this run"
+        },
+        {
+          "id": "afdb-news-events",
+          "name": "African Development Bank Group - News and events",
+          "status": "active",
+          "http": 403,
+          "items": 0,
+          "new": 0,
+          "would_add": 0,
+          "note": "no robots.txt"
+        }
+      ]
     }
   },
   "upcoming": {
-    "generated": "2026-11-18",
+    "generated": "2026-11-19",
     "items": [
       {
         "id": "pan-african-university-scholarships",
@@ -415,7 +467,7 @@
         "window_text": "around December 2026 (closing)",
         "expected_deadline_month": "2026-12",
         "pattern": "one earlier cycle",
-        "days_until": 27,
+        "days_until": 26,
         "check_now": true
       },
       {
@@ -431,7 +483,7 @@
         "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
         "phase": "Opening announced",
         "window_text": "opens 2027-01-01",
-        "days_until": 44,
+        "days_until": 43,
         "check_now": false
       },
       {
@@ -451,7 +503,7 @@
         "window_text": "around January 2027 (closing)",
         "expected_deadline_month": "2027-01",
         "pattern": "one earlier cycle",
-        "days_until": 58,
+        "days_until": 57,
         "check_now": true
       },
       {
@@ -471,7 +523,7 @@
         "window_text": "around January 2027 (closing)",
         "expected_deadline_month": "2027-01",
         "pattern": "one earlier cycle",
-        "days_until": 68,
+        "days_until": 67,
         "check_now": true
       },
       {
@@ -491,7 +543,7 @@
         "window_text": "around February 2027 (closing)",
         "expected_deadline_month": "2027-02",
         "pattern": "one earlier cycle",
-        "days_until": 94,
+        "days_until": 93,
         "check_now": false
       },
       {
@@ -507,7 +559,7 @@
         "url": "https://clide.umk.pl/",
         "phase": "Opening announced",
         "window_text": "opens 2027-02-22",
-        "days_until": 96,
+        "days_until": 95,
         "check_now": false
       },
       {
@@ -523,7 +575,7 @@
         "url": "https://www.mandelarhodes.org/scholarship/apply/",
         "phase": "Opening announced",
         "window_text": "opens 2027-03-09",
-        "days_until": 111,
+        "days_until": 110,
         "check_now": false
       },
       {
@@ -543,7 +595,7 @@
         "window_text": "around March 2027 (closing)",
         "expected_deadline_month": "2027-03",
         "pattern": "one earlier cycle",
-        "days_until": 124,
+        "days_until": 123,
         "check_now": false
       },
       {
@@ -559,7 +611,7 @@
         "url": "https://www.icann.org/fellowshipprogram",
         "phase": "Opening announced",
         "window_text": "opens 2027-03-22",
-        "days_until": 124,
+        "days_until": 123,
         "check_now": false
       },
       {
@@ -579,7 +631,7 @@
         "window_text": "around April 2027 (closing)",
         "expected_deadline_month": "2027-04",
         "pattern": "one earlier cycle",
-        "days_until": 159,
+        "days_until": 158,
         "check_now": false
       },
       {
@@ -599,7 +651,7 @@
         "window_text": "around May 2027 (closing)",
         "expected_deadline_month": "2027-05",
         "pattern": "one earlier cycle",
-        "days_until": 192,
+        "days_until": 191,
         "check_now": false
       },
       {
@@ -619,7 +671,7 @@
         "window_text": "around July 2027 (closing)",
         "expected_deadline_month": "2027-07",
         "pattern": "one earlier cycle",
-        "days_until": 255,
+        "days_until": 254,
         "check_now": false
       },
       {
@@ -639,7 +691,7 @@
         "window_text": "around August 2027 (closing)",
         "expected_deadline_month": "2027-08",
         "pattern": "one earlier cycle",
-        "days_until": 269,
+        "days_until": 268,
         "check_now": false
       },
       {
@@ -659,7 +711,7 @@
         "window_text": "around September 2027 (closing)",
         "expected_deadline_month": "2027-09",
         "pattern": "one earlier cycle",
-        "days_until": 296,
+        "days_until": 295,
         "check_now": false
       },
       {
@@ -679,7 +731,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 321,
+        "days_until": 320,
         "check_now": false
       },
       {
@@ -699,7 +751,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 322,
+        "days_until": 321,
         "check_now": false
       },
       {
@@ -719,7 +771,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 329,
+        "days_until": 328,
         "check_now": false
       },
       {
@@ -739,7 +791,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 332,
+        "days_until": 331,
         "check_now": false
       },
       {
@@ -759,7 +811,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 335,
+        "days_until": 334,
         "check_now": false
       },
       {
@@ -779,7 +831,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 341,
+        "days_until": 340,
         "check_now": false
       },
       {
@@ -799,7 +851,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 342,
+        "days_until": 341,
         "check_now": false
       },
       {
@@ -819,7 +871,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 346,
+        "days_until": 345,
         "check_now": false
       },
       {
@@ -839,7 +891,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 347,
+        "days_until": 346,
         "check_now": false
       },
       {
@@ -859,7 +911,7 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 348,
+        "days_until": 347,
         "check_now": false
       },
       {
@@ -879,7 +931,7 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 349,
+        "days_until": 348,
         "check_now": false
       }
     ],
@@ -952,6 +1004,11 @@
       {
         "id": "volontaires-unis-pour-la-francophonie",
         "title": "Volontaires unis pour la Francophonie (V-Francophonie)",
+        "organiser_text": ""
+      },
+      {
+        "id": "youth-global-forum-2027-paris-cgdl",
+        "title": "Youth Global Forum 2027, Paris (Center for Global Dialogue and Leadership)",
         "organiser_text": ""
       }
     ],

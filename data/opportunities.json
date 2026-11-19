@@ -7506,7 +7506,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Substantially Funded",
       "funding_details": [
         "Costs covered by MCW: 'International Economy Flights for international participants'; housing from the evening of 19 July to 29 July 2027 (New York University and Champlain College); three meals a day from 20 to 29 July 2027; round trip New York - Burlington; public transport to and from JFK, LaGuardia and Newark airports",
@@ -11750,7 +11750,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "Fully Funded category (30 seats, competitive): round-trip international airfare support, twin-shared accommodation at a 4-star hotel, meals and coffee breaks, forum participation, workshops, institutional visits, conference materials, certificate, visa invitation letter",
@@ -11868,5 +11868,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-18"
+  "status_computed_on": "2026-11-19"
 }

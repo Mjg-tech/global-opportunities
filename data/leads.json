@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "leads": [
     {
       "id": "fdd9afdcc7e3",
@@ -11,7 +11,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 85,
       "flags": []
@@ -39,7 +39,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 80,
       "flags": []
@@ -123,7 +123,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 78,
       "flags": []
@@ -293,7 +293,7 @@
       "language": "en",
       "published": "2026-11-17",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 65,
       "flags": []
@@ -397,6 +397,93 @@
       "last_seen": "2026-11-11"
     },
     {
+      "id": "cab737a04bf4",
+      "title": "John M. Belk Impact Fellowship 2027-2028 (Paid)",
+      "url": "https://opportunitydesk.org/2026/11/19/john-m-belk-impact-fellowship-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "a93633dac2f3",
+      "title": "JPMorganChase ReEntry Program 2027: Apply for a 15-Week Paid Fellowship to Relaunch Your Career After a Career Break",
+      "url": "https://opportunitiesforyouth.org/2026/11/18/jpmorgan-chase-reentry-program-2026-applications-now-open-for-returning-professionals/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "89a54b138a62",
+      "title": "The Oxford Saïd Future Leaders Scholarships 2027 for young professionals.",
+      "url": "https://www.opportunitiesforafricans.com/the-oxford-said-future-leaders-scholarships-2027-for-young-professionals/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "4a52733f2ed1",
+      "title": "NextGen Service Summer Policy Academy (SPA) 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/11/18/nextgen-service-summer-policy-academy-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 60,
+      "flags": [],
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
+    },
+    {
+      "id": "22c3eb579842",
+      "title": "Morris B. Abram Fellowship 2027-2028",
+      "url": "https://opportunitydesk.org/2026/11/19/morris-b-abram-fellowship-2027-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "1d2ca2849d02",
+      "title": "PBS Accelerator Fellowship 2027–2028: Paid One-Year Media Fellowship for Producers, Journalists, Editors and Creative Media Professionals",
+      "url": "https://opportunitiesforyouth.org/2026/11/19/pbs-accelerator-fellowship-2027-2028-paid-one-year-media-fellowship-for-producers-journalists-editors-and-creative-media-professionals/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
       "id": "c7605c5a05dc",
       "title": "Healthy Futures Mastercard Scholarship 2027",
       "url": "https://opportunitydesk.org/2026/11/18/healthy-futures-mastercard-scholarship-2027/",
@@ -411,7 +498,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "669c9b19a605",
@@ -428,7 +515,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "3577209efa13",
@@ -453,7 +540,7 @@
       "language": "en",
       "published": "2026-11-18",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 60,
       "flags": [
@@ -472,7 +559,11 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19",
+      "also_seen_in": [
+        "Opportunities for Youth",
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "0035d1defa1a",
@@ -486,7 +577,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "9c8f58444ef6",
@@ -500,7 +591,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "83848f3ea82f",
@@ -518,7 +609,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "8162981a9ca5",
@@ -532,7 +623,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "718b6b0c8c32",
@@ -563,7 +654,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "755639a52780",
@@ -580,7 +671,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "de2725ae424d",
@@ -625,7 +716,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "6c461f707486",
@@ -726,7 +817,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "de81212a17ab",
@@ -1119,7 +1210,7 @@
       "status": "NEW",
       "score": 58,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "292f584eb6ee",
@@ -1164,7 +1255,7 @@
       ],
       "score": 58,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "c22d214a81f3",
@@ -1234,7 +1325,10 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-19",
+      "also_seen_in": [
+        "Opportunities for Youth"
+      ]
     },
     {
       "id": "99f41e030db1",
@@ -1705,7 +1799,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "1ee5a9b9cfb1",
@@ -2054,7 +2148,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "1f187515b03d",
@@ -2363,7 +2457,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "7775ef94a5fa",
@@ -2394,6 +2488,104 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "f1fb0b1a4d7b",
+      "title": "Programme de Stages UNESCO – Priorité Afrique et relations extérieures",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/stages/administration/programme-de-stages-unesco-priorite-afrique-et-relations-exterieures/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "90fa5671da3c",
+      "title": "ESA Student Internship Programme 2027: Apply for Paid International Space Sector Internship Opportunities Across Science, Engineering, IT, Business and More",
+      "url": "https://opportunitiesforyouth.org/2026/11/19/esa-student-internship-programme-2027-apply-for-paid-international-space-sector-internship-opportunities-across-science-engineering-it-business-and-more/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "75a93ab1d438",
+      "title": "Ocean Culture Storytelling Grants 2027: Apply for Up to £5,000 to Fund Film, Photography, Writing and Ocean Conservation Stories Worldwide",
+      "url": "https://opportunitiesforyouth.org/2026/11/18/ocean-culture-storytelling-grants-2027-apply-for-up-to-5000-to-fund-film-photography-writing-and-ocean-conservation-stories-worldwide/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "71b7ed44b657",
+      "title": "World Agriculture Forum (WAF) Global Internship Program 2027",
+      "url": "https://opportunitydesk.org/2026/11/19/waf-global-internship-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "4fb76b259a82",
+      "title": "WAF Global Internship Program 2027: Apply for a Three-Month Remote Internship in Global Agriculture, Research and Policy",
+      "url": "https://opportunitiesforyouth.org/2026/11/18/waf-global-internship-program-2027-apply-for-a-three-month-remote-internship-in-global-agriculture-research-and-policy/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "2a84cfa8530e",
+      "title": "Le Cabinet CEFOREP basé à N’Djamena lance une formation certifiante en management et gouvernance des projets et programmes",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/formation/gestion-de-projets/le-cabinet-ceforep-base-a-ndjamena-lance-une-formation-certifiante-en-management-et-gouvernance-des-projets-et-programmes/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "02ce871526ce",
+      "title": "Le Cabinet CEFOREP lance une formation certifiante en analyse et évaluation des projets et programmes de développement/humanitaires, Tchad",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/formation/gestion-de-projets/le-cabinet-ceforep-lance-une-formation-certifiante-en-analyse-et-evaluation-des-projets-et-programmes-de-developpement-humanitaires-tchad/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
       "id": "b8b1c23f0d24",
       "title": "New America Fellows Program Class of 2028 (up to $30,000)",
       "url": "https://opportunitydesk.org/2026/11/18/new-america-fellows-program-class-of-2028/",
@@ -2405,7 +2597,7 @@
       "status": "NEW",
       "score": 53,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "560b0acb5c8e",
@@ -2416,7 +2608,7 @@
       "language": "en",
       "published": "2026-11-17",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 53,
       "flags": []
@@ -2430,7 +2622,7 @@
       "language": "en",
       "published": "2026-11-18",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 53,
       "flags": []
@@ -2516,11 +2708,12 @@
       "first_seen": "2026-11-17",
       "status": "NEW",
       "also_seen_in": [
-        "Opportunities for Africans"
+        "Opportunities for Africans",
+        "OYA Opportunities"
       ],
       "score": 53,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "d4b27e579a4a",
@@ -2538,7 +2731,7 @@
       ],
       "score": 53,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "98da409ac768",
@@ -3397,6 +3590,48 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "f89b1c9c7ec5",
+      "title": "PNUD et Eco House Global proposent une formation gratuite en ligne sur l’action climatique",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/environnement/pnud-et-eco-house-global-proposent-une-formation-gratuite-en-ligne-sur-laction-climatique/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "8d74fb3e7d9f",
+      "title": "The Microsoft Datacenter Academy Skilling Bootcamp for Africans and EMEA Learners.",
+      "url": "https://www.opportunitiesforafricans.com/the-microsoft-datacenter-academy-skilling-bootcamp-for-africans-and-emea-learners/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-18",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "3c4be6ea6f1a",
+      "title": "Aspen CE Madeleine K. Albright Leadership Award 2026: Recognizing Young Emerging Leaders Driving Positive Social Change in Central Europe",
+      "url": "https://opportunitiesforyouth.org/2026/11/19/aspen-ce-madeleine-k-albright-leadership-award-2026-recognizing-young-emerging-leaders-driving-positive-social-change-in-central-europe/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
       "id": "c73b630ea00c",
       "title": "The FAO Innovation Beyond the Buzzword Video Challenge 2026 for students, young professionals and creatives worldwide.",
       "url": "https://www.opportunitiesforafricans.com/the-fao-innovation-beyond-the-buzzword-video-challenge-2026/",
@@ -3408,7 +3643,7 @@
       "status": "NEW",
       "score": 45,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "45c556e9a607",
@@ -3450,7 +3685,7 @@
       "status": "NEW",
       "score": 45,
       "flags": [],
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     {
       "id": "319acb8f14e4",
@@ -3632,7 +3867,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": [
@@ -3690,7 +3925,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3704,7 +3939,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3718,7 +3953,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3732,7 +3967,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3746,7 +3981,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3774,7 +4009,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3802,7 +4037,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3816,7 +4051,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3830,7 +4065,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3886,7 +4121,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3956,7 +4191,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3970,7 +4205,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4012,7 +4247,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-19",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4144,7 +4379,10 @@
       "status": "NEW",
       "score": 40,
       "flags": [],
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-19",
+      "also_seen_in": [
+        "Opportunities for Youth"
+      ]
     },
     {
       "id": "00a6d0e20f68",
