@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "opportunities": [
     {
       "id": "mckinsey-forward-fall-2026",
@@ -1918,6 +1918,147 @@
       ],
       "archive_id": "raisina-young-fellows-2027-pcns@2026-11-02",
       "archived_on": "2026-11-17"
+    },
+    {
+      "id": "global-leadership-challenge-2026",
+      "title": "Global Leadership Challenge 2026",
+      "organization": "Global Leadership Challenge (with the St. Gallen Symposium)",
+      "overview": "Five half-days in December 2026 in which 100 selected young leaders work in teams on real challenges set by partner organisations. The three best teams are invited to the St. Gallen Symposium in Switzerland in April 2027, all expenses covered.",
+      "category": [
+        "Leadership",
+        "Conference",
+        "Travel"
+      ],
+      "subcategory": [
+        "Challenge",
+        "Young leaders"
+      ],
+      "education_levels": [
+        "Master's",
+        "PhD",
+        "Professional"
+      ],
+      "country": "Switzerland",
+      "city": "St. Gallen (for the winning teams)",
+      "region": "Western Europe",
+      "continent": "Europe",
+      "location_type": "Hybrid",
+      "delivery_mode": "Hybrid",
+      "program_dates": "Challenge: 10-14 December 2026 (around five half-days). Winners: 56th St. Gallen Symposium, April 2027.",
+      "application_deadline": "2026-11-05",
+      "deadline_utc": "",
+      "deadline_text": "Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline. 9 November 2026: the apply page now reads 'Applications are Closed' and 'Results will be communicated via Email by 9 November 2026'.",
+      "deadline_timezone": "Unknown / Not specified",
+      "opens_on": "2026-09-29",
+      "open_now": false,
+      "rolling": false,
+      "recurring": true,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "status": "DEADLINE PASSED",
+      "funding_type": "Travel Funded",
+      "funding_details": [
+        "The four winning teams are offered a place at the 56th St. Gallen Symposium in April 2027 as Leaders of Tomorrow: 'their expenses for travel and accommodation will be fully covered'",
+        "The same page lists the prize as an invitation 'all expenses covered ... if your teams pitch is chosen as the best solution for your challenge'",
+        "Nothing on the pages read mentions a fee for taking part in the challenge itself"
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "travel_funded": true,
+      "flight_funded": true,
+      "accommodation_funded": true,
+      "meals_funded": false,
+      "visa_funded": false,
+      "insurance_funded": false,
+      "local_transport_funded": false,
+      "participation_fee": "Unknown / Not specified",
+      "stipend": "Unknown / Not specified",
+      "eligibility": [
+        "A student currently enrolled in a Master's or PhD programme, or a young professional aged between 21 and 30",
+        "'You have finished your undergraduate studies.'",
+        "Demonstrated commitment to responsible leadership through extra-curricular activities and/or work experience",
+        "Available for around five half-days from 10 to 14 December 2026; active participation in all sessions is required for the certificate"
+      ],
+      "nationality_requirements": [
+        "No nationality restriction stated; the 2025 edition had participants from more than 80 countries"
+      ],
+      "age_requirement": "21 to 30 for young professionals",
+      "education_requirement": "Undergraduate studies completed",
+      "experience_requirement": "Unknown / Not specified",
+      "language_requirement": "Unknown / Not specified",
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Apply on the official site before 5 November 2026 (rolling review)",
+        "Upload the documents requested in the form"
+      ],
+      "official_application_url": "https://www.leadership-challenge.org/applynow",
+      "official_information_url": "https://www.leadership-challenge.org/",
+      "source_url": "https://www.leadership-challenge.org/applynow",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "VERIFIED",
+      "sources": [
+        {
+          "label": "Apply now",
+          "url": "https://www.leadership-challenge.org/applynow",
+          "type": "Official"
+        },
+        {
+          "label": "About GLC",
+          "url": "https://www.leadership-challenge.org/about-glc",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "Nationality is open and a 2024 bachelor's degree meets 'you have finished your undergraduate studies'. Three stated criteria are not settled by the profile: whether the applicant counts as a 'young professional' (the profile records internships, no full-time job), the exact age against the 21-30 range (only an under-30 band is recorded), and the 'already demonstrated commitment to responsible leadership' the page requires.",
+      "potential_issues": [
+        "Only the four winning teams travel to St. Gallen; the other participants (about 100 are selected) take part in the virtual challenge without a funded trip",
+        "A Schengen visa would be needed for Switzerland if selected for the Symposium",
+        "The apply page still carries a stale 'Application opens soon' banner above a timeline that says applications opened 29 September 2026; the About page says 'Applications are Open!'",
+        "Eligibility turns on facts the profile does not record: young-professional status, exact age (21-30) and a leadership record"
+      ],
+      "benefits": [
+        "Work on real challenges from partner organisations",
+        "Senior advisers and a 100-person international cohort",
+        "Chance of a funded trip to the St. Gallen Symposium"
+      ],
+      "relevance": {
+        "academic": "Medium",
+        "career": "High",
+        "travel": "High",
+        "networking": "Very High",
+        "funding": "Medium",
+        "accessibility": "High",
+        "profile_fit": "High"
+      },
+      "relevance_reason": "The age rule and the 'young professional' category fit without any degree-enrolment condition, and team problem-solving on business challenges suits a business graduate.",
+      "travel_value": "High",
+      "career_value": "High",
+      "academic_value": "Medium",
+      "networking_value": "Very High",
+      "visa": {
+        "required": "Only for winners travelling to Switzerland",
+        "support": "Unknown / Not specified"
+      },
+      "upfront_cost_risk": "Unknown / Not specified",
+      "action": "Closed on 5 November 2026. If you applied, look for the result email (due by 9 November 2026) and keep 10 to 14 December free. Otherwise watch leadership-challenge.org for the next edition (the 2026 call opened on 29 September 2026).",
+      "last_verified": "2026-11-09",
+      "date_discovered": "2026-10-02",
+      "notes": "12 October 2026: the About page calls it 'the fully virtual five-day challenge'; members 'can participate virtually from around the world'. All active participants receive a Certificate of Achievement from the University of Oxford and the St. Gallen Symposium; mentoring is by the Oxford Character Project. Challenge partners listed: Swiss Re, Schwarzman Scholars, one to be announced. 2 November 2026 (rerun, plain-curl read of the apply page): the page says 'four winning teams'; the record had said three. Eligibility lowered from LIKELY to POSSIBLY ELIGIBLE because three criteria depend on facts the profile does not record. 9 November 2026 (source_changed flag): apply page re-read; it now says 'Applications are Closed' and 'Results will be communicated via Email by 9 November 2026'. Eligibility, dates and the four funded winning-team trips are unchanged.",
+      "match_keywords": [
+        "global leadership challenge"
+      ],
+      "archive_id": "global-leadership-challenge-2026@2026-11-05",
+      "archived_on": "2026-11-20"
     }
   ]
 }

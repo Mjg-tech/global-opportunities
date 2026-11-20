@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -1513,6 +1513,213 @@
       "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/achat-transport/catholic-relief-services-programme-du-tchad-recrute-une-stagiaire-aux-achats-basee-a-ndjamena/",
       "reason": "not_opportunity",
       "detail": "recrut"
+    },
+    {
+      "id": "0aea7f04c1b0",
+      "date": "2026-11-20",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Appel à projet : mobilité des artistes et circulation des biens culturels",
+      "url": "https://www.francophonie.org/appel-projet-mobilite-des-artistes-et-circulation-des-biens-culturels-8794",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "35fd2389eef0",
+      "date": "2026-11-20",
+      "source": "Opportunity Desk",
+      "title": "21 Hot Jobs Opportunities Currently Open – November 19, 2026",
+      "url": "https://opportunitydesk.org/2026/11/19/21-hot-jobs-opportunities-currently-open-november-19-2026/",
+      "reason": "not_opportunity",
+      "detail": "Jobs"
+    },
+    {
+      "id": "db8170caa80f",
+      "date": "2026-11-20",
+      "source": "Opportunity Desk",
+      "title": "How to Write a Winning Cover Letter: 10 Practical Tips to Stand Out and Get Hired",
+      "url": "https://opportunitydesk.org/2026/11/19/how-to-write-a-winning-cover-letter-10-practical-tips-to-stand-out-and-get-hired/",
+      "reason": "not_opportunity",
+      "detail": "How to"
+    },
+    {
+      "id": "35420b97a114",
+      "date": "2026-11-20",
+      "source": "Opportunity Desk",
+      "title": "How to Make Your CV Hire-Ready: 10 Practical Tips to Stand Out and Get Hired",
+      "url": "https://opportunitydesk.org/2026/11/19/how-to-make-your-cv-hire-ready-10-practical-tips-to-stand-out-and-get-hired/",
+      "reason": "not_opportunity",
+      "detail": "How to"
+    },
+    {
+      "id": "c2350996ec5b",
+      "date": "2026-11-20",
+      "source": "Opportunities for Africans",
+      "title": "The Cambridge Africa Climate Collaborative Research Fund 2026/2027 for African Researchers.",
+      "url": "https://www.opportunitiesforafricans.com/the-cambridge-africa-climate-collaborative-research-fund-2026-2027-for-african-researchers/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "4459916101cb",
+      "date": "2026-11-20",
+      "source": "Opportunities for Youth",
+      "title": "OECD Temporary Junior Policy Analyst – Research and Statistics 2027 in France: Apply for an International Education Policy Research Job in Paris",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/oecd-temporary-junior-policy-analyst-research-and-statistics-2027-in-france-apply-for-an-international-education-policy-research-job-in-paris/",
+      "reason": "not_opportunity",
+      "detail": "Job"
+    },
+    {
+      "id": "32812191855b",
+      "date": "2026-11-20",
+      "source": "Opportunities for Youth",
+      "title": "Afield Nature Communities Fund 2026: Apply for Up to £60,000 to Lead a Two-Year Community-Led Nature Project in London",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/afield-nature-communities-fund-2026-apply-for-up-to-60000-to-lead-a-two-year-community-led-nature-project-in-london/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "372f40b12b02",
+      "date": "2026-11-20",
+      "source": "Opportunites du Monde",
+      "title": "FAO Tchad lance un appel à manifestation d’intérêt pour la sélection d’une ONG ou institution nationale chargée d’évaluer la qualité sanitaire et nutritionnelle de la spiruline produite dans les Ouadis",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/prestation-de-service/fao-tchad-lance-un-appel-a-manifestation-dinteret-pour-la-selection-dune-ong-ou-institution-nationale-chargee-devaluer-la-qualite-sanitaire-et-nutritionnelle-de-la-spiruline/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "d4683004f634",
+      "date": "2026-11-20",
+      "source": "Opportunites du Monde",
+      "title": "Avis de recrutement des Enquêteurs.trices terrain, dans le cadre du projet « Coopérations sécuritaires et droits humains en Afrique » Bénin, Burundi, Tchad, Congo, Côte d’Ivoire, Gabon, Guinée, Malawi, Ouganda, Sénégal et Togo",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/avis-de-recrutement/droit/avis-de-recrutement-des-enqueteurs-trices-terrain-dans-le-cadre-du-projet-cooperations-securitaires-et-droits-humains-en-afrique-benin-burundi-tchad-congo-cote-divoire-gab/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "f5e9e1916183",
+      "date": "2026-11-20",
+      "source": "Opportunites du Monde",
+      "title": "Top 7 des meilleures plateformes pour apprendre l’anglais gratuitement en ligne",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/langue-litterature/top-7-des-meilleures-plateformes-pour-apprendre-langlais-gratuitement-en-ligne/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "d5f9c6354ee8",
+      "date": "2026-11-20",
+      "source": "Opportunites du Monde",
+      "title": "Le Conseil Norvégien pour les Réfugiés (NRC) recrute un(e) Stagiaire en logistique basé(e) à Iriba, au Tchad",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/stages/logistique/le-conseil-norvegien-pour-les-refugies-nrc-recrute-une-stagiaire-en-logistique-basee-a-iriba-au-tchad/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "9cff72077447",
+      "date": "2026-11-20",
+      "source": "Opportunites du Monde",
+      "title": "Le Conseil Norvégien pour les Réfugiés (NRC) au Tchad recrute un(e) Stagiaire en Ressources Humaines et administration basé(e) à Iriba",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/administration/le-conseil-norvegien-pour-les-refugies-nrc-au-tchad-recrute-une-stagiaire-en-ressources-humaines-et-administration-basee-a-iriba/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "260cf9fe827f",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "A la découverte de l'enseignement supérieur français",
+      "url": "https://www.rdc.campusfrance.org/fonctionnement-de-l-enseignement-superieur-en-france",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "9c9fc508926a",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "Acceptations électroniques",
+      "url": "https://www.rdc.campusfrance.org/acceptations-electroniques",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "2f1b454f4b71",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "La contribution Vie Etudiante et de Campus (CVEC)",
+      "url": "https://www.rdc.campusfrance.org/les-10-choses-a-savoir-sur-la-contribution-vie-etudiante-et-de-campus-cvec",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "9173b9fe66e9",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "Comment s'assurer de la qualité des établissements",
+      "url": "https://www.rdc.campusfrance.org/comment-evaluer-la-qualite-d-un-diplome-ou-d-un-etablissement",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "1f36fe17264e",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "Le visa long séjour \"passeport talent - chercheur\"",
+      "url": "https://www.rdc.campusfrance.org/le-visa-long-sejour-passeport-talent-chercheur",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "55a881ada26f",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "Prendre ses repas au quotidien en France",
+      "url": "https://www.rdc.campusfrance.org/conseils-pratiques-pour-manger-en-france",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "a6da9e01029d",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "Vous avez besoin d'aide ?",
+      "url": "https://www.rdc.campusfrance.org/faq",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "c0ee090771e9",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "CALENDRIERS 2025-2026 La campagne Etudes en France 2025-2026 a débuté !",
+      "url": "https://www.rdc.campusfrance.org/calendriers-2025-2026",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "6054a19ffc42",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "FAQ – Spécial contexte COVID 19 Cher.e.s étudiant.e.s, Nous savons que beaucoup d’entre vous s’inquiètent en raison des nombreuses incertitudes que crée la crise sanitaire. Cette foire aux questions est évolutive et sera",
+      "url": "https://www.rdc.campusfrance.org/faq-special-contexte-covid-19-0",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "059b1fefb161",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "Découvrez tous les témoignages",
+      "url": "https://www.rdc.campusfrance.org/recherche/type/temoignage",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "e39f71c9a087",
+      "date": "2026-11-20",
+      "source": "Campus France RDC - Bourses et formations",
+      "title": "Article Image Nos actions",
+      "url": "https://www.rdc.campusfrance.org/nos-actions",
+      "reason": "no_opportunity_word",
+      "detail": ""
     }
   ]
 }

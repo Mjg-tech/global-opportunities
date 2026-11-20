@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "leads": [
     {
       "id": "fdd9afdcc7e3",
@@ -11,7 +11,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 85,
       "flags": []
@@ -39,7 +39,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 80,
       "flags": []
@@ -123,7 +123,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 78,
       "flags": []
@@ -397,6 +397,82 @@
       "last_seen": "2026-11-11"
     },
     {
+      "id": "8a61fb96af29",
+      "title": "The HIV Science Geneva 2027 Media Scholarship Programme to cover HIVR4P 2027 and IAS 2027 in Geneva, Switzerland (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-hiv-science-geneva-2027-media-scholarship-programme-to-cover-hivr4p-2027-and-ias-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "7f428ccf0bd0",
+      "title": "Rockefeller Foundation Big Bets Fellowship 2027 in the United States | Applications Open for Community Leaders and Social Impact Innovators",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/rockefeller-foundation-big-bets-fellowship-2027-in-the-united-states-applications-open-for-community-leaders-and-social-impact-innovators/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "4622cf52e20c",
+      "title": "Rest & Resilience Fellowship 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/11/19/rest-resilience-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 60,
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "1a20c4ef138a",
+      "title": "Reporters Without Borders (RSF) Berlin Fellowship 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/19/rsf-berlin-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 60,
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "01af26991cca",
+      "title": "Malek Sghiri Scholarship 2027 to Study Arabic in Tunisia",
+      "url": "https://opportunitydesk.org/2026/11/19/malek-sghiri-scholarship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
       "id": "cab737a04bf4",
       "title": "John M. Belk Impact Fellowship 2027-2028 (Paid)",
       "url": "https://opportunitydesk.org/2026/11/19/john-m-belk-impact-fellowship-2027-2028/",
@@ -433,10 +509,14 @@
       "language": "en",
       "published": "2026-11-18",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 60,
-      "flags": []
+      "flags": [],
+      "also_seen_in": [
+        "Opportunity Desk",
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "4a52733f2ed1",
@@ -447,7 +527,7 @@
       "language": "en",
       "published": "2026-11-18",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -515,7 +595,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "3577209efa13",
@@ -559,7 +639,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "also_seen_in": [
         "Opportunities for Youth",
         "OYA Opportunities"
@@ -591,7 +671,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "83848f3ea82f",
@@ -609,7 +689,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "8162981a9ca5",
@@ -623,7 +703,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "718b6b0c8c32",
@@ -654,7 +734,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "755639a52780",
@@ -671,7 +751,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "de2725ae424d",
@@ -716,7 +796,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "6c461f707486",
@@ -817,7 +897,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "de81212a17ab",
@@ -1503,7 +1583,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "23edec56429b",
@@ -1799,7 +1879,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "1ee5a9b9cfb1",
@@ -1917,11 +1997,12 @@
       "status": "NEW",
       "also_seen_in": [
         "Opportunity Desk",
-        "OYA Opportunities"
+        "OYA Opportunities",
+        "Opportunities for Youth"
       ],
       "score": 55,
       "flags": [],
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "cf982339968d",
@@ -2148,7 +2229,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "1f187515b03d",
@@ -2457,7 +2538,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "7775ef94a5fa",
@@ -2486,6 +2567,95 @@
       "score": 55,
       "flags": [],
       "last_seen": "2026-10-22"
+    },
+    {
+      "id": "b923fbd6eb7e",
+      "title": "Internship Opportunities at the UK Mission to the UN in Geneva 2027: Humanitarian Affairs, Migration and Forced Displacement – CHF 1,450 Monthly Stipend",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/internship-opportunities-at-the-uk-mission-to-the-un-in-geneva-2027-humanitarian-affairs-migration-and-forced-displacement-chf-1450-monthly-stipend/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "a759d627b439",
+      "title": "IAS Person-Centred Care Global Advocacy Academy 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/20/ias-person-centred-care-global-advocacy-academy-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 53,
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "697a8815f7f8",
+      "title": "UNITAR Traineeships 2026: Apply for 3–6 Month Training Opportunities in New York and Geneva, Switzerland",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/unitar-traineeships-2026-apply-for-3-6-month-training-opportunities-in-new-york-and-geneva-switzerland/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "49f0d4404e77",
+      "title": "The NIVEA CONNECT 2026 Gen Z Research Grants program for researchers worldwide (€30,000 grant)",
+      "url": "https://www.opportunitiesforafricans.com/the-nivea-connect-2026-gen-z-research-grants-program/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "3efa04693e60",
+      "title": "World Economic Forum Early Careers Programme 2027: Paid Graduate Roles in Switzerland, China and USA",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/world-economic-forum-early-careers-programme-2027-paid-graduate-roles-in-switzerland-china-and-usa/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "36e6b091b696",
+      "title": "SHE WINS Rapid Response Fund (RRF): Small Grants for Women-Led Initiatives in 70+ Eligible Countries",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/she-wins-rapid-response-fund-rrf-small-grants-for-women-led-initiatives-in-70-eligible-countries/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 53,
+      "flags": [
+        "check:gender-term:Women"
+      ]
     },
     {
       "id": "f1fb0b1a4d7b",
@@ -2538,10 +2708,13 @@
       "language": "en",
       "published": "2026-11-19",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 53,
-      "flags": []
+      "flags": [],
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "4fb76b259a82",
@@ -2566,7 +2739,7 @@
       "language": "fr",
       "published": "2026-11-19",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 53,
       "flags": []
@@ -2580,7 +2753,7 @@
       "language": "fr",
       "published": "2026-11-19",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 53,
       "flags": []
@@ -2713,7 +2886,7 @@
       ],
       "score": 53,
       "flags": [],
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "d4b27e579a4a",
@@ -3171,7 +3344,7 @@
       "status": "NEW",
       "score": 48,
       "flags": [],
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-20"
     },
     {
       "id": "d85e2db822e1",
@@ -3590,6 +3763,80 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "f9ebfdef3fca",
+      "title": "Global Entrepreneurship Bootcamp 2027 in Tokyo, Japan",
+      "url": "https://oyaop.com/opportunity/conferences/global-entrepreneurship-bootcamp-2027-in-tokyo-japan/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "f6f3b404cb57",
+      "title": "Global Citizen Prize: 2027 Cisco Youth Leadership Award ($250,000 prize)",
+      "url": "https://opportunitydesk.org/2026/11/19/global-citizen-prize-2027-cisco-youth-leadership-award/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 45,
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Africans",
+        "OYA Opportunities"
+      ]
+    },
+    {
+      "id": "e17422aaa482",
+      "title": "Erasmus+ UK 2026: Over £400 Million in Funding for International Study, Training, Youth and Sports Opportunities Across 30+ Countries",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/erasmus-uk-2026-over-400-million-in-funding-for-international-study-training-youth-and-sports-opportunities-across-30-countries/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "5226da9bd7ba",
+      "title": "The Klaus J. Jacobs Research Prize 2027 for Research on Child and Youth Development (1 million Swiss Francs)",
+      "url": "https://www.opportunitiesforafricans.com/the-klaus-j-jacobs-research-prize-2027-for-research-on-child-and-youth-development/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "220d447a1274",
+      "title": "The develoPPP Ventures Ideas Competition 2027 for young Entrepreneurs (non-dilutive capital of 100,000 euros)",
+      "url": "https://www.opportunitiesforafricans.com/the-developpp-ventures-ideas-competition-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
       "id": "f89b1c9c7ec5",
       "title": "PNUD et Eco House Global proposent une formation gratuite en ligne sur l’action climatique",
       "url": "https://www.lesopportunites.com/opportunite/afrique/formation/environnement/pnud-et-eco-house-global-proposent-une-formation-gratuite-en-ligne-sur-laction-climatique/",
@@ -3867,7 +4114,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": [
@@ -3925,7 +4172,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3939,7 +4186,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3953,7 +4200,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3967,7 +4214,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -3981,7 +4228,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4009,7 +4256,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4037,7 +4284,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4051,7 +4298,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4065,7 +4312,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4121,7 +4368,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4191,7 +4438,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4205,7 +4452,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4247,7 +4494,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-20",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4655,6 +4902,54 @@
       "score": 40,
       "flags": [],
       "last_seen": "2026-10-22"
+    },
+    {
+      "id": "80974652f203",
+      "title": "Up to 6 Fully Funded PhD Positions in Economics at the University of Gothenburg, Sweden – 2027",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/up-to-6-fully-funded-phd-positions-in-economics-at-the-university-of-gothenburg-sweden-2027/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-20",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 35,
+      "flags": [
+        "audience:level-only:PhD"
+      ]
+    },
+    {
+      "id": "5550a5f8f128",
+      "title": "Funza Lushaka Bursary Programme 2027 for young South Africans",
+      "url": "https://www.opportunitiesforafricans.com/funza-lushaka-bursary-programme-2027-for-young-south-africans/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 18,
+      "flags": [
+        "audience:nationality:for young South Africans"
+      ]
+    },
+    {
+      "id": "3b792fd91bbf",
+      "title": "Les formations pré-doctorat",
+      "url": "https://www.rdc.campusfrance.org/les-formations-pre-doctorat",
+      "source": "Campus France RDC - Bourses et formations",
+      "source_tier": 1,
+      "language": "fr",
+      "published": "",
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20",
+      "status": "NEW",
+      "score": 15,
+      "flags": [
+        "audience:level-only:doctorat"
+      ]
     },
     {
       "id": "292acb0e5cd5",

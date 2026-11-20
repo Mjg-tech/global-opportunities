@@ -627,7 +627,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Fully Funded",
       "funding_details": [
         "'12-month fully funded scholarship that covers the costs of participating in all program elements'",
@@ -3896,17 +3896,17 @@
       "location_type": "Hybrid",
       "delivery_mode": "Hybrid",
       "program_dates": "Challenge: 10-14 December 2026 (around five half-days). Winners: 56th St. Gallen Symposium, April 2027.",
-      "application_deadline": "2026-11-05",
+      "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Application Closes: 5 November 2026. Applications are reviewed on a rolling basis, so don't wait until the deadline. 9 November 2026: the apply page now reads 'Applications are Closed' and 'Results will be communicated via Email by 9 November 2026'.",
+      "deadline_text": "Last cycle closed on 2026-11-05. Next cycle not announced yet.",
       "deadline_timezone": "Unknown / Not specified",
-      "opens_on": "2026-09-29",
+      "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-11-05.",
+      "last_cycle_deadline": "2026-11-05",
+      "status": "UPCOMING",
       "funding_type": "Travel Funded",
       "funding_details": [
         "The four winning teams are offered a place at the 56th St. Gallen Symposium in April 2027 as Leaders of Tomorrow: 'their expenses for travel and accommodation will be fully covered'",
@@ -3956,7 +3956,7 @@
       "source_url": "https://www.leadership-challenge.org/applynow",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "Apply now",
@@ -4004,7 +4004,7 @@
       "action": "Closed on 5 November 2026. If you applied, look for the result email (due by 9 November 2026) and keep 10 to 14 December free. Otherwise watch leadership-challenge.org for the next edition (the 2026 call opened on 29 September 2026).",
       "last_verified": "2026-11-09",
       "date_discovered": "2026-10-02",
-      "notes": "12 October 2026: the About page calls it 'the fully virtual five-day challenge'; members 'can participate virtually from around the world'. All active participants receive a Certificate of Achievement from the University of Oxford and the St. Gallen Symposium; mentoring is by the Oxford Character Project. Challenge partners listed: Swiss Re, Schwarzman Scholars, one to be announced. 2 November 2026 (rerun, plain-curl read of the apply page): the page says 'four winning teams'; the record had said three. Eligibility lowered from LIKELY to POSSIBLY ELIGIBLE because three criteria depend on facts the profile does not record. 9 November 2026 (source_changed flag): apply page re-read; it now says 'Applications are Closed' and 'Results will be communicated via Email by 9 November 2026'. Eligibility, dates and the four funded winning-team trips are unchanged.",
+      "notes": "12 October 2026: the About page calls it 'the fully virtual five-day challenge'; members 'can participate virtually from around the world'. All active participants receive a Certificate of Achievement from the University of Oxford and the St. Gallen Symposium; mentoring is by the Oxford Character Project. Challenge partners listed: Swiss Re, Schwarzman Scholars, one to be announced. 2 November 2026 (rerun, plain-curl read of the apply page): the page says 'four winning teams'; the record had said three. Eligibility lowered from LIKELY to POSSIBLY ELIGIBLE because three criteria depend on facts the profile does not record. 9 November 2026 (source_changed flag): apply page re-read; it now says 'Applications are Closed' and 'Results will be communicated via Email by 9 November 2026'. Eligibility, dates and the four funded winning-team trips are unchanged. [auto 2026-11-20] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "global leadership challenge"
       ]
@@ -11868,5 +11868,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-19"
+  "status_computed_on": "2026-11-20"
 }

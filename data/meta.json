@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-19T14:26:34Z",
+  "last_refresh": "2026-11-20T14:00:58Z",
   "counts": {
     "total": 80,
-    "archived": 13,
+    "archived": 14,
     "by_status": {
       "OPEN": 23,
-      "CLOSING SOON": 11,
-      "UPCOMING": 32,
+      "CLOSING SOON": 10,
+      "UPCOMING": 33,
       "DEADLINE PASSED": 6,
       "ROLLING": 2,
       "DATE UNKNOWN": 6
@@ -28,8 +28,8 @@
       "INSUFFICIENT INFORMATION": 5
     },
     "by_verification": {
-      "VERIFIED": 48,
-      "PARTIALLY VERIFIED": 28,
+      "VERIFIED": 47,
+      "PARTIALLY VERIFIED": 29,
       "NEEDS VERIFICATION": 4
     },
     "travel_funded": 38
@@ -53,14 +53,12 @@
       "wff-youth-policy-board-2027-2028",
       "yenching-academy-2027"
     ],
-    "7": [
+    "7": [],
+    "3": [
       "gtf-telemachus-mentoring-2027",
       "mastercard-foundation-scholars-sciences-po-2027"
     ],
-    "3": [],
-    "1": [
-      "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 80,
@@ -148,6 +146,12 @@
       "detail": "Date or deadline wording on the official page changed after the last verification. Re-verify."
     },
     {
+      "id": "raisina-young-fellows-2027-pcns",
+      "type": "dead_link",
+      "since": "2026-11-20",
+      "detail": "Official page returned HTTP 404 on two runs."
+    },
+    {
       "id": "eu-delegation-drc-subsidised-internship",
       "type": "source_changed",
       "since": "2026-11-18",
@@ -178,7 +182,7 @@
         "too_old": 10
       },
       "empty_streak": 0,
-      "stale_streak": 3,
+      "stale_streak": 4,
       "alert": ""
     },
     {
@@ -202,8 +206,10 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4,
-      "skipped": {},
+      "new": 5,
+      "skipped": {
+        "not_opportunity": 3
+      },
       "empty_streak": 0,
       "stale_streak": 0,
       "alert": ""
@@ -214,8 +220,10 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2,
-      "skipped": {},
+      "new": 5,
+      "skipped": {
+        "no_opportunity_word": 1
+      },
       "empty_streak": 0,
       "stale_streak": 0,
       "alert": ""
@@ -228,7 +236,7 @@
       "items": 0,
       "new": 0,
       "skipped": {},
-      "empty_streak": 3,
+      "empty_streak": 4,
       "stale_streak": 0,
       "alert": ""
     },
@@ -238,9 +246,10 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 6,
+      "new": 7,
       "skipped": {
-        "not_opportunity": 1
+        "not_opportunity": 1,
+        "no_opportunity_word": 1
       },
       "empty_streak": 0,
       "stale_streak": 0,
@@ -257,7 +266,7 @@
         "too_old": 12
       },
       "empty_streak": 0,
-      "stale_streak": 3,
+      "stale_streak": 4,
       "alert": ""
     },
     {
@@ -266,7 +275,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 0,
+      "new": 1,
       "skipped": {},
       "empty_streak": 0,
       "stale_streak": 0,
@@ -290,10 +299,10 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 4,
+      "new": 0,
       "skipped": {
-        "not_opportunity": 5,
-        "no_opportunity_word": 1
+        "no_opportunity_word": 2,
+        "not_opportunity": 5
       },
       "empty_streak": 0,
       "stale_streak": 0,
@@ -323,7 +332,7 @@
       "items": 0,
       "new": 0,
       "skipped": {},
-      "empty_streak": 3,
+      "empty_streak": 4,
       "stale_streak": 0,
       "alert": ""
     },
@@ -352,7 +361,7 @@
         "too_old": 10
       },
       "empty_streak": 0,
-      "stale_streak": 3,
+      "stale_streak": 4,
       "alert": ""
     },
     {
@@ -374,45 +383,37 @@
   "reseen": [
     {
       "id": "french-african-foundation-young-leaders",
-      "title": "French-African Foundation Young Leaders Program 2027",
-      "url": "https://opportunitydesk.org/2026/11/18/french-african-foundation-young-leaders-program-2027/",
-      "source": "Opportunity Desk",
-      "seen": "2026-11-19"
-    },
-    {
-      "id": "french-african-foundation-young-leaders",
-      "title": "The French-African Foundation Young Leaders Program 2027 for young Africans (Fully Funded to France)",
-      "url": "https://www.opportunitiesforafricans.com/the-french-african-foundation-young-leaders-program-2027/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-11-19"
-    },
-    {
-      "id": "french-african-foundation-young-leaders",
       "title": "French-African Foundation Young Leaders Programme 2027 – International Leadership Fellowship",
       "url": "https://oyaop.com/opportunity/exchange-programs/french-african-foundation-young-leaders-programme-2027-international-leadership-fellowship/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-19"
+      "seen": "2026-11-20"
+    },
+    {
+      "id": "france-excellence-eiffel-2027",
+      "title": "Bourse d'excellence Eiffel Développé par le ministère en charge des affaires étrangères, le programme de bourses d'excellence Eiffel permet chaque année de former les futurs décideurs étrangers, des secteurs publics et p",
+      "url": "https://www.rdc.campusfrance.org/bourse-d-excellence-eiffel",
+      "source": "Campus France RDC - Bourses et formations",
+      "seen": "2026-11-20"
     }
   ],
-  "new_leads_last_run": 16,
+  "new_leads_last_run": 19,
   "leads": {
-    "active": 322,
+    "active": 341,
     "archived_total": 0,
     "retired_this_run": 0,
     "rejected_this_run": {
       "too_old": 56,
-      "no_opportunity_word": 17,
-      "not_opportunity": 8
+      "no_opportunity_word": 31,
+      "not_opportunity": 11
     },
-    "audit_entries": 168,
+    "audit_entries": 191,
     "sources": {
       "registered": 29,
       "scanned": 3,
       "failed": [
-        "rdc-campusfrance",
         "afdb-news-events"
       ],
-      "new_leads": 0,
+      "new_leads": 1,
       "rows": [
         {
           "id": "oif-jeunesse",
@@ -428,11 +429,11 @@
           "id": "rdc-campusfrance",
           "name": "Campus France RDC - Bourses et formations",
           "status": "active",
-          "http": -1,
-          "items": 0,
-          "new": 0,
+          "http": 200,
+          "items": 13,
+          "new": 1,
           "would_add": 0,
-          "note": "robots.txt unreachable this run"
+          "note": ""
         },
         {
           "id": "afdb-news-events",
@@ -448,7 +449,7 @@
     }
   },
   "upcoming": {
-    "generated": "2026-11-19",
+    "generated": "2026-11-20",
     "items": [
       {
         "id": "pan-african-university-scholarships",
@@ -467,7 +468,7 @@
         "window_text": "around December 2026 (closing)",
         "expected_deadline_month": "2026-12",
         "pattern": "one earlier cycle",
-        "days_until": 26,
+        "days_until": 25,
         "check_now": true
       },
       {
@@ -483,7 +484,7 @@
         "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
         "phase": "Opening announced",
         "window_text": "opens 2027-01-01",
-        "days_until": 43,
+        "days_until": 42,
         "check_now": false
       },
       {
@@ -503,7 +504,7 @@
         "window_text": "around January 2027 (closing)",
         "expected_deadline_month": "2027-01",
         "pattern": "one earlier cycle",
-        "days_until": 57,
+        "days_until": 56,
         "check_now": true
       },
       {
@@ -523,7 +524,7 @@
         "window_text": "around January 2027 (closing)",
         "expected_deadline_month": "2027-01",
         "pattern": "one earlier cycle",
-        "days_until": 67,
+        "days_until": 66,
         "check_now": true
       },
       {
@@ -543,7 +544,7 @@
         "window_text": "around February 2027 (closing)",
         "expected_deadline_month": "2027-02",
         "pattern": "one earlier cycle",
-        "days_until": 93,
+        "days_until": 92,
         "check_now": false
       },
       {
@@ -559,7 +560,7 @@
         "url": "https://clide.umk.pl/",
         "phase": "Opening announced",
         "window_text": "opens 2027-02-22",
-        "days_until": 95,
+        "days_until": 94,
         "check_now": false
       },
       {
@@ -575,7 +576,7 @@
         "url": "https://www.mandelarhodes.org/scholarship/apply/",
         "phase": "Opening announced",
         "window_text": "opens 2027-03-09",
-        "days_until": 110,
+        "days_until": 109,
         "check_now": false
       },
       {
@@ -595,7 +596,7 @@
         "window_text": "around March 2027 (closing)",
         "expected_deadline_month": "2027-03",
         "pattern": "one earlier cycle",
-        "days_until": 123,
+        "days_until": 122,
         "check_now": false
       },
       {
@@ -611,7 +612,7 @@
         "url": "https://www.icann.org/fellowshipprogram",
         "phase": "Opening announced",
         "window_text": "opens 2027-03-22",
-        "days_until": 123,
+        "days_until": 122,
         "check_now": false
       },
       {
@@ -631,7 +632,7 @@
         "window_text": "around April 2027 (closing)",
         "expected_deadline_month": "2027-04",
         "pattern": "one earlier cycle",
-        "days_until": 158,
+        "days_until": 157,
         "check_now": false
       },
       {
@@ -651,7 +652,7 @@
         "window_text": "around May 2027 (closing)",
         "expected_deadline_month": "2027-05",
         "pattern": "one earlier cycle",
-        "days_until": 191,
+        "days_until": 190,
         "check_now": false
       },
       {
@@ -671,7 +672,7 @@
         "window_text": "around July 2027 (closing)",
         "expected_deadline_month": "2027-07",
         "pattern": "one earlier cycle",
-        "days_until": 254,
+        "days_until": 253,
         "check_now": false
       },
       {
@@ -691,7 +692,7 @@
         "window_text": "around August 2027 (closing)",
         "expected_deadline_month": "2027-08",
         "pattern": "one earlier cycle",
-        "days_until": 268,
+        "days_until": 267,
         "check_now": false
       },
       {
@@ -711,7 +712,7 @@
         "window_text": "around September 2027 (closing)",
         "expected_deadline_month": "2027-09",
         "pattern": "one earlier cycle",
-        "days_until": 295,
+        "days_until": 294,
         "check_now": false
       },
       {
@@ -731,7 +732,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 320,
+        "days_until": 319,
         "check_now": false
       },
       {
@@ -751,7 +752,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 321,
+        "days_until": 320,
         "check_now": false
       },
       {
@@ -771,7 +772,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 328,
+        "days_until": 327,
         "check_now": false
       },
       {
@@ -791,7 +792,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 331,
+        "days_until": 330,
         "check_now": false
       },
       {
@@ -811,7 +812,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 334,
+        "days_until": 333,
         "check_now": false
       },
       {
@@ -831,7 +832,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 340,
+        "days_until": 339,
         "check_now": false
       },
       {
@@ -851,7 +852,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 341,
+        "days_until": 340,
         "check_now": false
       },
       {
@@ -871,7 +872,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 345,
+        "days_until": 344,
         "check_now": false
       },
       {
@@ -891,7 +892,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 346,
+        "days_until": 345,
         "check_now": false
       },
       {
@@ -911,7 +912,7 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 347,
+        "days_until": 346,
         "check_now": false
       },
       {
@@ -931,7 +932,27 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 348,
+        "days_until": 347,
+        "check_now": false
+      },
+      {
+        "id": "global-leadership-challenge-2026",
+        "title": "Global Leadership Challenge 2026",
+        "organization": "Global Leadership Challenge (with the St. Gallen Symposium)",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "pattern",
+        "history": [
+          "2026-11-05"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Travel Funded",
+        "organiser_text": "Recurring programme; previous cycle closed on 2026-11-05.",
+        "url": "https://www.leadership-challenge.org/",
+        "phase": "Expected again (estimate)",
+        "window_text": "around November 2027 (closing)",
+        "expected_deadline_month": "2027-11",
+        "pattern": "one earlier cycle",
+        "days_until": 350,
         "check_now": false
       }
     ],
@@ -939,6 +960,11 @@
       {
         "id": "abe-initiative-jica",
         "title": "ABE Initiative: Master's Degree and Internship Program of the African Business Education Initiative for Youth",
+        "organiser_text": ""
+      },
+      {
+        "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+        "title": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly, Geneva)",
         "organiser_text": ""
       },
       {
@@ -954,11 +980,6 @@
       {
         "id": "fortis-fellowship-2027",
         "title": "Fortis Fellowship 2027",
-        "organiser_text": ""
-      },
-      {
-        "id": "global-leadership-challenge-2026",
-        "title": "Global Leadership Challenge 2026",
         "organiser_text": ""
       },
       {
