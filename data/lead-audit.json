@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -1718,6 +1718,60 @@
       "source": "Campus France RDC - Bourses et formations",
       "title": "Article Image Nos actions",
       "url": "https://www.rdc.campusfrance.org/nos-actions",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "ad6060a5600f",
+      "date": "2026-11-21",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Mobilité artistique : poursuivre la circulation des créations francophones",
+      "url": "https://www.francophonie.org/mobilite-artistique-poursuivre-la-circulation-des-creations-francophones-8754",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "2efa3a8c7279",
+      "date": "2026-11-21",
+      "source": "Opportunity Desk",
+      "title": "Cambridge Africa Climate Collaborative Research Fund 2026/2027",
+      "url": "https://opportunitydesk.org/2026/11/20/cambridge-africa-climate-collaborative-research-fund-2026-2027/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "debb937039d4",
+      "date": "2026-11-21",
+      "source": "Opportunities for Youth",
+      "title": "2026 JSPS–UNU Postdoctoral Fellowship in Japan: Fully Funded 24-Month Research Opportunity for International Scholars",
+      "url": "https://opportunitiesforyouth.org/2026/11/21/2026-jsps-unu-postdoctoral-fellowship-in-japan-fully-funded-24-month-research-opportunity-for-international-scholars/",
+      "reason": "not_opportunity",
+      "detail": "Postdoc"
+    },
+    {
+      "id": "0861922f0bcf",
+      "date": "2026-11-21",
+      "source": "Opportunities for Youth",
+      "title": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027–2029: Earn an $80,000 Stipend Through a Fully Funded Two-Year Policy Fellowship in Washington, D.C.",
+      "url": "https://opportunitiesforyouth.org/2026/11/20/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2029-earn-an-80000-stipend-through-a-fully-funded-two-year-policy-fellowship-in-washington-d-c/",
+      "reason": "not_opportunity",
+      "detail": "Postdoc"
+    },
+    {
+      "id": "91d10e742b2f",
+      "date": "2026-11-21",
+      "source": "Opportunites du Monde",
+      "title": "World Vision Tchad recrute un Senior Program Officer (H/F) basé à N’Djamena",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/developpement-international/world-vision-tchad-recrute-un-senior-program-officer-h-f-base-a-ndjamena/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "e35e7ca850c6",
+      "date": "2026-11-21",
+      "source": "Wallonie-Bruxelles International - Actualités (stages, bourses)",
+      "title": "Appel de candidatures | Résidence de cocréation Canada-France-Belgique",
+      "url": "https://www.wbi.be/fr/actualites/appel-candidatures-residence-cocreation-canada-france-belgique",
       "reason": "no_opportunity_word",
       "detail": ""
     }
