@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -1774,6 +1774,42 @@
       "url": "https://www.wbi.be/fr/actualites/appel-candidatures-residence-cocreation-canada-france-belgique",
       "reason": "no_opportunity_word",
       "detail": ""
+    },
+    {
+      "id": "1e4dde09d79e",
+      "date": "2026-11-22",
+      "source": "Opportunity Desk",
+      "title": "Clements-Archer National Security Policy Postdoctoral Fellowship 2027-2028 ($80,000 stipend)",
+      "url": "https://opportunitydesk.org/2026/11/21/clements-archer-national-security-policy-postdoctoral-fellowship-2027-2028/",
+      "reason": "not_opportunity",
+      "detail": "Postdoc"
+    },
+    {
+      "id": "15413e41dc96",
+      "date": "2026-11-22",
+      "source": "Opportunities for Youth",
+      "title": "ActionSA Parliament Jobs 2026: 3 Exciting Parliamentary Vacancies for South Africans – Apply by 3 December 2026",
+      "url": "https://opportunitiesforyouth.org/2026/11/21/actionsa-parliament-jobs-2026-3-exciting-parliamentary-vacancies-for-south-africans-apply-by-3-december-2026/",
+      "reason": "not_opportunity",
+      "detail": "Jobs"
+    },
+    {
+      "id": "923d5a65f93e",
+      "date": "2026-11-22",
+      "source": "Opportunites du Monde",
+      "title": "Appel à projets 2026 sur l’action climatique et la résilience des jeunes – Bénéficiez d’un financement de 50 000 € à 100 000 € par projet",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/call-for-papers/environnement/appel-a-projets-2026-sur-laction-climatique-et-la-resilience-des-jeunes-beneficiez-dun-financement-de-50-000-e-a-100-000-e-par-projet/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "190879478e42",
+      "date": "2026-11-22",
+      "source": "Opportunites du Monde",
+      "title": "AFEX-TD recrute des enquêteurs et enquêtrices de terrain à N’Djamena et Linia, au Tchad",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/agriculture/afex-td-recrute-des-enqueteurs-et-enquetrices-de-terrain-a-ndjamena-et-linia-au-tchad/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
     }
   ]
 }
