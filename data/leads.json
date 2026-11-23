@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "leads": [
     {
       "id": "fdd9afdcc7e3",
@@ -11,7 +11,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 85,
       "flags": []
@@ -53,7 +53,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 80,
       "flags": []
@@ -137,7 +137,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 78,
       "flags": []
@@ -411,6 +411,76 @@
       "last_seen": "2026-11-11"
     },
     {
+      "id": "e5ebecee145a",
+      "title": "ACS Public Policy Fellowships 2027: Fully Funded Science Policy Fellowship Opportunities in the United States – Apply by January 5, 2027",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/acs-public-policy-fellowships-2027-fully-funded-science-policy-fellowship-opportunities-in-the-united-states-apply-by-january-5-2027/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "ce81e70002e3",
+      "title": "Public Policy New Voices Fellowship Program 2026-2027",
+      "url": "https://opportunitydesk.org/2026/11/23/public-policy-new-voices-fellowship-program-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "a7090d23bbc0",
+      "title": "Skoll Scholarship 2027–2028 at the University of Oxford: MBA Scholarship for Social Entrepreneurs, Innovators and Global Changemakers",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/the-skoll-scholarship-empowering-social-entrepreneurs-to-lead-change-at-oxford/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "7eac4a79c03d",
+      "title": "US Government Scholarships 2027 for International Students | Fully Funded Scholarships & Exchange Programs",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/us-government-scholarships-2027-for-international-students-fully-funded-scholarships-exchange-programs/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "6ac48db5bc43",
+      "title": "Fulbright Teaching Excellence and Achievement Program 2027/2028 (Fulbright TEA) for secondary-level teachers (Fully Funded to the United States)",
+      "url": "https://www.opportunitiesforafricans.com/fulbright-teaching-excellence-and-achievement-program-2027-2028-fulbright-tea-for-secondary-level-teachers/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
       "id": "7e32edd9d8f3",
       "title": "Dataphyte Foundation Infra-Watch Media Fellowship 2027",
       "url": "https://opportunitydesk.org/2026/11/21/dataphyte-foundation-infra-watch-media-fellowship-2027/",
@@ -419,7 +489,7 @@
       "language": "en",
       "published": "2026-11-21",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -436,12 +506,13 @@
       "language": "en",
       "published": "2026-11-20",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 60,
       "flags": [],
       "also_seen_in": [
-        "Opportunity Desk"
+        "Opportunity Desk",
+        "OYA Opportunities"
       ]
     },
     {
@@ -481,12 +552,13 @@
       "language": "en",
       "published": "2026-11-19",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 60,
       "flags": [],
       "also_seen_in": [
-        "Opportunities for Africans"
+        "Opportunities for Africans",
+        "Opportunities for Youth"
       ]
     },
     {
@@ -529,7 +601,7 @@
       "language": "en",
       "published": "2026-11-19",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -722,7 +794,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "83848f3ea82f",
@@ -754,7 +826,10 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23",
+      "also_seen_in": [
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "718b6b0c8c32",
@@ -785,7 +860,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "755639a52780",
@@ -802,7 +877,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "de2725ae424d",
@@ -847,7 +922,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "6c461f707486",
@@ -948,7 +1023,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "de81212a17ab",
@@ -1330,6 +1405,34 @@
       "last_seen": "2026-10-24"
     },
     {
+      "id": "ff768a4717c6",
+      "title": "Cambridge Africa Climate Collaborative Research Fund 2026/27: Apply for Research Grants of Up to £80,000",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/cambridge-africa-climate-collaborative-research-fund-2026-27-apply-for-research-grants-of-up-to-80000/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-22",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 58,
+      "flags": []
+    },
+    {
+      "id": "d17e8984b483",
+      "title": "Sanofi Foundation Climate Action and Youth Resilience Grant 2026: Apply for €50,000–€100,000 Funding for Youth-Led Climate and Health Projects in Africa",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/sanofi-foundation-climate-action-and-youth-resilience-grant-2026-apply-for-e50000-e100000-funding-for-youth-led-climate-and-health-projects-in-africa/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 58,
+      "flags": []
+    },
+    {
       "id": "f3de69d4cd6c",
       "title": "The Africa–EU Space Partnership Programme (AESPP) Business Innovation Programme for African-registered EO businesses (€20,000 in milestone-based funding)",
       "url": "https://www.opportunitiesforafricans.com/the-africaeu-space-partnership-programme-aespp-business-innovation-programme/",
@@ -1338,7 +1441,7 @@
       "language": "en",
       "published": "2026-11-21",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 58,
       "flags": []
@@ -1484,9 +1587,10 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-23",
       "also_seen_in": [
-        "Opportunities for Youth"
+        "Opportunities for Youth",
+        "OYA Opportunities"
       ]
     },
     {
@@ -2308,7 +2412,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "1f187515b03d",
@@ -2648,6 +2752,48 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "9df20819a59e",
+      "title": "United Nations Young Professionals Programme (YPP) 2026–2027",
+      "url": "https://oyaop.com/opportunity/exchange-programs/united-nations-young-professionals-programme-ypp-2026-2027/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "3e122a18e45a",
+      "title": "Volunteering for ALL 2027 in Norway: SALTO Training Course on Inclusive European Solidarity Corps Volunteering Projects",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/volunteering-for-all-2027-in-norway-salto-training-course-on-inclusive-european-solidarity-corps-volunteering-projects/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "05b4f59ac961",
+      "title": "Fulbright Teacher Exchanges 2027–2028: Global Professional Development Opportunities for Educators and School Leaders",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/fulbright-teacher-exchanges-2027-2028-global-professional-development-opportunities-for-educators-and-school-leaders/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
       "id": "b923fbd6eb7e",
       "title": "Internship Opportunities at the UK Mission to the UN in Geneva 2027: Humanitarian Affairs, Migration and Forced Displacement – CHF 1,450 Monthly Stipend",
       "url": "https://opportunitiesforyouth.org/2026/11/20/internship-opportunities-at-the-uk-mission-to-the-un-in-geneva-2027-humanitarian-affairs-migration-and-forced-displacement-chf-1450-monthly-stipend/",
@@ -2701,7 +2847,7 @@
       "language": "en",
       "published": "2026-11-19",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 53,
       "flags": [],
@@ -2790,7 +2936,7 @@
       "language": "en",
       "published": "2026-11-19",
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 53,
       "flags": [],
@@ -3070,7 +3216,7 @@
       "status": "NEW",
       "score": 53,
       "flags": [],
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-23"
     },
     {
       "id": "03936430eeab",
@@ -3214,6 +3360,20 @@
       "score": 53,
       "flags": [],
       "last_seen": "2026-10-25"
+    },
+    {
+      "id": "f73f761938ed",
+      "title": "Appel à candidatures pour la sélection des Jeunes leaders africains engagés dans l’économie verte et la lutte contre le changement climatique",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/call-for-papers/environnement/appel-a-candidatures-pour-la-selection-des-jeunes-leaders-africains-engages-dans-leconomie-verte-et-la-lutte-contre-le-changement-climatique/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 50,
+      "flags": []
     },
     {
       "id": "63b5c9c68acb",
@@ -3859,6 +4019,48 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "7bdc4f9140e0",
+      "title": "La GIZ et ses partenaires proposent des formations gratuites et certifiantes accessibles à distance, dans plusieurs domaines et disponibles en plusieurs langues",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/formation/agriculture/la-giz-et-ses-partenaires-proposent-des-formations-gratuites-et-certifiantes-accessibles-a-distance-dans-plusieurs-domaines-et-disponibles-en-plusieurs-langues/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "65ea2cf6c0ed",
+      "title": "WHO/Europe Knowledge Community on Social Media, AI and Youth Mental Health 2026: Call for Participants to Help Shape Safer Digital Environments for Young People",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/who-europe-knowledge-community-on-social-media-ai-and-youth-mental-health-2026-call-for-participants-to-help-shape-safer-digital-environments-for-young-people/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "4c8da5ab7570",
+      "title": "Stanford Global Sustainability Challenge 2026–27: A Global Opportunity for University Students to Develop Innovative Solutions to Sustainability Challenges",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/stanford-global-sustainability-challenge-2026-27-a-global-opportunity-for-university-students-to-develop-innovative-solutions-to-sustainability-challenges/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
       "id": "d3dad1edbe2b",
       "title": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​The ITU Secretary-General’s Youth Advisory Board​​​ cohort 2 for young leaders worldwide.",
       "url": "https://www.opportunitiesforafricans.com/the-itu-secretary-generals-youth-advisory-board-cohort-2/",
@@ -3867,7 +4069,7 @@
       "language": "en",
       "published": "2026-11-21",
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 45,
       "flags": []
@@ -3923,7 +4125,7 @@
       "language": "en",
       "published": "2026-11-19",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 45,
       "flags": [],
@@ -3955,7 +4157,7 @@
       "language": "en",
       "published": "2026-11-19",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 45,
       "flags": [],
@@ -4255,7 +4457,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": [
@@ -4313,7 +4515,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4327,7 +4529,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4341,7 +4543,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4355,7 +4557,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4369,7 +4571,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4397,7 +4599,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4425,7 +4627,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4439,7 +4641,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4453,7 +4655,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4509,7 +4711,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4579,7 +4781,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4593,7 +4795,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4635,7 +4837,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -5045,6 +5247,38 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "9d6ff5ce840c",
+      "title": "Tor Community Fellowship 2027: Applications Open for Human Rights Defenders, Journalists, Technologists, and Researchers",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/tor-community-fellowship-2027-applications-open-for-human-rights-defenders-journalists-technologists-and-researchers/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 35,
+      "flags": [
+        "audience:level-only:Researchers"
+      ]
+    },
+    {
+      "id": "6730db92b1a9",
+      "title": "The WINIR Young Scholars Pre-Conference Workshop on Innovation, Institutions & Inclusion for early career researchers ( São Paulo, Brazil)",
+      "url": "https://www.opportunitiesforafricans.com/the-winir-young-scholars-pre-conference-workshop-on-innovation-institutions-inclusion/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-23",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "status": "NEW",
+      "score": 35,
+      "flags": [
+        "audience:level-only:researchers"
+      ]
+    },
+    {
       "id": "80974652f203",
       "title": "Up to 6 Fully Funded PhD Positions in Economics at the University of Gothenburg, Sweden – 2027",
       "url": "https://opportunitiesforyouth.org/2026/11/20/up-to-6-fully-funded-phd-positions-in-economics-at-the-university-of-gothenburg-sweden-2027/",
@@ -5085,7 +5319,7 @@
       "language": "en",
       "published": "2026-11-20",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 18,
       "flags": [
@@ -5101,7 +5335,7 @@
       "language": "en",
       "published": "2026-11-20",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 18,
       "flags": [
@@ -5136,7 +5370,7 @@
       "language": "en",
       "published": "2026-11-21",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 15,
       "flags": [
@@ -5152,7 +5386,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 15,
       "flags": [
@@ -5168,7 +5402,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-22",
+      "last_seen": "2026-11-23",
       "status": "NEW",
       "score": 15,
       "flags": [

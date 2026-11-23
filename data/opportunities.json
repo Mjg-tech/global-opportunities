@@ -3302,17 +3302,17 @@
       "location_type": "Hybrid",
       "delivery_mode": "Hybrid",
       "program_dates": "Fellowship January to June 2027 (2-4 hours of monthly virtual sessions and mentorship); two-day Fellows Retreat in Medellín followed immediately by the Fortis Summit, June 2027 (the FAQ says 'four full days in Medellín').",
-      "application_deadline": "2026-11-08",
+      "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Application deadline November 8th, 2026. Interviews November - December 2026; membership decisions by end of January 2027.",
+      "deadline_text": "Last cycle closed on 2026-11-08. Next cycle not announced yet.",
       "deadline_timezone": "Unknown / Not specified",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-11-08.",
+      "last_cycle_deadline": "2026-11-08",
+      "status": "UPCOMING",
       "funding_type": "Participation Funded",
       "funding_details": [
         "'Cohort programming and the Summit are funded for fellows.'",
@@ -3369,7 +3369,7 @@
       "source_url": "https://fortissociety.org/fellowship",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "Apply to the Fortis Fellowship (2027 cohort)",
@@ -3428,7 +3428,7 @@
       "action": "Closed on 8 November 2026 (not extended when re-read on 9 November). If you applied, expect interviews in November-December 2026 and a decision by the end of January 2027.",
       "last_verified": "2026-11-09",
       "date_discovered": "2026-10-26",
-      "notes": "Organiser identified on its About page: the Future Leaders Foundation (registered 501(c)(3), August 2014) launched the Fortis Society in 2018; the Society is member-governed. Members' testimonials and past summit cities (Paris, Seattle, Marrakesh, Sitges, Athens, Medellín) are on the site. No fee anywhere. 9 November 2026: fellowship page re-read; the deadline was not extended.",
+      "notes": "Organiser identified on its About page: the Future Leaders Foundation (registered 501(c)(3), August 2014) launched the Fortis Society in 2018; the Society is member-governed. Members' testimonials and past summit cities (Paris, Seattle, Marrakesh, Sitges, Athens, Medellín) are on the site. No fee anywhere. 9 November 2026: fellowship page re-read; the deadline was not extended. [auto 2026-11-23] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "fortis fellowship",
         "fortis society"
@@ -10547,17 +10547,17 @@
       "location_type": "International travel",
       "delivery_mode": "In-person",
       "program_dates": "December 19, 2026 - January 1, 2027",
-      "application_deadline": "2026-11-08",
+      "application_deadline": "",
       "deadline_utc": "",
-      "deadline_text": "Submit the application online with completed and required materials by November 8, 2026 (UTC/GMT+8)",
+      "deadline_text": "Last cycle closed on 2026-11-08. Next cycle not announced yet.",
       "deadline_timezone": "UTC+8",
       "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
-      "expected_next_cycle": "",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "expected_next_cycle": "Recurring programme; previous cycle closed on 2026-11-08.",
+      "last_cycle_deadline": "2026-11-08",
+      "status": "UPCOMING",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "'Full Program Fee 3000 CNY. Program fee includes tuition, accommodation (twin room) and field trips. Insurance and travel expenses are NOT included.'",
@@ -10608,7 +10608,7 @@
       "source_url": "https://ic.ustc.edu.cn/?abroad=179",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "USTC International Winter Camp 2027",
@@ -10650,7 +10650,7 @@
       "action": "Closed on 8 November 2026 (UTC+8); not extended when re-read on 9 November.",
       "last_verified": "2026-11-09",
       "date_discovered": "2026-10-05",
-      "notes": "19 October 2026: official page re-read; dates (19 December 2026 - 1 January 2027), deadline (8 November 2026, UTC+8), 3000 CNY fee, fellowship wording and eligibility unchanged. 12 October 2026: unchanged. 9 November 2026: page re-read; deadline not extended.",
+      "notes": "19 October 2026: official page re-read; dates (19 December 2026 - 1 January 2027), deadline (8 November 2026, UTC+8), 3000 CNY fee, fellowship wording and eligibility unchanged. 12 October 2026: unchanged. 9 November 2026: page re-read; deadline not extended. [auto 2026-11-23] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "ustc winter camp",
         "ustc international winter camp"
@@ -11868,5 +11868,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-22"
+  "status_computed_on": "2026-11-23"
 }

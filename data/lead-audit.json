@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -1810,6 +1810,96 @@
       "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/agriculture/afex-td-recrute-des-enqueteurs-et-enquetrices-de-terrain-a-ndjamena-et-linia-au-tchad/",
       "reason": "not_opportunity",
       "detail": "recrut"
+    },
+    {
+      "id": "b66f143eea8c",
+      "date": "2026-11-23",
+      "source": "Opportunity Desk",
+      "title": "Apply to join the ITU Secretary-General’s Youth Advisory Board​​​",
+      "url": "https://opportunitydesk.org/2026/11/23/itu-secretary-general-youth-advisory-board-2/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "f332f88b31f3",
+      "date": "2026-11-23",
+      "source": "Opportunities for Africans",
+      "title": "The Echoing Green Talent Platform for Social Entrepreneurs",
+      "url": "https://www.opportunitiesforafricans.com/the-echoing-green-talent-platform-for-social-entrepreneurs/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "5148fd60d2b0",
+      "date": "2026-11-23",
+      "source": "Opportunities for Youth",
+      "title": "UK Seasonal Worker Visa 2026–2027: Eligibility, Application Process, Requirements, Fees and How to Work Temporarily in the United Kingdom",
+      "url": "https://opportunitiesforyouth.org/2026/11/23/uk-seasonal-worker-visa-2026-2027-eligibility-application-process-requirements-fees-and-how-to-work-temporarily-in-the-united-kingdom/",
+      "reason": "not_opportunity",
+      "detail": "How to"
+    },
+    {
+      "id": "63f12f670b45",
+      "date": "2026-11-23",
+      "source": "Opportunites du Monde",
+      "title": "Le programme VNU recherche 400 Volontaires en ligne pour promouvoir la Journée internationale des volontaires 2026 en République du Congo",
+      "url": "https://www.lesopportunites.com/opportunite/republique-du-congo/volontaires/communication/le-programme-vnu-recherche-400-volontaires-en-ligne-pour-promouvoir-la-journee-internationale-des-volontaires-2026-en-republique-du-congo/",
+      "reason": "not_opportunity",
+      "detail": "recherche 4"
+    },
+    {
+      "id": "afd29f681c9f",
+      "date": "2026-11-23",
+      "source": "Opportunites du Monde",
+      "title": "ACTIF IMMOBILIER Tchad lance une campagne de recrutement de plusieurs profils dans différents domaines",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/stages/logistique/actif-immobilier-tchad-lance-une-campagne-de-recrutement-de-plusieurs-profils-dans-differents-domaines/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "5726394b9def",
+      "date": "2026-11-23",
+      "source": "Opportunites du Monde",
+      "title": "Un Cabinet d’architecture au Tchad lance une campagne de recrutement de plusieurs profils dans différents domaines",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/stages/architecture/un-cabinet-darchitecture-au-tchad-lance-une-campagne-de-recrutement-de-plusieurs-profils-dans-differents-domaines/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "7ea83075d7ea",
+      "date": "2026-11-23",
+      "source": "Opportunites du Monde",
+      "title": "La Ferme Premium au Tchad lance une campagne de recrutement de plusieurs profils dans différents domaines",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/stages/agriculture/la-ferme-premium-au-tchad-lance-une-campagne-de-recrutement-de-plusieurs-profils-dans-differents-domaines/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "5de118765ffb",
+      "date": "2026-11-23",
+      "source": "Opportunites du Monde",
+      "title": "Plan International Tchad lance un appel d’offres international pour la mise en place d’un contrat-cadre portant sur la fourniture, l’emballage et le transport de vivres et de produits non-vivre à Adré",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/achat-transport/plan-international-tchad-lance-un-appel-doffres-international-pour-la-mise-en-place-dun-contrat-cadre-portant-sur-la-fourniture-lemballage-et-le-transport-de-vivres-et-de-p/",
+      "reason": "not_opportunity",
+      "detail": "appel d’offres"
+    },
+    {
+      "id": "03281d46b321",
+      "date": "2026-11-23",
+      "source": "Opportunites du Monde",
+      "title": "Le CIAUD lance un avis d’appel à manifestation d’intérêt au Tchad pour sélectionner des Transporteurs routiers chargés de l’acheminement de marchandises par camions gros porteurs au titre de l’année 2027",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/chauffeur/le-ciaud-lance-un-avis-dappel-a-manifestation-dinteret-au-tchad-pour-selectionner-des-transporteurs-routiers-charges-de-lacheminement-de-marchandises-par-camions-gros-porteu/",
+      "reason": "not_opportunity",
+      "detail": "avis d’appel"
+    },
+    {
+      "id": "2e9a9f4d3a72",
+      "date": "2026-11-23",
+      "source": "Opportunites du Monde",
+      "title": "Le CIAUD lance un appel d’offres au Tchad pour la location journalière de véhicules 4×4, berlines et bus au titre de l’année 2027",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/logistique/le-ciaud-lance-un-appel-doffres-au-tchad-pour-la-location-journaliere-de-vehicules-4x4-berlines-et-bus-au-titre-de-lannee-2027/",
+      "reason": "not_opportunity",
+      "detail": "appel d’offres"
     }
   ]
 }

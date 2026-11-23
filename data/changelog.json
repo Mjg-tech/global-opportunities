@@ -2,6 +2,22 @@
   "schema_version": 1,
   "entries": [
     {
+      "date": "2026-11-23",
+      "id": "fortis-fellowship-2027",
+      "title": "Fortis Fellowship 2027",
+      "field": "(cycle closed)",
+      "old": "2026-11-08",
+      "new": "rolled to next cycle"
+    },
+    {
+      "date": "2026-11-23",
+      "id": "ustc-international-winter-camp-2027",
+      "title": "USTC International Winter Camp 2027",
+      "field": "(cycle closed)",
+      "old": "2026-11-08",
+      "new": "rolled to next cycle"
+    },
+    {
       "date": "2026-11-20",
       "id": "global-leadership-challenge-2026",
       "title": "Global Leadership Challenge 2026",
