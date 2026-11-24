@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -1900,6 +1900,60 @@
       "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/logistique/le-ciaud-lance-un-appel-doffres-au-tchad-pour-la-location-journaliere-de-vehicules-4x4-berlines-et-bus-au-titre-de-lannee-2027/",
       "reason": "not_opportunity",
       "detail": "appel d’offres"
+    },
+    {
+      "id": "dffa4556d32c",
+      "date": "2026-11-24",
+      "source": "Opportunities for Youth",
+      "title": "Lead Associate, Knowledge and Communications Job at Save the Children 2026 – Apply for a Full-Time International Development Communications Position",
+      "url": "https://opportunitiesforyouth.org/2026/11/24/lead-associate-knowledge-and-communications-job-at-save-the-children-2026-apply-for-a-full-time-international-development-communications-position/",
+      "reason": "not_opportunity",
+      "detail": "Job"
+    },
+    {
+      "id": "16188b59bcb4",
+      "date": "2026-11-24",
+      "source": "Opportunites du Monde",
+      "title": "Action contre la Faim (ACF) lance un avis d’appel d’offres pour le recrutement d’un Consultant individuel et/ou d’un Cabinet national de consultance en vue de réaliser l’évaluation finale indépendante du projet de soutien au développement des chaînes de valeur alimentaire dans la province du Sila, à l’est du Tchad",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/prestation-de-service/action-contre-la-faim-acf-lance-un-avis-dappel-doffres-pour-le-recrutement-dun-consultant-individuel-et-ou-dun-cabinet-national-de-consultance-en-vue-de-realiser/",
+      "reason": "not_opportunity",
+      "detail": "avis d’appel"
+    },
+    {
+      "id": "e2a85bc24a4a",
+      "date": "2026-11-24",
+      "source": "Opportunites du Monde",
+      "title": "Programme de recrutement de (250) Jeunes Ivoiriens pour une formation gratuite de 6 mois au métier d’installateur de systèmes solaires photovoltaïques",
+      "url": "https://www.lesopportunites.com/opportunite/cote-divoire/formation/energie/programme-de-recrutement-de-250-jeunes-ivoiriens-pour-une-formation-gratuite-de-6-mois-au-metier-dinstallateur-de-systemes-solaires-photovoltaiques/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "3b7ce6078b32",
+      "date": "2026-11-24",
+      "source": "Opportunites du Monde",
+      "title": "Plan International Tchad recrute un(e) Coordonnateur(trice) financier(ère) pour son projet GFFO basé à Adré",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/comptabilite-audit/plan-international-tchad-recrute-une-coordonnateurtrice-financierere-pour-son-projet-gffo-base-a-adre/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "0f4aaddfc3d3",
+      "date": "2026-11-24",
+      "source": "Opportunites du Monde",
+      "title": "CIAUD lance un appel d’offres au Tchad pour la sélection d’une Société de sécurité et de gardiennage chargée de protéger ses installations à N’Djamena et dans les provinces durant l’année 2027",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/securite-privee/ciaud-lance-un-appel-doffres-au-tchad-pour-la-selection-dune-societe-de-securite-et-de-gardiennage-chargee-de-proteger-ses-installations-a-ndjamena-et-dans-les-provinces-durant-l/",
+      "reason": "not_opportunity",
+      "detail": "appel d’offres"
+    },
+    {
+      "id": "f7199d2bf926",
+      "date": "2026-11-24",
+      "source": "Mo Ibrahim Foundation - News and calls",
+      "title": "23 November 2026 Africa Must Turn Representation into Results",
+      "url": "https://mo.ibrahim.foundation/news/2026/africa-must-turn-representation-into-results",
+      "reason": "no_opportunity_word",
+      "detail": ""
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-23T15:58:59Z",
+  "last_refresh": "2026-11-24T15:53:54Z",
   "counts": {
     "total": 80,
     "archived": 16,
     "by_status": {
-      "OPEN": 23,
+      "OPEN": 21,
       "CLOSING SOON": 10,
       "UPCOMING": 35,
-      "DEADLINE PASSED": 4,
+      "DEADLINE PASSED": 6,
       "ROLLING": 2,
       "DATE UNKNOWN": 6
     },
@@ -37,34 +37,31 @@
   "deadline_buckets": {
     "30": [
       "auc-african-graduate-fellowship-2027",
-      "gates-cambridge-2027",
       "internet-society-fellowship-2027",
       "maastricht-nl-high-potential-2027",
-      "mastercard-foundation-scholars-cambridge-2027",
       "noha-erasmus-mundus-humanitarian-action-2027"
     ],
     "14": [
-      "jim-leech-mastercard-foundation-fellowship-2027",
-      "mcw-global-young-leaders-fellowship-2027",
-      "mundus-mapp-2027",
-      "wageningen-africa-scholarship-programme-2027"
+      "gates-cambridge-2027",
+      "mastercard-foundation-scholars-cambridge-2027",
+      "mcw-global-young-leaders-fellowship-2027"
     ],
     "7": [
+      "jim-leech-mastercard-foundation-fellowship-2027",
+      "mundus-mapp-2027",
       "ned-hurford-youth-fellows-2027",
       "sciences-po-emile-boutmy-masters-2027",
+      "wageningen-africa-scholarship-programme-2027",
       "wff-youth-policy-board-2027-2028",
       "yenching-academy-2027"
     ],
     "3": [],
-    "1": [
-      "gtf-telemachus-mentoring-2027",
-      "mastercard-foundation-scholars-sciences-po-2027"
-    ]
+    "1": []
   },
   "watch": {
     "checked": 80,
-    "ok": 67,
-    "blocked_or_unreachable": 12,
+    "ok": 68,
+    "blocked_or_unreachable": 11,
     "dead": 1
   },
   "flags": [
@@ -149,7 +146,7 @@
     {
       "id": "raisina-young-fellows-2027-pcns",
       "type": "dead_link",
-      "since": "2026-11-23",
+      "since": "2026-11-24",
       "detail": "Official page returned HTTP 404 on two runs."
     },
     {
@@ -189,8 +186,8 @@
         "too_old": 10
       },
       "empty_streak": 0,
-      "stale_streak": 7,
-      "alert": "only stale items for 7 runs"
+      "stale_streak": 8,
+      "alert": "only stale items for 8 runs"
     },
     {
       "name": "Organisation internationale de la Francophonie",
@@ -211,14 +208,11 @@
       "name": "Opportunity Desk",
       "url": "https://opportunitydesk.org/feed/",
       "tier": 3,
-      "status": 200,
-      "items": 10,
-      "new": 1,
-      "skipped": {
-        "no_opportunity_word": 2,
-        "not_opportunity": 1
-      },
-      "empty_streak": 0,
+      "status": 0,
+      "items": 0,
+      "new": 0,
+      "skipped": {},
+      "empty_streak": 1,
       "stale_streak": 0,
       "alert": ""
     },
@@ -228,7 +222,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2,
+      "new": 4,
       "skipped": {
         "no_opportunity_word": 1
       },
@@ -244,9 +238,9 @@
       "items": 0,
       "new": 0,
       "skipped": {},
-      "empty_streak": 7,
+      "empty_streak": 8,
       "stale_streak": 0,
-      "alert": "no items for 7 runs"
+      "alert": "no items for 8 runs"
     },
     {
       "name": "Opportunities for Youth",
@@ -273,8 +267,8 @@
         "too_old": 12
       },
       "empty_streak": 0,
-      "stale_streak": 7,
-      "alert": "only stale items for 7 runs"
+      "stale_streak": 8,
+      "alert": "only stale items for 8 runs"
     },
     {
       "name": "OYA Opportunities",
@@ -282,7 +276,7 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 3,
+      "new": 2,
       "skipped": {},
       "empty_streak": 0,
       "stale_streak": 0,
@@ -294,7 +288,7 @@
       "tier": 3,
       "status": 200,
       "items": 6,
-      "new": 0,
+      "new": 1,
       "skipped": {},
       "empty_streak": 0,
       "stale_streak": 0,
@@ -306,9 +300,9 @@
       "tier": 3,
       "status": 200,
       "items": 10,
-      "new": 2,
+      "new": 3,
       "skipped": {
-        "not_opportunity": 7
+        "not_opportunity": 4
       },
       "empty_streak": 0,
       "stale_streak": 0,
@@ -338,9 +332,9 @@
       "items": 0,
       "new": 0,
       "skipped": {},
-      "empty_streak": 7,
+      "empty_streak": 8,
       "stale_streak": 0,
-      "alert": "no items for 7 runs"
+      "alert": "no items for 8 runs"
     },
     {
       "name": "Partiu Intercambio",
@@ -353,7 +347,7 @@
         "too_old": 10
       },
       "empty_streak": 0,
-      "stale_streak": 2,
+      "stale_streak": 3,
       "alert": ""
     },
     {
@@ -367,8 +361,8 @@
         "too_old": 10
       },
       "empty_streak": 0,
-      "stale_streak": 7,
-      "alert": "only stale items for 7 runs"
+      "stale_streak": 8,
+      "alert": "only stale items for 8 runs"
     },
     {
       "name": "Mas Oportunidades",
@@ -381,58 +375,58 @@
         "too_old": 15
       },
       "empty_streak": 0,
-      "stale_streak": 1,
+      "stale_streak": 2,
       "alert": ""
     }
   ],
   "reseen": [
     {
       "id": "mastercard-foundation-scholars-cambridge-2027",
-      "title": "Mastercard Foundation Scholars Program at the University of Cambridge 2027/2028",
-      "url": "https://opportunitydesk.org/2026/11/21/mastercard-foundation-scholars-program-at-the-university-of-cambridge-2027-2028/",
-      "source": "Opportunity Desk",
-      "seen": "2026-11-23"
-    },
-    {
-      "id": "mastercard-foundation-scholars-cambridge-2027",
-      "title": "The University of Cambridge Mastercard Foundation Scholars Programme 2027/2028 for young Africans (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/the-university-of-cambridge-mastercard-foundation-scholars-programme-2027-2028/",
-      "source": "Opportunities for Africans",
-      "seen": "2026-11-23"
-    },
-    {
-      "id": "mastercard-foundation-scholars-cambridge-2027",
       "title": "Mastercard Foundation Scholars Program at Cambridge 2027–2028 | Fully Funded Master’s Scholarship",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/mastercard-foundation-scholars-program-at-cambridge-2027-2028-fully-funded-masters-scholarship/",
       "source": "OYA Opportunities",
-      "seen": "2026-11-23"
+      "seen": "2026-11-24"
     },
     {
-      "id": "france-excellence-eiffel-2027",
-      "title": "Bourse d'excellence Eiffel Développé par le ministère en charge des affaires étrangères, le programme de bourses d'excellence Eiffel permet chaque année de former les futurs décideurs étrangers, des secteurs publics et p",
-      "url": "https://www.rdc.campusfrance.org/bourse-d-excellence-eiffel",
-      "source": "Campus France RDC - Bourses et formations",
-      "seen": "2026-11-23"
+      "id": "mandela-washington-fellowship-2027",
+      "title": "Mandela Washington Fellowship Academic and leadership training for accomplished leaders ages 25-35. More about the Mandela Washington Fellowship",
+      "url": "https://yali.state.gov/mwf/",
+      "source": "Young African Leaders Initiative (US Department of State) - YALI programmes and courses",
+      "seen": "2026-11-24"
+    },
+    {
+      "id": "turkiye-burslari-2027",
+      "title": "Why Türkiye Scholarships?",
+      "url": "https://www.turkiyeburslari.gov.tr/whyturkiyescholarships",
+      "source": "Presidency for Turks Abroad and Related Communities (Türkiye Scholarships) - Türkiye Scholarships",
+      "seen": "2026-11-24"
+    },
+    {
+      "id": "mastercard-foundation-scholars-cambridge-2027",
+      "title": "Mastercard Foundation Scholars Program",
+      "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-scholars-program/",
+      "source": "Mastercard Foundation - News and programmes",
+      "seen": "2026-11-24"
     }
   ],
-  "new_leads_last_run": 16,
+  "new_leads_last_run": 19,
   "leads": {
-    "active": 370,
+    "active": 389,
     "archived_total": 0,
     "retired_this_run": 0,
     "rejected_this_run": {
-      "too_old": 61,
-      "no_opportunity_word": 27,
-      "not_opportunity": 11
+      "too_old": 68,
+      "no_opportunity_word": 69,
+      "not_opportunity": 8
     },
-    "audit_entries": 211,
+    "audit_entries": 217,
     "sources": {
       "registered": 29,
-      "scanned": 3,
+      "scanned": 9,
       "failed": [
         "afdb-news-events"
       ],
-      "new_leads": 0,
+      "new_leads": 1,
       "rows": [
         {
           "id": "oif-jeunesse",
@@ -445,11 +439,71 @@
           "note": ""
         },
         {
-          "id": "rdc-campusfrance",
-          "name": "Campus France RDC - Bourses et formations",
+          "id": "au-announcements",
+          "name": "African Union Commission - Announcements (calls for applications)",
           "status": "active",
           "http": 200,
-          "items": 13,
+          "items": 10,
+          "new": 0,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "mo-ibrahim-news",
+          "name": "Mo Ibrahim Foundation - News and calls",
+          "status": "active",
+          "http": 200,
+          "items": 14,
+          "new": 0,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "yali-state-gov",
+          "name": "Young African Leaders Initiative (US Department of State) - YALI programmes and courses",
+          "status": "active",
+          "http": 200,
+          "items": 17,
+          "new": 0,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "turkiye-burslari",
+          "name": "Presidency for Turks Abroad and Related Communities (Türkiye Scholarships) - Türkiye Scholarships",
+          "status": "active",
+          "http": 200,
+          "items": 10,
+          "new": 0,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "wbi-news",
+          "name": "Wallonie-Bruxelles International - Actualités (stages, bourses)",
+          "status": "active",
+          "http": 200,
+          "items": 8,
+          "new": 1,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "mastercard-foundation-news",
+          "name": "Mastercard Foundation - News and programmes",
+          "status": "active",
+          "http": 200,
+          "items": 11,
+          "new": 0,
+          "would_add": 0,
+          "note": ""
+        },
+        {
+          "id": "un-youth-affairs",
+          "name": "United Nations Office of the Secretary-General's Envoy on Youth - Youth affairs",
+          "status": "active",
+          "http": 200,
+          "items": 26,
           "new": 0,
           "would_add": 0,
           "note": ""
@@ -468,7 +522,7 @@
     }
   },
   "upcoming": {
-    "generated": "2026-11-23",
+    "generated": "2026-11-24",
     "items": [
       {
         "id": "pan-african-university-scholarships",
@@ -487,7 +541,7 @@
         "window_text": "around December 2026 (closing)",
         "expected_deadline_month": "2026-12",
         "pattern": "one earlier cycle",
-        "days_until": 22,
+        "days_until": 21,
         "check_now": true
       },
       {
@@ -503,7 +557,7 @@
         "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
         "phase": "Opening announced",
         "window_text": "opens 2027-01-01",
-        "days_until": 39,
+        "days_until": 38,
         "check_now": false
       },
       {
@@ -523,7 +577,7 @@
         "window_text": "around January 2027 (closing)",
         "expected_deadline_month": "2027-01",
         "pattern": "one earlier cycle",
-        "days_until": 53,
+        "days_until": 52,
         "check_now": true
       },
       {
@@ -543,7 +597,7 @@
         "window_text": "around January 2027 (closing)",
         "expected_deadline_month": "2027-01",
         "pattern": "one earlier cycle",
-        "days_until": 63,
+        "days_until": 62,
         "check_now": true
       },
       {
@@ -563,7 +617,7 @@
         "window_text": "around February 2027 (closing)",
         "expected_deadline_month": "2027-02",
         "pattern": "one earlier cycle",
-        "days_until": 89,
+        "days_until": 88,
         "check_now": true
       },
       {
@@ -579,7 +633,7 @@
         "url": "https://clide.umk.pl/",
         "phase": "Opening announced",
         "window_text": "opens 2027-02-22",
-        "days_until": 91,
+        "days_until": 90,
         "check_now": false
       },
       {
@@ -595,7 +649,7 @@
         "url": "https://www.mandelarhodes.org/scholarship/apply/",
         "phase": "Opening announced",
         "window_text": "opens 2027-03-09",
-        "days_until": 106,
+        "days_until": 105,
         "check_now": false
       },
       {
@@ -615,7 +669,7 @@
         "window_text": "around March 2027 (closing)",
         "expected_deadline_month": "2027-03",
         "pattern": "one earlier cycle",
-        "days_until": 119,
+        "days_until": 118,
         "check_now": false
       },
       {
@@ -631,7 +685,7 @@
         "url": "https://www.icann.org/fellowshipprogram",
         "phase": "Opening announced",
         "window_text": "opens 2027-03-22",
-        "days_until": 119,
+        "days_until": 118,
         "check_now": false
       },
       {
@@ -651,7 +705,7 @@
         "window_text": "around April 2027 (closing)",
         "expected_deadline_month": "2027-04",
         "pattern": "one earlier cycle",
-        "days_until": 154,
+        "days_until": 153,
         "check_now": false
       },
       {
@@ -671,7 +725,7 @@
         "window_text": "around May 2027 (closing)",
         "expected_deadline_month": "2027-05",
         "pattern": "one earlier cycle",
-        "days_until": 187,
+        "days_until": 186,
         "check_now": false
       },
       {
@@ -691,7 +745,7 @@
         "window_text": "around July 2027 (closing)",
         "expected_deadline_month": "2027-07",
         "pattern": "one earlier cycle",
-        "days_until": 250,
+        "days_until": 249,
         "check_now": false
       },
       {
@@ -711,7 +765,7 @@
         "window_text": "around August 2027 (closing)",
         "expected_deadline_month": "2027-08",
         "pattern": "one earlier cycle",
-        "days_until": 264,
+        "days_until": 263,
         "check_now": false
       },
       {
@@ -731,7 +785,7 @@
         "window_text": "around September 2027 (closing)",
         "expected_deadline_month": "2027-09",
         "pattern": "one earlier cycle",
-        "days_until": 291,
+        "days_until": 290,
         "check_now": false
       },
       {
@@ -751,7 +805,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 316,
+        "days_until": 315,
         "check_now": false
       },
       {
@@ -771,7 +825,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 317,
+        "days_until": 316,
         "check_now": false
       },
       {
@@ -791,7 +845,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 324,
+        "days_until": 323,
         "check_now": false
       },
       {
@@ -811,7 +865,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 327,
+        "days_until": 326,
         "check_now": false
       },
       {
@@ -831,7 +885,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 330,
+        "days_until": 329,
         "check_now": false
       },
       {
@@ -851,7 +905,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 336,
+        "days_until": 335,
         "check_now": false
       },
       {
@@ -871,7 +925,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 337,
+        "days_until": 336,
         "check_now": false
       },
       {
@@ -891,7 +945,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 341,
+        "days_until": 340,
         "check_now": false
       },
       {
@@ -911,7 +965,7 @@
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
-        "days_until": 342,
+        "days_until": 341,
         "check_now": false
       },
       {
@@ -931,7 +985,7 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 343,
+        "days_until": 342,
         "check_now": false
       },
       {
@@ -951,7 +1005,7 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 344,
+        "days_until": 343,
         "check_now": false
       },
       {
@@ -971,7 +1025,7 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 347,
+        "days_until": 346,
         "check_now": false
       },
       {
@@ -991,7 +1045,7 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 350,
+        "days_until": 349,
         "check_now": false
       },
       {
@@ -1011,7 +1065,7 @@
         "window_text": "around November 2027 (closing)",
         "expected_deadline_month": "2027-11",
         "pattern": "one earlier cycle",
-        "days_until": 350,
+        "days_until": 349,
         "check_now": false
       }
     ],
@@ -1037,6 +1091,11 @@
         "organiser_text": ""
       },
       {
+        "id": "gtf-telemachus-mentoring-2027",
+        "title": "Telemachus Mentoring Programme 2027 (Global Thinkers Forum)",
+        "organiser_text": ""
+      },
+      {
         "id": "kectil-program-2027",
         "title": "The Kectil Program 2027",
         "organiser_text": ""
@@ -1045,6 +1104,11 @@
         "id": "mastercard-foundation-scholars-mcgill-2027",
         "title": "Mastercard Foundation Scholars Program at McGill University (master's, Fall 2027 cohort)",
         "organiser_text": "McGill page: 'we invite you to visit our website regularly in Spring 2027 for information about the next recruitment cycle.' No dates for the next cycle are given."
+      },
+      {
+        "id": "mastercard-foundation-scholars-sciences-po-2027",
+        "title": "Mastercard Foundation Scholars Program at Sciences Po (two-year master's, 2027 entry)",
+        "organiser_text": ""
       },
       {
         "id": "nasser-fellowship-international-leadership",

@@ -3742,7 +3742,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Fully Funded",
       "funding_details": [
         "'A Gates Cambridge Scholarship covers the full cost of studying at Cambridge'",
@@ -4343,7 +4343,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Funding Unclear",
       "funding_details": [
         "The official pages and the application form state no fee and no financial support; mentors volunteer their time",
@@ -6242,7 +6242,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Fully Funded",
       "funding_details": [
         "'In addition to course fees, a monthly living allowance and a return flight, the programme covers other expenses including the student visa and Immigration Health Surcharge (IHS).'",
@@ -6715,7 +6715,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "CLOSING SOON",
+      "status": "DEADLINE PASSED",
       "funding_type": "Fully Funded",
       "funding_details": [
         "'The Program covers the full financial needs of selected Scholars' (not itemised on the page read)",
@@ -11868,5 +11868,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-23"
+  "status_computed_on": "2026-11-24"
 }
