@@ -1,0 +1,107 @@
+{
+  "id": "romania-mfa-scholarships-non-eu-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Citizens of all non-EU countries, except listed categories (Romanian origin, protection in Romania, diplomatic or international-organisation staff in Romania, existing Romanian state scholars).",
+      "applicant": "Nationality: DRC (not an EU country; none of the listed exceptions applies).",
+      "assessment": "MET",
+      "quote": "Foreign citizens from all non-EU countries",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    },
+    {
+      "criterion": "education",
+      "requirement": "Master's programmes are addressed to holders of a first (bachelor's) degree.",
+      "applicant": "Bachelor's (Licence) in Business Administration obtained 2024.",
+      "assessment": "MET",
+      "quote": "master’s degree programmes are addressed to undergraduates",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    },
+    {
+      "criterion": "education",
+      "requirement": "Average of at least 7 (Romanian scale) or 'Good' for the last school graduated.",
+      "applicant": "Grade not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Final grade / average of the bachelor's degree",
+      "quote": "have good results in education, respectively an average of the study years, for the last graduated school of at least 7 (seven)",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    },
+    {
+      "criterion": "discipline",
+      "requirement": "Any field except medicine, dental medicine and pharmacy.",
+      "applicant": "Interests: operations, business analysis, programme coordination, public policy (not medicine).",
+      "assessment": "MET",
+      "quote": "scholarships are NOT awarded in the fields of MEDICINE, DENTAL MEDICINE and PHARMACY",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No age limit stated.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "For no more than the duration of one university cycle.",
+      "quote": "financing the tuition expenses for the actual studies, but not more than the duration of a university cycle",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    },
+    {
+      "item": "training",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Romanian-language preparatory year tuition.",
+      "quote": "financing the tuition expenses for the Romanian language preparatory year",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Monthly scholarship; amount not stated on the pages read.",
+      "quote": "granting a monthly scholarship, for students enrolled in bachelor's, master's or doctoral studies",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Student dormitories, within the ministry subsidy and subject to available places.",
+      "quote": "financing the accommodation expenses in the student dormitories, within the allocated subsidy",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    },
+    {
+      "item": "participation_fee",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Exemption from registration, application-processing and language-test fees.",
+      "quote": "exemption from the payment of registration fees or any other fees required by application processing",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    }
+  ],
+  "out_of_pocket": "Unknown (airfare, visa, insurance and living costs above the unstated monthly scholarship are not addressed)",
+  "cycles": [
+    {
+      "cycle": "2027-2028",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "pattern"
+    },
+    {
+      "cycle": "2026-2027",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-02-16",
+      "deadline": "2026-03-31",
+      "quote": "between 16 February 2026 and 31 March 2026",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "vlir-uos-icp-connect-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Candidates must hold the nationality of one of the 25 eligible countries; DR Congo is listed under Sub-Saharan Africa.",
+      "applicant": "Nationality: Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "● Cameroon ● DR Congo ● Ethiopia",
+      "page": "https://www.vliruos.be/country-list-scholarships"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Candidates must reside in one of the 25 eligible countries at the time of application, not necessarily their country of nationality.",
+      "applicant": "Country of residence: Democratic Republic of the Congo (an eligible country).",
+      "assessment": "MET",
+      "quote": "reside in any of these countries at the time of application",
+      "page": "https://www.vliruos.be/get-funded/study-scholarships"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Not older than 35 on 1 January of the intake year for a bachelor or initial master (45 for an advanced master); bachelor candidates at least 19.",
+      "applicant": "Recorded only as under 30, which is below both upper limits.",
+      "assessment": "MET",
+      "quote": "Candidates for a bachelor or initial master programme cannot be older than 35 as of 1 January of the intake year, while candidates for an advanced master cannot be older than 45.",
+      "page": "https://www.vliruos.be/get-funded/study-scholarships"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "No minimum experience; preference for candidates in higher education, government or civil society, and newly graduated candidates may be considered.",
+      "applicant": "Under one year of internships and field assignments (public-sector research and budget evaluation, vaccination-campaign monitoring); interests include public-sector and policy analysis.",
+      "assessment": "MET",
+      "quote": "Newly graduated candidates or those employed in the private sector with no work experience may also be considered if they provide strong motivation and a compelling profile.",
+      "page": "https://www.vliruos.be/get-funded/study-scholarships"
+    },
+    {
+      "criterion": "education",
+      "requirement": "Initial master's programmes are open to bachelor's graduates; advanced master's programmes are typically for those who already hold a Master's degree. Each programme sets its own admission requirements and may prefer related backgrounds.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024; degree length and grade not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The chosen programme, its admission requirements (field of the bachelor's degree, degree length, grade) and whether the Licence meets them.",
+      "quote": "Advanced Master’s programmes are typically for those who already hold a Master's degree and seek specialised study.",
+      "page": "https://www.vliruos.be/get-funded/calls/icp-connect-2027-2028"
+    },
+    {
+      "criterion": "language_certificate",
+      "requirement": "All programmes are taught in English and require a high level of English proficiency; the organising institution sets the specific English requirement.",
+      "applicant": "No IELTS, TOEFL or DELF score recorded; languages include English.",
+      "assessment": "UNKNOWN",
+      "missing": "The English test or waiver rule of the chosen organising institution and the applicant's result.",
+      "quote": "All ICP Connect programmes are taught in English and therefore require a high level of English proficiency.",
+      "page": "https://www.vliruos.be/get-funded/calls/icp-connect-2027-2028"
+    },
+    {
+      "criterion": "other",
+      "requirement": "No previous scholarship from the Belgian government for a study programme, and no enrolment at a Belgian higher education institution before 1 January of the year of intake.",
+      "applicant": "Study history in Belgium and any Belgian-government scholarship are not recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant ever received a Belgian-government scholarship or enrolled at a Belgian higher education institution.",
+      "quote": "Candidates may not have previously received a scholarship from the Belgian government to attend a study programme, nor may they have enrolled in a study programme at a Belgian higher education institution before 1 January of the year of intake.",
+      "page": "https://www.vliruos.be/get-funded/study-scholarships"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Individual institutions may impose additional criteria, shown on each programme page under 'more detailed information & application'.",
+      "applicant": "The host institutions' own criteria were not read.",
+      "assessment": "UNKNOWN",
+      "missing": "The additional criteria of the institution that organises the chosen programme.",
+      "quote": "*Please note that additional criteria may be imposed by individual institutions.",
+      "page": "https://www.vliruos.be/get-funded/study-scholarships"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Tuition is covered, either paid by the institution and deducted from the monthly allowance or paid by the scholar out of the allowance, depending on the institution.",
+      "quote": "The monthly scholarship allowance covers living expenses and tuition fees.",
+      "page": "https://www.vliruos.be/get-funded/calls/icp-connect-2027-2028"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "A monthly allowance for living expenses; the amount is not stated on the pages read.",
+      "quote": "The monthly scholarship allowance covers living expenses and tuition fees.",
+      "page": "https://www.vliruos.be/get-funded/calls/icp-connect-2027-2028"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The page says travel is covered but not how it is paid or which journeys.",
+      "quote": "VLIRUOS ICP Connect scholarships cover tuition fees, travel, insurance and living expenses (board and lodging).",
+      "page": "https://www.vliruos.be/get-funded/study-scholarships"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Living expenses include lodging; depending on the institution the scholar pays accommodation out of the allowance.",
+      "quote": "VLIRUOS ICP Connect scholarships cover tuition fees, travel, insurance and living expenses (board and lodging).",
+      "page": "https://www.vliruos.be/get-funded/study-scholarships"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Living expenses include board.",
+      "quote": "VLIRUOS ICP Connect scholarships cover tuition fees, travel, insurance and living expenses (board and lodging).",
+      "page": "https://www.vliruos.be/get-funded/study-scholarships"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Depending on the institution, the scholar pays insurance out of the monthly allowance, or the institution pays it and subtracts it from the allowance.",
+      "quote": "Depending on the institution you pay for your own insurance, tuition fee, and/or accommodation out of the scholarship allowance OR the institution covers these costs directly and subtracts them from your monthly allowance.",
+      "page": "https://www.vliruos.be/get-funded/calls/icp-connect-2027-2028"
+    }
+  ],
+  "out_of_pocket": "Unknown: the allowance amount, visa costs and the English test fee are not stated on the pages read; the call page says no application fee is required."
+}

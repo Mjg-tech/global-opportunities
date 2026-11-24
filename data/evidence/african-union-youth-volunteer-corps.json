@@ -1,0 +1,98 @@
+{
+  "id": "african-union-youth-volunteer-corps",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "The call is for qualified young Africans across the continent and the Diaspora; the programme recruits young African professionals from AU Member States. The pages read publish no country list.",
+      "applicant": "Nationality: Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A sentence or list naming the DRC (or all AU Member States) as eligible: the pages read give no country list and do not name the DRC.",
+      "quote": "Applications are opened for qualified young Africans across the continent and the Diaspora from 26 March to 26 April 2026",
+      "page": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps"
+    },
+    {
+      "criterion": "age",
+      "requirement": "18 to 35 years, and under 35 upon completion of service (13th cohort call).",
+      "applicant": "Recorded only as under 30, which stays under 35 at the end of a 12-month service.",
+      "assessment": "MET",
+      "quote": "18 – 35 years (must be under 35 upon completion of service)",
+      "page": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps"
+    },
+    {
+      "criterion": "education",
+      "requirement": "A post-secondary certified qualification (TVET, Bachelor's or Master's).",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Post-secondary certified qualification (TVET, Bachelor’s, or Master’s)",
+      "page": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "Relevant professional work and verifiable volunteering experience; no minimum duration is stated.",
+      "applicant": "Under one year of internships and field assignments (logistics, public-sector research, vaccination-campaign monitoring); no volunteering is recorded as such.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the internships and the vaccination-campaign monitoring assignment count as relevant professional work and verifiable volunteering, and the minimum the next call will ask for.",
+      "quote": "Relevant professional work and verifiable volunteering experience",
+      "page": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Availability for 12 months of professional volunteer service in 2026/27 and willingness to live in another AU Member State.",
+      "applicant": "Availability and willingness to relocate are not recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "The applicant's availability for 12 months and willingness to live in another AU Member State.",
+      "quote": "Available in 2026/27 to dedicate 12 months for professional volunteer service and willing to live in another AU Member State",
+      "page": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps"
+    }
+  ],
+  "funding": [
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "A monthly stipend to cover living expenses, plus a separation allowance on successful completion; the amounts are not stated.",
+      "quote": "A monthly stipend to cover living expenses and a separation allowance upon successful completion.",
+      "page": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "An economy return ticket to the place of deployment.",
+      "quote": "An AU Service Passport and an economy return ticket to the place of deployment.",
+      "page": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Accommodation is not mentioned in the benefits listed on the press release."
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Insurance is not mentioned in the benefits listed on the press release."
+    }
+  ],
+  "out_of_pocket": "Unknown: the stipend amount, accommodation and insurance are not stated on the pages read.",
+  "cycles": [
+    {
+      "cycle": "next call",
+      "state": "NOT YET ANNOUNCED"
+    },
+    {
+      "cycle": "13th cohort (2026)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-03-26",
+      "deadline": "2026-04-26",
+      "quote": "Applications are opened for qualified young Africans across the continent and the Diaspora from 26 March to 26 April 2026",
+      "page": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps"
+    }
+  ]
+}

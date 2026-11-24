@@ -1,0 +1,733 @@
+{
+ "channel": "B",
+ "records": [
+  {
+   "id": "romania-mfa-scholarships-non-eu-2027",
+   "title": "Romanian Government (Ministry of Foreign Affairs) Scholarships for non-EU citizens, 2027-2028 round",
+   "organization": "Ministry of Foreign Affairs of Romania, with the Ministry of Education and Research (Study in Romania)",
+   "overview": "Annual Romanian state scholarship programme for citizens of non-EU countries, for a bachelor's, master's or doctorate at accredited Romanian universities (all fields except medicine, dental medicine and pharmacy). Bachelor's and master's programmes are taught only in Romanian, with a funded Romanian-language preparatory year. The 2026 round (for 2026-2027) ran 16 February - 31 March 2026; the 2027-2028 round has not been announced on the portal.",
+   "category": [
+    "Scholarship"
+   ],
+   "subcategory": [
+    "Government scholarship",
+    "Master's",
+    "Bilateral cooperation"
+   ],
+   "education_levels": [
+    "Bachelor's",
+    "Master's",
+    "PhD"
+   ],
+   "country": "Romania",
+   "city": "Various",
+   "region": "Eastern Europe",
+   "continent": "Europe",
+   "location_type": "International travel",
+   "delivery_mode": "In-person",
+   "program_dates": "Academic year starting in autumn; master's programmes run 1, 1.5 or 2 years, preceded where required by a one-year Romanian-language preparatory year",
+   "application_deadline": "",
+   "deadline_utc": "",
+   "deadline_text": "Last round (2026-2027): 'Applications can be submitted only via the online platform, between 16 February 2026 and 31 March 2026, with the selection results being announced around 15 July 2026.' No 2027-2028 dates are published on the portal (read 21 November 2026).",
+   "deadline_timezone": "Not stated",
+   "opens_on": "",
+   "open_now": false,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "Not announced. The portal describes the programme as annual ('Each year, the Romanian Government ... provides a number of scholarships to citizens from non-EU countries'); the last round ran 16 February - 31 March 2026, so a similar window in early 2027 is possible but no date is published.",
+   "last_cycle_deadline": "2026-03-31",
+   "funding_type": "Substantially Funded",
+   "funding_details": [
+    "Tuition for the studies is financed for no more than the duration of one university cycle",
+    "Tuition for the Romanian-language preparatory year is financed",
+    "A monthly scholarship is granted (amount not stated on the pages read)",
+    "Accommodation in student dormitories is financed within the Ministry's subsidy and subject to available places",
+    "Exemption from registration, application-processing and language-test fees",
+    "Airfare, visa, insurance and meals are not mentioned"
+   ],
+   "coverage": {
+    "tuition": "Covered",
+    "stipend": "Covered",
+    "flight": "Not specified",
+    "accommodation": "Partially covered",
+    "meals": "Not specified",
+    "visa": "Not specified",
+    "insurance": "Not specified",
+    "local_transport": "Not specified"
+   },
+   "participation_fee": "None: scholarship holders are exempt from registration and application-processing fees",
+   "stipend": "Monthly scholarship; amount not stated on the pages read",
+   "eligibility": [
+    "Foreign citizens from all non-EU countries (exceptions: people of Romanian origin, people with protection in Romania, diplomatic/consular staff accredited to Romania and their families, staff of international organisations in Romania, holders of a Romanian state scholarship for the same cycle)",
+    "Average of at least 7 (Romanian scale) or 'Good' for the last school graduated",
+    "Study documents from accredited/recognised institutions",
+    "Not available for medicine, dental medicine or pharmacy",
+    "Master's programmes are addressed to holders of a first degree"
+   ],
+   "nationality_requirements": [
+    "Citizens of all non-EU countries, with listed exceptions; the DRC is not an EU country and is not among the exceptions"
+   ],
+   "age_requirement": "Unknown / Not specified (no age limit stated; parental consent only for under-18s)",
+   "education_requirement": "For a master's: a completed first degree, with an average of at least 7 on the Romanian scale or 'Good'",
+   "experience_requirement": "Unknown / Not specified",
+   "language_requirement": "Bachelor's and master's study only in Romanian; a funded Romanian-language preparatory year is required unless the applicant passes the Romanian language test or is otherwise exempt",
+   "other_requirements": [
+    "Medical certificate of fitness for studies at enrolment",
+    "Passport with a long-stay study visa at enrolment"
+   ],
+   "documents_required": [
+    "Copies of diplomas (baccalaureate, bachelor's) with authorised translation into English, French, Spanish or Romanian",
+    "Other documents listed on the programme page"
+   ],
+   "application_process": [
+    "Create an account and apply only through the online platform scholarships.studyinromania.gov.ro during the announced window",
+    "Applications sent to ministries, embassies or by e-mail are rejected",
+    "Results by e-mail (last round: around 15 July); the Ministry of Education issues a letter of acceptance"
+   ],
+   "official_application_url": "https://scholarships.studyinromania.gov.ro/",
+   "official_information_url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+   "source_url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+   "source_type": "Official",
+   "source_confidence": "HIGH",
+   "verification": "VERIFIED",
+   "sources": [
+    {
+     "label": "Study in Romania - Programme information (eligibility, dates, rights)",
+     "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+     "type": "Official"
+    },
+    {
+     "label": "Study in Romania - scholarship portal home page",
+     "url": "https://scholarships.studyinromania.gov.ro/",
+     "type": "Official"
+    }
+   ],
+   "eligibility_for_me": "POSSIBLY ELIGIBLE",
+   "eligibility_reason": "The programme is open to 'Foreign citizens from all non-EU countries' with exceptions that do not concern the profile, so the DRC is eligible and the recorded bachelor's degree allows a master's application. The required average of at least 7 (Romanian scale) or 'Good' cannot be checked because the grade is not recorded, and the 2027-2028 round has not been announced.",
+   "potential_issues": [
+    "2027-2028 round not yet announced; the last deadline (31 March 2026) has passed",
+    "Master's study is only in Romanian: a preparatory language year adds a year abroad",
+    "Monthly stipend amount not stated on the pages read",
+    "Airfare, visa and insurance not mentioned",
+    "Dormitory accommodation only within subsidy limits and subject to available places",
+    "Grade average requirement (at least 7 / 'Good') cannot be checked against the profile"
+   ],
+   "benefits": [
+    "Tuition financed for the whole cycle",
+    "Funded Romanian-language preparatory year",
+    "Monthly scholarship",
+    "Dormitory accommodation within the ministry subsidy",
+    "Application, registration and language-test fees waived"
+   ],
+   "relevance": {
+    "academic": "High",
+    "career": "Medium",
+    "travel": "High",
+    "networking": "Medium",
+    "funding": "High",
+    "accessibility": "High",
+    "profile_fit": "Medium"
+   },
+   "relevance_reason": "A government master's scholarship open to DRC nationals with no age or work-experience rule, in fields such as business, economics or international relations; the Romanian-language requirement and the unknown grade threshold lower the fit.",
+   "visa": {
+    "required": "Yes (long-stay visa for studies)",
+    "support": "Not specified; the programme page says visa formalities follow selection"
+   },
+   "upfront_cost_risk": "Low",
+   "action": "Watch scholarships.studyinromania.gov.ro from February 2027 for the 2027-2028 round; prepare a translated copy of the bachelor's diploma and transcript and check that the average reaches 7/10 or 'Good'.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 November 2026 (scout B): found through an own search phrase on government scholarships. Both portal pages were read with the repo reader (quotecheck.py --text); the mae.ro page returned HTTP 503. The DRC is not named; the nationality rule is 'all non-EU countries' with an exception list that does not cover the profile.",
+   "match_keywords": [
+    "romanian government scholarship",
+    "romania government scholarships",
+    "romanian state scholarships",
+    "study in romania scholarship",
+    "ministry of foreign affairs scholarships for non-eu citizens"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "nationality",
+      "requirement": "Citizens of all non-EU countries, except listed categories (Romanian origin, protection in Romania, diplomatic or international-organisation staff in Romania, existing Romanian state scholars).",
+      "applicant": "Nationality: DRC (not an EU country; none of the listed exceptions applies).",
+      "assessment": "MET",
+      "quote": "Foreign citizens from all non-EU countries",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "criterion": "education",
+      "requirement": "Master's programmes are addressed to holders of a first (bachelor's) degree.",
+      "applicant": "Bachelor's (Licence) in Business Administration obtained 2024.",
+      "assessment": "MET",
+      "quote": "master’s degree programmes are addressed to undergraduates",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "criterion": "education",
+      "requirement": "Average of at least 7 (Romanian scale) or 'Good' for the last school graduated.",
+      "applicant": "Grade not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Final grade / average of the bachelor's degree",
+      "quote": "have good results in education, respectively an average of the study years, for the last graduated school of at least 7 (seven)",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "criterion": "discipline",
+      "requirement": "Any field except medicine, dental medicine and pharmacy.",
+      "applicant": "Interests: operations, business analysis, programme coordination, public policy (not medicine).",
+      "assessment": "MET",
+      "quote": "scholarships are NOT awarded in the fields of MEDICINE, DENTAL MEDICINE and PHARMACY",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "criterion": "age",
+      "requirement": "No age limit stated.",
+      "assessment": "NOT STATED"
+     }
+    ],
+    "funding": [
+     {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "For no more than the duration of one university cycle.",
+      "quote": "financing the tuition expenses for the actual studies, but not more than the duration of a university cycle",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "item": "training",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Romanian-language preparatory year tuition.",
+      "quote": "financing the tuition expenses for the Romanian language preparatory year",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Monthly scholarship; amount not stated on the pages read.",
+      "quote": "granting a monthly scholarship, for students enrolled in bachelor's, master's or doctoral studies",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "item": "accommodation",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Student dormitories, within the ministry subsidy and subject to available places.",
+      "quote": "financing the accommodation expenses in the student dormitories, within the allocated subsidy",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "item": "participation_fee",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Exemption from registration, application-processing and language-test fees.",
+      "quote": "exemption from the payment of registration fees or any other fees required by application processing",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     }
+    ],
+    "out_of_pocket": "Unknown (airfare, visa, insurance and living costs above the unstated monthly scholarship are not addressed)",
+    "cycles": [
+     {
+      "cycle": "2026-2027",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-02-16",
+      "deadline": "2026-03-31",
+      "quote": "between 16 February 2026 and 31 March 2026",
+      "page": "https://scholarships.studyinromania.gov.ro/scholarship-about"
+     },
+     {
+      "cycle": "2027-2028",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "pattern"
+     }
+    ]
+   }
+  }
+ ],
+ "lead_outcomes": [],
+ "blocked": [
+  {
+   "url": "https://www.mfa.gr/missionsabroad/fr/congo-fr/news/appel-manifestation-dinteret-pour-des-bourses-du-maedirectione3-pour-les-etudes-de-licence-et-de-cycle-superieur-dans-les-etablissements-denseignement-superieur-grec-pour-lannee-academique-2026-.html",
+   "what": "HTTP 403 with the repo reader (quotecheck.py --text) and with WebFetch"
+  },
+  {
+   "url": "https://exteriores.gob.es/Embajadas/maputo/es/Comunicacion/Noticias/Paginas/Articulos/Programa-%c3%81frica-Med-M%c3%a1ster-Becas-para-la-ciudadan%c3%ada-de-pa%c3%adses-de-%c3%81frica-y-Oriente-Medio,-2026-2027.aspx",
+   "what": "HTTP 0 with the repo reader (also www. host and the Malabo embassy page); readable with WebFetch"
+  },
+  {
+   "url": "https://boe.es/boe/dias/2026/07/01/pdfs/BOE-B-2026-22411.pdf",
+   "what": "HTTP 0 with the repo reader (boe.es and www.boe.es); not retried with WebFetch"
+  },
+  {
+   "url": "https://appspublic.agci.cl/becas/horizontal/docs/cv_367/CONVOCATORIA%20NELSON%20MANDELA%202027%20-%20FINAL%20OK.pdf",
+   "what": "HTTP 0 with the repo reader; WebFetch saved the PDF, read locally with pdftotext"
+  },
+  {
+   "url": "https://www.itecgoi.in/itec-partner-countries",
+   "what": "Empty JavaScript shell (repo reader HTTP 200 with no text; WebFetch empty); same for /terms-conditions, /how-to-apply, /itec-regular. The home page /index is readable."
+  },
+  {
+   "url": "https://www.mae.ro/en/node/2154",
+   "what": "HTTP 503 with the repo reader; not retried (the official Study in Romania portal was readable)"
+  }
+ ],
+ "source_proposals": [],
+ "search_log": [
+  {
+   "phrase": "fully funded government scholarship 2027 master's Africa",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 18,
+   "opened": [
+    "https://www.australiaawardsafrica.org/"
+   ],
+   "candidates": [
+    {
+     "name": "Australia Awards Africa (Masters) 2028 intake",
+     "url": "https://www.australiaawardsafrica.org/",
+     "verdict": "CLOSED / PAST (home page shows the 2027 masters intake already at pre-departure briefing; no open call seen)"
+    },
+    {
+     "name": "Commonwealth Shared Scholarship 2027/28",
+     "url": "https://opportunitydesk.org/2026/11/11/commonwealth-shared-scholarship-programme-2027-2028/",
+     "verdict": "ALREADY A LEAD (1bffef48691a)"
+    },
+    {
+     "name": "Chevening Scholarships 2027/28",
+     "url": "https://www.chevening.org/scholarship/democratic-republic-of-the-congo/",
+     "verdict": "ALREADY A RECORD (chevening-scholarships-2027)"
+    },
+    {
+     "name": "KOICA Scholarship Program 2027",
+     "url": "https://www.opportunitiesforafricans.com/the-korea-international-cooperation-agency-koica-scholarship-program-2027/",
+     "verdict": "CLOSED / PAST (aggregator shows deadline 29 June 2026)"
+    },
+    {
+     "name": "Mastercard Foundation Scholars at Cambridge / UGHE / Mandela Rhodes",
+     "url": "https://www.student-funding.cam.ac.uk/fund/mastercard-foundation-scholars-program-2025",
+     "verdict": "NEW - NOT RECORDED (academic/foundation scholarships: cross-channel C, not government)"
+    }
+   ],
+   "records_written": [],
+   "note": "Low yield: dominated by aggregators and recycled lists; government items found were closed or already known."
+  },
+  {
+   "phrase": "bilateral scholarship 2027 developing countries application",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 15,
+   "opened": [
+    "https://msmt.gov.cz/en/scholarships/government-scholarships-developing-countries"
+   ],
+   "candidates": [
+    {
+     "name": "Czech Government Scholarships - Developing Countries 2027/2028",
+     "url": "https://msmt.gov.cz/en/scholarships/government-scholarships-developing-countries",
+     "verdict": "CLOSED / PAST (official page: applications 21 August - 30 September 2026; the DRC is not in the country list read on the page)"
+    },
+    {
+     "name": "Joint Japan/World Bank Graduate Scholarship 2027",
+     "url": "https://opportunitiesforyouth.org/2026/09/24/joint-japan-world-bank-graduate-scholarship-program-2025/",
+     "verdict": "NEW - NOT RECORDED (requires several years of development-related work experience after the first degree, which the profile lacks; windows open only 18 January 2027 - not checked on the World Bank page this pass)"
+    },
+    {
+     "name": "Croatian Government Scholarships 2026/2027",
+     "url": "https://www.afterschoolafrica.com/95114/croatian-government-scholarships/",
+     "verdict": "CLOSED / PAST (2026/27 academic year; Pool 1 needs a bilateral agreement)"
+    },
+    {
+     "name": "Hungarian Bilateral State Scholarships",
+     "url": "https://en.tka.hu/bilateral-state-scholarships-information-for-applicants",
+     "verdict": "CLOSED / PAST (search snippet: deadline 19 February 2026)"
+    }
+   ],
+   "records_written": [],
+   "note": "Found official government pages but all cycles closed or DRC not listed."
+  },
+  {
+   "phrase": "foreign ministry fellowship 2027 young diplomats Africa",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 18,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Luiss Young Italian-African Diplomatic Fellowship",
+     "url": "https://sog.luiss.it/executive-programs/young-italian-african-diplomatic-fellows-program/application-and-selection-proced",
+     "verdict": "NOT ELIGIBLE (search snippet: for full-time diplomatic staff of African foreign ministries with a ministry support letter; no 2027 cohort dates seen)"
+    },
+    {
+     "name": "Academy of Young Diplomats 2027 (Poland)",
+     "url": "https://diplomats.pl/en/registration-for-ayd-2027-is-now-open/",
+     "verdict": "NEW - NOT RECORDED (self-paid postgraduate training course, not a funded opportunity)"
+    },
+    {
+     "name": "Mandela Washington Fellowship 2027",
+     "url": "https://www.mandelawashingtonfellowship.org/about/",
+     "verdict": "ALREADY A RECORD (mandela-washington-fellowship-2027, reserved)"
+    },
+    {
+     "name": "FAIT Fellowship 2027",
+     "url": "https://opportunitydesk.org/2026/10/19/fait-fellowship-2027/",
+     "verdict": "NOT ELIGIBLE (US citizens only per search snippet)"
+    },
+    {
+     "name": "Supreme Youth Diplomatic Corps",
+     "url": "https://guardian.ng/?p=2910423",
+     "verdict": "NEW - NOT RECORDED (unofficial youth body with self-styled 'diplomatic' appointments; not a government programme)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: diplomat fellowships target serving ministry staff."
+  },
+  {
+   "phrase": "exchange programme funded by government 2027 Africa youth",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 15,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Mandela Washington Fellowship 2027",
+     "url": "https://www.mandelawashingtonfellowship.org/about/",
+     "verdict": "ALREADY A RECORD (mandela-washington-fellowship-2027, reserved)"
+    },
+    {
+     "name": "Intra-Africa Academic Mobility Scheme",
+     "url": "https://www.eacea.ec.europa.eu/grants/2021-2027/intra-africa-academic-mobility-scheme_en",
+     "verdict": "NEW - NOT RECORDED (EU call for university consortia, not individuals; student scholarships are announced per partnership - cross-channel C)"
+    },
+    {
+     "name": "Youth Mobility for Africa (EU Global Gateway)",
+     "url": "https://www.eeas.europa.eu/sites/default/files/2026/documents/Youth%20Mobility%20for%20Africa_information%20sheet%20%28002%29.pdf",
+     "verdict": "NOT AN OPPORTUNITY (information sheet grouping EU programmes)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: only the reserved Mandela Washington record and EU umbrella pages."
+  },
+  {
+   "phrase": "bourse d'excellence 2027 étudiants étrangers master",
+   "lang": "fr",
+   "origin": "plan",
+   "results_seen": 14,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "France Excellence Eiffel 2027-2028",
+     "url": "https://www.ens-lyon.fr/node/374615",
+     "verdict": "ALREADY A RECORD (france-excellence-eiffel-2027)"
+    },
+    {
+     "name": "Université Paris-Saclay international master's scholarships",
+     "url": "https://www.universite-paris-saclay.fr/admission/bourses-et-aides-financieres/bourses-internationales-de-master",
+     "verdict": "NEW - NOT RECORDED (university scholarship: cross-channel C, not a government programme)"
+    },
+    {
+     "name": "EPFL Excellence Fellowships (Master) 2027",
+     "url": "https://www.epfl.ch/education/master/fr/financement-et-bourses/bourses-dexcellence/",
+     "verdict": "NEW - NOT RECORDED (university scholarship: cross-channel C)"
+    },
+    {
+     "name": "Institut Galilée bourses d'excellence",
+     "url": "https://greatyop.com/bourses-excellence-institut-galilee/",
+     "verdict": "CLOSED / PAST (2026-2027 shown as closed)"
+    }
+   ],
+   "records_written": [],
+   "note": "Mostly university-level excellence scholarships (channel C); the only government one (Eiffel) is already a record."
+  },
+  {
+   "phrase": "programme d'échange financé gouvernement 2027 jeunes africains",
+   "lang": "fr",
+   "origin": "plan",
+   "results_seen": 16,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "French-African Foundation Young Leaders 2027",
+     "url": "https://french-african.org/young-leaders/",
+     "verdict": "ALREADY A RECORD (french-african-foundation-young-leaders)"
+    },
+    {
+     "name": "AFS Sir Cyril Taylor Young African Leaders 2027",
+     "url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027)"
+    },
+    {
+     "name": "KOICA Youth Leaders Program 2026-2027",
+     "url": "https://afri-carrieres.com/2026/06/koica-youth-leaders-program.html",
+     "verdict": "NEW - NOT RECORDED (aggregator only; 40 participants per partner country, the sessions mentioned are in Ghana in August 2026; no sign the DRC is a partner country - not followed)"
+    },
+    {
+     "name": "Africa-Europe Youth Academy",
+     "url": "https://capacity4dev.europa.eu/projects/africa-europe-youth-academy_en",
+     "verdict": "NOT AN OPPORTUNITY (project page; call for projects for organisations)"
+    },
+    {
+     "name": "Mandela Washington Fellowship 2027",
+     "url": "https://www.mandelawashingtonfellowship.org/about/",
+     "verdict": "ALREADY A RECORD (mandela-washington-fellowship-2027, reserved)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: everything relevant is already stored."
+  },
+  {
+   "phrase": "bolsa governo 2027 estudantes africanos candidaturas abertas",
+   "lang": "pt",
+   "origin": "plan",
+   "results_seen": 17,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "CAPES Move África (Brazil, 2,600 sandwich master's/doctoral grants for African students, 2027)",
+     "url": "https://almapreta.com.br/sessao/cotidiano/programa-estudantes-africanos-pos-graduacao/",
+     "verdict": "NEW - NOT RECORDED (news reports only, no CAPES edital found in a follow-up search; grants are 'sanduíche' stays of 2-10 months for students already enrolled in a master's/doctorate, which the profile is not)"
+    },
+    {
+     "name": "PEC-PG 2027 (Brazil)",
+     "url": "https://www.gov.br/capes/",
+     "verdict": "ALREADY A RECORD (pec-pg-brazil-2027, written this pass by channel C)"
+    },
+    {
+     "name": "Fundação Portugal-África master's scholarships 2026/2027",
+     "url": "https://scholarshipsforafricans.com/pt/bolsas",
+     "verdict": "CLOSED / PAST (deadline 30 Sep 2026 per aggregator; PALOP nationals)"
+    },
+    {
+     "name": "Gulbenkian PALOP scientific acceleration programme",
+     "url": "https://cdn.gulbenkian.pt/wp-content/uploads/2025/08/FAQs_Programa-Aceleracao-Cientifica-PALOP.pdf",
+     "verdict": "NOT ELIGIBLE (PALOP nationals only)"
+    }
+   ],
+   "records_written": [],
+   "note": "One genuinely new government scheme (CAPES Move África) but it is a sandwich grant for enrolled students and has no edital yet; worth watching."
+  },
+  {
+   "phrase": "beca gobierno 2027 estudiantes africanos convocatoria abierta",
+   "lang": "es",
+   "origin": "plan",
+   "results_seen": 19,
+   "opened": [
+    "https://appspublic.agci.cl/becas/horizontal/docs/cv_367/CONVOCATORIA%20NELSON%20MANDELA%202027%20-%20FINAL%20OK.pdf"
+   ],
+   "candidates": [
+    {
+     "name": "Beca Nelson Mandela 2027 (Chile, AGCID)",
+     "url": "https://appspublic.agci.cl/becas/horizontal/docs/cv_367/CONVOCATORIA%20NELSON%20MANDELA%202027%20-%20FINAL%20OK.pdf",
+     "verdict": "NOT ELIGIBLE (official call, May 2026: invites nationals of 'Angola, Argelia, Botswana, Egipto, Etiopía, Ghana, Kenia, Marruecos, Mozambique y Sudáfrica' only - DRC not listed; embassy deadline 30 October 2026, also past)"
+    },
+    {
+     "name": "Becas MAEC-AECID África-Med Máster 2026-2027 (Spain)",
+     "url": "https://exteriores.gob.es/Embajadas/malabo/es/Comunicacion/Noticias/Paginas/Articulos/20260706_NOT1.aspx",
+     "verdict": "CLOSED / PAST (applications 2-15 July 2026 per search snippet; recurring each July - see notes)"
+    },
+    {
+     "name": "Becas Learn Africa (Fundación Mujeres por África)",
+     "url": "https://exteriores.gob.es/Embajadas/yaunde/es/Comunicacion/Noticias/Paginas/Articulos/20260704_NOT01_Becas-LEARN-Africa-2026-2027.aspx",
+     "verdict": "CLOSED / PAST (women only; 2026-27 deadline April 2026)"
+    },
+    {
+     "name": "Global Korea Scholarship GKS-U 2027",
+     "url": "https://www.mofa.go.kr/mx-es/brd/m_5839/view.do?seq=761450",
+     "verdict": "NEW - NOT RECORDED (undergraduate track; the profile already holds a bachelor's)"
+    }
+   ],
+   "records_written": [],
+   "note": "Useful kind of phrase: surfaced official Spanish/Chilean government calls, but all closed or DRC not listed."
+  },
+  {
+   "phrase": "ambassade Kinshasa bourse 2027 appel à candidatures RDC",
+   "lang": "fr",
+   "origin": "own",
+   "results_seen": 18,
+   "opened": [
+    "https://www.mfa.gr/missionsabroad/fr/congo-fr/news/appel-manifestation-dinteret-pour-des-bourses-du-maedirectione3-pour-les-etudes-de-licence-et-de-cycle-superieur-dans-les-etablissements-denseignement-superieur-grec-pour-lannee-academique-2026-.html"
+   ],
+   "candidates": [
+    {
+     "name": "Greek Ministry of Foreign Affairs scholarships for study in Greece (via the Embassy of Greece in Kinshasa), 2026-2027",
+     "url": "https://www.mfa.gr/missionsabroad/fr/congo-fr/news/appel-manifestation-dinteret-pour-des-bourses-du-maedirectione3-pour-les-etudes-de-licence-et-de-cycle-superieur-dans-les-etablissements-denseignement-superieur-grec-pour-lannee-academique-2026-.html",
+     "verdict": "BLOCKED (HTTP 403 to the repo reader and WebFetch; search snippet: deadline 27 July 2026, so the 2026-27 round is past; recurring yearly, one scholarship allocated to the DRC - see notes)"
+    },
+    {
+     "name": "Chinese government scholarship 2027-2028 for DRC civil servants (ENA-RDC)",
+     "url": "https://yop.l-frii.com/s/grpy3s5",
+     "verdict": "NOT ELIGIBLE (reserved for DRC civil servants / state agents per news snippet; the profile records no public employment)"
+    },
+    {
+     "name": "GeoRes4Dev master's scholarship 2026-2028 (Université de Kinshasa / AfricaMuseum)",
+     "url": "https://afri-carrieres.com/2026/05/bourse-de-master-geores4dev.html",
+     "verdict": "CLOSED / PAST (2026-2028 intake; geosciences: cross-channel C)"
+    },
+    {
+     "name": "France Excellence Eiffel 2027",
+     "url": "https://www.lesopportunites.com/?p=160253",
+     "verdict": "ALREADY A RECORD (france-excellence-eiffel-2027)"
+    }
+   ],
+   "records_written": [],
+   "note": "Useful angle (embassy notices in Kinshasa surface), but the Greek MFA site blocks automated readers and other calls were closed or for civil servants."
+  },
+  {
+   "phrase": "embassy in Kinshasa scholarship 2027 Congolese applicants government",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 13,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Fulbright Foreign Student Program (DRC) 2027-2028",
+     "url": "https://fundsforindividuals.fundsforngos.org/event/fulbright-foreign-student-program-congo-dr/",
+     "verdict": "NEW - NOT RECORDED (no official 2027-28 DRC notice found; a follow-up search found only aggregator/secondary pages; watchlist item - recheck cd.usembassy.gov in spring)"
+    },
+    {
+     "name": "Chevening 2027-28",
+     "url": "https://www.chevening.org/scholarship/democratic-republic-of-the-congo/",
+     "verdict": "ALREADY A RECORD (chevening-scholarships-2027)"
+    },
+    {
+     "name": "Global Korea Scholarship (graduate, embassy track via Kinshasa)",
+     "url": "https://scholarwing.com/?p=3689",
+     "verdict": "NEW - NOT RECORDED (aggregator only; the 2027 graduate notice is normally published around February - not yet announced)"
+    }
+   ],
+   "records_written": [],
+   "note": "Mostly closed cycles and aggregators; confirms that embassy calls for the DRC appear mid-year."
+  },
+  {
+   "phrase": "becas MAEC-AECID 2027-2028 convocatoria República Democrática del Congo",
+   "lang": "es",
+   "origin": "own",
+   "results_seen": 19,
+   "opened": [
+    "https://exteriores.gob.es/Embajadas/maputo/es/Comunicacion/Noticias/Paginas/Articulos/Programa-%c3%81frica-Med-M%c3%a1ster-Becas-para-la-ciudadan%c3%ada-de-pa%c3%adses-de-%c3%81frica-y-Oriente-Medio,-2026-2027.aspx",
+    "https://boe.es/boe/dias/2026/07/01/pdfs/BOE-B-2026-22411.pdf",
+    "https://exteriores.gob.es/Embajadas/malabo/es/Comunicacion/Noticias/Paginas/Articulos/20260706_NOT1.aspx"
+   ],
+   "candidates": [
+    {
+     "name": "Becas MAEC-AECID Programa África-Med Máster 2026-2027 (Spain)",
+     "url": "https://www.exteriores.gob.es/Embajadas/maputo/es/Comunicacion/Noticias/Paginas/Articulos/Programa-%C3%81frica-Med-M%C3%A1ster-Becas-para-la-ciudadan%C3%ADa-de-pa%C3%ADses-de-%C3%81frica-y-Oriente-Medio,-2026-2027.aspx",
+     "verdict": "NOT ELIGIBLE (official embassy page read with WebFetch: DRC is listed ('Palestina, República Democrática del Congo, Senegal') but applicants must be 'personas funcionarias o personal integrado en los sistemas públicos de carácter fijo, no temporal'; the profile records no public employment; 2026-27 round 2-15 July 2026 also past)"
+    },
+    {
+     "name": "Becas MAEC-AECID Master in Diplomacy and International Relations (Escuela Diplomática)",
+     "url": "https://www.exteriores.gob.es/Embajadas/abidjan/es/Comunicacion/Noticias/Paginas/Articulos/20250617_NOT1-Convocatoria-becas-MAEC-AECID-2025-2026-para-el-estudio-del-M%C3%A1ster-de-Formaci%C3%B3n-Permanente-en-Diplomacia-y-Re.aspx",
+     "verdict": "NOT ELIGIBLE (search snippet: for civil servants / staff of public systems; DRC listed in 2025-26)"
+    }
+   ],
+   "records_written": [],
+   "note": "Found the right official pages, but Spanish government master's grants for Africa are reserved for public servants. exteriores.gob.es and boe.es return HTTP 0 to the repo reader."
+  },
+  {
+   "phrase": "bolsas de estudo governo 2027 República Democrática do Congo candidatura",
+   "lang": "pt",
+   "origin": "own",
+   "results_seen": 16,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Bolsas de Estudo para o Ensino Superior em Portugal 2026/2027 (Mestrado)",
+     "url": "https://plataforma9.com/upload/2026/07/0Avisodeabertura-BolsasdeEstudoparaoEnsinoSuperioremPortugal2026_2027_Mestrado.pdf",
+     "verdict": "CLOSED / PAST (2026/2027 round; aimed at PALOP/Angolan applicants per the hosting site)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: Portuguese-language results are aggregators or PALOP-only schemes; nothing DRC-specific."
+  },
+  {
+   "phrase": "Romanian Government scholarships 2027-2028 non-EU citizens Ministry of Foreign Affairs studyinromania",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 17,
+   "opened": [
+    "https://scholarships.studyinromania.gov.ro/",
+    "https://scholarships.studyinromania.gov.ro/scholarship-about",
+    "https://scholarships.studyinromania.gov.ro/scholarship-faq",
+    "https://www.mae.ro/en/node/2154",
+    "https://studyinromania.gov.ro/"
+   ],
+   "candidates": [
+    {
+     "name": "Romanian Government (MFA) Scholarships for non-EU citizens",
+     "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+     "verdict": "NEW - RECORD WRITTEN (romania-mfa-scholarships-non-eu-2027)"
+    }
+   ],
+   "records_written": [
+    "romania-mfa-scholarships-non-eu-2027"
+   ],
+   "note": "Useful: naming a specific government scheme found a DRC-eligible recurring programme that no phrase in the plan surfaced."
+  },
+  {
+   "phrase": "Brunei Darussalam Government Scholarship 2027/2028 foreign students application deadline mfa.gov.bn",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 16,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Government of Brunei Darussalam Scholarship (BDGS) 2027/2028",
+     "url": "https://www.education.gov.in/sites/upload_files/mhrd/files/Public_Notice_Brunei_Darussalam_Scholarship_2026_27.pdf",
+     "verdict": "NEW - NOT RECORDED (2027/28 call not published; 2026/27 closed 15 February 2026; the eligible-country rule for the DRC was not confirmed on an official page - watch from December 2026)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not yet useful: call not out; a good watch item."
+  },
+  {
+   "phrase": "Embassy of India Kinshasa ITEC 2026-27 courses eligibility age nomination",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 18,
+   "opened": [
+    "https://www.itecgoi.in/index",
+    "https://www.itecgoi.in/itec-partner-countries",
+    "https://www.itecgoi.in/terms-conditions",
+    "https://www.itecgoi.in/how-to-apply",
+    "https://www.itecgoi.in/itec-regular"
+   ],
+   "candidates": [
+    {
+     "name": "ITEC (Indian Technical and Economic Cooperation) courses 2026-27",
+     "url": "https://www.itecgoi.in/index",
+     "verdict": "NEW - NOT RECORDED (watchlist item; partner-country list and terms pages are empty JavaScript shells to both readers, so the DRC position could not be read; other embassies' notices mention age 25-45 and an employer nomination letter, which the profile likely cannot supply)"
+    }
+   ],
+   "records_written": [],
+   "note": "Blocked: the ITEC portal renders its rules with JavaScript; no Kinshasa embassy notice surfaced."
+  },
+  {
+   "phrase": "Wallonie-Bruxelles International bourses 2027-2028 RDC appel candidatures master de spécialisation",
+   "lang": "fr",
+   "origin": "own",
+   "results_seen": 19,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "ARES bourses de formations internationales 2027-2028 (Belgium)",
+     "url": "https://ares-ac.be/fr/bourses-en-belgique-appel-2027-2028",
+     "verdict": "ALREADY A RECORD (ares-formations-internationales)"
+    },
+    {
+     "name": "WBI Master IN scholarship",
+     "url": "https://uclouvain.be/fr/bourse-wbi-master-in",
+     "verdict": "NEW - NOT RECORDED (university-relayed WBI grant; search snippet says its 2026 calendar does not match a 2027-28 call - cross-channel C, watchlist item for the next season)"
+    }
+   ],
+   "records_written": [],
+   "note": "Watchlist check (WBI); the government-funded Belgian scheme surfaced is already stored."
+  }
+ ],
+ "notes": "Phrases run: 8 plan (4 en, 2 fr, 1 pt, 1 es) + 8 own (4 en, 2 fr, 1 pt, 1 es). One new record: romania-mfa-scholarships-non-eu-2027 (recurring; 2027-28 round not announced; last deadline 2026-03-31). Its nationality criterion is MET on the organiser's sentence 'Foreign citizens from all non-EU countries' plus an exception list that does not cover the profile: judge.py raises review evidence-nationality-not-drc because the quote does not say 'all nationalities'; the DRC is not named but is a non-EU country. All evidence quotes were read with the repo reader and quotecheck --batch says found for all. Pages read only with WebFetch (not used for any record): exteriores.gob.es Maputo embassy page (MAEC-AECID África-Med; HTTP 0 to the repo reader); the Chile AGCID PDF was saved by WebFetch and read locally with pdftotext. NOT ELIGIBLE programmes logged without records: MAEC-AECID África-Med Máster (DRC listed but reserved for permanent public servants), Chile Beca Nelson Mandela 2027 (country list without the DRC; closed 30 Oct 2026), Czech government developing-countries scholarships (DRC not listed; closed 30 Sep 2026), Luiss Young Italian-African Diplomatic Fellowship (serving diplomats only), Chinese government scholarship via ENA-RDC (civil servants). Worth watching (not recorded, no official current-cycle page): Greek MFA scholarships via the Embassy of Greece in Kinshasa (mfa.gr 403 to both readers; one scholarship allocated to the DRC for 2026-27, deadline 27 July 2026 per search snippet - recurring, open it in a browser around June 2027); CAPES Move África (Brazil, 2,600 sandwich grants for African students in 2027, news only, needs current enrolment); Brunei BDGS 2027/28 (expected mid-December 2026; DRC position unconfirmed); Fulbright Foreign Student Program DRC 2027-28 (no official notice found); GKS graduate embassy track (normally February). ITEC (watchlist): itecgoi.in rule pages are empty JavaScript shells to both readers, DRC position not read. Reserved records: nothing new learned beyond the Mandela Washington Fellowship 2027 appearing in searches (not re-read). No scam-like items found. No lead outcomes (channel B had no leftover leads in the launch message). No source proposals: the official pages found are either static programme pages or blocked to the repo reader (exteriores.gob.es, boe.es, mfa.gr)."
+}

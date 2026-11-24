@@ -1,0 +1,59 @@
+{
+  "id": "gtf-telemachus-mentoring-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Open worldwide: Telemachus is for youth 'from around the world'. No country list and no nationality restriction appear on the pages read.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Telemachus benefits youth between 18-29 from around the world",
+      "page": "https://globalthinkersmentors.org/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Aged 18 to 29 (Telemachus). The page does not say on which date the age is counted.",
+      "applicant": "Recorded only as under 30; exact age not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Exact age, and the date the 18-29 limit is counted on (not stated).",
+      "quote": "if you are a young individual between 18-29",
+      "page": "https://globalthinkersmentors.org/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "Priority (not a requirement) for applicants who have completed a Bachelor's degree, or who have at least five years of equally relevant professional experience.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "who have completed a Bachelor’s degree or have equally-relevant professional experience of a minimum of 5 years will be prioritised",
+      "page": "https://globalthinkersmentors.org/"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Priority (not a requirement) for a fluent command of English.",
+      "applicant": "English is listed among the applicant's languages; no level and no test are recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant's English is fluent.",
+      "quote": "Applicants with fluent command of English",
+      "page": "https://globalthinkersmentors.org/"
+    }
+  ],
+  "out_of_pocket": "Unknown. No fee is asked on the application form and no costs are stated; the mentoring is remote, so no travel is involved.",
+  "cycles": [
+    {
+      "cycle": "2026",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "",
+      "quote": "TELEMACHUS & ATHENA 2026",
+      "page": "https://globalthinkersmentors.org/"
+    },
+    {
+      "cycle": "2027",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "",
+      "deadline": "2026-11-23",
+      "quote": "Applications deadline: November 23, 2026",
+      "page": "https://globalthinkersmentors.org/mentees-application"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "un-young-professionals-programme-2026",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Only nationals of participating countries (un- or under-represented in the UN) may apply; the list is published each year on the YPP home page of the UN Careers website and varies from year to year.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "The 2026 list of participating countries on careers.un.org/ypp, which neither reader could open: whether the DRC is on it is not known.",
+      "quote": "The list of participating countries is published annually on the YPP home page of the UN Careers website and varies from year to year.",
+      "page": "https://www.un.org/en/academic-impact/work4un-young-professionals-programme"
+    },
+    {
+      "criterion": "age",
+      "requirement": "32 years old or younger in the year of the exam.",
+      "applicant": "Recorded as under 30, which is inside a limit of 32 whichever year counts.",
+      "assessment": "MET",
+      "quote": "Must be 32 years old or younger in the year of the exam",
+      "page": "https://www.un.org/en/academic-impact/work4un-young-professionals-programme"
+    },
+    {
+      "criterion": "education",
+      "requirement": "At least a first-level university degree relevant for the exam subject.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "UNKNOWN",
+      "missing": "The degree fields the 2026 posting accepts as relevant for its exam area (the posting could not be read), so the relevance of a Business Administration degree is not known.",
+      "quote": "Must hold at least a first-level university degree relevant for the exam subject",
+      "page": "https://www.un.org/en/academic-impact/work4un-young-professionals-programme"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Fluent in English or French.",
+      "applicant": "French and English are among the recorded languages; no language test score is recorded.",
+      "assessment": "MET",
+      "quote": "Must be fluent in English or French",
+      "page": "https://www.un.org/en/academic-impact/work4un-young-professionals-programme"
+    }
+  ],
+  "funding": [
+    {
+      "item": "participation_fee",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "No fee is charged to applicants at any stage of UN recruitment (general UN statement, not specific to the 2026 posting).",
+      "quote": "The United Nations does not charge a fee at any stage of its recruitment process (application, interview, processing, training)",
+      "page": "https://www.un.org/en/about-us/fraud-alert"
+    }
+  ],
+  "out_of_pocket": "No fee: the UN states it charges no fee at any stage of its recruitment process. Other costs (such as internet access for the online papers) are not stated by the UN.",
+  "cycles": [
+    {
+      "cycle": "2025",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2025-12-14",
+      "quote": "Applications for the 2025 YPP cycle are open until 14 December 2025 (11:59 PM New York time).",
+      "page": "https://turkmenistan.un.org/en/306038-united-nations-hosts-information-session-young-professionals-programme-turkmenistan"
+    }
+  ]
+}

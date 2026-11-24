@@ -1,0 +1,136 @@
+{
+  "id": "universite-senghor-master-developpement-alexandrie",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "education",
+      "requirement": "Licence (bac+3) or an equivalent diploma.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "être titulaire d’une Licence (bac+3) ou d’un diplôme équivalent",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "At least one year of relevant professional experience, distinct from academic internships.",
+      "applicant": "Under one year in total of internships and field assignments; no full-time employment recorded.",
+      "assessment": "NOT MET",
+      "quote": "faire état d’une expérience professionnelle pertinente d’au moins une année distincte des stages académiques",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Under 36 on 1 September of the entry year to claim a scholarship (date quoted is for the 2026 call).",
+      "applicant": "Recorded only as under 30.",
+      "assessment": "MET",
+      "quote": "être âgé de moins de 36 ans au 1er septembre 2026 pour prétendre à une bourse",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "criterion": "language",
+      "requirement": "The university teaches in French.",
+      "applicant": "French is a recorded language.",
+      "assessment": "MET",
+      "quote": "université internationale de langue française au service du développement africain",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "criterion": "nationality",
+      "requirement": "The call page states no nationality or country list.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Scholarship holders pay only a flat EUR 400 administrative registration fee per year of Master.",
+      "quote": "l’Université offre une bourse de frais de vie à 100 lauréats dits boursiers qui devront s’acquitter uniquement des droits d’inscription administrative d’un montant forfaitaire de 400 € par année de Master",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Individual studio on the university campus during the study period in Alexandria.",
+      "quote": "hébergement en studio individuel dans le campus universitaire à Borg El-Arab",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "One meal a day, served at lunch.",
+      "quote": "un repas quotidien servi le midi au restaurant universitaire",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Medical insurance during the study period in Alexandria.",
+      "quote": "une assurance médicale",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "4000",
+      "currency": "EGP",
+      "conditions": "Per month of effective presence in Alexandria; the page writes 'LE' (Egyptian pounds).",
+      "quote": "une allocation mensuelle de subsistance d’un montant de 4000 LE par mois de présence effective à Alexandrie",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "item": "local_transport",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Weekend shuttle between the campus and the city centre, subject to a minimum number of interested students.",
+      "quote": "le transport entre le campus à Borg El-Arab et le centre-ville d’Alexandrie durant les week-ends sous réserve d’un nombre minimum de personnes intéressées",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Return trip from the country of residence to Alexandria, including during summer holidays.",
+      "quote": "Tous les étudiants doivent assumer leurs frais de voyage aller-retour du pays de résidence à Alexandrie",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    },
+    {
+      "item": "participation_fee",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "A EUR 30 registration fee is due for the online written test (stage 2); the EUR 400 yearly administrative fee applies to scholarship holders.",
+      "quote": "après l’acquittement d’un droit d’inscription au concours de 30 euros",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    }
+  ],
+  "out_of_pocket": "EUR 30 for the written admission test, EUR 400 per year administrative registration fee for scholarship holders, and the return trip to Alexandria (no amount stated for the trip).",
+  "cycles": [
+    {
+      "cycle": "2027 intake",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "pattern",
+      "opens_on": "",
+      "deadline": "",
+      "window_text": "Not announced; the 2026 call opened on 28 January 2026 and closed in March/April 2026, so a similar early-2027 window is likely."
+    },
+    {
+      "cycle": "2026 (21st promotion, M1)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2026-03-15",
+      "quote": "doit être rempli obligatoirement en ligne avant le 15 mars 2026 minuit GMT",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+    }
+  ]
+}

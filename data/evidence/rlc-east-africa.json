@@ -1,0 +1,149 @@
+{
+  "id": "rlc-east-africa",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Citizen and resident of one of 14 East and Central African countries; the list names the Democratic Republic of the Congo.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Are citizens and residents of one of the following countries: Burundi, Central African Republic, Republic of the Congo, Democratic Republic of the Congo",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Must not be living outside the 14 coverage countries.",
+      "applicant": "Resident in the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Are not living outside of the 14 coverage countries listed above.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "criterion": "age",
+      "requirement": "18 to 35 years inclusive for the whole 4-week programme.",
+      "applicant": "Recorded only as under 30; exact age not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Exact age: 'under 30' is inside the upper limit of 35, but the profile does not record the exact age, so the lower limit of 18 is not formally confirmed.",
+      "quote": "Are 18 to 35 years (inclusive) for the duration of the 4 week program.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Not a U.S. citizen or permanent resident of the U.S.",
+      "applicant": "Nationality and residence recorded as the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Are not U.S. citizens or permanent residents of the U.S.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "criterion": "passport",
+      "requirement": "Must be eligible to receive any visa needed to enter Kenya.",
+      "applicant": "Passport not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant holds a valid passport and can obtain any entry authorisation Kenya requires.",
+      "quote": "Are eligible to receive any necessary visa to Kenya.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Proficiency in reading, writing and speaking English; all instruction is in English.",
+      "applicant": "English is among the profile's languages; no test score or level is recorded.",
+      "assessment": "UNKNOWN",
+      "quote": "Are proficient in reading, writing, and speaking English.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php",
+      "missing": "The applicant's level of English (reading, writing and speaking): not recorded in the profile."
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. The course is listed among the expenses covered for selected participants; the admissions page adds 'No application fees, no program fees, no hidden costs.'",
+      "quote": "Customized academic and leadership course.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Round trip from the country of citizenship to Nairobi, only for participants residing in one of the 14 countries served.",
+      "quote": "Round-trip travel from your country of citizenship",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "item": "airport_transfers",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Between Jomo Kenyatta International Airport and the centre, for all non-Kenyan participants.",
+      "quote": "Transportation to/from Jomo Kenyatta International Airport to/from the Regional Leadership Center East Africa for all non-Kenyan participants.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "item": "visa_fees",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Kenyan visa, if one is required.",
+      "quote": "Visa to Kenya (if required).",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Accident and sickness benefit plan.",
+      "quote": "Accident and sickness benefit plan.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Usually a shared room and washroom in university hostels; Nairobi residents must also stay in the hostels.",
+      "quote": "Housing and meals.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Most meals at campus cafeterias or restaurants; participants may cook some meals themselves.",
+      "quote": "Most meals will be provided at campus cafeterias or restaurants",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Stipend for miscellaneous costs while in Nairobi; amount not stated.",
+      "quote": "Stipend to cover miscellaneous costs when in Nairobi.",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Incidental expenses (entertainment, alcoholic beverages) and internet fees for the distance-learning portion are not covered.",
+      "quote": "incidental expenses such as entertainment, alcoholic beverages, and internet fees",
+      "page": "https://www.rlceastafrica.org/public/faqs.php"
+    }
+  ],
+  "out_of_pocket": "Unknown: the only cost list is in the FAQ written for the former YALI programme; the current admissions page says only that there are no application or programme fees. Under that FAQ, incidental expenses and internet fees for the distance-learning portion were the participant's.",
+  "cycles": [
+    {
+      "cycle": "next cohort",
+      "state": "NOT YET ANNOUNCED",
+      "quote": "New cohort dates will be announced soon. Stay tuned!",
+      "page": "https://www.rlceastafrica.org/public/admissions.php"
+    }
+  ]
+}

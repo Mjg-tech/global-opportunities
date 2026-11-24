@@ -1,0 +1,140 @@
+{
+  "id": "mcw-global-young-leaders-fellowship-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Open to applicants from all countries and regions worldwide, with no geographic restrictions.",
+      "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Geographic Eligibility: Open to applicants from all countries and regions worldwide. There are no geographic restrictions on eligibility.",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Between 18 and 26 at the start of the programme (1 June 2027); the organiser makes no exceptions.",
+      "applicant": "Recorded only as under 30.",
+      "assessment": "UNKNOWN",
+      "missing": "Exact age on 1 June 2027.",
+      "quote": "Be between the ages of 18 – 26 at the start of the program (June 1, 2027).",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Fluent written and spoken English; the application, resume and recommendation letters must be in English.",
+      "applicant": "English is listed among the profile's languages, with no level and no test score.",
+      "assessment": "UNKNOWN",
+      "missing": "The applicant's level of written and spoken English.",
+      "quote": "Be fluent in written and spoken English",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "criterion": "passport",
+      "requirement": "Eligible for the visa and travel documents needed to attend the in-person programme in the United States.",
+      "applicant": "Passport not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "A valid passport and eligibility for a U.S. visa.",
+      "quote": "Be eligible for appropriate visa and travel documentation",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Identify a community issue in education, health or economic security and commit to the year-long programme (June 2027 to July 2028).",
+      "applicant": "Interests are recorded (operations, business analysis, programme coordination, policy research); no community project is recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "A community issue in education, health or economic security that the applicant would work on, and availability for the whole year.",
+      "quote": "Identify an issue in their community in the areas of education, health, or economic security",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No degree or education requirement is stated on the page.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "airfare",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Economy class, arriving one day before and leaving one day after the programme; travel is no longer provided if a late visa application means the visa arrives less than a month before the programme.",
+      "quote": "International Economy Flights for international participants",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "From the evening of 19 July to 29 July 2027 (New York University in New York, Champlain College in Burlington).",
+      "quote": "Housing from the evening of July 19 – July 29, 2027",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Three meals a day from 20 to 29 July 2027.",
+      "quote": "Three meals per day from July 20 – July 29, 2027",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "item": "local_transport",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Round trip between New York and Burlington, Vermont.",
+      "quote": "Round Trip Travel from New York, New York to Burlington, Vermont",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "item": "airport_transfers",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Public transport to and from JFK, LaGuardia and Newark airports.",
+      "quote": "Public Transportation to/from JFK, LaGuardia, and Newark Airports",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "item": "visa_fees",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Passport fees, visa fees and in-country costs (travel to the airport, extra baggage fees) are listed as not covered by MCW.",
+      "quote": "Cost Not Covered by MCW Passport Fees Visa Fees",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "item": "participation_fee",
+      "arrangement": "Reimbursed after purchase",
+      "amount": "100",
+      "currency": "USD",
+      "conditions": "Refundable deposit due from accepted participants by 16 March 2027, refunded in full in July 2027 after completing the in-person training; NYU's USD 50 cancellation fee is deducted if a requested room is not used.",
+      "quote": "The deposit will be refunded to the participant in full in July 2027, when they have successfully completed the in-person training program of the Fellowship.",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Under the liability release, any medical care during the in-person programme is at the participant's cost.",
+      "quote": "Agree that I am responsible for fees encountered for any cost associated with medical care",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    }
+  ],
+  "out_of_pocket": "Passport and U.S. visa fees, travel to the departure airport, extra baggage and any medical care during the programme (amounts not stated), plus a USD 100 deposit that is refunded in July 2027 after the in-person training (less USD 50 if a requested NYU room is not used).",
+  "cycles": [
+    {
+      "cycle": "2027",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "2026-11-05",
+      "deadline": "2026-12-03",
+      "quote": "Submit a completed application on or before Thursday, December 3, 2026, 11:59 PM (NYC EST time)",
+      "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+    }
+  ]
+}

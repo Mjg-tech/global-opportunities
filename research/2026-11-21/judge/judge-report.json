@@ -1,0 +1,337 @@
+{
+  "date": "2026-11-24",
+  "accepted": [
+    "african-union-commission-internship-programme",
+    "sadc-secretariat-work-integrated-learning-programme",
+    "eac-youth-fellowship-ms-tcdc",
+    "pec-pg-brazil-2027",
+    "universite-senghor-master-developpement-alexandrie",
+    "e-just-ticad9-fall-2027",
+    "orange-corners-rdc-incubation-programme",
+    "echoing-green-fellowship",
+    "un-young-professionals-programme-2026",
+    "wff-youth-policy-board-2027-2028",
+    "kectil-program-2027",
+    "mandela-washington-fellowship-2027",
+    "obama-foundation-leaders",
+    "si-scholarship-global-professionals",
+    "stipendium-hungaricum-2027",
+    "weidenfeld-hoffmann-scholarships-oxford-2027",
+    "vlir-uos-icp-connect-2027",
+    "european-forum-alpbach-scholarships",
+    "african-union-youth-volunteer-corps",
+    "orange-digital-center-drc",
+    "objectif-2030-ifdd-free-moocs"
+  ],
+  "downgraded": [
+    "unicef-internship-programme",
+    "romania-mfa-scholarships-non-eu-2027",
+    "oif-cap-innovation",
+    "auf-ifav-incubateur-francophone-africain-virtuel",
+    "acep-next-generation-resource-governance-leaders-program",
+    "mckinsey-forward-fall-2026"
+  ],
+  "returned": [],
+  "rejected": [],
+  "unreviewed": [],
+  "blocked": [],
+  "quote_failed": [],
+  "refused_changes": [],
+  "evidence_dropped": [],
+  "findings": {
+    "african-union-commission-internship-programme": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "unicef-internship-programme": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "sadc-secretariat-work-integrated-learning-programme": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "eac-youth-fellowship-ms-tcdc": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "romania-mfa-scholarships-non-eu-2027": [
+      {
+        "severity": "review",
+        "rule": "evidence-nationality-not-drc",
+        "message": "criteria[0] (nationality): MET, but neither the requirement nor the quote names the DRC or says all nationalities (an Africa-wide rule does not by itself include the DRC: read the country list)"
+      },
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "pec-pg-brazil-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "universite-senghor-master-developpement-alexandrie": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "e-just-ticad9-fall-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "oif-cap-innovation": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "auf-ifav-incubateur-francophone-africain-virtuel": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "acep-next-generation-resource-governance-leaders-program": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "orange-corners-rdc-incubation-programme": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "echoing-green-fellowship": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "un-young-professionals-programme-2026": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "wff-youth-policy-board-2027-2028": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-09: was this page read in this cycle?"
+      },
+      {
+        "severity": "note",
+        "rule": "lowered:verification",
+        "message": "verification: VERIFIED -> PARTIALLY VERIFIED"
+      }
+    ],
+    "kectil-program-2027": [
+      {
+        "severity": "note",
+        "rule": "deadline-passed",
+        "message": "the deadline has passed; the daily job will archive the record"
+      },
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "mandela-washington-fellowship-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "obama-foundation-leaders": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:application_deadline",
+        "message": "application_deadline:  -> 2026-12-04"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['Applicants from Africa are eligible'] -> [\"All nations and territories on/in the continent of Africa "
+      },
+      {
+        "severity": "review",
+        "rule": "changed:age_requirement",
+        "message": "age_requirement: 24 to 45 during the programme -> 24 to 45 on 1 September 2027 (Leaders Africa FAQ)"
+      },
+      {
+        "severity": "review",
+        "rule": "raised:verification",
+        "message": "verification: PARTIALLY VERIFIED -> VERIFIED needs a quoted page"
+      }
+    ],
+    "si-scholarship-global-professionals": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "fee-present",
+        "message": "participation_fee \"The University Admissions application fee for master's progr\": check the scam rules and the cost risk"
+      }
+    ],
+    "stipendium-hungaricum-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['Democratic Republic of the Congo is listed as a sending pa -> ['Democratic Republic of the Congo is listed as an eligible "
+      },
+      {
+        "severity": "review",
+        "rule": "changed:age_requirement",
+        "message": "age_requirement: Unknown / Not specified -> Minimum age 18: the 2026/27 call does not consider applicant"
+      }
+    ],
+    "weidenfeld-hoffmann-scholarships-oxford-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-10-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: [\"Ordinary residence in an eligible country on Oxford's list -> [\"Eligible-country list is on the University of Oxford websi"
+      }
+    ],
+    "vlir-uos-icp-connect-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: [\"25 eligible countries; 'DR Congo' is on the official VLIR- -> [\"25 eligible countries; 'DR Congo' is on the official VLIR-"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:age_requirement",
+        "message": "age_requirement: Not older than 35 on 1 January of the intake year for an ini -> Not older than 35 on 1 January of the intake year for a bach"
+      },
+      {
+        "severity": "note",
+        "rule": "lowered:eligibility_for_me",
+        "message": "eligibility_for_me: LIKELY ELIGIBLE -> POSSIBLY ELIGIBLE"
+      }
+    ],
+    "european-forum-alpbach-scholarships": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['All countries'] -> [\"All countries ('Applicants from all countries and professi"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:age_requirement",
+        "message": "age_requirement: Up to 30, or up to 35 for applicants from the Global South -> Between 18 and 30 at the time of the forum, or between 18 an"
+      },
+      {
+        "severity": "note",
+        "rule": "lowered:eligibility_for_me",
+        "message": "eligibility_for_me: LIKELY ELIGIBLE -> POSSIBLY ELIGIBLE"
+      }
+    ],
+    "african-union-youth-volunteer-corps": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      }
+    ],
+    "orange-digital-center-drc": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['Local programme in the DRC'] -> [\"Orange's news page says 'young Congolese will be able to b"
+      },
+      {
+        "severity": "note",
+        "rule": "lowered:eligibility_for_me",
+        "message": "eligibility_for_me: LIKELY ELIGIBLE -> POSSIBLY ELIGIBLE"
+      }
+    ],
+    "mckinsey-forward-fall-2026": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['Available in more than 130 countries'] -> [\"No nationality rule is stated: the rule is residence-based"
+      }
+    ],
+    "objectif-2030-ifdd-free-moocs": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-21: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['No nationality restriction stated'] -> [\"No nationality or residence restriction stated: the traini"
+      }
+    ]
+  }
+}

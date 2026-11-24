@@ -1,0 +1,84 @@
+{
+  "id": "tony-elumelu-entrepreneurship-programme-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Africans; the Foundation says it selects entrepreneurs across all 54 African countries, a complete set that includes the DRC.",
+      "applicant": "Citizen of the Democratic Republic of the Congo, one of the 54 African countries.",
+      "assessment": "MET",
+      "quote": "TEF looks out for and selects entrepreneurs with the most innovative, high potential business ideas across all 54 African countries.",
+      "page": "https://www.tonyelumelufoundation.org/"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Applicants must reside in Africa and plan to establish their business in Africa.",
+      "applicant": "Resident of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Applications from Africans who reside in Africa and plan to establish their business in Africa.",
+      "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+    },
+    {
+      "criterion": "age",
+      "requirement": "18 years and above.",
+      "applicant": "Recorded only as under 30; exact age not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Exact age (the profile records only the under-30 band; the minimum is 18).",
+      "quote": "Applications from Africans who are 18 years and above.",
+      "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+    },
+    {
+      "criterion": "business",
+      "requirement": "A business idea or a business no older than 5 years to apply; a registered, tax-registered business with a business bank account before the seed capital is paid.",
+      "applicant": "No registered business recorded; whether there is a business idea is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has a business idea, and whether a business would be registered (with tax registration and a business bank account) by the seed capital phase.",
+      "quote": "Applications from applicants who either have a business idea or have a business no older than 5 years.",
+      "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Applicants must never have benefited from any earlier TEF programme.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has benefited from an earlier TEF programme (not recorded).",
+      "quote": "Applications from applicants who have never benefitted from any of our previous programmes.",
+      "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No degree requirement is stated.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "training",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Selected participants get TEF's business management training, a mentor and coaching sessions; the pages read mention no fee.",
+      "quote": "Training Phase: access to TEF training, pairing with mentors, and coaching sessions",
+      "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "5000",
+      "currency": "USD",
+      "conditions": "Non-refundable seed capital paid into the business bank account, only to participants who complete the training and investment-readiness phases and whose documents (business registration certificate, tax registration, bank reference letter) are endorsed.",
+      "quote": "Programme Participants whose documents are endorsed will be deemed eligible to receive their $5,000 non-refundable seed capital and will be notified.",
+      "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+    }
+  ],
+  "out_of_pocket": "Unknown: no fee is stated on the pages read; registering a business and opening a business bank account before the seed capital is paid may cost money (amounts not stated).",
+  "cycles": [
+    {
+      "cycle": "2027",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "organiser states",
+      "window_text": "The organiser's yearly rule: the portal opens on 1 January and closes at midnight on 1 March, on TEFConnect. No 2027-specific announcement was found on the pages read.",
+      "quote": "Every year, the application portal for our flagship TEF Entrepreneurship Programme opens on the 1st of January till midnight on the 1st of March at Midnight",
+      "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+    }
+  ]
+}

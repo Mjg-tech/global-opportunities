@@ -1,0 +1,106 @@
+{
+  "id": "pec-pg-brazil-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Be a national of one of the countries participating in PEC-PG; the CAPES list of participating African countries names the Democratic Republic of the Congo (Republica Democratica do Congo).",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Quênia, República Democrática do Congo, República do Congo, São Tomé e Príncipe",
+      "page": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-lanca-edital-para-estudantes-estrangeiros"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Live in one of the countries participating in PEC-PG.",
+      "applicant": "Resident in the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Live in one of the countries participating in the Program",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    },
+    {
+      "criterion": "education",
+      "requirement": "A completed higher education course equivalent to an undergraduate degree (graduacao).",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Have completed a higher education course equivalent to an undergraduate degree (graduação)",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    },
+    {
+      "criterion": "discipline",
+      "requirement": "The chosen graduate programme (PPG) sets its own admission requirements; the programmes on the 2027 list are published in December 2026.",
+      "applicant": "Business Administration degree; interests in operations, business analysis, project coordination and policy analysis.",
+      "assessment": "UNKNOWN",
+      "missing": "which graduate programmes are on the 2027 list and the admission requirements of the ones of interest",
+      "quote": "specific requirements of the Graduate Program (PPG) of your interest, including language requirements",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Language requirements are set by each graduate programme; the Lattes CV must be in Portuguese and the research project in Portuguese, Spanish or English.",
+      "applicant": "French, English, Swahili and Lingala are recorded; no Portuguese is recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "the language requirement of the chosen programme and whether the applicant can meet it in Portuguese",
+      "quote": "specific requirements of the Graduate Program (PPG) of your interest, including language requirements",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    },
+    {
+      "criterion": "passport",
+      "requirement": "A digital copy of the personal information page of the passport is needed to begin receiving the scholarship.",
+      "applicant": "Passport not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "whether the applicant holds a valid passport",
+      "quote": "Digital copy of the personal information page from your passport",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    }
+  ],
+  "funding": [
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "2100",
+      "currency": "BRL",
+      "conditions": "Per month for a master's of 24 months (R$ 3,100 per month for a doctorate of 48 months).",
+      "quote": "Monthly stipend - R$ 2,100.00 for Master's degree (duration of 24 months)",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Only an aid to return to the country of origin, paid by the Ministry of Foreign Affairs depending on budget availability; the ticket to Brazil is not funded (CNPq call notice, PDF).",
+      "quote": "Financial aid to return to the country of origin - paid by the Ministry of Foreign Affairs (MRE), depending on budgetary and financial availability.",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Access to the Brazilian public health system (SUS) on the same terms as Brazilian citizens; this is public-system access, not a private insurance policy.",
+      "quote": "Access to the Brazilian Public Health System (SUS) - Access throughout Brazil, on the same conditions as Brazilian citizens, without discrimination based on nationality or immigration status.",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    }
+  ],
+  "out_of_pocket": "No amounts are stated. The CNPq call notice (PDF) makes the selected student responsible for the ticket to Brazil and for living costs until the first monthly payment; lodging and installation aid are not funded. The application itself is free.",
+  "cycles": [
+    {
+      "cycle": "PEC-PG 2027 selection",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "",
+      "deadline": "",
+      "window_text": "Institutions select candidates from December 2026; scholarships start between March 2027 and March 2028.",
+      "quote": "From December 2026 , each HEI/ICT will conduct its own selection of candidates for the PEC-PG program.",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+    },
+    {
+      "cycle": "PEC-PG 2026 (CAPES Notice No. 12/2025)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2025-08-14",
+      "deadline": "2025-09-29",
+      "quote": "O período de inscrição dos candidatos estrangeiros vai de 14 de agosto a 29 de setembro para mestrado e doutorado pleno",
+      "page": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-lanca-edital-para-estudantes-estrangeiros"
+    }
+  ]
+}

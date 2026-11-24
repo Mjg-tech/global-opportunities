@@ -1,0 +1,91 @@
+{
+  "id": "internet-society-fellowship-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Open to anyone interested in Internet policy, connectivity, safety and security; the page sets no nationality or country restriction.",
+      "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "The program is open to anyone interested in building their knowledge and skills in Internet policy, community mobilization, connectivity, Internet safety, and security.",
+      "page": "https://www.internetsociety.org/fellowship/"
+    },
+    {
+      "criterion": "language",
+      "requirement": "A high level of reading, speaking and writing in English.",
+      "applicant": "English is listed among the profile's languages, with no level and no test score.",
+      "assessment": "UNKNOWN",
+      "missing": "The applicant's level of reading, speaking and writing in English.",
+      "quote": "Applicants must have a high level of reading, speaking, and writing skills in English.",
+      "page": "https://www.internetsociety.org/fellowship/"
+    },
+    {
+      "criterion": "passport",
+      "requirement": "A valid passport that remains valid at least six months beyond fellowship-related travel dates.",
+      "applicant": "Passport not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant holds a passport valid six months beyond travel in 2027.",
+      "quote": "Applicants must hold a valid passport that remains valid for at least six months beyond anticipated fellowship-related travel dates.",
+      "page": "https://www.internetsociety.org/fellowship/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Enrol in the Pre-Fellowship Training before 22 November 2026 and complete it before applying.",
+      "applicant": "No enrolment is recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant enrols before 22 November 2026 and completes the modules.",
+      "quote": "participants must enroll in the required Pre-Fellowship Training modules before 22 November 2026",
+      "page": "https://www.internetsociety.org/fellowship/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Weekly sessions and at least four hours a week during the 10-month programme.",
+      "applicant": "Availability is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Availability for weekly sessions and four hours a week in 2027.",
+      "quote": "Applicants must have the availability to take part in weekly sessions and be able to dedicate a minimum of four hours per week during the 10-month program.",
+      "page": "https://www.internetsociety.org/fellowship/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No degree requirement is stated.",
+      "assessment": "NOT STATED"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No age limit is stated.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "other_support",
+      "arrangement": "Covered through an allowance",
+      "amount": "up to 5,000",
+      "currency": "USD",
+      "conditions": "Project stipend for justified direct project costs, subject to review and approval of the project budget; not personal compensation and not for salaries or consulting fees.",
+      "quote": "Selected fellows may apply for a project stipend of up to USD $5,000 for justified direct project costs.",
+      "page": "https://www.internetsociety.org/fellowship/faq/"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Selected fellows receive 'travel support' to attend one global or regional Internet event; the page and the brochure do not say whether it pays the flight, accommodation or visa.",
+      "quote": "Travel support to attend a global or regional Internet event",
+      "page": "https://www.internetsociety.org/fellowship/"
+    }
+  ],
+  "out_of_pocket": "Unknown",
+  "cycles": [
+    {
+      "cycle": "2027",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "2026-09-23",
+      "deadline": "2026-12-18",
+      "quote": "Eligible participants may submit their application as soon as they receive the application link and no later than 18 December 2026",
+      "page": "https://www.internetsociety.org/fellowship/"
+    }
+  ]
+}

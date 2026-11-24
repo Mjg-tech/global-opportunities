@@ -1,0 +1,51 @@
+{
+  "id": "e-just-ticad9-fall-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Reported by secondary sources: a holder of the nationality of a country in Africa except Egypt; no country list is shown.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "whether the DRC is on the organiser's list of eligible countries (the aggregators give only 'a country in Africa except for Egypt')",
+      "quote": "Applicant must be a holder of nationality of a country in Africa except for Egypt.",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Reported by secondary sources: a current home address in an African country.",
+      "applicant": "Resident in the Democratic Republic of the Congo, an African country.",
+      "assessment": "MET",
+      "quote": "Applicant must have a current home address in an African country.",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+    },
+    {
+      "criterion": "discipline",
+      "requirement": "Reported by secondary sources: M.Sc. or Ph.D. in Engineering, Computer Science and Information Technology, Basic and Applied Sciences, International Business and Humanities.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "UNKNOWN",
+      "missing": "whether the International Business and Humanities programmes accept a Business Administration degree, and their admission requirements",
+      "quote": "in the fields of Engineering, Computer Science and Information Technology, Basic and Applied Sciences, International Business and Humanities",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+    },
+    {
+      "criterion": "employment",
+      "requirement": "Reported by secondary sources: applicants shall be researchers or instructors, or potentially expected to become those.",
+      "applicant": "No academic or research post is recorded; the profile lists internships and field assignments only.",
+      "assessment": "UNKNOWN",
+      "missing": "whether the applicant counts as someone 'potentially expected to become' a researcher or instructor, which the organiser decides",
+      "quote": "Applicants shall be researchers or instructors (or potentially expected to become those)",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Reported by secondary sources: the applicant must not be serving in the military.",
+      "applicant": "Military service is not recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "military service status",
+      "quote": "Applicant must not be serving in the military.",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+    }
+  ],
+  "out_of_pocket": "Unknown"
+}

@@ -1,0 +1,124 @@
+{
+  "id": "ned-hurford-youth-fellows-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Open worldwide: the call invites emerging youth leaders 'from around the world'. No country list and no nationality restriction appear on the page.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "invites emerging youth leaders from around the world to apply for the 2027 Hurford Youth Fellows Program",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "30 years of age or younger.",
+      "applicant": "Recorded as under 30.",
+      "assessment": "MET",
+      "quote": "Applicants must be 30 years of age or younger",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "A demonstrated commitment to, and experience in, advancing youth participation in democracy; leaders affiliated with civic organisations, human rights groups and democracy initiatives are especially encouraged.",
+      "applicant": "Three short internships and field assignments (logistics operations, public-sector research and budget evaluation, vaccination-campaign monitoring); no civic or democracy work recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Documented experience in advancing youth participation in democracy.",
+      "quote": "demonstrate a commitment to—and experience in—advancing youth participation in democracy",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Residence in Washington, DC for the four-month fellowship, 1 May to 31 August 2027 (up to three fellows).",
+      "applicant": "Availability and visa situation not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Availability from May to August 2027 and the ability to obtain a United States visa.",
+      "quote": "Up to three (3) fellows will be selected for a four-month fellowship, from May 1 through August 31, 2027",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No degree requirement is stated on the page.",
+      "assessment": "NOT STATED"
+    },
+    {
+      "criterion": "language",
+      "requirement": "No language requirement is stated; products may be created in English or another language.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "A monthly stipend for living expenses during the four months; the amount is not stated.",
+      "quote": "Each fellow receives a monthly stipend for living expenses, basic health insurance coverage, and roundtrip economy-class travel to and from Washington, D.C., at the beginning and end of the fellowship.",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "One round trip in economy class, at the beginning and end of the fellowship. The page says each fellow 'receives' it and does not say whether NED books or reimburses the ticket. Dependents' travel is not covered.",
+      "quote": "Each fellow receives a monthly stipend for living expenses, basic health insurance coverage, and roundtrip economy-class travel to and from Washington, D.C., at the beginning and end of the fellowship.",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Basic health insurance coverage for the fellow.",
+      "quote": "Each fellow receives a monthly stipend for living expenses, basic health insurance coverage, and roundtrip economy-class travel to and from Washington, D.C., at the beginning and end of the fellowship.",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "The stipend is calculated to cover a short-term furnished rental apartment; the fellow rents it.",
+      "quote": "Stipends are calculated to cover a short-term furnished rental apartment, food, local transportation, and other necessities.",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Food is paid from the stipend.",
+      "quote": "Stipends are calculated to cover a short-term furnished rental apartment, food, local transportation, and other necessities.",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "item": "local_transport",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Local transportation is paid from the stipend.",
+      "quote": "Stipends are calculated to cover a short-term furnished rental apartment, food, local transportation, and other necessities.",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    },
+    {
+      "item": "visa_fees",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Visas and their cost are not mentioned on the page."
+    }
+  ],
+  "out_of_pocket": "Unknown. The stipend amount is not stated and visa costs are not mentioned; fellows who bring family members pay their dependents' travel and living costs.",
+  "cycles": [
+    {
+      "cycle": "2027",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "",
+      "deadline": "2026-12-07",
+      "quote": "Applications: December 7, 2026",
+      "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+    }
+  ]
+}

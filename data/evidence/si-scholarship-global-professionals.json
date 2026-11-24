@@ -1,0 +1,73 @@
+{
+  "id": "si-scholarship-global-professionals",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Citizen of one of the 34 eligible countries listed on the page ('You must be a citizen of one of the 34 eligible countries to be eligible to apply'); the Democratic Republic of the Congo is not on the list.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "NOT MET",
+      "quote": "Armenia, Azerbaijan, Bangladesh, Belarus, Bolivia, Brazil, Colombia, Ecuador, Egypt, Ethiopia, Georgia, Guatemala, Indonesia, Iraq, Jordan, Kenya, Liberia, Malaysia, Mexico, Moldova, Morocco, Nigeria, Peru, Philippines, Rwanda, Senegal, South Africa, Tanzania, Thailand, Uganda, Ukraine, Uzbekistan, Vietnam, Zambia",
+      "page": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Full tuition fee coverage, paid by SI to the Swedish university each semester (for awarded scholars).",
+      "quote": "Full tuition fee coverage. The fee is paid directly by SI to your Swedish university each semester.",
+      "page": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "12,000",
+      "currency": "SEK",
+      "conditions": "Per month, to cover living expenses throughout the study period.",
+      "quote": "A monthly allowance of SEK 12,000 to cover your living expenses throughout the study period.",
+      "page": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Covered through an allowance",
+      "amount": "15,000",
+      "currency": "SEK",
+      "conditions": "One-time travel grant (SEK 10,000 for scholars from Armenia, Azerbaijan, Belarus, Georgia, Moldova and Ukraine); does not apply to students already living in Sweden.",
+      "quote": "A travel grant of SEK 15,000",
+      "page": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "SI recommends asking the university about insurance for international students.",
+      "quote": "Our scholarships do not include insurance coverage.",
+      "page": "https://si.se/en/apply/faq-scholarships-on-masters-level/"
+    },
+    {
+      "item": "participation_fee",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "SI charges nothing for the scholarship application; the University Admissions application fee is paid by the applicant, is not refundable, and its amount is not stated on the SI pages.",
+      "quote": "We do not charge any application fee to apply for our scholarships. There is, however, an application fee that you need to pay when you apply for programmes via University Admissions.",
+      "page": "https://si.se/en/apply/faq-scholarships-on-masters-level/"
+    }
+  ],
+  "out_of_pocket": "The University Admissions application fee (amount not stated on the SI pages, not refundable) and insurance are not covered; SI states no other amounts.",
+  "cycles": [
+    {
+      "cycle": "2027/2028",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "2026-10-16",
+      "deadline": "2027-02-24",
+      "window_text": "University Admissions application 16 October 2026 to 15 January 2027; SI scholarship portal 8-24 February 2027 (closes 14:59 CET on 24 February); University Admissions results 1 April 2027; SI announcement 22 April 2027.",
+      "quote": "The application portal will close at 14:59 CET, 24 February 2027.",
+      "page": "https://si.se/en/apply/faq-scholarships-on-masters-level/"
+    }
+  ]
+}

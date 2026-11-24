@@ -1,0 +1,139 @@
+{
+  "id": "african-union-commission-internship-programme",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Nationals of an African Union member state; the AU member-states page lists the Democratic Republic of Congo.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Democratic Republic of Congo",
+      "page": "https://au.int/en/member_states/countryprofiles2"
+    },
+    {
+      "criterion": "education",
+      "requirement": "Final-year Bachelor's student, or holder of a Bachelor's or Master's qualification in a related academic field; the FAQ says graduates may apply.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "graduates of Bachelor’s degree, Master’s degree and PhD",
+      "page": "https://au.int/en/internships"
+    },
+    {
+      "criterion": "discipline",
+      "requirement": "The degree must be in a field related to the host department and the terms of reference of the position.",
+      "applicant": "Business Administration.",
+      "assessment": "UNKNOWN",
+      "missing": "The terms of reference of the department the AU would assign; the posting names no required field of study.",
+      "quote": "Must have obtained a Bachelor’s degree or an advanced/ post graduate (Masters) qualification in a related academic field;",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Aged between 22 and 32 at the time of application (programme page); no more than 32 at the time of selection (posting).",
+      "applicant": "Recorded only as under 30.",
+      "assessment": "UNKNOWN",
+      "missing": "Exact age: the programme page sets a lower limit of 22 and the profile records only the band under 30.",
+      "quote": "Applicants must be aged between 22 and 32 at the time of application;",
+      "page": "https://au.int/en/internships"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Fluent in at least one AU working language (Arabic, English, French or Portuguese).",
+      "applicant": "French and English are among the recorded languages.",
+      "assessment": "MET",
+      "quote": "Be fluent in at least one of the African Union working languages (Arabic, English, French or Portuguese).",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "No prior work experience required.",
+      "applicant": "Under one year of internships and field assignments, no full-time employment.",
+      "assessment": "MET",
+      "quote": "Prior work experience is not required for the internship positions.",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    },
+    {
+      "criterion": "passport",
+      "requirement": "A copy of a valid passport or national identity card with the application.",
+      "applicant": "Passport not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant holds a valid passport (the page also accepts a national identity card, but travel to Ethiopia needs a passport).",
+      "quote": "A copy of valid passport or national identity card",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Recommendation letter for internship from the institution of learning the applicant is attending.",
+      "applicant": "Not recorded as enrolled in any degree programme.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the AU accepts a recommendation letter from the institution of the 2024 degree for a graduate who is no longer attending.",
+      "quote": "Recommendation letter for internship from the institution of learning that they are attending",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    }
+  ],
+  "funding": [
+    {
+      "item": "airfare",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Travel to and from the internship location is the intern's.",
+      "quote": "Interns will not be entitled to any compensation for travel.",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Cost of accommodation is the intern's responsibility.",
+      "quote": "The AU will have no financial obligation towards interns - travel arrangements and cost of accommodation and living expenses will be the responsibility of the interns.",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Living expenses are the intern's responsibility.",
+      "quote": "The AU will have no financial obligation towards interns - travel arrangements and cost of accommodation and living expenses will be the responsibility of the interns.",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "No stipend or per diem.",
+      "quote": "AU does not provide any financial support or cover any costs for living expenses during the assignment for interns.",
+      "page": "https://au.int/en/internships"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Interns must hold individual insurance and are not entitled to medical evacuation at the Commission's expense.",
+      "quote": "Interns shall therefore have an individual insurance coverage throughout the duration of the internship.",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    },
+    {
+      "item": "visa_fees",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "The AU says it will use reasonable efforts to assist with entry and residence visas; fees are not stated."
+    }
+  ],
+  "out_of_pocket": "Unknown amount: flights, accommodation, living costs, insurance and visa are all the intern's; the pages state no figures.",
+  "cycles": [
+    {
+      "cycle": "Req 1506 (2026)",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "2026-02-16",
+      "deadline": "2026-12-31",
+      "quote": "December 31, 2026",
+      "page": "https://jobs.au.int/job/Internship-Program/1506-en_US"
+    }
+  ]
+}

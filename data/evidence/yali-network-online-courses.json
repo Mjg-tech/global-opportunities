@@ -1,0 +1,44 @@
+{
+  "id": "yali-network-online-courses",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "No nationality rule is stated for the courses; the YALI Network describes its members as young leaders of sub-Saharan Africa, without a country list.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A country list or a statement of who may join the YALI Network or take the courses; the pages name no country.",
+      "quote": "the YALI Network consists of over 600,000 current and future young leaders of sub-Saharan Africa",
+      "page": "https://yali.state.gov/"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Courses are offered in English, French and Portuguese.",
+      "applicant": "French and English are among the recorded languages.",
+      "assessment": "MET",
+      "quote": "YALI Network Online Courses are currently offered in English, French, and Portuguese",
+      "page": "https://yali.state.gov/courses/"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The courses and videos are free; the YALI Network bears the cost.",
+      "quote": "Free Online Courses and Videos",
+      "page": "https://yali.state.gov/network/"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Completion certificate (YALI Network Certificate) at no charge stated.",
+      "quote": "an opportunity to earn a YALI Network Certificate",
+      "page": "https://yali.state.gov/network/"
+    }
+  ],
+  "out_of_pocket": "None stated; internet access is the learner's own cost."
+}

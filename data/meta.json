@@ -1,42 +1,43 @@
 {
   "schema_version": 1,
-  "last_refresh": "2026-11-24T15:53:54Z",
+  "last_refresh": "2026-11-24T19:31:09Z",
   "counts": {
-    "total": 80,
+    "total": 95,
     "archived": 16,
     "by_status": {
-      "OPEN": 21,
-      "CLOSING SOON": 10,
-      "UPCOMING": 35,
+      "OPEN": 27,
+      "CLOSING SOON": 12,
+      "UPCOMING": 41,
       "DEADLINE PASSED": 6,
-      "ROLLING": 2,
+      "ROLLING": 3,
       "DATE UNKNOWN": 6
     },
     "by_funding": {
-      "Fully Funded": 25,
-      "Substantially Funded": 21,
-      "Partially Funded": 8,
+      "Fully Funded": 26,
+      "Substantially Funded": 24,
+      "Partially Funded": 13,
       "Travel Funded": 2,
-      "Participation Funded": 8,
-      "Self Funded": 0,
-      "Funding Unclear": 16
+      "Participation Funded": 11,
+      "Self Funded": 1,
+      "Funding Unclear": 18
     },
     "by_eligibility": {
-      "LIKELY ELIGIBLE": 7,
-      "POSSIBLY ELIGIBLE": 62,
-      "NOT ELIGIBLE": 6,
-      "INSUFFICIENT INFORMATION": 5
+      "LIKELY ELIGIBLE": 1,
+      "POSSIBLY ELIGIBLE": 80,
+      "NOT ELIGIBLE": 7,
+      "INSUFFICIENT INFORMATION": 7
     },
     "by_verification": {
-      "VERIFIED": 45,
-      "PARTIALLY VERIFIED": 31,
-      "NEEDS VERIFICATION": 4
+      "VERIFIED": 43,
+      "PARTIALLY VERIFIED": 46,
+      "NEEDS VERIFICATION": 6
     },
-    "travel_funded": 38
+    "travel_funded": 41
   },
   "deadline_buckets": {
     "30": [
       "auc-african-graduate-fellowship-2027",
+      "french-african-foundation-young-leaders",
       "internet-society-fellowship-2027",
       "maastricht-nl-high-potential-2027",
       "noha-erasmus-mundus-humanitarian-action-2027"
@@ -44,13 +45,15 @@
     "14": [
       "gates-cambridge-2027",
       "mastercard-foundation-scholars-cambridge-2027",
-      "mcw-global-young-leaders-fellowship-2027"
+      "mcw-global-young-leaders-fellowship-2027",
+      "ned-hurford-youth-fellows-2027",
+      "obama-foundation-leaders"
     ],
     "7": [
       "jim-leech-mastercard-foundation-fellowship-2027",
       "mundus-mapp-2027",
-      "ned-hurford-youth-fellows-2027",
       "sciences-po-emile-boutmy-masters-2027",
+      "un-young-professionals-programme-2026",
       "wageningen-africa-scholarship-programme-2027",
       "wff-youth-policy-board-2027-2028",
       "yenching-academy-2027"
@@ -535,7 +538,7 @@
         ],
         "eligibility_for_me": "POSSIBLY ELIGIBLE",
         "funding_type": "Fully Funded",
-        "organiser_text": "If the pattern repeats, the next call opens around mid-November 2026 (the last call ran 15 November to 15 December 2025). Not announced as of 9 November 2026; one scholarship blog projects 15 November 2026, which is not an official source.",
+        "organiser_text": "The last call ran from 15 November to 15 December 2025. No 2027-2028 call was published on au.int, au-pau.org or pau-au.africa on 19 November 2026, four days after the date on which the previous call opened.",
         "url": "https://au.int/en/announcements/20251115/pan-african-university-call-scholarships-applications-academic-year-2026-2027",
         "phase": "Expected again (estimate)",
         "window_text": "around December 2026 (closing)",
@@ -591,7 +594,7 @@
         ],
         "eligibility_for_me": "POSSIBLY ELIGIBLE",
         "funding_type": "Partially Funded",
-        "organiser_text": "Irregular. Three calls are on the EEAS site: published 15.03.2023 (deadline 31/03/2023), 17.09.2024 (deadline 26 September 2024) and 15.01.2026 (deadline 25 January 2026), each open 9 to 16 days. No later call was found on 29 October 2026.",
+        "organiser_text": "Irregular, one or two calls a year. The EEAS vacancies list of the EU Delegation in Kinshasa (read 19 November 2026) shows seven calls for this internship, with deadlines 24/02/2022, 09/10/2022, 31/03/2023, 2 February 2024, 26 September 2024, 18.04.2025 and 25 January 2026. Each call page read was published 7 to 16 days before its deadline (11.02.2022, 26.09.2022, 15.03.2023, 24.01.2024, 17.09.202",
         "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1_en",
         "phase": "Expected again (estimate)",
         "window_text": "around January 2027 (closing)",
@@ -611,7 +614,7 @@
         ],
         "eligibility_for_me": "POSSIBLY ELIGIBLE",
         "funding_type": "Fully Funded",
-        "organiser_text": "The official calendar lists the general application period as 10 January to 20 February (no year given), matching the 2026 cycle; the 'Türkiye Scholarships 2026 Applications' announcement was posted on 29 December 2025. 2027 dates not announced as of 9 November 2026.",
+        "organiser_text": "The official calendar lists the general application period as 10 January to 20 February (no year given), matching the 2026 cycle; the 'Türkiye Scholarships 2026 Applications' announcement was posted on 29 December 2025. 2027 dates not announced as of 19 November 2026.",
         "url": "https://www.turkiyeburslari.gov.tr/",
         "phase": "Expected again (estimate)",
         "window_text": "around February 2027 (closing)",
@@ -653,26 +656,6 @@
         "check_now": false
       },
       {
-        "id": "european-forum-alpbach-scholarships",
-        "title": "European Forum Alpbach scholarship programme",
-        "organization": "European Forum Alpbach",
-        "state": "EXPECTED NEXT CYCLE",
-        "basis": "pattern",
-        "history": [
-          "2026-03-22"
-        ],
-        "eligibility_for_me": "LIKELY ELIGIBLE",
-        "funding_type": "Participation Funded",
-        "organiser_text": "The 2027 Forum dates are announced (23 August to 3 September 2027) but the scholarship application period is not. In 2026 the platform was open 2-22 March.",
-        "url": "https://www.alpbach.org/faq-scholarship-programme",
-        "phase": "Expected again (estimate)",
-        "window_text": "around March 2027 (closing)",
-        "expected_deadline_month": "2027-03",
-        "pattern": "one earlier cycle",
-        "days_until": 118,
-        "check_now": false
-      },
-      {
         "id": "icann-fellowship",
         "title": "ICANN Fellowship Program",
         "organization": "ICANN (Internet Corporation for Assigned Names and Numbers)",
@@ -689,6 +672,26 @@
         "check_now": false
       },
       {
+        "id": "romania-mfa-scholarships-non-eu-2027",
+        "title": "Romanian Government (Ministry of Foreign Affairs) Scholarships for non-EU citizens, 2027-2028 round",
+        "organization": "Ministry of Foreign Affairs of Romania, with the Ministry of Education and Research (Study in Romania)",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "pattern",
+        "history": [
+          "2026-03-31"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Substantially Funded",
+        "organiser_text": "Not announced. The portal describes the programme as annual ('Each year, the Romanian Government ... provides a number of scholarships to citizens from non-EU countries'); the last round ran 16 February - 31 March 2026, so a similar window in early 2027 is possible but no date is published.",
+        "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+        "phase": "Expected again (estimate)",
+        "window_text": "around March 2027 (closing)",
+        "expected_deadline_month": "2027-03",
+        "pattern": "one earlier cycle",
+        "days_until": 127,
+        "check_now": false
+      },
+      {
         "id": "african-union-youth-volunteer-corps",
         "title": "African Union Youth Volunteer Corps (AU-YVC)",
         "organization": "African Union Commission",
@@ -699,13 +702,34 @@
         ],
         "eligibility_for_me": "POSSIBLY ELIGIBLE",
         "funding_type": "Partially Funded",
-        "organiser_text": "The 2026 call (13th cohort) opened on 26 March 2026 and closed on 26 April 2026. No date for the next cohort's call is stated on the official pages read on 26 October 2026.",
+        "organiser_text": "The 2026 call (13th cohort) opened on 26 March 2026 and closed on 26 April 2026. No date for the next cohort's call is stated on the official pages read on 21 November 2026.",
         "url": "https://au.int/en/volunteer/african-union-youth-volunteer-corps",
         "phase": "Expected again (estimate)",
         "window_text": "around April 2027 (closing)",
         "expected_deadline_month": "2027-04",
         "pattern": "one earlier cycle",
         "days_until": 153,
+        "check_now": false
+      },
+      {
+        "id": "oif-cap-innovation",
+        "title": "OIF #CAP Innovation: training and EUR 10,000 seed prizes for young francophone entrepreneurs (2nd call closed 10 May 2026)",
+        "organization": "Organisation internationale de la Francophonie (OIF), Unité jeunesse et société civile",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "pattern",
+        "history": [
+          "2025-05-21",
+          "2026-05-10"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Partially Funded",
+        "organiser_text": "No 3rd call is announced on the pages read (21 November 2026). The OIF ran a 1st call that closed on 21 May 2025 and a 2nd call from 21 April to 10 May 2026.",
+        "url": "https://jeunesse.francophonie.org/capinnovation",
+        "phase": "Expected again (estimate)",
+        "window_text": "around May 2027 (closing)",
+        "expected_deadline_month": "2027-05",
+        "pattern": "2 earlier cycles, same time of year",
+        "days_until": 167,
         "check_now": false
       },
       {
@@ -726,6 +750,47 @@
         "expected_deadline_month": "2027-05",
         "pattern": "one earlier cycle",
         "days_until": 186,
+        "check_now": false
+      },
+      {
+        "id": "acep-next-generation-resource-governance-leaders-program",
+        "title": "ACEP Next Generation Resource Governance Leaders Program (policy-research internship in Ghana; 11th cohort closed 21 June 2026)",
+        "organization": "Africa Centre for Energy Policy (ACEP)",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "pattern",
+        "history": [
+          "2026-06-21"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Substantially Funded",
+        "organiser_text": "No 12th cohort call is shown on the ACEP pages read (21 November 2026). ACEP's page says 'ACEP is hereby calling for the 11th cohort of the Program' and the 11th call closed on 21 June 2026.",
+        "url": "https://acep.africa/nextgen11/",
+        "phase": "Expected again (estimate)",
+        "window_text": "around June 2027 (closing)",
+        "expected_deadline_month": "2027-06",
+        "pattern": "one earlier cycle",
+        "days_until": 209,
+        "check_now": false
+      },
+      {
+        "id": "sadc-secretariat-work-integrated-learning-programme",
+        "title": "SADC Secretariat Work-Integrated Learning (WIL) programme: interns and graduates (Gaborone and Lusaka)",
+        "organization": "Southern African Development Community (SADC) Secretariat",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "pattern",
+        "history": [
+          "2023-08-11",
+          "2026-06-28"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Partially Funded",
+        "organiser_text": "No call is announced: the SADC vacancies page read on 21 November 2026 says 'There are no open vacancies at the moment, please check again later.' The SADC site also shows an earlier internship call that closed on 11 August 2023 and this work-integrated learning call that closed on 28 June 2026, so no regular month can be inferred.",
+        "url": "https://www.sadc.int/vagas/work-intergrated-learning-opportunities-6",
+        "phase": "Expected again (estimate)",
+        "window_text": "around June 2027 (closing)",
+        "expected_deadline_month": "2027-06",
+        "pattern": "2 earlier cycles, months vary by 2",
+        "days_until": 216,
         "check_now": false
       },
       {
@@ -769,6 +834,26 @@
         "check_now": false
       },
       {
+        "id": "eac-youth-fellowship-ms-tcdc",
+        "title": "EAC Youth Fellowship (MS TCDC, Arusha): 4th cohort closed 7 September 2026",
+        "organization": "MS Training Centre for Development Cooperation (MS TCDC), Arusha, Tanzania, with the Danida Fellowship Centre (Together for Impact Partnership)",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "pattern",
+        "history": [
+          "2026-09-07"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Fully Funded",
+        "organiser_text": "No later cohort is announced. The official page and the portal call the closed round the '4th Cohort', which implies earlier cohorts, but no page states when a 5th cohort call will open.",
+        "url": "https://mstcdc.or.tz/eac-youth-fellowship",
+        "phase": "Expected again (estimate)",
+        "window_text": "around September 2027 (closing)",
+        "expected_deadline_month": "2027-09",
+        "pattern": "one earlier cycle",
+        "days_until": 287,
+        "check_now": false
+      },
+      {
         "id": "eacsp-iucea-kfw-masters-scholarship-2026-cohort-4",
         "title": "EAC Scholarship Programme (EACSP) Phase II: KfW-funded two-year master's in another EAC country (IUCEA, cohort 4)",
         "organization": "Inter-University Council for East Africa (IUCEA), for the East African Community and the Federal Republic of Germany (KfW funding)",
@@ -789,6 +874,26 @@
         "check_now": false
       },
       {
+        "id": "pec-pg-brazil-2027",
+        "title": "PEC-PG 2027: Brazilian government postgraduate exchange programme (master's and doctorate scholarships for students from partner countries)",
+        "organization": "CNPq, CAPES and the Brazilian Ministry of Foreign Affairs (Itamaraty)",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "pattern",
+        "history": [
+          "2025-09-29"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Partially Funded",
+        "organiser_text": "",
+        "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+        "phase": "Expected again (estimate)",
+        "window_text": "around September 2027 (closing)",
+        "expected_deadline_month": "2027-09",
+        "pattern": "one earlier cycle",
+        "days_until": 309,
+        "check_now": false
+      },
+      {
         "id": "mckinsey-forward-fall-2026",
         "title": "McKinsey.org Forward learning programme (Fall 2026)",
         "organization": "McKinsey.org",
@@ -797,9 +902,9 @@
         "history": [
           "2026-10-05"
         ],
-        "eligibility_for_me": "LIKELY ELIGIBLE",
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
         "funding_type": "Participation Funded",
-        "organiser_text": "Recurring programme; previous cycle closed on 2026-10-05.",
+        "organiser_text": "No date announced. The FAQ says 'The McKinsey.org Forward program is delivered through specific cohorts every year' and that people who missed a deadline 'can register their interest on the Forward website and will be contacted for the next cohort, where they can reapply'. Previous cycle closed on 2026-10-05 (earlier reading).",
         "url": "https://www.mckinsey.org/our-programs/forward/faq",
         "phase": "Expected again (estimate)",
         "window_text": "around October 2027 (closing)",
@@ -829,6 +934,27 @@
         "check_now": false
       },
       {
+        "id": "auf-ifav-incubateur-francophone-africain-virtuel",
+        "title": "AUF IFAV: Incubateur Francophone Africain Virtuel, online pre-incubator for students and young graduates (2026 call closed 11 October 2026)",
+        "organization": "Agence universitaire de la Francophonie (AUF)",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "pattern",
+        "history": [
+          "2025-09-01",
+          "2026-10-11"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Funding Unclear",
+        "organiser_text": "No next call is announced on the pages read (21 November 2026). An IFAV call closed on 1 September 2025 (secondary source) and the 2026 call closed on 11 October 2026 (AUF platform).",
+        "url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+        "phase": "Expected again (estimate)",
+        "window_text": "around October 2027 (closing)",
+        "expected_deadline_month": "2027-10",
+        "pattern": "2 earlier cycles, same time of year",
+        "days_until": 321,
+        "check_now": false
+      },
+      {
         "id": "mandela-washington-fellowship-2027",
         "title": "Mandela Washington Fellowship for Young African Leaders 2027",
         "organization": "U.S. Department of State (administered by IREX)",
@@ -839,33 +965,13 @@
         ],
         "eligibility_for_me": "POSSIBLY ELIGIBLE",
         "funding_type": "Fully Funded",
-        "organiser_text": "Applications for the 2027 Fellowship closed on 13 October 2026. No 2028 call is announced on the official site (read 26 October 2026).",
+        "organiser_text": "Applications for the 2027 Fellowship closed on 13 October 2026. No 2028 call is announced on the official site (read 26 October and 21 November 2026).",
         "url": "https://www.mandelawashingtonfellowship.org/about/",
         "phase": "Expected again (estimate)",
         "window_text": "around October 2027 (closing)",
         "expected_deadline_month": "2027-10",
         "pattern": "one earlier cycle",
         "days_until": 323,
-        "check_now": false
-      },
-      {
-        "id": "aspire-leaders-program-2026-cohort-4",
-        "title": "Aspire Leaders Program (2026 Cohort 4)",
-        "organization": "Aspire Institute",
-        "state": "EXPECTED NEXT CYCLE",
-        "basis": "pattern",
-        "history": [
-          "2026-10-16"
-        ],
-        "eligibility_for_me": "POSSIBLY ELIGIBLE",
-        "funding_type": "Fully Funded",
-        "organiser_text": "Programme page (26 October 2026): '2027' Cohort 1 marked 'COMING SOON' with no dates; home page: 'Check back in for future updates regarding our 2027 program.' The site's Apply button leads to a 2027 interest form; no 2027 application dates or deadline are stated.",
-        "url": "https://www.aspireleaders.org/program/aspire-leaders-program/",
-        "phase": "Expected again (estimate)",
-        "window_text": "around October 2027 (closing)",
-        "expected_deadline_month": "2027-10",
-        "pattern": "one earlier cycle",
-        "days_until": 326,
         "check_now": false
       },
       {
@@ -959,7 +1065,7 @@
         ],
         "eligibility_for_me": "POSSIBLY ELIGIBLE",
         "funding_type": "Funding Unclear",
-        "organiser_text": "Recurring programme; previous cycle closed on 2026-10-31.",
+        "organiser_text": "Recurring: 'UCT opens its call for applications to the Mastercard Foundation Scholars Program annually.' The 2027 intake closed on 31 October 2026 (postgraduate); no 2028 intake dates were published on 19 November 2026.",
         "url": "https://www.uct.ac.za/node/648803",
         "phase": "Expected again (estimate)",
         "window_text": "around October 2027 (closing)",
@@ -1067,6 +1173,40 @@
         "pattern": "one earlier cycle",
         "days_until": 349,
         "check_now": false
+      },
+      {
+        "id": "european-forum-alpbach-scholarships",
+        "title": "European Forum Alpbach scholarship programme",
+        "organization": "European Forum Alpbach",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "organiser states",
+        "history": [
+          "2026-03-22"
+        ],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Participation Funded",
+        "organiser_text": "The 2027 Forum dates are announced (23 August to 3 September 2027) and the organiser states 'Applications will open in March 2027.' (EFA scholarship programme page); exact opening and closing dates are not announced. In 2026 the platform was open 2-22 March.",
+        "url": "https://www.alpbach.org/faq-scholarship-programme",
+        "phase": "Expected again (organiser states a period)",
+        "window_text": "Applications open in March 2027; exact dates not announced.",
+        "days_until": null,
+        "check_now": false
+      },
+      {
+        "id": "orange-corners-rdc-incubation-programme",
+        "title": "Orange Corners RDC: free 10-month support programme for young Congolese entrepreneurs in Kinshasa (call expected December to January)",
+        "organization": "Orange Corners RDC (programme deployed by Ingenious City, Kinshasa)",
+        "state": "EXPECTED NEXT CYCLE",
+        "basis": "organiser states",
+        "history": [],
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "funding_type": "Participation Funded",
+        "organiser_text": "Organiser states a yearly window of December to January with a start in mid-February; no 2027 call is announced on the pages read (21 November 2026). The 8th cohort's call was announced on 12 February 2026, later than the stated window.",
+        "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+        "phase": "Expected again (organiser states a period)",
+        "window_text": "Organiser's yearly rule: applications open between December and January and the programme starts in mid-February; no 2027 call is announced on the pages read.",
+        "days_until": null,
+        "check_now": false
       }
     ],
     "not_yet_announced": [
@@ -1088,7 +1228,7 @@
       {
         "id": "dalai-lama-fellows-2027",
         "title": "Dalai Lama Fellows Program (2027-2028)",
-        "organiser_text": ""
+        "organiser_text": "Not announced. The 2027 call ran from 1 October to 11 November 2026 (22:00 UTC); on 19 November 2026 the apply page is titled '2027 APPLICATION IS NOW CLOSED'."
       },
       {
         "id": "gtf-telemachus-mentoring-2027",
@@ -1116,11 +1256,6 @@
         "organiser_text": "Next batch expected in 2027 if the yearly pattern holds; the 2026 batch closed its submissions by late March 2026."
       },
       {
-        "id": "obama-foundation-leaders",
-        "title": "Obama Foundation Leaders programme",
-        "organiser_text": "Applications open on 9 November (the page gives no year; read with the page's rule of applying in November of the preceding year, this is 9 November 2026). No closing date announced as of 29 October 2026."
-      },
-      {
         "id": "orange-digital-center-drc",
         "title": "Orange Digital Center (DRC): free digital training",
         "organiser_text": ""
@@ -1146,16 +1281,50 @@
         "organiser_text": ""
       }
     ],
-    "left_out_not_eligible": 6
+    "left_out_not_eligible": 7
   },
   "evidence": {
-    "files": 2,
+    "files": 36,
     "ids": [
+      "acep-next-generation-resource-governance-leaders-program",
+      "african-union-commission-internship-programme",
+      "african-union-youth-volunteer-corps",
+      "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+      "auf-ifav-incubateur-francophone-africain-virtuel",
+      "e-just-ticad9-fall-2027",
+      "eac-youth-fellowship-ms-tcdc",
+      "echoing-green-fellowship",
+      "european-forum-alpbach-scholarships",
+      "fao-internship-programme-africa-2026-2027",
+      "gtf-telemachus-mentoring-2027",
+      "internet-society-fellowship-2027",
+      "jim-leech-mastercard-foundation-fellowship-2027",
+      "mckinsey-forward-fall-2026",
+      "mcw-global-young-leaders-fellowship-2027",
+      "ned-hurford-youth-fellows-2027",
+      "obama-foundation-leaders",
+      "objectif-2030-ifdd-free-moocs",
+      "oif-cap-innovation",
+      "orange-corners-rdc-incubation-programme",
+      "orange-digital-center-drc",
       "pan-african-university-scholarships",
-      "turkiye-burslari-2027"
+      "pec-pg-brazil-2027",
+      "rlc-east-africa",
+      "romania-mfa-scholarships-non-eu-2027",
+      "sadc-secretariat-work-integrated-learning-programme",
+      "si-scholarship-global-professionals",
+      "tony-elumelu-entrepreneurship-programme-2027",
+      "turkiye-burslari-2027",
+      "un-young-professionals-programme-2026",
+      "unicef-internship-programme",
+      "universite-senghor-master-developpement-alexandrie",
+      "vlir-uos-icp-connect-2027",
+      "weidenfeld-hoffmann-scholarships-oxford-2027",
+      "yali-network-online-courses",
+      "yenching-academy-2027"
     ],
-    "records_with_criteria": 2,
-    "records_with_funding_detail": 2,
-    "live_records": 80
+    "records_with_criteria": 35,
+    "records_with_funding_detail": 34,
+    "live_records": 95
   }
 }

@@ -1,0 +1,84 @@
+{
+  "id": "oif-cap-innovation",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "The 2nd call is open to young people from the 90 States and governments of the OIF (members, associates, observers); the OIF's own list of its 53 member states names Congo (RD).",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Congo Sao Tomé-et-Principe Congo (RD) Sénégal",
+      "page": "https://www.francophonie.org/node/125"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Aged 18 to 34 (2nd call).",
+      "applicant": "Recorded as under 30.",
+      "assessment": "MET",
+      "quote": "L'appel est ouvert aux jeunes de 18 à 34 ans issus des 90 États et gouvernements de l'OIF",
+      "page": "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488"
+    },
+    {
+      "criterion": "business",
+      "requirement": "An innovative entrepreneurial project; in the 1st call it had to be at advanced ideation stage at minimum. No registered business is mentioned.",
+      "applicant": "No registered business recorded; no project recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has an innovative entrepreneurial project at advanced-ideation stage (the profile records no business or project).",
+      "quote": "Les projets doivent être en phase d'idéation avancée au minimum",
+      "page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-cap-innovation-creation-accompagnement-propulsion-l-oif-aux-cotes-des-jeunes-francophones"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No degree or study requirement is stated on the pages read.",
+      "assessment": "NOT STATED"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "No work-experience requirement is stated on the pages read.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "10000",
+      "currency": "EUR",
+      "conditions": "Seed prize for each of the 8 grand laureates only (two per category), chosen by the jury among the 20 supported projects; not given to every participant.",
+      "quote": "recevra un prix d'amorçage de 10 000 euros pour développer son initiative, en complément d'une année de soutien sur mesure incluant mentorat et mise en réseau",
+      "page": "https://jeunesse.francophonie.org/actualites/item/cap-innovation-2026-decouvrez-les-huit-grands-laureats-de-la-deuxieme-edition"
+    },
+    {
+      "item": "training",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "The 100 selected laureates follow a structured support path with thematic training modules in September 2026; the pages do not say who pays for it or whether it is free, and mention no fee.",
+      "quote": "bénéficiera d'un parcours structuré d'accompagnement durant le mois de septembre 2026",
+      "page": "https://jeunesse.francophonie.org/content_page/capinnovation/cap-innovation-2026-decouvrez-les-100-laureats-de-la-2e-edition"
+    }
+  ],
+  "out_of_pocket": "Unknown: no application fee is mentioned on the pages read, and the cost or format of the training month is not stated.",
+  "cycles": [
+    {
+      "cycle": "3rd call",
+      "state": "NOT YET ANNOUNCED"
+    },
+    {
+      "cycle": "2025 (1st call)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2025-05-21",
+      "quote": "Vous avez jusqu'au 21 mai 2025 pour déposer votre candidature via la plateforme officielle",
+      "page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-cap-innovation-creation-accompagnement-propulsion-l-oif-aux-cotes-des-jeunes-francophones"
+    },
+    {
+      "cycle": "2026 (2nd call)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-04-21",
+      "deadline": "2026-05-10",
+      "quote": "La date limite pour l'envoi des candidatures est fixée au 10 mai 2026",
+      "page": "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488"
+    }
+  ]
+}

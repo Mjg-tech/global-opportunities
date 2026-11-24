@@ -1,0 +1,22 @@
+{
+  "id": "mckinsey-forward-fall-2026",
+  "checked_on": "2026-11-24",
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Free to eligible participants: no fee is charged to apply, register or take part.",
+      "quote": "Forward is a free multi-week learning program",
+      "page": "https://www.mckinsey.org/our-programs/forward/overview"
+    }
+  ],
+  "out_of_pocket": "Unknown: no programme fee is charged; participants use their own internet-connected device and internet access (its cost is not stated).",
+  "cycles": [
+    {
+      "cycle": "next cycle",
+      "state": "NOT YET ANNOUNCED"
+    }
+  ]
+}

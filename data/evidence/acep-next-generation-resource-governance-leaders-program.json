@@ -1,0 +1,124 @@
+{
+  "id": "acep-next-generation-resource-governance-leaders-program",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "'A young African residing in Africa'; no country list is given.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A country list or a statement that DRC nationals qualify; 'young African residing in Africa' is not a country list.",
+      "quote": "The applicant must be a young African residing in Africa, aged not exceeding 32 years",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Must reside in Africa.",
+      "applicant": "Resident of the Democratic Republic of the Congo, a country in Africa.",
+      "assessment": "MET",
+      "quote": "The applicant must be a young African residing in Africa, aged not exceeding 32 years",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Aged not exceeding 32 years (11th cohort).",
+      "applicant": "Recorded as under 30.",
+      "assessment": "MET",
+      "quote": "aged not exceeding 32 years",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "A completed higher-education degree (Bachelor's, Master's or equivalent), shown by degree certificates.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Submit only copies of certificates for your completed higher education degrees (e.g., Bachelor's, Master's, or equivalent)",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "criterion": "discipline",
+      "requirement": "Relevant academic qualifications, preferably in the listed fields (economics, engineering, public policy, law, development studies, project management, etc.).",
+      "applicant": "Bachelor's degree (Licence) in Business Administration.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether a business administration degree counts as relevant: the list is 'preferably' and ends with 'etc.', and does not name it.",
+      "quote": "preferably in any or a combination of economics (including energy), engineering (petroleum/electrical), oil and gas management, public policy, law, political economy, development studies",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "criterion": "language",
+      "requirement": "A working knowledge of English, the language of instruction.",
+      "applicant": "English is among the recorded languages; no level or test score is recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The applicant's level of English (the page expects a working knowledge).",
+      "quote": "Applicants are expected to have a working knowledge of the English language.",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "No work-experience requirement is stated on the page read.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "A stipend for the duration of the programme; the amount is not stated.",
+      "quote": "A generous stipend and lunch for the duration of the program.",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Lunch only, for the duration of the programme.",
+      "quote": "A generous stipend and lunch for the duration of the program.",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Offered to international NextGen Leaders; the page says no more about who counts as international or how long.",
+      "quote": "Decent accommodation for international NextGen Leaders.",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "ACEP says it will provide an approved return ticket from the home country to Ghana; how the ticket is bought or reimbursed is not stated.",
+      "quote": "An approved return ticket from the NextGen Leader's home country to Ghana.",
+      "page": "https://acep.africa/nextgen11/"
+    },
+    {
+      "item": "training",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Training and development, coaching, mentorship and peer support are listed among what ACEP provides; no fee is mentioned.",
+      "quote": "Opportunities for training and development",
+      "page": "https://acep.africa/nextgen11/"
+    }
+  ],
+  "out_of_pocket": "Unknown: the page lists a stipend, lunch, accommodation for international participants and a return ticket to Ghana, but states nothing on visa, insurance, local transport or the stipend amount.",
+  "cycles": [
+    {
+      "cycle": "12th cohort",
+      "state": "NOT YET ANNOUNCED"
+    },
+    {
+      "cycle": "11th cohort (2026)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2026-06-21",
+      "quote": "Applications close at 11:59 PM GMT on Sunday, 21st June 2026.",
+      "page": "https://acep.africa/nextgen11/"
+    }
+  ]
+}

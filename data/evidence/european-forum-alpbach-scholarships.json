@@ -1,0 +1,123 @@
+{
+  "id": "european-forum-alpbach-scholarships",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Scholarships are open to applicants from all countries and professional or academic backgrounds (only nationals or permanent residents of ROC Taiwan apply through a separate foundation).",
+      "applicant": "Nationality: Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Applicants from all countries and professional/academic backgrounds.",
+      "page": "https://www.alpbach.org/faq-scholarship-programme"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Between 18 and 30 at the time of the forum, or between 18 and 35 for citizens of the Global South; the FAQ's UNCTAD definition of the Global South names Africa.",
+      "applicant": "Recorded only as under 30, which is below the limit of 35 that applies to a citizen of the DRC (Africa).",
+      "assessment": "MET",
+      "quote": "You are between 18 and 30 years of age (or between 18 and 35 for citizens of the Global South) at the time of the forum.",
+      "page": "https://www.alpbach.org/blog/scholarship-programme"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No degree required: non-graduates are welcome, and the most recent qualification or academic record is uploaded.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Yes, we welcome applications of non-graduates and strive to increase the percentage of non-academic scholarship holders at EFA.",
+      "page": "https://www.alpbach.org/faq-scholarship-programme"
+    },
+    {
+      "criterion": "language_certificate",
+      "requirement": "English proficiency of at least B2 (CEFR), proved by a language certificate or another accepted document, such as a confirmation from a school, employer or university professor.",
+      "applicant": "No IELTS, TOEFL or DELF score recorded; English is among the recorded languages, without a level.",
+      "assessment": "UNKNOWN",
+      "missing": "Proof of B2 English: a certificate or one of the other accepted confirmations.",
+      "quote": "English proficiency at a minimum level of B2 according to the Common European Framework of Reference",
+      "page": "https://www.alpbach.org/blog/scholarship-programme"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Applicants must not have received an EFA scholarship before (first-time scholarship holders only; attending virtually in 2020 or 2021 does not count against them).",
+      "applicant": "Earlier participation in the Forum is not recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has ever been granted an EFA scholarship.",
+      "quote": "You have not received a scholarship from the European Forum Alpbach yet and therefore qualify as a first-time scholarship holder.",
+      "page": "https://www.alpbach.org/blog/scholarship-programme"
+    }
+  ],
+  "funding": [
+    {
+      "item": "participation_fee",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The scholarship covers the Forum participation fee; the application itself is free of charge.",
+      "quote": "A scholarship of the EFA for the Forum covers the participation fee and accommodation costs.",
+      "page": "https://www.alpbach.org/blog/scholarship-programme"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Rooms are booked by the EFA, mostly shared; applicants with sufficient means are encouraged to pay for their own accommodation.",
+      "quote": "A scholarship of the EFA for the Forum covers the participation fee and accommodation costs.",
+      "page": "https://www.alpbach.org/blog/scholarship-programme"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "A lump sum toward part of the travel costs may be awarded under the advanced scholarship, subject to funds.",
+      "quote": "Travel costs to and from Alpbach have to be covered by yourself, as well as health care and travel insurance.",
+      "page": "https://www.alpbach.org/faq-scholarship-programme"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Health care and travel insurance are the participant's responsibility.",
+      "quote": "Travel costs to and from Alpbach have to be covered by yourself, as well as health care and travel insurance.",
+      "page": "https://www.alpbach.org/faq-scholarship-programme"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Participants pay their own daily expenses during the Forum; most accommodation includes breakfast.",
+      "quote": "Participants are expected to cover their own daily expenses during the Forum.",
+      "page": "https://www.alpbach.org/faq-scholarship-programme"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Advanced scholarship: a lump sum toward part of the travel costs and on-site expenses, awarded only to applicants with the greatest need and subject to available funds; the amount is not stated.",
+      "quote": "The European Forum Alpbach reviews all applications and awards the lump sum to applicants who demonstrate the greatest need for additional financial support.",
+      "page": "https://www.alpbach.org/faq-scholarship-programme"
+    }
+  ],
+  "out_of_pocket": "Unknown amounts: the participant pays flights, the Schengen visa, health care and travel insurance, and daily expenses; the accommodation is valued at EUR 49 per night but is covered by the scholarship.",
+  "cycles": [
+    {
+      "cycle": "2027",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "organiser states",
+      "window_text": "Applications open in March 2027; exact dates not announced.",
+      "quote": "Applications will open in March 2027.",
+      "page": "https://www.alpbach.org/blog/scholarship-programme"
+    },
+    {
+      "cycle": "2026",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-03-02",
+      "deadline": "2026-03-22",
+      "quote": "The European Forum Alpbach application platform will open from 2-22 March 2026.",
+      "page": "https://www.alpbach.org/faq-scholarship-programme"
+    }
+  ]
+}

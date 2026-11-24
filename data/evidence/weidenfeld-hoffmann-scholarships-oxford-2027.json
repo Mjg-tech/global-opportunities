@@ -1,0 +1,120 @@
+{
+  "id": "weidenfeld-hoffmann-scholarships-oxford-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Candidates must come from an eligible country; the list of eligible courses and countries is on the University of Oxford website, not on the WHT pages. The WHT FAQ says the programme supports candidates from mainly low and middle income countries.",
+      "applicant": "Nationality and country of residence: Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "Oxford's eligible-country list: the ox.ac.uk page returned HTTP 403 to both readers on 21 November 2026, and neither the WHT pages nor the aggregator copy name the DRC.",
+      "quote": "A list of eligible courses and countries is available on the University of Oxford website:",
+      "page": "https://whtrust.org/scholarship-application/check-eligibility/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Only candidates already offered a place on an eligible Oxford course are considered for the scholarship.",
+      "applicant": "No Oxford application or offer is recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "An offer from the University of Oxford on an eligible course; the applicant would first have to apply to Oxford and meet its admission requirements (the degree grade is not recorded).",
+      "quote": "Applicants must be offered a place on an eligible course by the University of Oxford before being considered",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "A 1-year master-level course at Oxford; doctorates (DPhil) are not supported.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024; grade not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Oxford's admission requirements for the chosen course, including the degree grade (not recorded), and which courses are on the eligible list.",
+      "quote": "The Scholarships fund a limited number of 1-year master-level courses.",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No age limit.",
+      "applicant": "Recorded only as under 30; no limit applies.",
+      "assessment": "MET",
+      "quote": "No, we don’t have an age limit.",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "Job experience is not required, although most scholars have five or more years of employment experience.",
+      "applicant": "Under one year of internships and field assignments; no full-time employment.",
+      "assessment": "MET",
+      "quote": "No, you don’t have to have job experience to apply.",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    },
+    {
+      "criterion": "language_certificate",
+      "requirement": "An English language test required by the chosen course must be passed before acceptance onto the Programme.",
+      "applicant": "No IELTS, TOEFL or DELF score recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The English test the chosen Oxford course requires and the applicant's result.",
+      "quote": "Please note applicants must have passed their required English language test to be accepted onto the Programme.",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "The Trust supports individuals who intend to return to their home country or region.",
+      "applicant": "No statement of intention is recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "The applicant's own intention to return to the home country or region.",
+      "quote": "supports those individuals who intend to return to their home country or region",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "100% of course fees for the scholarship course.",
+      "quote": "is fully funded and covers 100% of course fees",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "21,805",
+      "currency": "GBP",
+      "conditions": "A grant for living costs ('stipend') of GBP 21,805 in 2026-27; the 2027-28 amount is not stated on the pages read.",
+      "quote": "(of £21,805 in 2026-27)",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    },
+    {
+      "item": "training",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The full cost of the individual Leadership Programme place.",
+      "quote": "the full cost of your individual Leadership Programme place",
+      "page": "https://whtrust.org/scholarship-application/faqs/"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Accommodation and expenses for the compulsory introductory days in Oxford are to be met from the stipend; no accommodation support during the course is stated on the pages read.",
+      "quote": "accommodation/expenses should be covered by the stipend",
+      "page": "https://whtrust.org/scholarship-application/"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Flights are not mentioned on the WHT pages read."
+    },
+    {
+      "item": "visa_fees",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Visa costs and the health surcharge are not mentioned on the WHT pages read."
+    }
+  ],
+  "out_of_pocket": "Unknown: flights, visa costs and the health surcharge are not mentioned on the WHT pages read, and the Oxford application fee and English test costs could not be read (Oxford page blocked)."
+}

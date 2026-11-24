@@ -1,0 +1,91 @@
+{
+  "id": "unicef-internship-programme",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "No nationality rule is stated on the internship page or the FAQ; the DRC is neither named nor excluded (the vacancies page offers 'Congo, The Democratic Republic of the' as a country filter, which is not a list of eligible nationals).",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "NOT STATED"
+    },
+    {
+      "criterion": "age",
+      "requirement": "At least 18 years old; no upper limit.",
+      "applicant": "Recorded as under 30; holds a Bachelor's degree obtained in 2024.",
+      "assessment": "MET",
+      "quote": "At least 18 years old",
+      "page": "https://www.unicef.org/careers/internships"
+    },
+    {
+      "criterion": "graduation",
+      "requirement": "Enrolled in an undergraduate, graduate or PhD programme, or graduated within the past two years.",
+      "applicant": "Bachelor's degree obtained in 2024; not recorded as enrolled in any degree programme.",
+      "assessment": "UNKNOWN",
+      "missing": "The exact graduation date (the profile records only 2024) and whether the two years are counted at application or at the start of the internship.",
+      "quote": "or have graduated within the past two years",
+      "page": "https://www.unicef.org/careers/internships"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Proficient in at least one UNICEF working language: English, French or Spanish.",
+      "applicant": "French and English are among the recorded languages.",
+      "assessment": "MET",
+      "quote": "Proficient in at least one of UNICEF's working languages",
+      "page": "https://www.unicef.org/careers/internships"
+    },
+    {
+      "criterion": "other",
+      "requirement": "No immediate relative (mother, father, sister, brother) working with UNICEF.",
+      "applicant": "Not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether any immediate relative works for UNICEF or sits in the reporting line (not in the profile).",
+      "quote": "Have no immediate relatives (e.g., mother, father, sister, brother) working with UNICEF",
+      "page": "https://www.unicef.org/careers/internships"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Strong academic performance and motivation.",
+      "applicant": "Degree grade not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The degree grade or ranking; the page defines no threshold.",
+      "quote": "Have strong academic performance and motivation",
+      "page": "https://www.unicef.org/careers/internships"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "No work experience required; relevant professional experience receives additional consideration.",
+      "applicant": "Under one year of internships and field assignments.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "Monthly stipend as a contribution towards living expenses, paid by UNICEF or a partner institution; the amount is not stated.",
+      "quote": "UNICEF provides a monthly stipend to interns.",
+      "page": "https://www.unicef.org/careers/internships"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "A one-time lump sum towards travel and visa costs 'may also be granted when funding is available'; no amount.",
+      "quote": "A one-time lump sum, as a contribution towards travel and visa costs, may also be granted when funding is available.",
+      "page": "https://www.unicef.org/careers/internships"
+    },
+    {
+      "item": "visa_fees",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Same conditional lump sum as for travel; UNICEF also provides supporting documents for visa applications if necessary.",
+      "quote": "A one-time lump sum, as a contribution towards travel and visa costs, may also be granted when funding is available.",
+      "page": "https://www.unicef.org/careers/internships"
+    }
+  ],
+  "out_of_pocket": "Unknown: no amount is stated; accommodation, meals and insurance are not mentioned as covered."
+}

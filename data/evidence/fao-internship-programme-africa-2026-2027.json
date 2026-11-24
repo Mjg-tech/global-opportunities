@@ -1,0 +1,96 @@
+{
+  "id": "fao-internship-programme-africa-2026-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Nationals of FAO Members.",
+      "applicant": "Citizen of the Democratic Republic of the Congo, which is on FAO's membership list (see the next entry).",
+      "assessment": "MET",
+      "quote": "candidates must be nationals of FAO Members",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+    },
+    {
+      "criterion": "nationality",
+      "requirement": "The Democratic Republic of the Congo is listed as an FAO Member.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Democratic Republic of the Congo",
+      "page": "https://www.fao.org/legal/home/Membership-of-FAO/en"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Aged between 21 and 30 at the start of the internship (it must start before the 31st birthday).",
+      "applicant": "Recorded only as under 30.",
+      "assessment": "UNKNOWN",
+      "missing": "Exact age, to confirm the 21-year minimum at the start of the internship.",
+      "quote": "candidates should be aged between 21 and 30 at the start of their internship (i.e. internship should start before the candidate turns 31)",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+    },
+    {
+      "criterion": "education",
+      "requirement": "Enrolled in an undergraduate or graduate degree programme at the time of application, or a recent graduate.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration obtained in 2024; not recorded as enrolled.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether a 2024 graduate counts as a 'recent graduate' (FAO does not define it), and whether the university is listed in the World Higher Education Database.",
+      "quote": "candidates must be students enrolled in an under-graduate or graduate degree programme in a bona fide educational institution at the time of application, or recent graduates",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+    },
+    {
+      "criterion": "discipline",
+      "requirement": "Specialisation in a field relevant to FAO's work.",
+      "applicant": "Business Administration degree; experience in logistics, public-sector research and vaccination-campaign monitoring.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the hiring office counts Business Administration as relevant to its Terms of Reference.",
+      "quote": "the Programme provides FAO with the assistance of qualified individuals specializing in relevant fields",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Working knowledge of at least one FAO official language (English, French, Spanish, Arabic, Chinese or Russian).",
+      "applicant": "French and English are among the recorded languages.",
+      "assessment": "MET",
+      "quote": "candidates must have working knowledge of at least one FAO official language (English, French, Spanish, Arabic, Chinese or Russian)",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Appropriate residence or immigration status in the country of assignment before the internship starts.",
+      "applicant": "Resident of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "The country of assignment (an assignment in the DRC would meet it; elsewhere a permit or visa is needed).",
+      "quote": "candidates should have appropriate residence or immigration status in the country of assignment prior to the start of the internship assignment",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+    }
+  ],
+  "funding": [
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "up to 700 per month",
+      "currency": "USD",
+      "conditions": "Paid in local currency to interns not sponsored by a university or other entity; sponsored interns are paid by their sponsor.",
+      "quote": "Interns will receive a stipend in local currency and not exceeding US$ 700 per month.",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "The intern (or the sponsoring institution) arranges and pays for accommodation at the duty station.",
+      "quote": "Interns (or their sponsoring institutions as case may be) are responsible for their own accommodation at the duty station.",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "FAO pays the full premium for service-incurred medical coverage; interns arrange and pay their own insurance for non-service-incurred illness.",
+      "quote": "medical coverage related to service-incurred is provided, with FAO paying the full premium",
+      "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+    }
+  ],
+  "out_of_pocket": "Unknown: accommodation at the duty station and insurance for non-service-incurred illness are at the intern's expense (amounts not stated); travel to the duty station is not mentioned."
+}

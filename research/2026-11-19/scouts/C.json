@@ -1,0 +1,269 @@
+{
+  "channel": "C",
+  "records": [
+    {
+      "id": "yenching-academy-2027",
+      "funding_details": [
+        "Admissions page: 'The Yenching Academy provides a generous fellowship to all scholars, including: Tuition fees, Accommodation, Monthly stipend, One round-trip travel fare, Field study costs'",
+        "FAQ: the first-year Yenching Fellowship covers tuition, accommodation in the Yenching Academy House, a travel stipend for one round trip between a base city in the country of nationality and Beijing (estimated and calculated by the Academy), basic medical insurance, a monthly stipend and research expenses",
+        "Second year: students in good academic standing who stay in Beijing can apply for the second-year fellowship (tuition, accommodation support, basic medical insurance and a monthly stipend)"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Covered",
+        "flight": "Covered",
+        "accommodation": "Covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Covered",
+        "local_transport": "Not specified"
+      },
+      "eligibility": [
+        "International candidates: non-Chinese citizens with a valid passport (no other nationality restriction is stated)",
+        "A bachelor's degree in any field, or a bachelor's diploma expected by August of the enrolment year; no concurrent enrolment in another degree programme",
+        "An outstanding academic record, strong interest in interdisciplinary study of China, and a record of extracurricular achievement, community engagement, social responsibility and leadership potential",
+        "English: IELTS Academic 7.0, TOEFL iBT overall 5 (scores of 100 or above obtained between 1 September 2025 and 21 January 2026 also accepted) or Cambridge English Scale (Advanced) 185, taken after 1 September 2025 and sent directly by the test body; not required for native English speakers or graduates of an English-taught degree",
+        "Two academic recommendation letters from full or associate professors in the intended field of study",
+        "Students and alumni of partner universities must first go through their home university's internal pre-selection"
+      ],
+      "nationality_requirements": [
+        "International candidates must be non-Chinese citizens with a valid passport; no other nationality restriction is stated, so DRC citizens are not excluded"
+      ],
+      "age_requirement": "No strict age cut-off (FAQ). Excluding Zhuoyue Scholarship recipients, no person over the age of 29 has been admitted; the average entry age is 23",
+      "documents_required": [
+        "Completed online application form",
+        "Personal statement (750 words or less)",
+        "Statement of Research Interest (maximum 1,500 words, excluding citations)",
+        "Curriculum Vitae",
+        "Official transcript(s)",
+        "Diploma(s) or Certificate(s) of Enrollment",
+        "Two academic letters of recommendation (Chinese or English) from full or associate professors in the intended field",
+        "English test score sent directly by the test body, unless exempt"
+      ],
+      "application_process": [
+        "Create an account on the Yenching Academy admissions portal and submit the application in English before 30 November 2026, 9:00 am Beijing time",
+        "Have IELTS, TOEFL or Cambridge scores sent directly to the Academy (TOEFL institution code C488)",
+        "Students and alumni of partner universities first go through their home university's internal pre-selection",
+        "International finalists are interviewed online in winter or early spring; final decisions are released around April"
+      ],
+      "sources": [
+        {
+          "label": "Yenching Academy admissions",
+          "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+          "type": "Official"
+        },
+        {
+          "label": "Yenching Academy FAQ (age, fellowship coverage, programme length, selection timeline)",
+          "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "DRC citizens are not excluded (international candidates must only be non-Chinese citizens with a valid passport) and a bachelor's degree in any field qualifies. No English test score is recorded and the degree is not recorded as English-taught, so an IELTS 7.0, TOEFL overall 5 or Cambridge 185 result would have to reach the Academy before 30 November 2026; the passport, degree grade and two professorial referees are not recorded either.",
+      "potential_issues": [
+        "English test score must reach the Academy directly from the test provider before 30 November 2026; TOEFL Home Edition, TOEFL MyBest scores, IELTS Indicator, IELTS Online and IELTS One Skill Retake are not accepted",
+        "Referees must be full or associate professors in the intended field of study",
+        "No strict age cut-off, but the FAQ says no person over 29 has been admitted (Zhuoyue Scholarship recipients excepted); the average entry age is 23",
+        "The fellowship is initially for twelve months; the second-year fellowship must be applied for and requires good academic standing and staying in Beijing",
+        "Chinese language course is compulsory for international scholars",
+        "No application fee is mentioned on the pages read"
+      ],
+      "action": "Apply only if you already hold, or can have sent directly to the Academy before 30 November 2026 (9:00 Beijing time), an IELTS 7.0, TOEFL overall 5 or Cambridge 185 result (or your degree was taught in English), and two full or associate professors in your field can recommend you. Otherwise skip this round.",
+      "last_verified": "2026-11-19",
+      "notes": "9 November 2026: admissions page re-read; deadline (30 November 2026, 9:00 Beijing time) and fellowship unchanged. The TOEFL requirement is now 'Overall 5' on the new scale, and the page adds the Cambridge English Scale (185) and a valid passport for international candidates. 19 November 2026 (source_changed flag): admissions page and FAQ re-read and every tracked field compared. International deadline (30 November 2026, 9:00 am Beijing time), opening (1 September 2026), English scores and fellowship items unchanged; the page also gives the Hong Kong, Macao and Taiwan deadline (8 January 2027, 12:00 noon Beijing time), which does not apply to DRC applicants. The FAQ adds basic medical insurance to the first-year fellowship (coverage.insurance now Covered), says fellowships are initially for twelve months with a second-year fellowship by application, and states there is no strict age cut-off (nobody over 29 admitted, Zhuoyue Scholarship recipients excepted). The portal deep link still answers but is a JavaScript application; the admissions page links the portal root https://apply.yca.pku.edu.cn/.",
+      "evidence": {
+        "criteria": [
+          {
+            "criterion": "nationality",
+            "requirement": "International candidates must be non-Chinese citizens; no other nationality is excluded, so a DRC citizen is not excluded.",
+            "applicant": "Citizen of the Democratic Republic of the Congo.",
+            "assessment": "MET",
+            "quote": "Applicants must be non-Chinese citizens with a valid passport.",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          },
+          {
+            "criterion": "passport",
+            "requirement": "A valid passport.",
+            "applicant": "Passport not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether the applicant holds a valid passport.",
+            "quote": "Applicants must be non-Chinese citizens with a valid passport.",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          },
+          {
+            "criterion": "education",
+            "requirement": "A bachelor's degree in any field (or a bachelor's diploma expected by August of the enrolment year).",
+            "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+            "assessment": "MET",
+            "quote": "Minimum of a Bachelor’s degree in any field",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          },
+          {
+            "criterion": "education",
+            "requirement": "An outstanding academic record.",
+            "applicant": "Degree grade not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "The grade of the 2024 degree.",
+            "quote": "An outstanding academic record;",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          },
+          {
+            "criterion": "enrolment",
+            "requirement": "No enrolment in another degree programme while studying at Peking University.",
+            "applicant": "Not recorded as enrolled in any degree programme.",
+            "assessment": "MET",
+            "quote": "Peking University does not allow students to be enrolled in other degree programs whilst studying at the university.",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          },
+          {
+            "criterion": "age",
+            "requirement": "No strict age cut-off (the FAQ adds that nobody over 29 has been admitted, Zhuoyue Scholarship recipients excepted).",
+            "applicant": "Recorded as under 30; there is no formal age limit to meet.",
+            "assessment": "MET",
+            "quote": "We do not have a strict age cut-off for applicants",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+          },
+          {
+            "criterion": "language_certificate",
+            "requirement": "IELTS Academic 7.0, TOEFL iBT overall 5 or Cambridge English Scale 185, taken after 1 September 2025 and sent directly by the test body; exempt if English is the native language or the degree was taught in English.",
+            "applicant": "No IELTS, TOEFL or DELF score recorded; the language of instruction of the degree is not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "An English test result at the required level sent before 30 November 2026, or proof of an English-taught degree.",
+            "quote": "IELTS (Academic): Overall 7.0",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          },
+          {
+            "criterion": "other",
+            "requirement": "Two recommendation letters written by full or associate professors in the intended field of study.",
+            "applicant": "Referees not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether two full or associate professors in the intended field can recommend the applicant.",
+            "quote": "Peking University will only accept recommendation letters written by full professors or associate professors (or equivalent titles).",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          }
+        ],
+        "funding": [
+          {
+            "item": "tuition",
+            "arrangement": "Paid directly by organiser",
+            "conditions": "First academic year through the Yenching Fellowship; the second-year fellowship must be applied for (good academic standing, staying in Beijing).",
+            "quote": "All admitted students receive the Yenching Fellowship for the first academic year, which covers tuition",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+          },
+          {
+            "item": "accommodation",
+            "arrangement": "Paid directly by organiser",
+            "conditions": "First year in the Yenching Academy House on campus; second-year housing support only with the second-year fellowship.",
+            "quote": "accommodation in the Yenching Academy House",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+          },
+          {
+            "item": "airfare",
+            "arrangement": "Covered through an allowance",
+            "conditions": "A travel stipend for one round trip; the base city must be in the country of nationality and the cost is estimated and calculated by the Academy.",
+            "quote": "a travel stipend for one round-trip journey between your base city and Beijing",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+          },
+          {
+            "item": "insurance",
+            "arrangement": "Paid directly by organiser",
+            "conditions": "Basic medical insurance, first year (and second year with the second-year fellowship).",
+            "quote": "basic medical insurance, a monthly stipend, and expenses related to research",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+          },
+          {
+            "item": "daily_allowance",
+            "arrangement": "Covered through an allowance",
+            "conditions": "Monthly stipend; the amount is not stated on the pages read.",
+            "quote": "basic medical insurance, a monthly stipend, and expenses related to research",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+          },
+          {
+            "item": "other_support",
+            "arrangement": "Paid directly by organiser",
+            "conditions": "Research expenses and field study costs (a week-long field study trip is a required course).",
+            "quote": "Field study costs",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          }
+        ],
+        "out_of_pocket": "Unknown: the pages read give no amounts. Not covered on the pages read: an English test if one is needed, visa costs, and second-year costs if the second-year fellowship is not granted.",
+        "cycles": [
+          {
+            "cycle": "2027 cohort",
+            "state": "CONFIRMED CURRENT CYCLE",
+            "opens_on": "2026-09-01",
+            "deadline": "2026-11-30",
+            "quote": "Application deadline: November 30, 2026",
+            "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+          }
+        ]
+      }
+    }
+  ],
+  "lead_outcomes": [
+    {
+      "lead_id": "240032f729ef",
+      "outcome": "RECURRING PROGRAMME",
+      "page": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms",
+      "reason": "Criteria page of the Türkiye Scholarships programme, already stored as turkiye-burslari-2027 (reserved for the orchestrator). Read today: 'Citizens of all countries'; 'For master’s programs: being under the age of 30'; 'For graduate candidates: 75%'. No 2027 call is listed in the site's recent posts (latest: 'Türkiye Scholarships 2026 Applications', 12/29/2025)."
+    },
+    {
+      "lead_id": "4ba8baf8b5bd",
+      "outcome": "NOT CURRENTLY OPEN",
+      "page": "https://www.turkiyeburslari.gov.tr/announcements/ytb-islamic-development-bank-isdb-joint-scholarship-program-2026-applicaiton-period-122",
+      "reason": "2026 window closed: 'Application Dates: 10 January – 20 February 2026'. Joint YTB-IsDB programme, applied for through the Türkiye Scholarships form (candidates select 'Yes' under 'Joint Scholarship Programs'); 'Applications are open to successful international students from IsDB member countries as well as Muslim communities around the world.' The site's recent posts also show 'YTB-IsDB Joint Scholarship Program 2025 Applications' (3/11/2025), so it recurs with the Türkiye Scholarships call."
+    },
+    {
+      "lead_id": "317eedd2034c",
+      "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+      "page": "https://www.wbi.be/fr/thematiques/enseignement-formation-stage-emploi",
+      "reason": "Navigation page, not a call: a thematic index ('Listes des aides et services') of WBI services for outgoing mobility, with no call, deadline or eligibility of its own. Page text: 'Les programmes soutenus par Wallonie-Bruxelles International en appui d’une mobilité internationale sortante s’adressent à différents types de profils et proposent des projets de mobilité à des fins de formation ou d’apprentissage assez divers.'"
+    },
+    {
+      "lead_id": "32f83d2193be",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "page": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-fellows-program/",
+      "reason": "The organiser's page states: 'The Mastercard Foundation Fellows Program is open to First Nations, Inuit, and Métis youth who reside in Canada (aged 22-34).' The profile is a DRC national resident in the DRC. (Not related to the Mastercard Foundation Scholars Program.)"
+    },
+    {
+      "lead_id": "677f18ab7641",
+      "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+      "page": "https://www.wbi.be/fr/thematiques/stage-domaine-recherche",
+      "reason": "Navigation page, not a call: a thematic index ('Listes des aides et services') of WBI research-internship services, with no call, deadline or eligibility of its own. Page text: 'Wallonie-Bruxelles International joue un rôle important dans le soutien aux étudiants et chercheurs en offrant des opportunités de stages dans le domaine de la recherche.' The one current offer under this scheme (IOM, lead 8dcf6574a499) requires a Wallonia-Brussels degree."
+    },
+    {
+      "lead_id": "8dcf6574a499",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "page": "https://www.wbi.be/fr/actualites/offre-stage-lorganisation-internationale-migrations-oim",
+      "reason": "Six-month IOM internship in Brussels from February 2027 (WBI deadline 5 December 2026). At the time of applying the candidate must meet one of three conditions; the profile (not enrolled, Licence obtained in 2024) meets none: not 'inscrit.e en dernière année d’un programme universitaire de premier cycle', not pursuing graduate studies, and the third condition reads 'Être titulaire d’un diplôme universitaire et, s’il.elle est sélectionné.e, commencer le stage dans l’année suivant l’obtention de leur diplôme.' (a February 2027 start is more than a year after a 2024 degree). The page also states that candidates without a degree from, or studies at, a Fédération Wallonie-Bruxelles institution are ineligible for the WBI grant ('leur profil est considéré comme étant inéligible pour la bourse octroyée par Wallonie-Bruxelles International')."
+    },
+    {
+      "lead_id": "f33ffafba481",
+      "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+      "page": "https://www.wbi.be/fr/thematiques/programme-lie-recherche",
+      "reason": "Navigation page, not a call: a thematic index of WBI research-support services for Wallonia-Brussels research actors (Hubert Curien Tournesol, Enterprise Europe Network, Walmeet.eu). Page text: 'Le programme lié à la recherche de Wallonie-Bruxelles International est conçu pour soutenir et promouvoir des projets de recherche innovants.' and 'L’objectif du Département Recherche et Innovation (R&I) de WBI est de soutenir l’internationalisation des acteurs du secteur de la R&I en Wallonie-Bruxelles.'"
+    },
+    {
+      "lead_id": "a04f8d6ea80a",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "page": "https://www.wahooas.org/web-ooas/news/call-applications-36-doctoral-and-masters-scholarships-public-health-2026-2027",
+      "reason": "The organiser's call page states: 'They are open to nationals of the 12 ECOWAS Member States under 40.' The same page lists the member states (Benin, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Nigeria, Senegal, Sierra Leone, Togo); the Democratic Republic of the Congo is not among them. (Deadline extended to 31 December 2026.)"
+    }
+  ],
+  "blocked": [
+    {
+      "url": "https://www.afdb.org/en/vacancy/2027-african-development-bank-group-shanghai-ocean-98320",
+      "what": "HTTP 403 to the repo reader and to WebFetch (2026-11-19). Browser attempt pending."
+    },
+    {
+      "url": "https://ejust.edu.eg/international-scholarships",
+      "what": "Repo reader: HTTP 0 (network error); WebFetch: 'unable to verify the first certificate' (incomplete TLS chain). Same for https://ejust.edu.eg/int-scholarships and https://www.ejust.edu.eg/get/news/details/211. Browser attempt pending."
+    },
+    {
+      "url": "https://www.sciencespo.fr/students/en/fees-funding/bursaries-financial-aid/mastercard-foundation-scholarships/graduate-study/",
+      "what": "Repo reader (oplib.fetch) returns HTTP 0 (network error) for every sciencespo.fr page tried today, alone and in parallel (also the Boutmy, deadlines, tuition-fees, FAQ and language-requirements pages). Quotes from sciencespo.fr will show as 'unreachable' to the quote gate."
+    }
+  ],
+  "source_proposals": [],
+  "notes": "Scout C in progress (2026-11-19). Lead outcomes above are final; remaining leads, backlog patches and discovery to follow."
+}

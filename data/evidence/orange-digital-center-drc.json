@@ -1,0 +1,48 @@
+{
+  "id": "orange-digital-center-drc",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Orange's news page says young Congolese will be able to benefit from free training at the Kinshasa centre; no further nationality rule is published.",
+      "applicant": "Nationality: Democratic Republic of the Congo (Congolese); the centre is in Kinshasa, DRC.",
+      "assessment": "MET",
+      "quote": "young Congolese will be able to benefit from free training",
+      "page": "https://engageforchange.orange.com/en/news/07e9164f-679d-452f-aea4-28344ee9b4f6"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "The ODC Clubs are aimed at students and young people in the region where each centre is deployed (generally regions or rural areas within partner universities); the Kinshasa centre is in Kinshasa.",
+      "applicant": "Country of residence: Democratic Republic of the Congo; the city is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The applicant's city and whether it is near the Kinshasa centre or a partner-university club.",
+      "quote": "These centres are aimed at students and young people in the region",
+      "page": "https://engageforchange.orange.com/en/programs/e1be1cd0-d5a6-494a-8ce7-e03cf6eb2205"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No age range is published; the programme speaks of students and young people.",
+      "applicant": "Recorded only as under 30.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Free training; the pages read give no duration, calendar or selection rules.",
+      "quote": "offering free training in hard and soft skills and activities in the digital fields",
+      "page": "https://engageforchange.orange.com/en/programs/e1be1cd0-d5a6-494a-8ce7-e03cf6eb2205"
+    },
+    {
+      "item": "local_transport",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Transport to the centre is not mentioned on the Orange pages read."
+    }
+  ],
+  "out_of_pocket": "Unknown: no fee is stated; transport to the centre, if any, is not addressed on the pages read."
+}

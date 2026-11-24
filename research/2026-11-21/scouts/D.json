@@ -1,0 +1,1863 @@
+{
+ "channel": "D",
+ "records": [
+  {
+   "id": "oif-cap-innovation",
+   "title": "OIF #CAP Innovation: training and EUR 10,000 seed prizes for young francophone entrepreneurs (2nd call closed 10 May 2026)",
+   "organization": "Organisation internationale de la Francophonie (OIF), Unité jeunesse et société civile",
+   "overview": "Yearly call of the OIF for young people aged 18 to 34 from its member, associate and observer states who carry an innovative entrepreneurial project (education and skills, ecological transition, cultural and creative industries, social engagement). In the 2nd edition 100 laureates followed a structured support path in September 2026, 20 projects received a year of enhanced support and 8 grand laureates a EUR 10,000 seed prize each. The 2nd call closed on 10 May 2026; the pages read announce no 3rd call.",
+   "category": [
+    "Entrepreneurship",
+    "Training"
+   ],
+   "subcategory": [
+    "Seed prize",
+    "Mentoring",
+    "Youth entrepreneurship"
+   ],
+   "education_levels": [
+    "Open to all"
+   ],
+   "country": "Online application (open to the OIF's member, associate and observer states)",
+   "city": "Online",
+   "region": "Global",
+   "continent": "Global",
+   "location_type": "Remote",
+   "delivery_mode": "Online",
+   "program_dates": "2nd edition: call 21 April to 10 May 2026; support path in September 2026; jury 22 October 2026; 8 grand laureates announced 4 November 2026; one year of support for the 20 selected projects. Training format (online or in person) not stated on the pages read.",
+   "application_deadline": "",
+   "deadline_utc": "",
+   "deadline_text": "No call open on 21 November 2026. 2nd call, OIF news page: 'La date limite pour l'envoi des candidatures est fixée au 10 mai 2026'; the OIF call platform shows opening 21/04/2026 18:30 UTC, closing 10/05/2026 18:00 UTC and the status 'Clôturé'. 1st call: 'Vous avez jusqu'au 21 mai 2025 pour déposer votre candidature'.",
+   "deadline_timezone": "UTC (platform times for the 2nd call)",
+   "opens_on": "",
+   "open_now": false,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "No 3rd call is announced on the pages read (21 November 2026). The OIF ran a 1st call that closed on 21 May 2025 and a 2nd call from 21 April to 10 May 2026.",
+   "last_cycle_deadline": "2026-05-10",
+   "funding_type": "Partially Funded",
+   "funding_details": [
+    "OIF news page of 4 November 2026: each of the eight grand laureates 'recevra un prix d'amorçage de 10 000 euros' in addition to a year of tailored support including mentoring and networking; the prize goes to 8 projects only, not to every participant",
+    "The 100 laureates of the 2nd edition follow a structured support path with thematic training modules in September 2026; the 20 best projects get enhanced OIF support for a year (the pages do not say who pays for the training or whether it is free)",
+    "No application fee is mentioned on the pages read"
+   ],
+   "coverage": {
+    "tuition": "Not specified",
+    "stipend": "Not applicable",
+    "flight": "Not specified",
+    "accommodation": "Not specified",
+    "meals": "Not specified",
+    "visa": "Not specified",
+    "insurance": "Not specified",
+    "local_transport": "Not specified"
+   },
+   "participation_fee": "None mentioned on the pages read",
+   "stipend": "None; EUR 10,000 seed prize for each of the 8 grand laureates only",
+   "eligibility": [
+    "Young people aged 18 to 34 from the 90 States and governments of the OIF (2nd call); the 1st call page said 18 to 35",
+    "An innovative or high-impact entrepreneurial project in one of four fields: education and skills for tomorrow, ecological transition, cultural and creative industries, social engagement and transformation",
+    "1st call: projects had to be at 'advanced ideation stage at minimum'; the 2nd-call page read does not repeat this rule",
+    "No registered business, degree or work experience is mentioned on the pages read"
+   ],
+   "nationality_requirements": [
+    "Young people from the 90 States and governments of the OIF (members, associates, observers). The OIF's own list of its 53 member states names Congo (RD) (the Republic of the Congo is listed separately as Congo), so the DRC is in the eligible set"
+   ],
+   "age_requirement": "18 to 34 (2nd call); 18 to 35 (1st call)",
+   "education_requirement": "Unknown / Not specified",
+   "experience_requirement": "Unknown / Not specified",
+   "language_requirement": "Unknown / Not specified (the call pages are in French; the application platform offers French and English)",
+   "other_requirements": [
+    "An entrepreneurial project to present; detailed criteria and required documents are on the application platform, which the repo reader shows only in part"
+   ],
+   "documents_required": [],
+   "application_process": [
+    "Applications are submitted online on the OIF call platform (appelsaprojets.francophonie.org) during the call window; the 2nd call ran from 21 April to 10 May 2026",
+    "Selection in stages: 100 laureates (support path in September), then 20 projects with a year of enhanced support, then 8 grand laureates with a EUR 10,000 seed prize, chosen by an international jury"
+   ],
+   "official_application_url": "https://jeunesse.francophonie.org/capinnovation",
+   "official_information_url": "https://jeunesse.francophonie.org/capinnovation",
+   "source_url": "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488",
+   "source_type": "Official",
+   "source_confidence": "HIGH",
+   "verification": "PARTIALLY VERIFIED",
+   "sources": [
+    {
+     "label": "OIF news: #CAP Innovation, launch of the 2nd call (21 April 2026, ages 18 to 34, deadline 10 May 2026)",
+     "url": "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488",
+     "type": "Official"
+    },
+    {
+     "label": "OIF youth portal: #CapInnovation programme page",
+     "url": "https://jeunesse.francophonie.org/capinnovation",
+     "type": "Official"
+    },
+    {
+     "label": "OIF youth portal: the eight grand laureates of the 2nd edition (4 November 2026)",
+     "url": "https://jeunesse.francophonie.org/actualites/item/cap-innovation-2026-decouvrez-les-huit-grands-laureats-de-la-deuxieme-edition",
+     "type": "Official"
+    },
+    {
+     "label": "OIF youth portal: the 100 laureates of the 2nd edition (12 August 2026)",
+     "url": "https://jeunesse.francophonie.org/content_page/capinnovation/cap-innovation-2026-decouvrez-les-100-laureats-de-la-2e-edition",
+     "type": "Official"
+    },
+    {
+     "label": "OIF youth portal: 1st call (deadline 21 May 2025, advanced ideation stage at minimum)",
+     "url": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-cap-innovation-creation-accompagnement-propulsion-l-oif-aux-cotes-des-jeunes-francophones",
+     "type": "Official"
+    },
+    {
+     "label": "OIF call platform: 2nd edition page (opening and closing dates, status closed)",
+     "url": "https://appelsaprojets.francophonie.org/fr/applications/capinnovation2026",
+     "type": "Official"
+    },
+    {
+     "label": "OIF: 53 member states, 5 associate members and 34 observers (list names Congo (RD))",
+     "url": "https://www.francophonie.org/node/125",
+     "type": "Official"
+    }
+   ],
+   "eligibility_for_me": "POSSIBLY ELIGIBLE",
+   "eligibility_reason": "The call is open to people aged 18 to 34 from the 90 States and governments of the OIF, and the OIF's own member list names Congo (RD), so the DRC is on the list; the recorded under-30 band is inside the age limit. Entry needs an innovative entrepreneurial project (advanced ideation at minimum in the 1st call), which the profile does not record, and no call is open now.",
+   "potential_issues": [
+    "No call is open: the 2nd call closed on 10 May 2026 and the pages read announce no 3rd call",
+    "Needs a concrete entrepreneurial project; the profile records no business or project",
+    "The age limit and the stage wording differ between the 1st call (18 to 35, advanced ideation at minimum) and the 2nd call (18 to 34): read the next call's text before preparing",
+    "Very competitive: more than 5000 applications from 55 countries for 100 places in the 2nd edition",
+    "Only 8 projects receive the EUR 10,000 prize",
+    "The application platform shows only part of its content to automated readers, so the detailed criteria and documents were not read"
+   ],
+   "benefits": [
+    "Structured support path for 100 laureates (thematic training modules)",
+    "A year of tailored support with mentoring and networking for the 20 best projects",
+    "EUR 10,000 seed prize for each of 8 grand laureates",
+    "Run by the OIF; a laureate from the DRC is among the 2nd edition's eight grand laureates"
+   ],
+   "relevance": {
+    "academic": "Low",
+    "career": "Medium",
+    "travel": "Low",
+    "networking": "Medium",
+    "funding": "Medium",
+    "accessibility": "Medium",
+    "profile_fit": "Medium"
+   },
+   "relevance_reason": "A francophone programme with no fee mentioned, open to idea-stage projects, with an age band and country list that fit a young DRC business-administration graduate; it matters only if the applicant develops a project, since it does not lead directly to the operations, analysis or policy roles in the profile.",
+   "visa": {
+    "required": "Not specified",
+    "support": "Not applicable (no travel stated)"
+   },
+   "upfront_cost_risk": "None stated on the pages read.",
+   "action": "Optional watch item: follow jeunesse.francophonie.org/capinnovation and the OIF site for a 3rd call (the 1st and 2nd calls ran in spring) and, if you have a concrete project, prepare a short project note before it opens. Apply only through the OIF platform; the OIF pages mention no fee.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 November 2026 (scout D): all seven pages read with the repo reader. Found through the French incubator search phrase and a follow-up search for the 2026 edition; the lead 63f0b17a64f0 (the 2025 portal item) is the 1st call. The old portal item for the 2nd call (.../3866-cap-innovation-l-oif-lance-la-2e-edition-de-son-appel-a-candidatures) now returns a 404; the OIF news page (francophonie.org) carries the 2nd call text. The OIF member page title currently reads '92 Etats et gouvernements' while the launch page says 90. A grand laureate of the 2nd edition is listed with the DRC as country on the 4 November 2026 page (name not copied here).",
+   "match_keywords": [
+    "cap innovation",
+    "#cap innovation",
+    "capinnovation",
+    "création, accompagnement, propulsion",
+    "l'oif aux côtés des jeunes francophones"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "nationality",
+      "requirement": "The 2nd call is open to young people from the 90 States and governments of the OIF (members, associates, observers); the OIF's own list of its 53 member states names Congo (RD).",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Congo Sao Tomé-et-Principe Congo (RD) Sénégal",
+      "page": "https://www.francophonie.org/node/125"
+     },
+     {
+      "criterion": "age",
+      "requirement": "Aged 18 to 34 (2nd call).",
+      "applicant": "Recorded as under 30.",
+      "assessment": "MET",
+      "quote": "L'appel est ouvert aux jeunes de 18 à 34 ans issus des 90 États et gouvernements de l'OIF",
+      "page": "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488"
+     },
+     {
+      "criterion": "business",
+      "requirement": "An innovative entrepreneurial project; in the 1st call it had to be at advanced ideation stage at minimum. No registered business is mentioned.",
+      "applicant": "No registered business recorded; no project recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has an innovative entrepreneurial project at advanced-ideation stage (the profile records no business or project).",
+      "quote": "Les projets doivent être en phase d'idéation avancée au minimum",
+      "page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-cap-innovation-creation-accompagnement-propulsion-l-oif-aux-cotes-des-jeunes-francophones"
+     },
+     {
+      "criterion": "education",
+      "requirement": "No degree or study requirement is stated on the pages read.",
+      "assessment": "NOT STATED"
+     },
+     {
+      "criterion": "experience",
+      "requirement": "No work-experience requirement is stated on the pages read.",
+      "assessment": "NOT STATED"
+     }
+    ],
+    "funding": [
+     {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "10000",
+      "currency": "EUR",
+      "conditions": "Seed prize for each of the 8 grand laureates only (two per category), chosen by the jury among the 20 supported projects; not given to every participant.",
+      "quote": "recevra un prix d'amorçage de 10 000 euros pour développer son initiative, en complément d'une année de soutien sur mesure incluant mentorat et mise en réseau",
+      "page": "https://jeunesse.francophonie.org/actualites/item/cap-innovation-2026-decouvrez-les-huit-grands-laureats-de-la-deuxieme-edition"
+     },
+     {
+      "item": "training",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "The 100 selected laureates follow a structured support path with thematic training modules in September 2026; the pages do not say who pays for it or whether it is free, and mention no fee.",
+      "quote": "bénéficiera d'un parcours structuré d'accompagnement durant le mois de septembre 2026",
+      "page": "https://jeunesse.francophonie.org/content_page/capinnovation/cap-innovation-2026-decouvrez-les-100-laureats-de-la-2e-edition"
+     }
+    ],
+    "out_of_pocket": "Unknown: no application fee is mentioned on the pages read, and the cost or format of the training month is not stated.",
+    "cycles": [
+     {
+      "cycle": "2025 (1st call)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2025-05-21",
+      "quote": "Vous avez jusqu'au 21 mai 2025 pour déposer votre candidature via la plateforme officielle",
+      "page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-cap-innovation-creation-accompagnement-propulsion-l-oif-aux-cotes-des-jeunes-francophones"
+     },
+     {
+      "cycle": "2026 (2nd call)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-04-21",
+      "deadline": "2026-05-10",
+      "quote": "La date limite pour l'envoi des candidatures est fixée au 10 mai 2026",
+      "page": "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488"
+     },
+     {
+      "cycle": "3rd call",
+      "state": "NOT YET ANNOUNCED"
+     }
+    ]
+   }
+  },
+  {
+   "id": "auf-ifav-incubateur-francophone-africain-virtuel",
+   "title": "AUF IFAV: Incubateur Francophone Africain Virtuel, online pre-incubator for students and young graduates (2026 call closed 11 October 2026)",
+   "organization": "Agence universitaire de la Francophonie (AUF)",
+   "overview": "Online pre-incubation programme of the AUF for students and young graduates of francophone Africa who carry an innovative idea with a strong social or environmental impact: online training, personalised coaching and mentoring, practical workshops and peer exchange, from the ideation phase to a viable business model. The 2026 call ran from 25 September to 11 October 2026 and is closed. An IFAV call also ran in 2025 (closing 1 September 2025, per a secondary source).",
+   "category": [
+    "Entrepreneurship",
+    "Training"
+   ],
+   "subcategory": [
+    "Pre-incubator",
+    "Online",
+    "Mentoring"
+   ],
+   "education_levels": [
+    "Bachelor's",
+    "Graduate"
+   ],
+   "country": "Online (students and young graduates of francophone Africa)",
+   "city": "Online",
+   "region": "Africa",
+   "continent": "Africa",
+   "location_type": "Remote",
+   "delivery_mode": "Online",
+   "program_dates": "Online programme. The duration and session dates of the 2026 edition are not stated on the page read. Reported by secondary sources (2025 edition): 100% online, at least 8 hours a week of availability.",
+   "application_deadline": "",
+   "deadline_utc": "",
+   "deadline_text": "No call open on 21 November 2026. AUF platform page for IFAV 2026: 'Lancement : 25/09/2026 à 16h00', 'Clôture : 11/10/2026 à 23h00', time zone Europe/Paris, status 'La campagne est clôturée'. Reported by secondary sources (2025 edition): 'Candidatez avant le 1er septembre 2025'.",
+   "deadline_timezone": "Europe/Paris",
+   "opens_on": "",
+   "open_now": false,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "No next call is announced on the pages read (21 November 2026). An IFAV call closed on 1 September 2025 (secondary source) and the 2026 call closed on 11 October 2026 (AUF platform).",
+   "last_cycle_deadline": "2026-10-11",
+   "funding_type": "Funding Unclear",
+   "funding_details": [
+    "AUF platform page: the programme combines online training, personalised support by coaches and mentors, practical workshops and peer exchange; it states no fee, grant or prize and does not say the programme is free",
+    "Reported by secondary sources (2025 edition): participants get 'des opportunités de financement selon la maturité de votre projet' (access to funding opportunities depending on project maturity); no cash amount is stated"
+   ],
+   "coverage": {
+    "tuition": "Not specified",
+    "stipend": "Not specified",
+    "flight": "Not applicable",
+    "accommodation": "Not applicable",
+    "meals": "Not applicable",
+    "visa": "Not applicable",
+    "insurance": "Not applicable",
+    "local_transport": "Not applicable"
+   },
+   "participation_fee": "None mentioned on the pages read",
+   "stipend": "Not specified",
+   "eligibility": [
+    "Students and young graduates of francophone Africa who carry an innovative idea with a strong social or environmental impact (AUF platform page, 2026 call)",
+    "Starts from the ideation phase: the programme takes projects 'de la phase d'idéation à la structuration d'un modèle économique viable'",
+    "Reported by secondary sources (2025 edition): resident in North Africa, West Africa, Central Africa and the Great Lakes, Southern Africa, the Indian Ocean or the Middle East; student or young graduate affiliated to an AUF member university or another higher-education institution; available at least 8 hours a week; an idea or project answering a social, societal or environmental need in Africa"
+   ],
+   "nationality_requirements": [
+    "The 2026 page says 'étudiants et jeunes diplômés d'Afrique francophone' and lists no country; the DRC is not named. Reported by secondary sources (2025 edition): residents of regions (including 'Afrique centrale et des Grands Lacs'), again without a country list"
+   ],
+   "age_requirement": "Unknown / Not specified",
+   "education_requirement": "Student or young graduate (2026 page); the 2025 criteria, per a secondary source, add affiliation to an AUF member university or another higher-education institution",
+   "experience_requirement": "Unknown / Not specified",
+   "language_requirement": "Unknown / Not specified (the platform pages are in French and English)",
+   "other_requirements": [
+    "An innovative idea with a strong social or environmental impact",
+    "Reported by secondary sources (2025 edition): about 8 hours a week of availability"
+   ],
+   "documents_required": [],
+   "application_process": [
+    "Apply online on the AUF 'Appels à propositions' platform (an account is needed) during the call window; the 2026 call ran from 25 September to 11 October 2026",
+    "Reported by secondary sources (2025 edition): a community of 30 innovative entrepreneurs is selected"
+   ],
+   "official_application_url": "https://appels-propositions.auf.org/en/",
+   "official_information_url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+   "source_url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+   "source_type": "Official",
+   "source_confidence": "MEDIUM",
+   "verification": "PARTIALLY VERIFIED",
+   "sources": [
+    {
+     "label": "AUF call platform: IFAV 2026 call page (launch, closing, target audience, status closed)",
+     "url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+     "type": "Official"
+    },
+    {
+     "label": "AUF call platform: home page listing the current AUF calls",
+     "url": "https://appels-propositions.auf.org/en/",
+     "type": "Official"
+    },
+    {
+     "label": "Afri-Carrieres: IFAV 2025 call (criteria and deadline of the 2025 edition)",
+     "url": "https://afri-carrieres.com/2025/08/candidature-au-programme-ifav.html",
+     "type": "Aggregator"
+    }
+   ],
+   "eligibility_for_me": "POSSIBLY ELIGIBLE",
+   "eligibility_reason": "The 2026 call targeted students and young graduates of francophone Africa with an idea at the ideation stage, which fits a 2024 graduate with no business, but the page names no country, so the DRC is not named either way. 'Young graduate' is not defined, the 2025 criteria (secondary source) require affiliation to a higher-education institution, and no call is open now.",
+   "potential_issues": [
+    "No call is open: IFAV 2026 closed on 11 October 2026 and no next call is announced on the pages read",
+    "The 2026 page lists no eligible countries and does not name the DRC; 'jeunes diplômés' is not defined",
+    "The detailed criteria sit in the application form and on the AUF programme pages, which answer HTTP 403 to automated readers; the 2025 criteria quoted here come from an aggregator and may have changed",
+    "No fee, grant or prize amount is stated on the page read, so the funding is unclear"
+   ],
+   "benefits": [
+    "100% online programme in French: no travel or visa needed",
+    "Personalised coaching and mentoring, practical workshops and peer exchange",
+    "Starts from the idea stage: no registered business needed"
+   ],
+   "relevance": {
+    "academic": "Low",
+    "career": "Medium",
+    "travel": "Low",
+    "networking": "Medium",
+    "funding": "Low",
+    "accessibility": "High",
+    "profile_fit": "Medium"
+   },
+   "relevance_reason": "An online, French-language pre-incubator open to recent graduates with an idea, run by the AUF, which has a national bureau in the DRC; it is useful if the applicant develops a social or environmental project, but it is not a route into the operations, analysis or policy roles in the profile.",
+   "visa": {
+    "required": "No",
+    "support": "Not applicable (online)"
+   },
+   "upfront_cost_risk": "None stated on the pages read.",
+   "action": "Optional watch item: open appels-propositions.auf.org in a browser in late summer and autumn for the next IFAV call (2025 closed 1 September, 2026 closed 11 October); when it opens, read the form's country and institution rules and check whether your university is an AUF member. Apply only on the AUF platform.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 November 2026 (scout D): the AUF platform pages (appels-propositions.auf.org) are readable with the repo reader. The www.auf.org pages (the IFAV programme page, the 2025 launch news and a PDF of call details) answered HTTP 403 to both the repo reader and WebFetch and were not worked around. The 2025 criteria and deadline come from the Afri-Carrieres aggregator page and are labelled as secondary-source facts. Related AUF items seen and not recorded: Incub'AUF 2026 pre-incubator (AUF Middle East, university students in Lebanon, Egypt, Djibouti and the UAE, closed 11 October 2026) and the Femme Francophone Entrepreneure competition (AUF Middle East, 14th edition, listed with a 14 December 2026 closing; not opened).",
+   "match_keywords": [
+    "ifav",
+    "incubateur francophone africain virtuel",
+    "ifav 2026",
+    "ifav 2027",
+    "incubateur francophone africain"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "nationality",
+      "requirement": "Students and young graduates of 'Afrique francophone'; the 2026 page lists no country.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A country list, or a statement that the DRC counts as 'Afrique francophone' for IFAV.",
+      "quote": "Destiné aux étudiants et jeunes diplômés d'Afrique francophone",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+     },
+     {
+      "criterion": "graduation",
+      "requirement": "Students or young graduates; how recent a graduation counts is not defined.",
+      "applicant": "Bachelor's (Licence) in Business Administration obtained in 2024.",
+      "assessment": "UNKNOWN",
+      "missing": "How recent a graduation counts as 'jeune diplômé', and whether the applicant's institution is an AUF member (a condition reported for the 2025 edition).",
+      "quote": "Destiné aux étudiants et jeunes diplômés d'Afrique francophone",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+     },
+     {
+      "criterion": "business",
+      "requirement": "No registered business is required: the programme starts from the ideation phase.",
+      "applicant": "No registered business recorded.",
+      "assessment": "MET",
+      "quote": "de la phase d'idéation à la structuration d'un modèle économique viable",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+     },
+     {
+      "criterion": "other",
+      "requirement": "An innovative idea with a strong social or environmental impact.",
+      "applicant": "No idea or project recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has an innovative idea with a social or environmental impact to present.",
+      "quote": "s'adresse aux porteurs d'idées innovantes à fort impact social ou environnemental",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+     },
+     {
+      "criterion": "age",
+      "requirement": "No age limit is stated on the page read.",
+      "assessment": "NOT STATED"
+     },
+     {
+      "criterion": "language",
+      "requirement": "No language requirement is stated on the page read.",
+      "assessment": "NOT STATED"
+     }
+    ],
+    "funding": [
+     {
+      "item": "training",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "The page describes online training, coaching and mentoring but states no fee and does not say who pays or whether the programme is free.",
+      "quote": "une combinaison de formations en ligne, d'un accompagnement personnalisé assuré par des coachs et mentors",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+     }
+    ],
+    "out_of_pocket": "Unknown: the page states no fee and does not say the programme is free; internet access is the participant's own cost.",
+    "cycles": [
+     {
+      "cycle": "2025 (IFAV 2025)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2025-09-01",
+      "quote": "Candidatez avant le 1er septembre 2025",
+      "page": "https://afri-carrieres.com/2025/08/candidature-au-programme-ifav.html"
+     },
+     {
+      "cycle": "2026 (IFAV 2026)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-09-25",
+      "deadline": "2026-10-11",
+      "quote": "Clôture : 11/10/2026 à 23h00",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+     },
+     {
+      "cycle": "Next call",
+      "state": "NOT YET ANNOUNCED"
+     }
+    ]
+   }
+  },
+  {
+   "id": "acep-next-generation-resource-governance-leaders-program",
+   "title": "ACEP Next Generation Resource Governance Leaders Program (policy-research internship in Ghana; 11th cohort closed 21 June 2026)",
+   "organization": "Africa Centre for Energy Policy (ACEP)",
+   "overview": "Internship of the Africa Centre for Energy Policy for young Africans residing in Africa and aged up to 32. Interns write research reports and policy briefs on Africa's energy and extractive sectors, support stakeholder engagement, programme planning, monitoring and evaluation and proposal writing, and follow training in resource governance, leadership and career skills. ACEP provides a stipend, lunch, coaching and mentorship, and for international participants accommodation and a return ticket to Ghana. The 11th cohort call closed on 21 June 2026; no later call is shown on the ACEP pages read.",
+   "category": [
+    "Internship",
+    "Leadership"
+   ],
+   "subcategory": [
+    "Policy research",
+    "Energy and extractives governance",
+    "Stipend"
+   ],
+   "education_levels": [
+    "Bachelor's",
+    "Master's"
+   ],
+   "country": "Ghana",
+   "city": "Not specified on the pages read",
+   "region": "Africa",
+   "continent": "Africa",
+   "location_type": "International travel",
+   "delivery_mode": "In-person",
+   "program_dates": "Length of the 11th-cohort internship is not stated on the page read. The page of the 3rd cohort (2022) described a six-month internship from July to December 2022.",
+   "application_deadline": "",
+   "deadline_utc": "",
+   "deadline_text": "No call open on 21 November 2026. 11th cohort: 'Apply by 21st June, 2026' and 'Applications close at 11:59 PM GMT on Sunday, 21st June 2026.'",
+   "deadline_timezone": "GMT",
+   "opens_on": "",
+   "open_now": false,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "No 12th cohort call is shown on the ACEP pages read (21 November 2026). ACEP's page says 'ACEP is hereby calling for the 11th cohort of the Program' and the 11th call closed on 21 June 2026.",
+   "last_cycle_deadline": "2026-06-21",
+   "funding_type": "Substantially Funded",
+   "funding_details": [
+    "ACEP page, 'What ACEP Offers': 'A generous stipend and lunch for the duration of the program' (the amount is not stated)",
+    "'Decent accommodation for international NextGen Leaders'",
+    "'An approved return ticket from the NextGen Leader's home country to Ghana'",
+    "Opportunities for training and development; coaching, mentorship and peer support",
+    "Visa, insurance and local transport are not mentioned; the page does not use the words 'fully funded'; no application fee is mentioned"
+   ],
+   "coverage": {
+    "tuition": "Not specified",
+    "stipend": "Covered",
+    "flight": "Covered",
+    "accommodation": "Covered",
+    "meals": "Partially covered",
+    "visa": "Not specified",
+    "insurance": "Not specified",
+    "local_transport": "Not specified"
+   },
+   "participation_fee": "None mentioned on the pages read",
+   "stipend": "A 'generous stipend' for the duration of the program; the amount is not stated",
+   "eligibility": [
+    "A young African residing in Africa, aged not exceeding 32 years, with a passion for ensuring Africa's energy and extractive resources contribute to sustainable and inclusive development",
+    "Relevant academic qualifications, preferably in economics (including energy), engineering, oil and gas management, public policy, law, political economy, development studies, development finance, project management, communications, statistics, mathematics, etc.",
+    "Good writing skills; knowledge of qualitative and quantitative analytical tools (R, Stata, Eviews, NVivo, Atlas.ti etc.); a working knowledge of English, the language of instruction",
+    "A completed higher-education degree (Bachelor's, Master's or equivalent) is documented in the application"
+   ],
+   "nationality_requirements": [
+    "'A young African residing in Africa'; the page gives no country list and does not name the DRC"
+   ],
+   "age_requirement": "Not exceeding 32 years (11th cohort)",
+   "education_requirement": "Relevant academic qualifications, preferably in the listed fields; degree certificates (Bachelor's, Master's or equivalent) are submitted",
+   "experience_requirement": "Unknown / Not specified",
+   "language_requirement": "English: 'Applicants are expected to have a working knowledge of the English language'; no test is mentioned",
+   "other_requirements": [
+    "Two essay questions are offered, one to answer in at most 500 words; the page strongly discourages the use of ChatGPT or other AI assistance"
+   ],
+   "documents_required": [
+    "Curriculum vitae",
+    "Higher-education degree certificates (English translations if not in English)",
+    "Motivational statement (500 words)",
+    "Reference letter from a lecturer, former employer or other professional",
+    "Essay response (one of two questions)",
+    "National ID"
+   ],
+   "application_process": [
+    "Combine all documents into one PDF and upload it with the online application form during the call window",
+    "Applicants who pass the initial review are invited for an interview"
+   ],
+   "official_application_url": "https://acep.africa/nextgen-program-application/",
+   "official_information_url": "https://acep.africa/nextgen11/",
+   "source_url": "https://acep.africa/nextgen11/",
+   "source_type": "Official",
+   "source_confidence": "HIGH",
+   "verification": "PARTIALLY VERIFIED",
+   "sources": [
+    {
+     "label": "ACEP: Next Generation Resource Governance Leaders Program, 11th cohort call",
+     "url": "https://acep.africa/nextgen11/",
+     "type": "Official"
+    },
+    {
+     "label": "ACEP: NextGen Program application page",
+     "url": "https://acep.africa/nextgen-program-application/",
+     "type": "Official"
+    },
+    {
+     "label": "ACEP: Welcome page of the 3rd cohort (2022: six-month internship)",
+     "url": "https://acep.africa/welcome-to-the-acep-next-generation-resource-governance-leaders-program/",
+     "type": "Official"
+    }
+   ],
+   "eligibility_for_me": "POSSIBLY ELIGIBLE",
+   "eligibility_reason": "The programme takes young Africans residing in Africa aged up to 32 who hold a completed higher-education degree; the recorded DRC residence, under-30 band and Bachelor's degree fit. The page lists no countries, so DRC nationality is not confirmed, business administration is not among the preferred fields, and the level of English is not recorded. No call is open now.",
+   "potential_issues": [
+    "No call is open: the 11th cohort closed on 21 June 2026 and no later call is shown on the ACEP pages read",
+    "The page says 'young African residing in Africa' without a country list, so the DRC is not named",
+    "The preferred fields do not name business administration (the list ends with 'etc.' and says 'preferably')",
+    "A working knowledge of English is expected and the language of instruction is English; the profile records no English level",
+    "The stipend amount, the internship length, visa and insurance costs are not stated; relocation to Ghana is needed",
+    "The call asks for an essay, a reference letter and a national ID; the page discourages AI-written essays"
+   ],
+   "benefits": [
+    "Stipend and lunch for the duration of the programme",
+    "Accommodation for international participants and an approved return ticket to Ghana",
+    "Hands-on policy research, programme management and monitoring-and-evaluation experience at a think tank",
+    "Training, coaching, mentorship and peer support"
+   ],
+   "relevance": {
+    "academic": "Medium",
+    "career": "High",
+    "travel": "Medium",
+    "networking": "Medium",
+    "funding": "High",
+    "accessibility": "Medium",
+    "profile_fit": "High"
+   },
+   "relevance_reason": "Policy research, policy briefs, stakeholder engagement, programme management and monitoring and evaluation at a policy think tank match the profile's interests in research, public-sector and policy analysis and programme coordination, with a stipend and travel support; the energy and extractives subject area and English-language working environment are the main stretch.",
+   "visa": {
+    "required": "Not specified",
+    "support": "Not specified on the pages read"
+   },
+   "upfront_cost_risk": "None stated on the pages read.",
+   "action": "Watch acep.africa for the call of the 12th cohort (the 11th closed on 21 June 2026). Meanwhile draft a CV, a 500-word motivation statement and an essay on local content or climate finance in Africa, and check the English level you can show. Apply only on the ACEP site.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 November 2026 (scout D): found through the French leadership phrase (an aggregator listing the programme as a 2027 cohort); all three ACEP pages were read with the repo reader. The aggregators label the programme '2026/2027' or '2027' and some show a 15 January 2026 deadline (10th cohort); the only ACEP call page found with a date is the 11th cohort (21 June 2026), and the ACEP home page shows no open call. The 3rd-cohort welcome page (2022) is the only place where a duration (six months) appears. Related ACEP calls seen and not recorded: AFREIKH Summer School (applications by 8 May 2026) and the Africa Climate Academy.",
+   "match_keywords": [
+    "acep next generation resource governance leaders",
+    "next generation resource governance leaders program",
+    "acep nextgen leaders",
+    "africa centre for energy policy nextgen"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "nationality",
+      "requirement": "'A young African residing in Africa'; no country list is given.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A country list or a statement that DRC nationals qualify; 'young African residing in Africa' is not a country list.",
+      "quote": "The applicant must be a young African residing in Africa, aged not exceeding 32 years",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "criterion": "residence",
+      "requirement": "Must reside in Africa.",
+      "applicant": "Resident of the Democratic Republic of the Congo, a country in Africa.",
+      "assessment": "MET",
+      "quote": "The applicant must be a young African residing in Africa, aged not exceeding 32 years",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "criterion": "age",
+      "requirement": "Aged not exceeding 32 years (11th cohort).",
+      "applicant": "Recorded as under 30.",
+      "assessment": "MET",
+      "quote": "aged not exceeding 32 years",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "criterion": "education",
+      "requirement": "A completed higher-education degree (Bachelor's, Master's or equivalent), shown by degree certificates.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Submit only copies of certificates for your completed higher education degrees (e.g., Bachelor's, Master's, or equivalent)",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "criterion": "discipline",
+      "requirement": "Relevant academic qualifications, preferably in the listed fields (economics, engineering, public policy, law, development studies, project management, etc.).",
+      "applicant": "Bachelor's degree (Licence) in Business Administration.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether a business administration degree counts as relevant: the list is 'preferably' and ends with 'etc.', and does not name it.",
+      "quote": "preferably in any or a combination of economics (including energy), engineering (petroleum/electrical), oil and gas management, public policy, law, political economy, development studies",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "criterion": "language",
+      "requirement": "A working knowledge of English, the language of instruction.",
+      "applicant": "English is among the recorded languages; no level or test score is recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The applicant's level of English (the page expects a working knowledge).",
+      "quote": "Applicants are expected to have a working knowledge of the English language.",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "criterion": "experience",
+      "requirement": "No work-experience requirement is stated on the page read.",
+      "assessment": "NOT STATED"
+     }
+    ],
+    "funding": [
+     {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "",
+      "currency": "",
+      "conditions": "A stipend for the duration of the programme; the amount is not stated.",
+      "quote": "A generous stipend and lunch for the duration of the program.",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "item": "meals",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Lunch only, for the duration of the programme.",
+      "quote": "A generous stipend and lunch for the duration of the program.",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "item": "accommodation",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Offered to international NextGen Leaders; the page says no more about who counts as international or how long.",
+      "quote": "Decent accommodation for international NextGen Leaders.",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "item": "airfare",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "ACEP says it will provide an approved return ticket from the home country to Ghana; how the ticket is bought or reimbursed is not stated.",
+      "quote": "An approved return ticket from the NextGen Leader's home country to Ghana.",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "item": "training",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Training and development, coaching, mentorship and peer support are listed among what ACEP provides; no fee is mentioned.",
+      "quote": "Opportunities for training and development",
+      "page": "https://acep.africa/nextgen11/"
+     }
+    ],
+    "out_of_pocket": "Unknown: the page lists a stipend, lunch, accommodation for international participants and a return ticket to Ghana, but states nothing on visa, insurance, local transport or the stipend amount.",
+    "cycles": [
+     {
+      "cycle": "11th cohort (2026)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2026-06-21",
+      "quote": "Applications close at 11:59 PM GMT on Sunday, 21st June 2026.",
+      "page": "https://acep.africa/nextgen11/"
+     },
+     {
+      "cycle": "12th cohort",
+      "state": "NOT YET ANNOUNCED"
+     }
+    ]
+   }
+  },
+  {
+   "id": "orange-corners-rdc-incubation-programme",
+   "title": "Orange Corners RDC: free 10-month support programme for young Congolese entrepreneurs in Kinshasa (call expected December to January)",
+   "organization": "Orange Corners RDC (programme deployed by Ingenious City, Kinshasa)",
+   "overview": "Ten-month support programme for project holders and start-up founders in the DRC, aged 18 to 35 and Congolese, with an innovative business idea, concept or MVP in six target sectors (food security, environment and climate change, water access, green energy, local processing of mineral resources, digitalisation). It offers training, coaching and mentoring every two weeks, networking, free coworking space and help to find funding, at no participation fee; in-person in Kinshasa and online for the rest of the DRC. The organiser's page says applications open between December and January each year and the programme starts in mid-February.",
+   "category": [
+    "Entrepreneurship",
+    "Training"
+   ],
+   "subcategory": [
+    "Incubation",
+    "Mentoring",
+    "Coworking"
+   ],
+   "education_levels": [
+    "Open to all"
+   ],
+   "country": "Democratic Republic of the Congo",
+   "city": "Kinshasa",
+   "region": "Central Africa",
+   "continent": "Africa",
+   "location_type": "Hybrid",
+   "delivery_mode": "Hybrid",
+   "program_dates": "10 months, starting mid-February (organiser's yearly rule). In-person in Kinshasa; online for entrepreneurs living elsewhere in the DRC.",
+   "application_deadline": "",
+   "deadline_utc": "",
+   "deadline_text": "No call announced on 21 November 2026. Organiser's yearly rule: 'Les applications au programme sont ouvertes entre décembre et janvier chaque année.' The page's APPLY NOW button points to a 2026 short link; the 8th cohort's call was announced on 12 February 2026 (ACP news agency), without a stated deadline.",
+   "deadline_timezone": "Not specified",
+   "opens_on": "",
+   "open_now": false,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "Organiser states a yearly window of December to January with a start in mid-February; no 2027 call is announced on the pages read (21 November 2026). The 8th cohort's call was announced on 12 February 2026, later than the stated window.",
+   "last_cycle_deadline": "",
+   "funding_type": "Participation Funded",
+   "funding_details": [
+    "Official page FAQ: 'Il n'y a pas de coûts ou de frais de participation au programme' (no participation costs or fees)",
+    "Free access to the coworking space during the support period; practical training, workshops, coaching and mentoring every two weeks, networking",
+    "'En tant que programme, Orange Corners ne finance pas directement': the programme does not give cash grants; it connects entrepreneurs to public and private funders"
+   ],
+   "coverage": {
+    "tuition": "Covered",
+    "stipend": "Not covered",
+    "flight": "Not specified",
+    "accommodation": "Not specified",
+    "meals": "Not specified",
+    "visa": "Not applicable",
+    "insurance": "Not specified",
+    "local_transport": "Not specified"
+   },
+   "participation_fee": "None: 'Il n'y a pas de coûts ou de frais de participation au programme'",
+   "stipend": "None; the programme does not finance entrepreneurs directly",
+   "eligibility": [
+    "Aged 18 to 35 and Congolese (a man or a woman)",
+    "In Kinshasa (in-person programme) or elsewhere in the DRC (online programme)",
+    "Holder of a secondary-school or higher-education diploma",
+    "An innovative business idea, concept or MVP answering an important challenge or market opportunity in the targeted sectors, and contributing to the Sustainable Development Goals",
+    "Business project at ideation stage or a business operating for 1 year",
+    "Dedicated to the project full time, with the time to take part in all programme activities"
+   ],
+   "nationality_requirements": [
+    "Congolese (DRC): 'être un homme/ une femme congolais(e)', on the Orange Corners hub page for the République démocratique du Congo"
+   ],
+   "age_requirement": "18 to 35",
+   "education_requirement": "Secondary-school or higher-education diploma",
+   "experience_requirement": "No experience requirement stated; a business project at ideation stage or a business operating for 1 year",
+   "language_requirement": "Unknown / Not specified (the page is in French)",
+   "other_requirements": [
+    "Targeted sectors: food security; environment and climate change; water access (including drinking water); green energy; local processing of mineral resources; digitalisation",
+    "A solution that contributes to the Sustainable Development Goals",
+    "Full-time dedication to the project for the 10 months"
+   ],
+   "documents_required": [],
+   "application_process": [
+    "Online application form published on the Orange Corners site and social networks before each cohort",
+    "Pre-selection (applicants check their inbox to see whether they are among the 70 selected), then a pre-incubation period closed by a jury pitch, then a shortlist for the final stages"
+   ],
+   "official_application_url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+   "official_information_url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+   "source_url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+   "source_type": "Official",
+   "source_confidence": "HIGH",
+   "verification": "PARTIALLY VERIFIED",
+   "sources": [
+    {
+     "label": "Orange Corners: hub page for the République démocratique du Congo (programme, criteria, FAQ)",
+     "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+     "type": "Official"
+    },
+    {
+     "label": "ACP (Agence Congolaise de Presse): 8th cohort of Orange Corners RDC announced in Kinshasa (12 February 2026)",
+     "url": "https://acp.cd/business/la-8eme-cohorte-dun-programme-dencadrement-des-jeunes-entrepreneurs-annoncee-a-kinshasa/",
+     "type": "News"
+    }
+   ],
+   "eligibility_for_me": "POSSIBLY ELIGIBLE",
+   "eligibility_reason": "The programme is for Congolese citizens aged 18 to 35 living in the DRC with a secondary or higher diploma, which matches the recorded nationality, residence, under-30 band and Bachelor's degree. Entry also needs an innovative business idea, concept or MVP in one of six sectors and full-time dedication for 10 months, which the profile does not record, and no call is open now.",
+   "potential_issues": [
+    "No call is open on the pages read: the yearly window is December to January, but the 8th cohort's call was announced in February 2026",
+    "Needs an innovative business idea, concept or MVP in one of six target sectors that contributes to the SDGs; the profile records no business idea",
+    "Full-time dedication to the project is required during the 10 months, which conflicts with a full-time job search or job",
+    "The programme gives no cash grant: it only connects entrepreneurs to funders",
+    "The page's APPLY NOW button points to a bit.ly short link for the 2026 call (not opened); apply only through the organiser's own channels"
+   ],
+   "benefits": [
+    "No participation fee; free coworking space during the programme",
+    "Coaching and mentoring every two weeks, practical training, workshops and master classes",
+    "Networking with the Orange Corners alumni and ecosystem actors; introductions to public and private funders",
+    "Programme based in Kinshasa, with an online route for the rest of the DRC"
+   ],
+   "relevance": {
+    "academic": "Low",
+    "career": "Medium",
+    "travel": "Low",
+    "networking": "High",
+    "funding": "Low",
+    "accessibility": "High",
+    "profile_fit": "Medium"
+   },
+   "relevance_reason": "A free, DRC-based programme open to idea-stage projects, with an age band and nationality rule that fit the profile; it only helps if the applicant develops an innovative business idea in one of the six sectors and can commit full time, since it does not lead to the operations, analysis or policy roles in the profile.",
+   "visa": {
+    "required": "No",
+    "support": "Not applicable (programme in the DRC)"
+   },
+   "upfront_cost_risk": "None: the page states there are no participation costs or fees.",
+   "action": "Watch the Orange Corners RDC page and its social media from December 2026 (the yearly window is December to January). If you have an innovative business idea in one of the six sectors, prepare a short project description and check that you can commit full time; apply only through the official form linked on the page.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 November 2026 (scout D): found through the DRC-specific French phrase. The official hub page was read with the repo reader. Its APPLY NOW button links to a bit.ly short link (bit.ly/OCRDC2026), which was not opened. The ACP news article (WebFetch for the summary, repo reader for the quote) says the 8th cohort's call was open in February 2026 with no dates. Orange Digital Center DRC is a separate stored record (reserved id orange-digital-center-drc). Other DRC items seen in the same search and not recorded: Debout Bilenge (EU-funded, young leaders aged 18 to 29 in Kinshasa, 2nd cohort 2026-2028, applications closed 5 April 2026), COPA Digital business-plan competition (PTN and Transforme projects, partnership signed 20 September 2026, no call or criteria published, aimed at start-ups, digital SMEs and incubators).",
+   "match_keywords": [
+    "orange corners rdc",
+    "orange corners drc",
+    "orange corners democratic republic of congo",
+    "ingenious city orange corners"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "nationality",
+      "requirement": "Must be Congolese (the page is the Orange Corners hub page for the République démocratique du Congo, a programme for entrepreneurs in the DRC).",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Avoir entre 18 à 35 ans et être un homme/ une femme congolais(e)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     },
+     {
+      "criterion": "age",
+      "requirement": "Aged 18 to 35.",
+      "applicant": "Recorded as under 30.",
+      "assessment": "MET",
+      "quote": "Avoir entre 18 à 35 ans et être un homme/ une femme congolais(e)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     },
+     {
+      "criterion": "residence",
+      "requirement": "In Kinshasa (in-person programme) or elsewhere in the DRC (online programme).",
+      "applicant": "Resident of the Democratic Republic of the Congo (city not recorded).",
+      "assessment": "MET",
+      "quote": "Être à Kinshasa (programme en présentiel) et à travers la RDC (programme en ligne)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     },
+     {
+      "criterion": "education",
+      "requirement": "A secondary-school or higher-education diploma.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Être Diplômé(e) de l'enseignement secondaire ou supérieur",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     },
+     {
+      "criterion": "other",
+      "requirement": "An innovative business idea, concept or MVP answering a challenge or market opportunity in the targeted sectors (food security, environment and climate, water, green energy, local processing of minerals, digitalisation), contributing to the SDGs.",
+      "applicant": "No business idea or project recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has an innovative business idea, concept or MVP in one of the six target sectors.",
+      "quote": "Avoir une idée d'entreprise innovante, un concept ou un MVP (Produit Mininum Viable)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     },
+     {
+      "criterion": "employment",
+      "requirement": "Be dedicated to the project full time, with the time to take part in all programme activities.",
+      "applicant": "No full-time employment recorded; availability for a full-time commitment is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant can and wants to dedicate full time to a business project for the 10 months.",
+      "quote": "Être dédié(e) à votre projet à temps plein (avoir le temps nécessaire pour participer à toutes les activités du programme)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     }
+    ],
+    "funding": [
+     {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The programme, with its training, is offered with no participation costs or fees.",
+      "quote": "Il n'y a pas de coûts ou de frais de participation au programme.",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     },
+     {
+      "item": "training",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Practical training, workshops, coaching and mentoring are part of the programme; no fee is charged.",
+      "quote": "Des formations pratiques qui vous permettront d'acquérir les compétences nécessaires pour gérer votre entreprise",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     },
+     {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Free access to a coworking space during the support period.",
+      "quote": "Accès à l'espace de coworking gratuitement durant la période d'accompagnement.",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     },
+     {
+      "item": "daily_allowance",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "The programme does not finance entrepreneurs directly; it connects them to public and private funders.",
+      "quote": "En tant que programme, Orange Corners ne finance pas directement",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     }
+    ],
+    "out_of_pocket": "None stated: the page says there are no participation costs or fees; travel and living costs are not mentioned.",
+    "cycles": [
+     {
+      "cycle": "8th cohort (2026)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "",
+      "quote": "L’ouverture des candidatures pour la 8 ème cohorte du programme",
+      "page": "https://acp.cd/business/la-8eme-cohorte-dun-programme-dencadrement-des-jeunes-entrepreneurs-annoncee-a-kinshasa/"
+     },
+     {
+      "cycle": "Next cohort (2027)",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "organiser states",
+      "window_text": "Organiser's yearly rule: applications open between December and January and the programme starts in mid-February; no 2027 call is announced on the pages read.",
+      "quote": "Les applications au programme sont ouvertes entre décembre et janvier chaque année.",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+     }
+    ]
+   }
+  },
+  {
+   "id": "echoing-green-fellowship",
+   "title": "Echoing Green Fellowship: stipend of USD 100,000 over 18 months for early-stage social entrepreneurs (start with the free Talent Platform, first window closes 31 March 2027)",
+   "organization": "Echoing Green (New York, United States)",
+   "overview": "Full-time Fellowship for social entrepreneurs at the start of their journey, with seed funding described as a stipend of USD 100,000 over 18 months (recoverable grants for for-profit organisations), leadership development, expert support and virtual and in-person convenings, in a community of more than 1,000 social innovators. Becoming a Fellow now starts with joining the free Talent Platform: a short profile with three essay questions, one founder per organisation. Only members are invited to apply when the Fellowship application opens (selection dates to be announced in early 2027). The first review window closes on 31 March 2027, with later windows tentatively in July and October 2027. The founder must have started the work ('not unstarted work') but need not be incorporated; the organiser welcomes any nationality and sets no educational requirement.",
+   "category": [
+    "Fellowship",
+    "Entrepreneurship"
+   ],
+   "subcategory": [
+    "Social entrepreneurship",
+    "Seed funding",
+    "Stipend"
+   ],
+   "education_levels": [
+    "Open to all"
+   ],
+   "country": "Online application (any nationality, working in any country); the organiser is based in New York, United States",
+   "city": "Online",
+   "region": "Global",
+   "continent": "Global",
+   "location_type": "Hybrid",
+   "delivery_mode": "Hybrid",
+   "program_dates": "Stipend over 18 months (organiser). Talent Platform: first decisions in April 2027, membership lasts one year. Fellowship application dates and venues of the in-person convenings are not stated on the pages read.",
+   "application_deadline": "2027-03-31",
+   "deadline_utc": "",
+   "deadline_text": "Step 1 only (free Talent Platform): 'Request to join the Talent Platform by March 31, 2027 to be included in this first submission period.' Later windows are 'tentatively' July and October 2027. The Fellowship application itself is by invitation to Talent Platform members and its dates are not announced: 'Fellowship selection dates will be announced in early 2027.'",
+   "deadline_timezone": "Not specified",
+   "opens_on": "",
+   "open_now": true,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "Talent Platform: later intake windows are tentatively planned on a quarterly cadence, the next ones in July and October 2027 (organiser, no dates given). Fellowship application dates are not announced on the pages read (21 November 2026).",
+   "last_cycle_deadline": "",
+   "funding_type": "Substantially Funded",
+   "funding_details": [
+    "Fellowship page, Seed Funding: 'A stipend over 18 months (100,000 USD). Funding offered to for-profit organizations is in the form of recoverable grants.' The pages do not say how it is paid or whether it goes to the founder or to the venture",
+    "Every Fellow also gets capacity building and leadership development, expert resources and pro-bono expert support, and virtual and in-person convenings; the pages do not say who pays for travel to in-person gatherings",
+    "Joining the Talent Platform is free: 'Does it cost anything? No. Membership is free.'"
+   ],
+   "coverage": {
+    "tuition": "Not specified",
+    "stipend": "Covered",
+    "flight": "Not specified",
+    "accommodation": "Not specified",
+    "meals": "Not specified",
+    "visa": "Not specified",
+    "insurance": "Not specified",
+    "local_transport": "Not specified"
+   },
+   "participation_fee": "None for the Talent Platform: 'Does it cost anything? No. Membership is free.' No fee is mentioned for the Fellowship itself.",
+   "stipend": "USD 100,000 over 18 months, described as seed funding; a recoverable grant when the organisation is for-profit",
+   "eligibility": [
+    "A founder or co-founder of work that has already started ('We back unproven, unfunded, and unfinished work, but not unstarted work'; serving three people counts); one founder per organisation",
+    "Any nationality, working in any country; Echoing Green does not sponsor U.S. work permits",
+    "No educational requirement",
+    "Incorporation is not needed; nonprofit, for-profit and hybrid models are all welcome; no minimum amount raised",
+    "A new approach to a problem, not a better version of an established solution; firsthand knowledge of the problem and the community served",
+    "The Fellowship is full time"
+   ],
+   "nationality_requirements": [
+    "Any nationality: 'We welcome social entrepreneurs of any nationality, working in any country.'"
+   ],
+   "age_requirement": "Unknown / Not specified",
+   "education_requirement": "None: 'Are there any educational requirements? No.'",
+   "experience_requirement": "Work already started that the applicant founded and still leads; no minimum funding raised",
+   "language_requirement": "Unknown / Not specified",
+   "other_requirements": [
+    "Founder or co-founder who still sets the direction of the work; someone who joined an organisation founded by others is not a fit",
+    "An innovative approach aimed at root causes (systemic change), with proximity to the problem and the community served",
+    "Full-time commitment to the work during the Fellowship",
+    "Membership of the Talent Platform before applying to the Fellowship"
+   ],
+   "documents_required": [],
+   "application_process": [
+    "Step 1: request to join the free Talent Platform with a short profile and three essay questions (about you, the problem you are tackling and your idea); reviewed in intake windows: 31 March 2027 for the first, then tentatively July and October 2027; the first decisions are notified in April 2027",
+    "Step 2: members are invited to apply for the Fellowship when the application opens; dates to be announced in early 2027",
+    "Membership is selective: the organiser anticipates admitting about 10 to 20 percent of submissions"
+   ],
+   "official_application_url": "https://echoinggreen.org/fellowship/talent-platform/",
+   "official_information_url": "https://echoinggreen.org/fellowship/",
+   "source_url": "https://echoinggreen.org/fellowship/talent-platform/",
+   "source_type": "Official",
+   "source_confidence": "HIGH",
+   "verification": "PARTIALLY VERIFIED",
+   "sources": [
+    {
+     "label": "Echoing Green: Fellowship Talent Platform (key dates, process, who it is for, eligibility FAQ)",
+     "url": "https://echoinggreen.org/fellowship/talent-platform/",
+     "type": "Official"
+    },
+    {
+     "label": "Echoing Green: Fellowship (support model, seed funding)",
+     "url": "https://echoinggreen.org/fellowship/",
+     "type": "Official"
+    }
+   ],
+   "eligibility_for_me": "POSSIBLY ELIGIBLE",
+   "eligibility_reason": "The organiser welcomes social entrepreneurs of any nationality, working in any country, with no educational requirement, which fits the recorded DRC nationality and residence and the Bachelor's degree. It backs only founders whose work has already started, and the Fellowship is full time; the profile records no venture or social initiative (only that no business is registered), so eligibility depends on facts the profile does not hold.",
+   "potential_issues": [
+    "Only for a founder or co-founder whose work has already started ('not unstarted work'); the profile records no venture or social initiative",
+    "Two steps: joining the Talent Platform is not the Fellowship application; only members are invited to apply and the Fellowship application dates are not yet announced",
+    "Selective: the organiser anticipates admitting about 10 to 20 percent of Talent Platform submissions",
+    "The Fellowship is full time, which conflicts with holding a full-time job or a full-time job search",
+    "Funding for for-profit organisations is a recoverable grant, not a gift; how the stipend is paid is not stated",
+    "Echoing Green does not sponsor U.S. work permits; who pays for travel to in-person convenings is not stated",
+    "No age limit or language requirement is stated on the pages read"
+   ],
+   "benefits": [
+    "Seed funding described as a stipend of USD 100,000 over 18 months",
+    "Leadership development, expert resources and a suite of pro-bono expert support",
+    "Virtual and in-person convenings; Fellows become lifelong members of the Echoing Green community",
+    "Free, year-round first step (the Talent Platform) with curated resources for members"
+   ],
+   "relevance": {
+    "academic": "Low",
+    "career": "Medium",
+    "travel": "Low",
+    "networking": "High",
+    "funding": "Very High",
+    "accessibility": "Low",
+    "profile_fit": "Low"
+   },
+   "relevance_reason": "A large, well-known social-entrepreneurship fellowship open to any nationality with no degree requirement, but it suits only someone who has already started and leads a social or business venture. The profile records none and its interests are operations, analysis and programme roles, so it matters only if the applicant has such a venture; the Talent Platform admits about 10 to 20 percent of submissions.",
+   "visa": {
+    "required": "Unknown / Not specified",
+    "support": "Not specified; the organiser states that it does not sponsor U.S. work permits"
+   },
+   "upfront_cost_risk": "None stated: joining the Talent Platform is free ('Does it cost anything? No. Membership is free.') and no fee is mentioned for the Fellowship.",
+   "action": "Read the three essay questions on the Talent Platform page. Request to join only if you have already started a venture that you founded and still lead and can describe it truthfully; the first window closes on 31 March 2027 (later windows tentatively July and October 2027). Joining is free and is not the Fellowship application; apply only through echoinggreen.org.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 November 2026 (scout D): not a result of an earlier phrase; found through a targeted search of the programme by name (a 7th own phrase, one beyond the 4 to 6 asked) after the other searches turned up no open entrepreneurship fellowship with an open nationality rule. The search engine returned the former application URL (echoinggreen.org/fellowship/apply/); the repo reader redirects it to the Talent Platform page, which is the page read. The REQUEST TO JOIN button was not opened. A search-engine summary of the former application page mentioned a minimum age of 18 and fluent English; those lines are not on the pages read and are not recorded as criteria.",
+   "match_keywords": [
+    "echoing green",
+    "echoing green fellowship",
+    "echoing green talent platform"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "nationality",
+      "requirement": "Open to social entrepreneurs of any nationality, working in any country.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "We welcome social entrepreneurs of any nationality, working in any country.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     },
+     {
+      "criterion": "residence",
+      "requirement": "Working in any country (a non-U.S. base is allowed).",
+      "applicant": "Resident of the Democratic Republic of the Congo (city not recorded).",
+      "assessment": "MET",
+      "quote": "We welcome social entrepreneurs of any nationality, working in any country.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     },
+     {
+      "criterion": "education",
+      "requirement": "No educational requirement.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Are there any educational requirements? No.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     },
+     {
+      "criterion": "business",
+      "requirement": "Work that has already started (serving three people counts); incorporation is not needed.",
+      "applicant": "No registered business recorded in the profile; whether any venture or social initiative has been started is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has already started a social or business venture (the page says unstarted work is 'a not yet, not a no').",
+      "quote": "We back unproven, unfunded, and unfinished work, but not unstarted work.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     },
+     {
+      "criterion": "other",
+      "requirement": "The applicant must be a founder or co-founder who started the work and still sets its direction.",
+      "applicant": "No venture or founder role recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant founded a venture and still leads it.",
+      "quote": "Do I need to be the founder? Yes. We back founders and co-founders, the people who started the work and still set its direction.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     },
+     {
+      "criterion": "employment",
+      "requirement": "The Fellowship is described as full time.",
+      "applicant": "No full-time employment recorded; availability for a full-time commitment is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant could work full time on their own venture during the Fellowship.",
+      "quote": "Through our full-time Fellowship, we find people working on plans to make the world better in a big way.",
+      "page": "https://echoinggreen.org/fellowship/"
+     },
+     {
+      "criterion": "age",
+      "requirement": "No age limit is stated on the Talent Platform or Fellowship pages read.",
+      "assessment": "NOT STATED"
+     },
+     {
+      "criterion": "language",
+      "requirement": "No language requirement is stated on the pages read (the pages are in English).",
+      "assessment": "NOT STATED"
+     }
+    ],
+    "funding": [
+     {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "100000",
+      "currency": "USD",
+      "conditions": "Seed funding described as a stipend over 18 months; for for-profit organisations it takes the form of recoverable grants; how it is paid and whether it goes to the founder or the venture are not stated.",
+      "quote": "A stipend over 18 months (100,000 USD). Funding offered to for-profit organizations is in the form of recoverable grants.",
+      "page": "https://echoinggreen.org/fellowship/"
+     },
+     {
+      "item": "participation_fee",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Joining the Talent Platform is free; no fee is mentioned for the Fellowship itself on the pages read.",
+      "quote": "Does it cost anything? No. Membership is free.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     }
+    ],
+    "out_of_pocket": "None stated: joining the Talent Platform is free; the pages say nothing about who pays for travel to in-person convenings or other costs.",
+    "cycles": [
+     {
+      "cycle": "Talent Platform first window (2027)",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "",
+      "deadline": "2027-03-31",
+      "quote": "Request to join the Talent Platform by March 31, 2027 to be included in this first submission period.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     },
+     {
+      "cycle": "Talent Platform later windows (2027)",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "organiser states",
+      "window_text": "Later intake windows are tentatively planned on a quarterly cadence, the next ones in July and October 2027; no dates are given.",
+      "quote": "Subsequent windows are tentatively planned on a quarterly cadence, with the next ones in July and October 2027 respectively.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     },
+     {
+      "cycle": "Fellowship application (2027)",
+      "state": "NOT YET ANNOUNCED",
+      "window_text": "Members are invited to apply when the application opens; selection dates are to be announced in early 2027.",
+      "quote": "Fellowship selection dates will be announced in early 2027.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+     }
+    ]
+   }
+  }
+ ],
+ "lead_outcomes": [
+  {
+   "lead_id": "63f0b17a64f0",
+   "outcome": "PROMOTED",
+   "record_id": "oif-cap-innovation"
+  }
+ ],
+ "blocked": [
+  {
+   "url": "https://yase.eac.int/opportunities/funding/58",
+   "what": "EAC youth platform page (YASE funding listing): WebFetch failed with 'unable to verify the first certificate' (TLS error) and the repo reader returned HTTP 0; no browser this run. Not worked around."
+  },
+  {
+   "url": "https://www.auf.org/projet/incubateur-francophone-africain/",
+   "what": "AUF IFAV programme page: HTTP 403 to the repo reader and to WebFetch. The same 403 came back for https://www.auf.org/lancement-de-lappel-candidatures-de-lincubateur-francophone-africain-virtuel-ifav-2025/ and https://www.auf.org/wp-content/uploads/2025/10/Details-Appel-FR.pdf (both tools). Not worked around; the AUF platform appels-propositions.auf.org is readable."
+  },
+  {
+   "url": "https://appelsaprojets.francophonie.org/fr/directories/appels-a-projets",
+   "what": "OIF call platform listing: only a JavaScript shell (header and footer, no calls) to both the repo reader (HTTP 200) and WebFetch. The single-call page capinnovation2026 on the same platform shows opening and closing dates; the criteria and form do not load."
+  }
+ ],
+ "source_proposals": [
+  {
+   "url": "https://appels-propositions.auf.org/en/",
+   "organization": "Agence universitaire de la Francophonie (AUF)",
+   "why": "AUF platform that lists every current AUF call with launch and closing dates (IFAV, Incub'AUF, Eugen Ionescu scholarships, MT180 DRC, Femme Francophone Entrepreneure, training calls); HTTP 200 with about 490 lines of readable text, while www.auf.org answers 403. Opened 21 November 2026."
+  },
+  {
+   "url": "https://jeunesse.francophonie.org/capinnovation/actualites",
+   "organization": "Organisation internationale de la Francophonie (OIF), youth portal",
+   "why": "News page of the #CAP Innovation programme: the launch of a 3rd call would appear here (the 2nd call was announced 21 April 2026 and closed 10 May 2026). HTTP 200, readable. Opened 21 November 2026."
+  },
+  {
+   "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+   "organization": "Orange Corners RDC (Ingenious City)",
+   "why": "Official DRC hub page of the Orange Corners programme: criteria, FAQ and the yearly December-January call window; HTTP 200, readable. A new cohort call would show here. Opened 21 November 2026."
+  },
+  {
+   "url": "https://startupper.totalenergies.com/en",
+   "organization": "TotalEnergies Foundation (Startupper of the Year Challenge, operated by Agorize)",
+   "why": "Platform with a DRC challenge page (business creation project, ages 18 to 35, idea stage accepted); HTTP 200 and readable; it currently shows only the 2024 edition, so a new edition would appear here. Opened 21 November 2026."
+  },
+  {
+   "url": "https://echoinggreen.org/fellowship/talent-platform/",
+   "organization": "Echoing Green",
+   "why": "Official page with the Talent Platform intake windows (31 March 2027, then tentatively July and October 2027) and the eligibility FAQ; HTTP 200 and readable with the repo reader on 21 November 2026; its Key Dates section will change with each window."
+  }
+ ],
+ "search_log": [
+  {
+   "phrase": "social enterprise programme 2027 Africa grant application",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 18,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "MORE HEALTH for Africa Program 2027 (Boehringer Ingelheim / Villgro Africa)",
+     "url": "https://www.opportunitiesforafricans.com/more-health-for-africa-program-2027-for-african-social-entrepreneurs/",
+     "verdict": "CLOSED / PAST (deadline 10 September 2026 per the aggregator snippet; post-revenue healthcare social enterprises, so also not an idea-stage fit)"
+    },
+    {
+     "name": "100x Impact Accelerator 2027/28",
+     "url": "https://opportunitydesk.org/2026/10/27/100x-impact-accelerator-2027-2028/",
+     "verdict": "ALREADY A LEAD (9cd59542e14b); deadline 2 November 2026 per snippet = CLOSED / PAST, and it is for ventures with proven solutions"
+    },
+    {
+     "name": "Global Good Fund Fellowship 2027",
+     "url": "https://opportunities.youthhubafrica.org/?p=55626",
+     "verdict": "CLOSED / PAST (application phases ended Aug-Oct 2026 per snippet; for founders of operating ventures)"
+    },
+    {
+     "name": "AU-EU Youth Action Lab entrepreneurship grant programme",
+     "url": "https://www2.fundsforngos.org/employment-labor-2/au-eu-youth-action-lab-entrepreneurship-grant-program-2026/",
+     "verdict": "CLOSED / PAST (deadline 7 January 2026; grants go to youth-led organisations)"
+    },
+    {
+     "name": "British Council IAU Enterprise and Innovation Challenge",
+     "url": "https://www.britishcouncil.org/sites/default/files/iau_entrepreneurship_support_organisations_call_guidance.pdf",
+     "verdict": "NOT ELIGIBLE (call for entrepreneurship-support organisations / UK-Africa institutional partnerships; deadline 28 October 2026 past)"
+    },
+    {
+     "name": "Swiss Re Foundation Entrepreneurs for Resilience 2027",
+     "url": "https://csrreporters.com/?p=23951",
+     "verdict": "NEW - NOT RECORDED (award for operating social enterprises; only seen in a snippet, no deadline found)"
+    }
+   ],
+   "records_written": [],
+   "note": "Broad English phrase: returns mostly closed 2026 deadlines on aggregators; nothing open and idea-stage in the first screen."
+  },
+  {
+   "phrase": "entrepreneurship programme 2027 Africa grant seed funding applications",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 16,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Tony Elumelu Foundation Entrepreneurship Programme",
+     "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+     "verdict": "ALREADY A RECORD (tony-elumelu-entrepreneurship-programme-2027)"
+    },
+    {
+     "name": "Anzisha Venture Building Fellowship 2027",
+     "url": "https://www.opportunitiesforafricans.com/?p=102816",
+     "verdict": "CLOSED / PAST (applications closed 10 November 2026 per the search summary)"
+    },
+    {
+     "name": "Halcyon Africa Innovation in Agriculture and Food Security Program 2027",
+     "url": "https://www.opportunitiesforafricans.com/?p=102790",
+     "verdict": "CLOSED / PAST (deadline 23 October 2026 per snippet; agriculture ventures)"
+    },
+    {
+     "name": "Plus Factor Grant Programme (Plus Incubation Hub, Nigeria)",
+     "url": "https://www.thisdaylive.com/2026/02/27/plus-incubation-hub-launches-the-plus-factor-grant-program",
+     "verdict": "CLOSED / PAST (application window closed 15 March 2026; Nigeria-based CSR grant, naira prizes)"
+    },
+    {
+     "name": "Accelerate Africa Start-up programme 2026 (Music In Africa)",
+     "url": "https://www.musicinafrica.net/magazine/open-call-2026-accelerate-africa-start-programme",
+     "verdict": "CLOSED / PAST (2026 call, music-industry startups only)"
+    }
+   ],
+   "records_written": [],
+   "note": "Again aggregator-heavy and mostly closed; one extra search on Plus Factor confirmed it was a closed Nigerian grant - not worth a follow-up. Generic English 'grant seed funding' phrases mostly resurface TEF and closed 2026 calls."
+  },
+  {
+   "phrase": "startup accelerator 2027 Africa applications open equity-free",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 15,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Google for Startups Accelerator Africa / South Africa",
+     "url": "https://startup.google.com/accelerator/africa/",
+     "verdict": "NOT ELIGIBLE (accelerator for operating tech startups; 2026 South Africa round closed 28 August 2026 per the search summary)"
+    },
+    {
+     "name": "Halcyon Africa Innovation in Agriculture and Food Security Program 2027",
+     "url": "https://www.opportunitiesforafricans.com/halcyons-africa-innovation-in-agriculture-and-food-security-program-2027/",
+     "verdict": "CLOSED / PAST (deadline 23 October 2026, invitational deadline 30 October 2026 per snippet)"
+    },
+    {
+     "name": "Accelerate Africa Startup Programme 2026 (Music In Africa)",
+     "url": "https://www.musicinafrica.net/node/390930",
+     "verdict": "CLOSED / PAST (deadline 25 July 2026; music startups)"
+    },
+    {
+     "name": "Africa Business Accelerator 2027 (Cohort 1) / Africa SME Assembly",
+     "url": "https://za.linkedin.com/in/dumi-m-bb853920b",
+     "verdict": "NEW - NOT RECORDED (seen only in LinkedIn posts, no organiser page, no equity or fee terms: fails the identifiable-organiser screen)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: corporate accelerators for operating startups, all 2026 deadlines past."
+  },
+  {
+   "phrase": "business plan competition 2027 Africa prize applications",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 18,
+   "opened": [
+    "https://www.africa-hbsclub.com/conference/new-venture-competition",
+    "https://yase.eac.int/opportunities/funding/58"
+   ],
+   "candidates": [
+    {
+     "name": "HBS Africa Business Club New Venture Competition (2027 edition, final 5-6 February 2027)",
+     "url": "https://www.africa-hbsclub.com/conference/new-venture-competition",
+     "verdict": "NOT ELIGIBLE (organiser page, still showing the 2026 rules, requires 'At least a prototype or MVP' and 'Less than 5 years in operation': an operating venture; profile has no business)"
+    },
+    {
+     "name": "Africa Prize for Engineering Innovation 2027 (Royal Academy of Engineering)",
+     "url": "https://raeng.org.uk/news/the-2027-africa-prize-for-engineering-innovation-calls-for-applications-across-sub-saharan-africa/",
+     "verdict": "CLOSED / PAST (stage 1 closed 8 September 2026 per the search summary; engineering innovations)"
+    },
+    {
+     "name": "Africa's Business Heroes (8th edition)",
+     "url": "https://www.howwemadeitinafrica.com/africas-business-heroes-launches-8th-edition-with-1-5m-in-funding-available-for-african-entrepreneurs/183994/",
+     "verdict": "CLOSED / PAST (2026 edition closed 7 May 2026; watchlist item: skip unless running a business)"
+    },
+    {
+     "name": "Learnstar Startup Challenge 2027",
+     "url": "https://techbuild.africa/?p=459776",
+     "verdict": "NEW - NOT RECORDED (Nigeria-specific naira prize, closes 15 December 2026; not opened)"
+    },
+    {
+     "name": "EAC YASE funding listing no. 58",
+     "url": "https://yase.eac.int/opportunities/funding/58",
+     "verdict": "BLOCKED (TLS certificate error in WebFetch, HTTP 0 in the repo reader)"
+    },
+    {
+     "name": "Rice Business Plan Competition",
+     "url": "https://www.advance-africa.com/rice-business-plan-competition-for-collegiate-startups.html",
+     "verdict": "NOT ELIGIBLE (collegiate student startups, US university teams)"
+    }
+   ],
+   "records_written": [],
+   "note": "Business-plan phrase surfaced well-known competitions but each one needs an operating venture or an engineering product, or has already closed. The YASE site (EAC, which now includes the DRC) is a possible source but is unreadable here."
+  },
+  {
+   "phrase": "incubateur accélérateur 2027 Afrique francophone candidature",
+   "lang": "fr",
+   "origin": "plan",
+   "results_seen": 17,
+   "opened": [
+    "https://www.auf.org/wp-content/uploads/2025/10/Details-Appel-FR.pdf",
+    "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-cap-innovation-creation-accompagnement-propulsion-l-oif-aux-cotes-des-jeunes-francophones",
+    "https://appelsaprojets.francophonie.org/fr",
+    "https://appelsaprojets.francophonie.org/fr/directories/appels-a-projets",
+    "https://jeunesse.francophonie.org/capinnovation",
+    "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488",
+    "https://www.francophonie.org/node/125",
+    "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+    "https://appels-propositions.auf.org/en/",
+    "https://afri-carrieres.com/2025/08/candidature-au-programme-ifav.html"
+   ],
+   "candidates": [
+    {
+     "name": "OIF #CAP Innovation (youth entrepreneurship, EUR 10,000 prizes; 2nd call closed 10 May 2026)",
+     "url": "https://jeunesse.francophonie.org/capinnovation",
+     "verdict": "NEW - RECORD WRITTEN (oif-cap-innovation)"
+    },
+    {
+     "name": "AUF IFAV, Incubateur Francophone Africain Virtuel (2026 call closed 11 October 2026)",
+     "url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+     "verdict": "NEW - RECORD WRITTEN (auf-ifav-incubateur-francophone-africain-virtuel)"
+    },
+    {
+     "name": "OIF call for incubators of innovations, Congo Basin 2026 (PDF)",
+     "url": "https://www.francophonie.org/sites/default/files/2026-01/Appel_incubateurs_innovations_Bassin_Congo_2026.pdf",
+     "verdict": "NOT ELIGIBLE (call addressed to incubator structures, which must present their mission, team and track record; not opened, from the search summary)"
+    },
+    {
+     "name": "OIF call for agricultural entrepreneurship, Congo Basin 2026 (PDF)",
+     "url": "https://www.francophonie.org/sites/default/files/2026-01/Appel_entrepreneuriat_agricole_Bassin_Congo_2026.pdf",
+     "verdict": "NEW - NOT RECORDED (January 2026 call, almost certainly closed and for agricultural ventures; not opened)"
+    },
+    {
+     "name": "AfCFTA partnership programme accelerator 2026",
+     "url": "https://au-afcfta.org/wp-content/uploads/2026/05/FR_2026-AfCFTA-partenership-program-Accelerator.docx",
+     "verdict": "NOT ELIGIBLE (2026 accelerator for operating AfCFTA start-ups; not opened)"
+    },
+    {
+     "name": "AUDA-NEPAD Home Grown Solutions accelerator 2026",
+     "url": "https://vc4a.com/auda-nepad/hgs-2026/?lang=fr",
+     "verdict": "CLOSED / PAST (deadline 19 May 2026 per search summary; local health solutions)"
+    },
+    {
+     "name": "Miller Center social start-up accelerator (Africa)",
+     "url": "https://fr.allafrica.com/stories/202504070436.html",
+     "verdict": "NOT ELIGIBLE (accelerator for operating social enterprises; April 2025 news item)"
+    }
+   ],
+   "records_written": [
+    "oif-cap-innovation",
+    "auf-ifav-incubateur-francophone-africain-virtuel"
+   ],
+   "note": "Best phrase so far: two recurring francophone youth-entrepreneurship programmes found, both idea-stage friendly and with closed 2026 calls. The follow-up searches (OIF 2026 edition; AUF-only IFAV search) did the real work; AUF HTML pages answer 403 but its call platform is readable."
+  },
+  {
+   "phrase": "programme de leadership 2027 jeunes professionnels Afrique",
+   "lang": "fr",
+   "origin": "plan",
+   "results_seen": 16,
+   "opened": [
+    "https://acep.africa/nextgen11/",
+    "https://acep.africa/nextgen-program-application/",
+    "https://acep.africa/welcome-to-the-acep-next-generation-resource-governance-leaders-program/",
+    "https://acep.africa/tag/nextgen-leaders/",
+    "https://acep.africa/"
+   ],
+   "candidates": [
+    {
+     "name": "ACEP Next Generation Resource Governance Leaders Program (Africa Centre for Energy Policy; 11th cohort closed 21 June 2026)",
+     "url": "https://acep.africa/nextgen11/",
+     "verdict": "NEW - RECORD WRITTEN (acep-next-generation-resource-governance-leaders-program)"
+    },
+    {
+     "name": "French-African Foundation Young Leaders programme 2027",
+     "url": "https://www.opportunitiesforyouth.org/2026/11/16/french-african-foundation-young-leaders-programme-2027-applications-open-for-emerging-african-and-french-leaders/",
+     "verdict": "ALREADY A RECORD (french-african-foundation-young-leaders)"
+    },
+    {
+     "name": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS)",
+     "url": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027)"
+    },
+    {
+     "name": "Ibrahim Leadership Fellowship 2027 (Mo Ibrahim Foundation)",
+     "url": "https://mo.ibrahim.foundation/fellowships",
+     "verdict": "ALREADY A LEAD (bdfafeccecab, first-pass outcome exists; deadline 20 November 2026 per the search summary)"
+    },
+    {
+     "name": "Archbishop Tutu Leadership Fellowship 2027 (African Leadership Institute)",
+     "url": "https://opportunitiesforafricans.com/african-leadership-institute-afli-archbishop-tutu-fellowship-programme-2027",
+     "verdict": "NOT ELIGIBLE (age range 30 to 39 and nomination-only, nominations closed 20 September 2026; from search summary, official page not opened; profile is recorded as under 30)"
+    },
+    {
+     "name": "KOICA Youth Leaders Program 2026-2027",
+     "url": "https://gimpa.edu.gh/?p=15703",
+     "verdict": "NOT ELIGIBLE (five-country list: Ghana, Nigeria, Senegal, Cote d'Ivoire, Cameroon, DRC not on it; deadline 17 June 2026; from search summary, not opened)"
+    },
+    {
+     "name": "ECOWAS Young Professionals Immersion Programme 2027",
+     "url": "https://www.emploitogo.info/?p=141133",
+     "verdict": "NOT ELIGIBLE (ECOWAS member-state nationals; window 31 July to 31 August 2026 closed; from search summary, not opened)"
+    }
+   ],
+   "records_written": [
+    "acep-next-generation-resource-governance-leaders-program"
+   ],
+   "note": "Useful: the leadership phrase surfaced one new fit (ACEP, policy-research internship) and re-found four stored or excluded programmes, which confirms the stored coverage of leadership fellowships; the rest are age-banded (30-39, 28-40) or country-restricted."
+  },
+  {
+   "phrase": "programa de empreendedorismo 2027 África candidaturas abertas financiamento",
+   "lang": "pt",
+   "origin": "plan",
+   "results_seen": 15,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Tony Elumelu Foundation Entrepreneurship Programme (Portuguese pages)",
+     "url": "https://www.tonyelumelufoundation.org/articles/fundacao-tony-elumelu-inaugura-programa-de-empreendedorismo-2026",
+     "verdict": "ALREADY A RECORD (tony-elumelu-entrepreneurship-programme-2027)"
+    },
+    {
+     "name": "Erasmus+ capacity building in the field of youth, Sub-Saharan Africa (GrantBite listing)",
+     "url": "https://www.grantbite.com/pt/funding/erasmus-capacitacao-juventude-africa-subsariana",
+     "verdict": "NOT ELIGIBLE (cooperation grants for organisations, not individuals; not opened)"
+    },
+    {
+     "name": "IMVF applicant guide DKEJ (November 2025)",
+     "url": "https://www.imvf.org/wp-content/uploads/2025/12/20251126-guia-do-requerente-dkej.pdf",
+     "verdict": "NEW - NOT RECORDED (applicant guide of a Portuguese NGO call, apparently for organisations; not opened)"
+    },
+    {
+     "name": "Mastercard Foundation FAST programme call",
+     "url": "https://expansao.co.ao/mundo/africa/detalhe/fundacao-tony-elumelu-reforca-aposta-em-africa-com-16-milhoes-usd-para-3200-empreendedores-70790.html",
+     "verdict": "NEW - NOT RECORDED (only a passing mention in the search summary, no dates and no organiser page found)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: the Portuguese phrase returns only TEF pages and organisation-level EU grants; Lusophone programmes aimed at PALOP countries would not list the DRC anyway."
+  },
+  {
+   "phrase": "programa de emprendimiento 2027 África convocatoria abierta financiamiento",
+   "lang": "es",
+   "origin": "plan",
+   "results_seen": 15,
+   "opened": [
+    "https://exteriores.gob.es/Embajadas/yaunde/es/Comunicacion/Noticias/Paginas/Articulos/20260704_NOT01_Becas-LEARN-Africa-2026-2027.aspx"
+   ],
+   "candidates": [
+    {
+     "name": "LEARN Africa 2026-2027 scholarships (Fundacion Mujeres por Africa)",
+     "url": "https://exteriores.gob.es/Embajadas/yaunde/es/Comunicacion/Noticias/Paginas/Articulos/20260704_NOT01_Becas-LEARN-Africa-2026-2027.aspx",
+     "verdict": "NOT AN OPPORTUNITY for this channel (cross-channel: C; postgraduate scholarships for African women, no country list or dates on the embassy news page, DRC not named; gender is not recorded in the profile)"
+    },
+    {
+     "name": "Cartier Women's Initiative 2027",
+     "url": "https://vc4a.com/events/event/vc4africa-london-meetup/?lang=es",
+     "verdict": "NOT ELIGIBLE (programme for women-led businesses already operating; only a listing seen, not opened)"
+    },
+    {
+     "name": "MORE HEALTH for Africa 2027 (Boehringer Ingelheim / Villgro Africa)",
+     "url": "https://nextbillion.net/business-development/2027-more-health-for-africa-program/",
+     "verdict": "CLOSED / PAST (deadline 10 September 2026; seen in phrase 1)"
+    },
+    {
+     "name": "develoPPP Ventures (Kenya, Rwanda, Tanzania)",
+     "url": "https://vc4a.com/events/vc4africa-meetup-menia/?lang=es",
+     "verdict": "NOT ELIGIBLE (three-country list without the DRC; growth-stage start-ups; from the listing snippet, not opened)"
+    },
+    {
+     "name": "EU-LAC Digital Accelerator, IDB venture funds",
+     "url": "https://www.eeas.europa.eu/delegations/chile/sexta-convocatoria-del-eu-lac-digital-accelerator_es",
+     "verdict": "NOT ELIGIBLE (Europe and Latin America start-ups, not Africa)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: Spanish-language results are corporate or EU/LatAm programmes and one women-only postgraduate scholarship (channel C). No Spanish-language programme open to the DRC found."
+  },
+  {
+   "phrase": "RDC Kinshasa appel à candidatures jeunes entrepreneurs incubateur concours 2027",
+   "lang": "fr",
+   "origin": "own",
+   "results_seen": 18,
+   "opened": [
+    "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+    "https://acp.cd/business/la-8eme-cohorte-dun-programme-dencadrement-des-jeunes-entrepreneurs-annoncee-a-kinshasa/",
+    "https://acp.cd/business/kinshasa-appel-a-la-participation-au-programme-de-renforcement-des-capacites-debout-bilenge/",
+    "https://acp.cd/business/rdc-un-accord-de-partenariat-pour-lancer-le-concours-de-plans-daffaires-digital/"
+   ],
+   "candidates": [
+    {
+     "name": "Orange Corners RDC (10-month programme, Congolese aged 18 to 35, call December-January)",
+     "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+     "verdict": "NEW - RECORD WRITTEN (orange-corners-rdc-incubation-programme)"
+    },
+    {
+     "name": "Debout Bilenge, 2nd cohort 2026-2028 (EU-funded youth leaders, Kinshasa, ages 18 to 29)",
+     "url": "https://acp.cd/business/kinshasa-appel-a-la-participation-au-programme-de-renforcement-des-capacites-debout-bilenge/",
+     "verdict": "CLOSED / PAST (applications closed 5 April 2026 per the ACP article; no next cohort announced)"
+    },
+    {
+     "name": "COPA Digital business-plan competition (PTN and Transforme projects)",
+     "url": "https://acp.cd/business/rdc-un-accord-de-partenariat-pour-lancer-le-concours-de-plans-daffaires-digital/",
+     "verdict": "NEW - NOT RECORDED (partnership signed 20 September 2026; no call, criteria or dates published; aimed at start-ups, digital SMEs and incubators)"
+    },
+    {
+     "name": "SADEK-RDC / GIE incubation programme with OHADA training (Kinshasa, Uvira, Goma, Gemena)",
+     "url": "https://www.ohada.com/actualite/8162/programme-dincubation-entrepreneuriale-et-formation-ohada-a-kinshasa-uvira-goma-et-gemena-rdc.html",
+     "verdict": "CLOSED / PAST (June to September 2026 programme per the search summary; not opened)"
+    },
+    {
+     "name": "Prix Ubora 2026 for SMEs",
+     "url": "https://acp.cd/business/rdc-lancement-du-prix-ubora-2026-pour-recompenser-les-pme/",
+     "verdict": "CLOSED / PAST (deadline 23 April 2026 per the search summary; SMEs with an operating business)"
+    },
+    {
+     "name": "COPA Jeunes entrepreneurs (PADMPME business-plan competition, vc4a listing)",
+     "url": "https://vc4a.com/padmpme/copa-jeunes-entrepreneurs/?lang=fr",
+     "verdict": "NEW - NOT RECORDED (old project listing, no current call seen; not opened)"
+    },
+    {
+     "name": "Rawbank agreements with three incubators",
+     "url": "https://fr.allafrica.com/stories/202506100125.html",
+     "verdict": "NOT AN OPPORTUNITY (June 2025 news item, no call)"
+    },
+    {
+     "name": "FIJEC forum semi-final (Kinshasa, October 2026)",
+     "url": "https://acp.cd/business/rdc-32-jeunes-finalistes-dun-programme-entrepreneurial-presentent-leurs-projets-a-kinshasa/",
+     "verdict": "NOT AN OPPORTUNITY (news about finalists; no open call)"
+    },
+    {
+     "name": "Louvain Cooperation youth call and Africalia Mozalisi entrepreneurship call (Kinshasa PDFs)",
+     "url": "https://africalia.be/wp-content/uploads/2024/01/APPEL-a-publier-PROGRAMME-entrepreneuriat-RDC-MOZALISI-KIN-1-4.pdf",
+     "verdict": "CLOSED / PAST (2024 calls for projects, cultural and youth organisations; not opened)"
+    }
+   ],
+   "records_written": [
+    "orange-corners-rdc-incubation-programme"
+   ],
+   "note": "Best own phrase: naming the DRC and Kinshasa in French surfaced DRC-specific programmes that the broad Africa phrases never show (Orange Corners RDC, Debout Bilenge, COPA Digital). The ACP news agency is a good discovery source for DRC calls."
+  },
+  {
+   "phrase": "Startupper de l'année TotalEnergies RDC candidature jeunes entrepreneurs Congo 2026 2027",
+   "lang": "fr",
+   "origin": "own",
+   "results_seen": 17,
+   "opened": [
+    "https://startupper.totalenergies.com/fr/challenges/rdc-project?lang=en",
+    "https://startupper.totalenergies.com/es/challenges/rdc-project/pages/modalites",
+    "https://startupper.totalenergies.com/?locale=en"
+   ],
+   "candidates": [
+    {
+     "name": "Startupper of the Year Challenge by TotalEnergies, DRC (business creation project, ages 18 to 35, idea stage accepted)",
+     "url": "https://startupper.totalenergies.com/fr/challenges/rdc-project?lang=en",
+     "verdict": "NEW - NOT RECORDED (the platform shows only the 4th edition, 2024, deadline 18 June 2024; its home page still congratulates the 2024 winners and lists no later edition or open call. Rules read: 18 to 35, resident of the applying country, a startup under 3 years old or a business idea. DRC is one of the participating countries)"
+    }
+   ],
+   "records_written": [],
+   "note": "The DRC is a participating country and the rules accept an idea, but no 2025-2027 edition appears on the organiser's platform, so there is nothing current to record; worth a watch in the next cycle (check startupper.totalenergies.com each spring)."
+  },
+  {
+   "phrase": "Enabel GIZ AFD Expertise France RDC appel à candidatures jeunes porteurs de projets entrepreneuriat programme 2026 2027 Kinshasa",
+   "lang": "fr",
+   "origin": "own",
+   "results_seen": 17,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Expertise France New Leaders Lab (Africa-Europe Youth Academy)",
+     "url": "https://www.eeas.europa.eu/delegations/togo/appel-d%E2%80%99offres-new-leaders-lab-aeya_fr",
+     "verdict": "NOT ELIGIBLE (tender for implementing partners, closed 2 February 2026 per search summary; not opened)"
+    },
+    {
+     "name": "Pour Elles project (AFD, Expertise France) women's entrepreneurship, new phase",
+     "url": "https://acp.cd/business/expertise-france-a-kinshasa-echanges-sur-la-promotion-de-lentrepreneuriat-feminin/",
+     "verdict": "NOT AN OPPORTUNITY (news about a project phase; no open call; women's entrepreneurship)"
+    },
+    {
+     "name": "Enabel DRC calls (MSME access to finance, Jeunesse Creative expression of interest, women's entrepreneurship)",
+     "url": "https://www.enabel.be/app/uploads/2026/06/DI23007-10231-Lignes-directrices-AaP-Appui-a-la-facilitation-dacces-au-financement-des-MPME.pdf",
+     "verdict": "NOT ELIGIBLE (guidelines for organisations and MSMEs; Jeunesse Creative deadline 20 October 2025 per summary; not opened)"
+    },
+    {
+     "name": "OIF REPAC call for youth agricultural entrepreneurship, Congo Basin",
+     "url": "https://www.francophonie.org/sites/default/files/2026-01/Appel_entrepreneuriat_agricole_Bassin_Congo_2026.pdf",
+     "verdict": "CLOSED / PAST (deadline 13 March 2026 per search summary; agricultural ventures; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: a four-organisation phrase returns guideline PDFs for organisations and closed calls; donor-by-donor searches would be needed (GIZ returned nothing)."
+  },
+  {
+   "phrase": "innovation challenge 2027 Africa youth prize deadline",
+   "lang": "en",
+   "origin": "bank",
+   "results_seen": 17,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Africa Prize for Engineering Innovation 2027 (Royal Academy of Engineering)",
+     "url": "https://raeng.org.uk/news/the-2027-africa-prize-for-engineering-innovation-calls-for-applications-across-sub-saharan-africa/",
+     "verdict": "CLOSED / PAST (stage 1 closed 8 September 2026; engineering innovations by entrepreneurs; seen in phrase 4)"
+    },
+    {
+     "name": "11th Africa Energy Innovation Challenge 2026",
+     "url": "https://opportunitydesk.org/2026/08/19/11th-africa-energy-innovation-challenge-2026/",
+     "verdict": "CLOSED / PAST (deadline 10 September 2026; early-stage energy entrepreneurs)"
+    },
+    {
+     "name": "Africa Youth Future Forward Innovation Challenge 2026",
+     "url": "https://opportunitiesforyouth.org/2026/05/12/africa-youth-future-forward-innovation-challenge-2026-win-funding-meet-investors-and-scale-your-impact-across-africa/",
+     "verdict": "CLOSED / PAST (summit 8-9 October 2026, Johannesburg)"
+    },
+    {
+     "name": "Wege Prize 2027",
+     "url": "https://opportunitydesk.org/2026/08/19/wege-prize-2027/",
+     "verdict": "CLOSED / PAST (deadline 4 October 2026; not Africa-specific)"
+    },
+    {
+     "name": "Presidential African Youth in AI and Robotics Competition",
+     "url": "https://www2.fundsforngos.org/?p=460458",
+     "verdict": "CLOSED / PAST (deadline 30 June 2026 per snippet)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: every innovation challenge surfaced closed between May and October 2026; a mid-November search finds the cycle's closed calls, not the next ones."
+  },
+  {
+   "phrase": "bolsa programa de liderança jovens profissionais africanos 2027 candidaturas abertas fundação",
+   "lang": "pt",
+   "origin": "own",
+   "results_seen": 16,
+   "opened": [
+    "https://www.idos-research.de/en/training/shaping-futures-academy/application-and-requirements/"
+   ],
+   "candidates": [
+    {
+     "name": "Shaping Futures Academy 2027 (IDOS, Bonn and Brussels, deadline 14 December 2026)",
+     "url": "https://www.idos-research.de/en/training/shaping-futures-academy/application-and-requirements/",
+     "verdict": "NOT ELIGIBLE (organiser's page: 'Africa : Côte d'Ivoire, Kenya, Morocco, Togo and Zambia'; the DRC is not on the list; also 'be aged 28-40 at the time of application' and employer support for mid-career professionals)"
+    },
+    {
+     "name": "French-African Foundation Young Leaders programme 2027",
+     "url": "https://opportunitiesforyouth.org/2026/11/16/french-african-foundation-young-leaders-programme-2027-applications-open-for-emerging-african-and-french-leaders/?amp=1",
+     "verdict": "ALREADY A RECORD (french-african-foundation-young-leaders)"
+    },
+    {
+     "name": "Mo Ibrahim Foundation Leadership Fellowship 2027",
+     "url": "https://opportunitiesforafricans.com/the-mo-ibrahim-foundation-leadership-fellowship-programme-2027",
+     "verdict": "ALREADY A LEAD (bdfafeccecab, first-pass outcome exists; deadline 20 November 2026 per snippet)"
+    },
+    {
+     "name": "Mandela Washington Fellowship 2027 (YALI)",
+     "url": "https://ng.linkedin.com/in/joy-origho-94657015b",
+     "verdict": "ALREADY A RECORD (mandela-washington-fellowship-2027, reserved id)"
+    },
+    {
+     "name": "Learn Africa 2026 (Fundacion Mujeres por Africa)",
+     "url": "https://mujeresporafrica.es/en/noticias/applications-open-for-learn-africa-2026-over-100-scholarships-to-support-womens-talent/",
+     "verdict": "NOT AN OPPORTUNITY for this channel (cross-channel: C; postgraduate scholarships for African women; seen in phrase 8)"
+    },
+    {
+     "name": "Africa Matters Future Pathways Program (Claremont, internship listing)",
+     "url": "https://www.idealist.org/pt/ong-estagio/c8e082d6208349d58178206086e1bb91-africa-matters-future-pathways-program-africa-matters-initiative-claremont",
+     "verdict": "NEW - NOT RECORDED (US-based internship listing on Idealist; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful for new records: the Portuguese phrase mostly returns English listings of programmes already stored; it did show that the 2027 Shaping Futures Academy excludes the DRC."
+  },
+  {
+   "phrase": "becas programa de liderazgo jóvenes profesionales africanos 2027 convocatoria Casa África",
+   "lang": "es",
+   "origin": "own",
+   "results_seen": 16,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Learn Africa 2026-2027 (Fundacion Mujeres por Africa)",
+     "url": "https://exteriores.gob.es/Embajadas/nouakchott/es/Comunicacion/Noticias/Paginas/Articulos/20260406_NOT.aspx",
+     "verdict": "NOT AN OPPORTUNITY for this channel (cross-channel: C; postgraduate scholarships for African women; read in phrase 8, no country list or DRC mention)"
+    },
+    {
+     "name": "LiderAfrica Erasmus+ KA171 (Cadiz, Huelva, Las Palmas, La Laguna, Casa Africa)",
+     "url": "https://www.ull.es/internacional/erasmus/incoming-erasmus-estudios-ka171-liderafrica/",
+     "verdict": "NOT ELIGIBLE (mobility for students of partner African universities only, academic; cross-channel: C; not opened)"
+    },
+    {
+     "name": "MAEC-AECID scholarships 2026-2027 (Escuela Diplomatica, officials)",
+     "url": "https://www.uam.es/uam/oficinasolidaria/convocatorias-externas/maec-aecid-becas-26-27",
+     "verdict": "NOT ELIGIBLE (cross-channel: B; places for public officials and professionals of public systems; not opened)"
+    },
+    {
+     "name": "Fundacion Carolina Jovenes Lideres Iberoamericanos (JLI)",
+     "url": "https://www.fundacioncarolina.es/wp-content/uploads/2025/06/Dossier_Participantes_JLI_2025_web.pdf",
+     "verdict": "NOT ELIGIBLE (Ibero-American leaders programme, 2025 dossier; not Africa)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: Spanish-language leadership programmes for Africans are postgraduate scholarships for women (channel C), mobility for partner-university students or programmes for public officials (channel B)."
+  },
+  {
+   "phrase": "Echoing Green Fellowship 2027 application deadline eligibility idea stage social entrepreneurs",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 10,
+   "opened": [
+    "https://echoinggreen.org/fellowship/talent-platform/",
+    "https://echoinggreen.org/fellowship/"
+   ],
+   "candidates": [
+    {
+     "name": "Echoing Green Fellowship and Talent Platform",
+     "url": "https://echoinggreen.org/fellowship/talent-platform/",
+     "verdict": "NEW - RECORDED (echoing-green-fellowship): any nationality working in any country, no educational requirement, free Talent Platform with a first window closing 31 March 2027, stipend of USD 100,000 over 18 months; needs a founder whose work has already started, so POSSIBLY ELIGIBLE with the venture unknown and profile fit low"
+    }
+   ],
+   "records_written": [
+    "echoing-green-fellowship"
+   ],
+   "note": "Targeted search of a named programme taken from my own list (not a result of an earlier phrase): a 7th own phrase, one beyond the 4 to 6 asked. The search returned the former application URL (/fellowship/apply/), which the repo reader redirected to /fellowship/talent-platform/."
+  }
+ ],
+ "notes": "CLOSING SUMMARY, channel D (Professional and entrepreneurship), DISCOVERY pass of 2026-11-21.\n\nPHRASES: 15 logged in search_log. 8 plan phrases (en 4, fr 2, pt 1, es 1) and 7 own or bank phrases (fr 3, pt 1, es 1, en bank 1, en own 1). The 7th own phrase is a targeted search of Echoing Green taken from my own list, one beyond the 4 to 6 asked. Results seen 241, 28 distinct pages opened, 74 candidates logged.\n\nOUTPUT: 5 new records, 0 patches, 1 lead outcome (PROMOTED 63f0b17a64f0 -> oif-cap-innovation). The 12 channel-D leads of the plan were all handled before this pass; the evidence_backlog (jim-leech, afox-oxford-mba, tony-elumelu) was not worked, as it was not requested. Checks: judge.py check 5 records, 0 blocked, 0 review; quotecheck --batch 49 quotes, 49 found, 0 not found (every quote read with the repo reader; WebFetch only produced summaries).\n\nRECORDS: four recurring programmes with no call open on 21 November 2026 (deadline empty, open_now false, no predicted date): oif-cap-innovation (2nd call closed 10 May 2026), auf-ifav-incubateur-francophone-africain-virtuel (2026 call closed 11 October 2026), acep-next-generation-resource-governance-leaders-program (11th cohort closed 21 June 2026), orange-corners-rdc-incubation-programme (organiser states a yearly window of December to January). One open now: echoing-green-fellowship (free Talent Platform, first window closes 31 March 2027; needs a founder whose work has already started).\n\nDRC POSITION: MET by name or by an all-nationalities sentence for oif-cap-innovation (the OIF member list names Congo (RD); the call is open to the 90 member states), orange-corners-rdc (Congolese, 18 to 35) and echoing-green (any nationality, working in any country). UNKNOWN for auf-ifav ('Afrique francophone', no country list) and acep ('young African residing in Africa', no list), so those two stay POSSIBLY ELIGIBLE at most. Two records (orange-corners-rdc, echoing-green) turn on whether the applicant has a started venture, which the profile does not record.\n\nSECONDARY SOURCE: the 2025 IFAV dates in the AUF record come from afri-carrieres.com (type Aggregator, labelled in the record); the 2026 page of appels-propositions.auf.org is the official one.\n\nCROSS-CHANNEL FINDS (not written): LEARN Africa 2026-2027 scholarships of Fundacion Mujeres por Africa (channel C, postgraduate, African women); LiderAfrica Erasmus+ KA171 (channel C, students of partner African universities only); MAEC-AECID 2026-2027 scholarships (channel B, public officials); Shaping Futures Academy 2027 of IDOS (mid-career, aged 28 to 40; the DRC is not on its list: Cote d'Ivoire, Kenya, Morocco, Togo, Zambia; excluded). Leads seen in results and not worked: 68f30433178b St. Gallen Global Ideas Competition, 214f15a2cdce FES Young Leaders, 6f7fee66a730 OIF Mission economique. Leads b69fe1d94953 and d5b0bf408ded (Ashoka Young Changemakers, nomination-based and Nigeria 2027) are in the lead store but not in channel D's packet.\n\nRESERVED IDS: no observation to report.\n\nWATCH ITEMS (no record): Startupper of the Year by TotalEnergies has a DRC challenge page (business creation project, 18 to 35, idea stage accepted) but the platform shows only the 2024 edition, so check startupper.totalenergies.com each spring. COPA Digital (partnership signed 20 September 2026, no call yet). Debout Bilenge (2nd cohort 2026-2028, applications closed 5 April 2026). Incub'AUF 2026 and Femme Francophone Entrepreneure belong to AUF Middle East and were not recorded. acp.cd (Agence Congolaise de Presse, business section) reports DRC calls such as Orange Corners and Pour Elles; it was not probed as a listing page, so it is not proposed as a source.\n\nLEFT OUT AS SCAM-LIKE OR UNVERIFIABLE: 'Africa Business Accelerator 2027 (Cohort 1)' and 'Africa SME Assembly 2027' (LinkedIn posts only, no organiser page, no terms).\n\nBLOCKED (no workaround tried): yase.eac.int funding listing 58 (TLS certificate error in WebFetch, HTTP 0 in the repo reader); www.auf.org pages (403 to both readers); appelsaprojets.francophonie.org directory (JavaScript shell, no calls shown).\n\nUNRESOLVED: the Orange Corners 'APPLY NOW' bit.ly link and the Echoing Green REQUEST TO JOIN button were not opened (no registration or application action taken)."
+}

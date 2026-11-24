@@ -1,0 +1,113 @@
+{
+  "id": "echoing-green-fellowship",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Open to social entrepreneurs of any nationality, working in any country.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "We welcome social entrepreneurs of any nationality, working in any country.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Working in any country (a non-U.S. base is allowed).",
+      "applicant": "Resident of the Democratic Republic of the Congo (city not recorded).",
+      "assessment": "MET",
+      "quote": "We welcome social entrepreneurs of any nationality, working in any country.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No educational requirement.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Are there any educational requirements? No.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    },
+    {
+      "criterion": "business",
+      "requirement": "Work that has already started (serving three people counts); incorporation is not needed.",
+      "applicant": "No registered business recorded in the profile; whether any venture or social initiative has been started is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has already started a social or business venture (the page says unstarted work is 'a not yet, not a no').",
+      "quote": "We back unproven, unfunded, and unfinished work, but not unstarted work.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "The applicant must be a founder or co-founder who started the work and still sets its direction.",
+      "applicant": "No venture or founder role recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant founded a venture and still leads it.",
+      "quote": "Do I need to be the founder? Yes. We back founders and co-founders, the people who started the work and still set its direction.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    },
+    {
+      "criterion": "employment",
+      "requirement": "The Fellowship is described as full time.",
+      "applicant": "No full-time employment recorded; availability for a full-time commitment is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant could work full time on their own venture during the Fellowship.",
+      "quote": "Through our full-time Fellowship, we find people working on plans to make the world better in a big way.",
+      "page": "https://echoinggreen.org/fellowship/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No age limit is stated on the Talent Platform or Fellowship pages read.",
+      "assessment": "NOT STATED"
+    },
+    {
+      "criterion": "language",
+      "requirement": "No language requirement is stated on the pages read (the pages are in English).",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "100000",
+      "currency": "USD",
+      "conditions": "Seed funding described as a stipend over 18 months; for for-profit organisations it takes the form of recoverable grants; how it is paid and whether it goes to the founder or the venture are not stated.",
+      "quote": "A stipend over 18 months (100,000 USD). Funding offered to for-profit organizations is in the form of recoverable grants.",
+      "page": "https://echoinggreen.org/fellowship/"
+    },
+    {
+      "item": "participation_fee",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Joining the Talent Platform is free; no fee is mentioned for the Fellowship itself on the pages read.",
+      "quote": "Does it cost anything? No. Membership is free.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    }
+  ],
+  "out_of_pocket": "None stated: joining the Talent Platform is free; the pages say nothing about who pays for travel to in-person convenings or other costs.",
+  "cycles": [
+    {
+      "cycle": "Fellowship application (2027)",
+      "state": "NOT YET ANNOUNCED",
+      "window_text": "Members are invited to apply when the application opens; selection dates are to be announced in early 2027.",
+      "quote": "Fellowship selection dates will be announced in early 2027.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    },
+    {
+      "cycle": "Talent Platform later windows (2027)",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "organiser states",
+      "window_text": "Later intake windows are tentatively planned on a quarterly cadence, the next ones in July and October 2027; no dates are given.",
+      "quote": "Subsequent windows are tentatively planned on a quarterly cadence, with the next ones in July and October 2027 respectively.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    },
+    {
+      "cycle": "Talent Platform first window (2027)",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "",
+      "deadline": "2027-03-31",
+      "quote": "Request to join the Talent Platform by March 31, 2027 to be included in this first submission period.",
+      "page": "https://echoinggreen.org/fellowship/talent-platform/"
+    }
+  ]
+}

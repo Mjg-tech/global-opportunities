@@ -1,0 +1,530 @@
+{
+  "channel": "B",
+  "records": [
+    {
+      "id": "rlc-east-africa",
+      "program_dates": "4-week residential programme at Kenyatta University, Nairobi (blended and fully online cohorts are also offered); the next cohort's dates are not announced",
+      "deadline_text": "Admissions page (read 19 November 2026), section 'Upcoming Cohorts' headed '2025 Program Schedule': 'New cohort dates will be announced soon. Stay tuned!' No open cohort or deadline is shown. The FAQ adds that applications not submitted by the indicated deadline for the cohort are not considered.",
+      "funding_type": "Funding Unclear",
+      "funding_details": [
+        "The only cost list is in the FAQ, written for the former YALI Regional Leadership Center East Africa programme (it still sends applicants to www.yalieastafrica.org): FAQ: 'If you are selected to participate in the Regional Leadership Center East Africa program, all of the following expenses will be covered by the program': visa to Kenya (if required); round-trip travel from the country of citizenship to Nairobi; airport transfers for non-Kenyan participants; the academic and leadership course; an accident and sickness benefit plan; housing and meals; a stipend for miscellaneous costs in Nairobi",
+        "FAQ (YALI-era): Travel to and from Kenya is covered only for participants residing in one of the 14 countries served",
+        "Admissions page: '100% Free Program' and 'No application fees, no program fees, no hidden costs.' This is about fees; it does not say that travel or living costs are paid.",
+        "Not covered (FAQ): incidental expenses such as entertainment and alcoholic beverages, and internet fees for the distance-learning part of the course",
+        "FAQ (YALI-era): Housing is usually a shared room in university hostels; most meals at campus cafeterias or restaurants",
+        "The home page calls the centre a legacy of YALI RLC EA and says USAID and other private partners 'provided financial support for YALI RLC EA' (past tense). Whether the next cohort's travel and living costs are paid is not stated on the current pages."
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "participation_fee": "None: FAQ 'There is no fee to apply to the Regional Leadership Center East Africa program.'; admissions page 'No application fees, no program fees, no hidden costs.'",
+      "stipend": "Unknown / Not specified (the YALI-era FAQ mentions a stipend for miscellaneous costs in Nairobi; not confirmed for the next cohort)",
+      "eligibility": [
+        "18 to 35 years (inclusive) for the duration of the 4-week programme (FAQ); the homepage says 18 to 35 at the time of application submission",
+        "Citizen and resident of one of 14 countries, including the Democratic Republic of the Congo",
+        "Not living outside the 14 coverage countries",
+        "Not a U.S. citizen or permanent resident",
+        "Eligible to receive any necessary visa to Kenya",
+        "Proficient in reading, writing and speaking English (the admissions page accepts an intermediate level for francophone applicants)",
+        "Merit-based open competition: panel review, interview of semi-finalists, final selection"
+      ],
+      "nationality_requirements": [
+        "Citizens and residents of Burundi, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Djibouti, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Sudan, Tanzania or Uganda (FAQ and homepage)"
+      ],
+      "age_requirement": "18 to 35 (inclusive) for the duration of the 4-week programme (FAQ)",
+      "language_requirement": "English: reading, writing and speaking proficiency; English is the only language of instruction. The admissions page says an intermediate level is accepted for francophone applicants.",
+      "application_process": [
+        "Apply online through the RLC application portal (the FAQ says applications by email or other means are not considered)",
+        "Selection panel review, interview of semi-finalists, final selection and invitation"
+      ],
+      "verification": "PARTIALLY VERIFIED",
+      "source_confidence": "HIGH",
+      "sources": [
+        {
+          "label": "Regional Leadership Center East Africa (home page: countries served, who should apply)",
+          "url": "https://www.rlceastafrica.org/",
+          "type": "Official"
+        },
+        {
+          "label": "Admissions page (no cohort open; free programme)",
+          "url": "https://www.rlceastafrica.org/public/admissions.php",
+          "type": "Official"
+        },
+        {
+          "label": "FAQs (eligibility, costs covered, fee, language)",
+          "url": "https://www.rlceastafrica.org/public/faqs.php",
+          "type": "Official"
+        }
+      ],
+      "source_url": "https://www.rlceastafrica.org/public/faqs.php",
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The FAQ names the Democratic Republic of the Congo among the 14 countries whose citizens and residents may apply, and there is no fee. The age range is 18 to 35 for the whole programme (the profile records only 'under 30') and applicants must be able to obtain any visa Kenya requires (passport not recorded).",
+      "potential_issues": [
+        "No cohort is open: the admissions page says 'New cohort dates will be announced soon. Stay tuned!'",
+        "The list of covered costs is in the FAQ, which still names the old YALI application site (www.yalieastafrica.org); confirm the cost cover when the next cohort opens",
+        "English is the only language of instruction",
+        "Shared hostel rooms on campus during the residential phase",
+        "Internet costs for the distance-learning part are not covered",
+        "The cost list (travel, housing, meals, visa, insurance, stipend) is from the FAQ written for the USAID-funded YALI centre; the current admissions page promises only 'No application fees, no program fees, no hidden costs'"
+      ],
+      "benefits": [
+        "Per the FAQ written for the former YALI programme: travel to Nairobi, visa, airport transfers, housing, meals, insurance and a stipend for selected participants (not confirmed for the next cohort)",
+        "4-week leadership training in one of three tracks: Business and Entrepreneurship, Civic Leadership, Public Management",
+        "Regional network across 14 East and Central African countries"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "Medium",
+        "travel": "High",
+        "networking": "High",
+        "funding": "Medium",
+        "accessibility": "High",
+        "profile_fit": "High"
+      },
+      "relevance_reason": "One of the few leadership programmes that names the DRC explicitly, charges no fee and has no work-experience bar; the Public Management and Business tracks suit the profile. Whether the next cohort's travel and living costs are paid is not confirmed, and no cohort is open now.",
+      "visa": {
+        "required": "Entry authorisation for Kenya if required (FAQ: 'Visa to Kenya (if required)')",
+        "support": "The FAQ written for the former YALI programme lists the visa among covered costs; not confirmed for the next cohort"
+      },
+      "upfront_cost_risk": "Unknown / Not specified",
+      "action": "Check the admissions page every month; when a cohort is announced, apply through the RLC portal before its deadline and confirm that cohort's cost cover.",
+      "last_verified": "2026-11-19",
+      "notes": "19 November 2026 (scout B): home page, admissions page and FAQ read. 21 November 2026: the judge RETURNED the raise to 'Fully Funded' because the FAQ cost list was written for the former USAID-funded YALI centre; on the one further pass the orchestrator kept funding_type 'Funding Unclear', set coverage back to 'Not specified', marked the FAQ cost lines as YALI-era (arrangement Unknown) and made the English criterion UNKNOWN, as the judge's correction says.",
+      "evidence": {
+        "criteria": [
+          {
+            "criterion": "nationality",
+            "requirement": "Citizen and resident of one of 14 East and Central African countries; the list names the Democratic Republic of the Congo.",
+            "applicant": "Citizen of the Democratic Republic of the Congo.",
+            "assessment": "MET",
+            "quote": "Are citizens and residents of one of the following countries: Burundi, Central African Republic, Republic of the Congo, Democratic Republic of the Congo",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "criterion": "residence",
+            "requirement": "Must not be living outside the 14 coverage countries.",
+            "applicant": "Resident in the Democratic Republic of the Congo.",
+            "assessment": "MET",
+            "quote": "Are not living outside of the 14 coverage countries listed above.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "criterion": "age",
+            "requirement": "18 to 35 years inclusive for the whole 4-week programme.",
+            "applicant": "Recorded only as under 30; exact age not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Exact age: 'under 30' is inside the upper limit of 35, but the profile does not record the exact age, so the lower limit of 18 is not formally confirmed.",
+            "quote": "Are 18 to 35 years (inclusive) for the duration of the 4 week program.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "criterion": "other",
+            "requirement": "Not a U.S. citizen or permanent resident of the U.S.",
+            "applicant": "Nationality and residence recorded as the Democratic Republic of the Congo.",
+            "assessment": "MET",
+            "quote": "Are not U.S. citizens or permanent residents of the U.S.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "criterion": "passport",
+            "requirement": "Must be eligible to receive any visa needed to enter Kenya.",
+            "applicant": "Passport not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether the applicant holds a valid passport and can obtain any entry authorisation Kenya requires.",
+            "quote": "Are eligible to receive any necessary visa to Kenya.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "criterion": "language",
+            "requirement": "Proficiency in reading, writing and speaking English; all instruction is in English.",
+            "applicant": "English is among the profile's languages; no test score or level is recorded.",
+            "assessment": "UNKNOWN",
+            "quote": "Are proficient in reading, writing, and speaking English.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php",
+            "missing": "The applicant's level of English (reading, writing and speaking): not recorded in the profile."
+          }
+        ],
+        "funding": [
+          {
+            "item": "tuition",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. The course is listed among the expenses covered for selected participants; the admissions page adds 'No application fees, no program fees, no hidden costs.'",
+            "quote": "Customized academic and leadership course.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "item": "airfare",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Round trip from the country of citizenship to Nairobi, only for participants residing in one of the 14 countries served.",
+            "quote": "Round-trip travel from your country of citizenship",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "item": "airport_transfers",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Between Jomo Kenyatta International Airport and the centre, for all non-Kenyan participants.",
+            "quote": "Transportation to/from Jomo Kenyatta International Airport to/from the Regional Leadership Center East Africa for all non-Kenyan participants.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "item": "visa_fees",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Kenyan visa, if one is required.",
+            "quote": "Visa to Kenya (if required).",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "item": "insurance",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Accident and sickness benefit plan.",
+            "quote": "Accident and sickness benefit plan.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "item": "accommodation",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Usually a shared room and washroom in university hostels; Nairobi residents must also stay in the hostels.",
+            "quote": "Housing and meals.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "item": "meals",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Most meals at campus cafeterias or restaurants; participants may cook some meals themselves.",
+            "quote": "Most meals will be provided at campus cafeterias or restaurants",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "item": "daily_allowance",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Stipend for miscellaneous costs while in Nairobi; amount not stated.",
+            "quote": "Stipend to cover miscellaneous costs when in Nairobi.",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          },
+          {
+            "item": "other_support",
+            "arrangement": "Not covered",
+            "amount": "",
+            "currency": "",
+            "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Incidental expenses (entertainment, alcoholic beverages) and internet fees for the distance-learning portion are not covered.",
+            "quote": "incidental expenses such as entertainment, alcoholic beverages, and internet fees",
+            "page": "https://www.rlceastafrica.org/public/faqs.php"
+          }
+        ],
+        "out_of_pocket": "Unknown: the only cost list is in the FAQ written for the former YALI programme; the current admissions page says only that there are no application or programme fees. Under that FAQ, incidental expenses and internet fees for the distance-learning portion were the participant's.",
+        "cycles": [
+          {
+            "cycle": "next cohort",
+            "state": "NOT YET ANNOUNCED",
+            "quote": "New cohort dates will be announced soon. Stay tuned!",
+            "page": "https://www.rlceastafrica.org/public/admissions.php"
+          }
+        ]
+      }
+    },
+    {
+      "id": "yali-network-online-courses",
+      "title": "YALI Network Online Courses (free, self-paced, with certificates)",
+      "organization": "Young African Leaders Initiative (YALI) Network, U.S. Department of State",
+      "overview": "Free self-paced online courses from the U.S. Department of State's YALI Network, in English, French and Portuguese, with video, audio and text transcripts and a YALI Network certificate. Topics include leadership, business and entrepreneurship, civic leadership and public management.",
+      "category": [
+        "Training"
+      ],
+      "subcategory": [
+        "Online course",
+        "Certificate",
+        "Leadership"
+      ],
+      "education_levels": [
+        "Open to all"
+      ],
+      "country": "Online",
+      "city": "Online",
+      "region": "Global",
+      "continent": "Global",
+      "location_type": "Remote",
+      "delivery_mode": "Online",
+      "program_dates": "Self-paced; no session dates",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "No deadline: the courses page (read 19 November 2026) says 'Take online courses at your own pace and earn completion certificates'. No enrolment period is stated.",
+      "deadline_timezone": "Not applicable",
+      "opens_on": "",
+      "open_now": true,
+      "rolling": false,
+      "recurring": false,
+      "expected_next_cycle": "",
+      "last_cycle_deadline": "",
+      "funding_type": "Participation Funded",
+      "funding_details": [
+        "YALI Network page: section headed 'Free Online Courses and Videos'; members have access to 'over 25 Online Courses and Video Vignette Series'",
+        "The Online Courses include discussion guides, quizzes 'and an opportunity to earn a YALI Network Certificate'"
+      ],
+      "coverage": {
+        "tuition": "Covered",
+        "stipend": "Not applicable",
+        "flight": "Not applicable",
+        "accommodation": "Not applicable",
+        "meals": "Not applicable",
+        "visa": "Not applicable",
+        "insurance": "Not applicable",
+        "local_transport": "Not applicable"
+      },
+      "participation_fee": "None: the YALI Network page presents them as 'Free Online Courses and Videos'",
+      "stipend": "Not applicable",
+      "eligibility": [
+        "No admission requirement is stated on the courses page",
+        "The YALI Network describes its members as current and future young leaders of sub-Saharan Africa; joining is through a sign-up form linked on the site (membership conditions not published on the pages read)",
+        "Courses are offered in English, French and Portuguese"
+      ],
+      "nationality_requirements": [
+        "No nationality rule stated; the YALI Network describes its members as 'current and future young leaders of sub-Saharan Africa' without a country list"
+      ],
+      "age_requirement": "Unknown / Not specified",
+      "education_requirement": "Unknown / Not specified",
+      "experience_requirement": "Unknown / Not specified",
+      "language_requirement": "Courses offered in English, French and Portuguese",
+      "other_requirements": [],
+      "documents_required": [],
+      "application_process": [
+        "Open a course on the YALI Network Online Courses page and work through it at your own pace (video, audio or text transcript)",
+        "The courses include quizzes and an opportunity to earn a YALI Network Certificate; YALI Network membership is through the 'Join the Network' sign-up form"
+      ],
+      "official_application_url": "https://yali.state.gov/courses/",
+      "official_information_url": "https://yali.state.gov/courses/",
+      "source_url": "https://yali.state.gov/courses/",
+      "source_type": "Official",
+      "source_confidence": "HIGH",
+      "verification": "PARTIALLY VERIFIED",
+      "sources": [
+        {
+          "label": "YALI Network Online Courses (course list, certificates, languages)",
+          "url": "https://yali.state.gov/courses/",
+          "type": "Official"
+        },
+        {
+          "label": "The YALI Network (free online courses, certificate)",
+          "url": "https://yali.state.gov/network/",
+          "type": "Official"
+        },
+        {
+          "label": "Young African Leaders Initiative home page (YALI Network description)",
+          "url": "https://yali.state.gov/",
+          "type": "Official"
+        },
+        {
+          "label": "Course page: Organizational Development for Volunteer-Based Initiatives (loads with JavaScript)",
+          "url": "https://yali.state.gov/courses/course-5361/",
+          "type": "Official"
+        },
+        {
+          "label": "Course page: Mental Health and Wellness (loads with JavaScript)",
+          "url": "https://yali.state.gov/courses/course-5417/",
+          "type": "Official"
+        }
+      ],
+      "eligibility_for_me": "POSSIBLY ELIGIBLE",
+      "eligibility_reason": "The courses are free and offered in French and English, both recorded languages, and no admission rule is stated. The YALI Network describes its members as young leaders of sub-Saharan Africa but publishes no country list, so the DRC is not named either way.",
+      "potential_issues": [
+        "YALI Network certificates are completion certificates, not accredited qualifications",
+        "YALI Network membership conditions are not published on the pages read",
+        "Individual course pages load only with JavaScript"
+      ],
+      "benefits": [
+        "Free YALI Network certificate on completion",
+        "Courses in French, English and Portuguese with video, audio and transcripts",
+        "Topics close to the profile: Strengthening Public Sector Service, Basics of Public-Private Partnerships, Management Strategies for People and Resources, Fundamentals of Grant Writing"
+      ],
+      "relevance": {
+        "academic": "Low",
+        "career": "Medium",
+        "travel": "Low",
+        "networking": "Medium",
+        "funding": "Medium",
+        "accessibility": "Very High",
+        "profile_fit": "Medium"
+      },
+      "relevance_reason": "Free, self-paced certificates in French or English on public management, partnerships, people management and grant writing, which fit the profile's target roles; they weigh less than a degree or fellowship but help close skill gaps.",
+      "visa": {
+        "required": "No",
+        "support": "Not applicable (online)"
+      },
+      "upfront_cost_risk": "Low",
+      "action": "Open the YALI Network Online Courses page and start with Strengthening Public Sector Service, Basics of Public-Private Partnerships or Management Strategies for People and Resources; complete the quizzes for the certificate.",
+      "last_verified": "2026-11-19",
+      "date_discovered": "2026-11-19",
+      "notes": "19 November 2026 (scout B): one umbrella record for all YALI Network online courses, promoted from the course leads 'Organizational Development for Volunteer-Based Initiatives' (course-5361) and 'Mental Health and Wellness' (course-5417) of the yali-state-gov registry source, so later course titles from that source can be matched to it. Course detail pages are JavaScript-only (repo reader: 'Just a moment, loading...'; WebFetch: HTTP 403; Chrome showed only the course title and lecturer); the courses landing page, the network page and the home page are readable by the repo reader.",
+      "match_keywords": [
+        "yali network online course",
+        "yali online course",
+        "yali network certificate",
+        "organizational development for volunteer-based initiatives",
+        "in this five-part course on mental health and wellness"
+      ],
+      "evidence": {
+        "criteria": [
+          {
+            "criterion": "nationality",
+            "requirement": "No nationality rule is stated for the courses; the YALI Network describes its members as young leaders of sub-Saharan Africa, without a country list.",
+            "applicant": "Citizen of the Democratic Republic of the Congo.",
+            "assessment": "UNKNOWN",
+            "missing": "A country list or a statement of who may join the YALI Network or take the courses; the pages name no country.",
+            "quote": "the YALI Network consists of over 600,000 current and future young leaders of sub-Saharan Africa",
+            "page": "https://yali.state.gov/"
+          },
+          {
+            "criterion": "language",
+            "requirement": "Courses are offered in English, French and Portuguese.",
+            "applicant": "French and English are among the recorded languages.",
+            "assessment": "MET",
+            "quote": "YALI Network Online Courses are currently offered in English, French, and Portuguese",
+            "page": "https://yali.state.gov/courses/"
+          }
+        ],
+        "funding": [
+          {
+            "item": "tuition",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "The courses and videos are free; the YALI Network bears the cost.",
+            "quote": "Free Online Courses and Videos",
+            "page": "https://yali.state.gov/network/"
+          },
+          {
+            "item": "other_support",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "Completion certificate (YALI Network Certificate) at no charge stated.",
+            "quote": "an opportunity to earn a YALI Network Certificate",
+            "page": "https://yali.state.gov/network/"
+          }
+        ],
+        "out_of_pocket": "None stated; internet access is the learner's own cost."
+      }
+    }
+  ],
+  "lead_outcomes": [
+    {
+      "lead_id": "937c76f80105",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The AU call says: 'The EAN Fellowship is open to youth- and women-led small enterprises that are: registered and operating in an AU Member State; formally registered as a business entity; operating for at least two years; and employing a minimum of three full-time staff.' The profile records no registered business. The call also closed ('Application Deadline: 30 September 2026').",
+      "page": "https://au.int/en/announcement/call-applications-enterprise-africa-network-ean-fellowship-programme-cohort-2-202627"
+    },
+    {
+      "lead_id": "ba41f33b9dcc",
+      "outcome": "PROMOTED",
+      "record_id": "rlc-east-africa"
+    },
+    {
+      "lead_id": "669c9b19a605",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "DAAD's scholarship-database entry for the Heilbronn AI Fellowships targets 'International PhD candidates or postdoctoral researchers who obtained a PhD/doctorate no more than five years ago' and says PhD candidates should be in the final year before their dissertation defence. The profile holds a Bachelor's degree only and is not enrolled in a doctorate. (Page answers HTTP 403 to the repo reader; read with WebFetch.)",
+      "page": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57883183"
+    },
+    {
+      "lead_id": "95ac34302040",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The Philippine-American Educational Foundation (Fulbright Philippines) page says applicants 'must be citizens of one of the 10 ASEAN member states or Timor-Leste'. The Democratic Republic of the Congo is neither. (The Philippine deadline was October 16, 2026.)",
+      "page": "https://www.fulbright.org.ph/index.php/fulbright-u-s-asean-visiting-scholar-program"
+    },
+    {
+      "lead_id": "68ae5926432a",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The US-UK Fulbright Commission page says: 'To be eligible, students must: Be a US citizen and possess a US passport'. The applicant is a DRC citizen. (The programme is also for US undergraduates with at least two years of study remaining.)",
+      "page": "https://fulbright.org.uk/our-programmes/undergraduate-and-pre-university-programmes/uk-summer-institutes/"
+    },
+    {
+      "lead_id": "98da409ac768",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "UNICEF USA's own expression-of-interest form describes a 'Learning Exchange for Cities' within its work 'focused on supporting cities in establishing or strengthening Youth Councils', asks for the 'City/justisdiction you represent' and says 'we'll follow up by the end of December to let you know whether your city has been selected'. It is for local-government staff of (U.S.) cities; the profile holds no such role.",
+      "page": "https://www.surveymonkey.com/r/HNY8FTZ"
+    },
+    {
+      "lead_id": "885779526823",
+      "outcome": "NOT CURRENTLY OPEN",
+      "page": "https://www.geaf.foundation/ambassador",
+      "reason": "The organiser's page says: 'Applications for the GEAF Ambassador Programme 2027 have officially closed.' Later applications are kept for future iterations. GEAF is a Geneva-based, UNEP-accredited non-profit; no fee seen. Nationality rules were not shown on the page."
+    },
+    {
+      "lead_id": "45c556e9a607",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The AU Peace Fund call says 'the beneficiaries of the AU Peace Fund under the programmatic windows are: Member States of the African Union; Regional Economic Communities (RECs); Regional Mechanisms (RMs); and The Political Affairs, Peace and Security (PAPS) Department of the African Union Commission.' Individuals cannot apply. The window ran 'from 1st August to 15 September 2026'.",
+      "page": "https://au.int/en/announcement/african-union-peace-fund-announces-call-applications-under-programmatic-windows"
+    },
+    {
+      "lead_id": "86b033db176d",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The organiser's terms of reference (CEFOREP SARL, 'Termes de référence des formations – Novembre à Décembre 2026', page 10, published as an image on the listing) state 'Frais de participation : 75 000 FCFA par participant' and 'Période et horaires : Du 04 au 10 novembre 2026', in CEFOREP's training rooms in N'Djamena, Chad. A paid, in-person commercial course that has already taken place; the text exists only in the image, so the quote must be read on the image.",
+      "page": "https://www.lesopportunites.com/wp-content/uploads/2026/10/TDR_Formations_CEFOREP_Nov-Dec_2026-10.jpg"
+    },
+    {
+      "lead_id": "96a287f13814",
+      "outcome": "PROMOTED",
+      "record_id": "yali-network-online-courses"
+    },
+    {
+      "lead_id": "078780424194",
+      "outcome": "PROMOTED",
+      "record_id": "yali-network-online-courses"
+    },
+    {
+      "lead_id": "f22d8bda4926",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "FirstRand's own scholarship page says the partnership is 'to enable one outstanding South African student a year to undertake postgraduate study at the Blavatnik School of Government' and that FirstRand and the School want applicants who will 'contribute to South Africa on their return'. The applicant is a DRC citizen. (Applications 16 October 2026 to 25 February 2027. Page read in Chrome: WebFetch fails with a TLS certificate error and the repo reader gets no response.)",
+      "page": "https://bursaries.firstrand.co.za/Bursary/FirstRandFNBFundOxfordEducationScholarship"
+    }
+  ],
+  "blocked": [
+    {
+      "url": "https://yali.state.gov/rlc/",
+      "what": "WebFetch: HTTP 403. Repo reader (oplib.fetch): HTTP 404. The RLC East Africa site was read instead."
+    },
+    {
+      "url": "https://yali.state.gov/courses/course-5361/",
+      "what": "WebFetch: HTTP 403. Repo reader: HTTP 200 but only a JavaScript shell ('Just a moment, loading...'); no course text. Chrome: only the course title and lecturer render."
+    },
+    {
+      "url": "https://yali.state.gov/courses/course-5417/",
+      "what": "WebFetch: HTTP 403. Repo reader: HTTP 200 but only a JavaScript shell ('Just a moment, loading...'); no course text. Chrome: only the course title and lecturer render."
+    },
+    {
+      "url": "https://bursaries.firstrand.co.za/",
+      "what": "WebFetch: TLS error 'unable to verify the first certificate'. Repo reader: no response (HTTP 0). Read in Chrome (home page and the Oxford Blavatnik scholarship page)."
+    },
+    {
+      "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57883183",
+      "what": "Repo reader: HTTP 403. WebFetch read it."
+    },
+    {
+      "url": "https://bursaries.firstrand.co.za/Bursary/FirstRandFNBFundOxfordEducationScholarship",
+      "what": "Same host as above: WebFetch TLS certificate error, repo reader no response. Read in Chrome."
+    }
+  ],
+  "source_proposals": [],
+  "notes": "Reserved record eu-delegation-drc-subsidised-internship (not written): the EEAS notice '..._und-1_en' (Stage subventionné pour jeunes diplômés, Délégation de l'UE en RDC, Section Politique, Presse et Information) is dated 15.01.2026, marked 'Expired', deadline 25.01.2026; it offered two traineeships of up to 6 months in 2026 (provisional starts March and October 2026), only for candidates residing in the DRC or near Kinshasa, with at most one year of professional experience after the degree, a monthly subsistence grant, and travel, visa, insurance and housing at the trainee's cost. A search also lists a '..._und-0' notice and a Republic of the Congo (Brazzaville) one ('..._und-0_id'), not opened. EEAS DRC delegation page (open_in_browser, read in Chrome 19 November 2026): no open call for individuals. Its header links 'Liste de 250 jeunes préselectionnés pour la mise en place d'une structure de promotion de la voix des jeunes congolais' (a youth-voice structure whose pre-selection is already published). A site search found only closed items: a GBV call for proposals (closed 21 May 2026), an ECHO logistics local post (closed 17 July 2026), an IT support assistant post, tenders and a Europe Day sponsorship call."
+}

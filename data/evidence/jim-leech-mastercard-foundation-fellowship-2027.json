@@ -1,0 +1,84 @@
+{
+  "id": "jim-leech-mastercard-foundation-fellowship-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "African students and recent graduates. The page and the FAQ publish no country list and do not name the DRC.",
+      "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A country list or a sentence naming the DRC; the pages say only 'African' and 'in Africa'.",
+      "quote": "For African students and recent graduates who want to solve pressing problems and bring entrepreneurial ideas to life.",
+      "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+    },
+    {
+      "criterion": "education",
+      "requirement": "A current student or recent graduate of any post-secondary institution in Africa, in any discipline. 'Recent graduate' is not defined.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024; not enrolled; the country of the awarding institution is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "How recent a graduation must be (not defined on the page or in the FAQ), and the country of the institution that awarded the degree (not recorded).",
+      "quote": "We welcome students and recent graduates from all academic disciplines and any post-secondary institution in Africa.",
+      "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+    },
+    {
+      "criterion": "business",
+      "requirement": "No business is required: applicants may already be building a business or only exploring an idea.",
+      "applicant": "No registered business recorded.",
+      "assessment": "MET",
+      "quote": "Whether you’re already building a business or just exploring a new idea, this program will help you take the next step.",
+      "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Content is delivered in English and assignments and pitches must be completed in English; no language certificate is asked for.",
+      "applicant": "Languages recorded: French, English, Swahili, Lingala.",
+      "assessment": "MET",
+      "quote": "Assignments and pitches must be completed in English",
+      "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+    },
+    {
+      "criterion": "other",
+      "requirement": "At least 10 hours per week over the 8-month cycle; assignment deadlines must be met to advance.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant can commit at least 10 hours a week for eight months (not recorded).",
+      "quote": "Willing to dedicate at least 10 hours per week to their entrepreneurial journey",
+      "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No age limit is stated on the programme page or in the FAQ.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Accepted applicants get the online courses, coaches and micro-credentials free of charge; no fee is mentioned.",
+      "quote": "Applicants accepted into the program will gain free access to comprehensive course content, seasoned program coaches, and the opportunity to earn badges and other microcredentials at each phase of their journey.",
+      "page": "https://www.queensu.ca/innovationcentre/african-entrepreneurship-faq-page"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Partially covered",
+      "amount": "500",
+      "currency": "CAD",
+      "conditions": "Only for up to 60 Fellows selected for the final Launch phase (May-August); a one-off sum to use towards the venture (the FAQ calls it a seed fund). The Phase 3 text on the same page says 'a USD 350 stipend' instead.",
+      "quote": "Up to 60 Fellows will be selected in the final phase to receive a stipend of $500 CAD",
+      "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+    }
+  ],
+  "out_of_pocket": "Unknown: no fee is stated and course access is free for accepted applicants; internet and device costs are not stated.",
+  "cycles": [
+    {
+      "cycle": "2027 cohort",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "",
+      "deadline": "2026-12-01",
+      "quote": "Apply By December 1, 2026",
+      "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "objectif-2030-ifdd-free-moocs",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "No nationality condition is stated: the training is open to all (any nationality), free and accessible to everyone.",
+      "applicant": "Nationality: Democratic Republic of the Congo; nothing on the pages excludes any nationality.",
+      "assessment": "MET",
+      "quote": "Formations gratuites et accessibles à tous",
+      "page": "https://www.objectif2030.org/"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "No residence condition is stated; the courses are online.",
+      "assessment": "NOT STATED"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No age limit is stated for the courses.",
+      "assessment": "NOT STATED"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No prerequisite to register: only an interest in the subject and an internet connection.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024 (no diploma is required).",
+      "assessment": "MET",
+      "quote": "Il n'ya pas de prérequis pour vous inscrire",
+      "page": "https://www.objectif2030.org/mooc/tech/"
+    },
+    {
+      "criterion": "language",
+      "requirement": "The courses are offered through a platform built for French-speaking actors, and the pages and courses are in French.",
+      "applicant": "Languages recorded: French (also English, Swahili, Lingala).",
+      "assessment": "MET",
+      "quote": "plateforme Objectif2030 de développement des capacités des acteurs francophones",
+      "page": "https://www.objectif2030.org/mooc/tech/"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "All the trainings are free, including the certificate of completion; a free account is needed.",
+      "quote": "Toutes nos formations sont gratuites",
+      "page": "https://www.objectif2030.org/mooc/"
+    }
+  ],
+  "out_of_pocket": "Unknown: no fee is charged; an internet connection is needed (its cost is not stated).",
+  "cycles": [
+    {
+      "cycle": "Technologies de l'environnement, session 2026",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "2026-10-05",
+      "window_text": "Online session from 5 October to 29 November 2026 (in progress on 21 November 2026); no registration deadline is stated.",
+      "quote": "La prochaine session du CLOM Technologies de l'environnement aura lieu du 05 octobre au 29 novembre 2026",
+      "page": "https://www.objectif2030.org/mooc/tech/"
+    },
+    {
+      "cycle": "Économie de l'environnement, session 2026",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "2026-11-30",
+      "window_text": "Online session from 30 November to 27 December 2026; no registration deadline is stated.",
+      "quote": "La prochaine session de la formation se tiendra du 30 novembre au 27 décembre 2026",
+      "page": "https://www.objectif2030.org/mooc/eco/"
+    }
+  ]
+}

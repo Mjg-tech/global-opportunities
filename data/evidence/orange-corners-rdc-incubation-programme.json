@@ -1,0 +1,113 @@
+{
+  "id": "orange-corners-rdc-incubation-programme",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Must be Congolese (the page is the Orange Corners hub page for the République démocratique du Congo, a programme for entrepreneurs in the DRC).",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Avoir entre 18 à 35 ans et être un homme/ une femme congolais(e)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Aged 18 to 35.",
+      "applicant": "Recorded as under 30.",
+      "assessment": "MET",
+      "quote": "Avoir entre 18 à 35 ans et être un homme/ une femme congolais(e)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "In Kinshasa (in-person programme) or elsewhere in the DRC (online programme).",
+      "applicant": "Resident of the Democratic Republic of the Congo (city not recorded).",
+      "assessment": "MET",
+      "quote": "Être à Kinshasa (programme en présentiel) et à travers la RDC (programme en ligne)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "A secondary-school or higher-education diploma.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Être Diplômé(e) de l'enseignement secondaire ou supérieur",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "An innovative business idea, concept or MVP answering a challenge or market opportunity in the targeted sectors (food security, environment and climate, water, green energy, local processing of minerals, digitalisation), contributing to the SDGs.",
+      "applicant": "No business idea or project recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has an innovative business idea, concept or MVP in one of the six target sectors.",
+      "quote": "Avoir une idée d'entreprise innovante, un concept ou un MVP (Produit Mininum Viable)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    },
+    {
+      "criterion": "employment",
+      "requirement": "Be dedicated to the project full time, with the time to take part in all programme activities.",
+      "applicant": "No full-time employment recorded; availability for a full-time commitment is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant can and wants to dedicate full time to a business project for the 10 months.",
+      "quote": "Être dédié(e) à votre projet à temps plein (avoir le temps nécessaire pour participer à toutes les activités du programme)",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The programme, with its training, is offered with no participation costs or fees.",
+      "quote": "Il n'y a pas de coûts ou de frais de participation au programme.",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    },
+    {
+      "item": "training",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Practical training, workshops, coaching and mentoring are part of the programme; no fee is charged.",
+      "quote": "Des formations pratiques qui vous permettront d'acquérir les compétences nécessaires pour gérer votre entreprise",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Free access to a coworking space during the support period.",
+      "quote": "Accès à l'espace de coworking gratuitement durant la période d'accompagnement.",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "The programme does not finance entrepreneurs directly; it connects them to public and private funders.",
+      "quote": "En tant que programme, Orange Corners ne finance pas directement",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    }
+  ],
+  "out_of_pocket": "None stated: the page says there are no participation costs or fees; travel and living costs are not mentioned.",
+  "cycles": [
+    {
+      "cycle": "8th cohort (2026)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "",
+      "quote": "L’ouverture des candidatures pour la 8 ème cohorte du programme",
+      "page": "https://acp.cd/business/la-8eme-cohorte-dun-programme-dencadrement-des-jeunes-entrepreneurs-annoncee-a-kinshasa/"
+    },
+    {
+      "cycle": "Next cohort (2027)",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "organiser states",
+      "window_text": "Organiser's yearly rule: applications open between December and January and the programme starts in mid-February; no 2027 call is announced on the pages read.",
+      "quote": "Les applications au programme sont ouvertes entre décembre et janvier chaque année.",
+      "page": "https://www.orangecorners.com/country/republique-democratique-du-congo/"
+    }
+  ]
+}

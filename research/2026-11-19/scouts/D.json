@@ -1,0 +1,329 @@
+{
+  "channel": "D",
+  "records": [
+    {
+      "id": "jim-leech-mastercard-foundation-fellowship-2027",
+      "eligibility_reason": "The programme is for 'African students and recent graduates' of 'any post-secondary institution in Africa'; neither the page nor the FAQ publishes a country list, so the DRC is not named and its position is unknown under the Africa-alone rule. 'Recent graduate' is undefined (the profile's degree dates from 2024) and the programme asks for at least 10 hours a week for eight months; no business is needed, and English, required for assignments, is among the profile's languages.",
+      "application_process": [
+        "Apply online by 1 December 2026 (the Apply button on the official page opens a Queen's University Qualtrics form)",
+        "Results are announced in late December for the cohort starting in January (official FAQ)",
+        "Selection funnel: Explore (January-February), Ignite (March-April), Launch and Fellowship (May-August) for up to 60 Fellows"
+      ],
+      "sources": [
+        {
+          "label": "Queen's University: Jim Leech Mastercard Foundation Fellowship",
+          "url": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
+          "type": "Official"
+        },
+        {
+          "label": "Queen's University: African Entrepreneurship FAQ (free access, CAD 500 stipend, results in late December)",
+          "url": "https://www.queensu.ca/innovationcentre/african-entrepreneurship-faq-page",
+          "type": "Official"
+        }
+      ],
+      "last_verified": "2026-11-19",
+      "notes": "2 November 2026 (rerun, plain-curl read): label lowered from Fully Funded to Participation Funded because the organiser's page never says 'fully funded' and the stipend goes only to the final 60 Fellows; eligibility lowered from LIKELY to POSSIBLY ELIGIBLE because 'recent graduate' is undefined. 9 November 2026: page re-read; deadline (1 December 2026), funnel, stipend wording (CAD 500 and USD 350) unchanged. The page also says the programme offers downloadable content and language support for French-speaking learners. 19 November 2026 (scout D, evidence backlog): programme page and official FAQ re-read and every tracked field compared; nothing changed. The FAQ adds that accepted applicants get free access to the courses, coaches and micro-credentials, that the CAD 500 Launch-phase stipend is a seed fund for the venture, and that results come out in late December. The page still shows 'Sign up to be notified when applications launch!' next to the 'Apply By December 1, 2026' button; the button links to a Queen's Qualtrics application form, which was not opened.",
+      "evidence": {
+        "criteria": [
+          {
+            "criterion": "nationality",
+            "requirement": "African students and recent graduates. The page and the FAQ publish no country list and do not name the DRC.",
+            "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+            "assessment": "UNKNOWN",
+            "missing": "A country list or a sentence naming the DRC; the pages say only 'African' and 'in Africa'.",
+            "quote": "For African students and recent graduates who want to solve pressing problems and bring entrepreneurial ideas to life.",
+            "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+          },
+          {
+            "criterion": "education",
+            "requirement": "A current student or recent graduate of any post-secondary institution in Africa, in any discipline. 'Recent graduate' is not defined.",
+            "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024; not enrolled; the country of the awarding institution is not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "How recent a graduation must be (not defined on the page or in the FAQ), and the country of the institution that awarded the degree (not recorded).",
+            "quote": "We welcome students and recent graduates from all academic disciplines and any post-secondary institution in Africa.",
+            "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+          },
+          {
+            "criterion": "business",
+            "requirement": "No business is required: applicants may already be building a business or only exploring an idea.",
+            "applicant": "No registered business recorded.",
+            "assessment": "MET",
+            "quote": "Whether you’re already building a business or just exploring a new idea, this program will help you take the next step.",
+            "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+          },
+          {
+            "criterion": "language",
+            "requirement": "Content is delivered in English and assignments and pitches must be completed in English; no language certificate is asked for.",
+            "applicant": "Languages recorded: French, English, Swahili, Lingala.",
+            "assessment": "MET",
+            "quote": "Assignments and pitches must be completed in English",
+            "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+          },
+          {
+            "criterion": "other",
+            "requirement": "At least 10 hours per week over the 8-month cycle; assignment deadlines must be met to advance.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether the applicant can commit at least 10 hours a week for eight months (not recorded).",
+            "quote": "Willing to dedicate at least 10 hours per week to their entrepreneurial journey",
+            "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+          },
+          {
+            "criterion": "age",
+            "requirement": "No age limit is stated on the programme page or in the FAQ.",
+            "assessment": "NOT STATED"
+          }
+        ],
+        "funding": [
+          {
+            "item": "tuition",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "Accepted applicants get the online courses, coaches and micro-credentials free of charge; no fee is mentioned.",
+            "quote": "Applicants accepted into the program will gain free access to comprehensive course content, seasoned program coaches, and the opportunity to earn badges and other microcredentials at each phase of their journey.",
+            "page": "https://www.queensu.ca/innovationcentre/african-entrepreneurship-faq-page"
+          },
+          {
+            "item": "daily_allowance",
+            "arrangement": "Partially covered",
+            "amount": "500",
+            "currency": "CAD",
+            "conditions": "Only for up to 60 Fellows selected for the final Launch phase (May-August); a one-off sum to use towards the venture (the FAQ calls it a seed fund). The Phase 3 text on the same page says 'a USD 350 stipend' instead.",
+            "quote": "Up to 60 Fellows will be selected in the final phase to receive a stipend of $500 CAD",
+            "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+          }
+        ],
+        "out_of_pocket": "Unknown: no fee is stated and course access is free for accepted applicants; internet and device costs are not stated.",
+        "cycles": [
+          {
+            "cycle": "2027 cohort",
+            "state": "CONFIRMED CURRENT CYCLE",
+            "opens_on": "",
+            "deadline": "2026-12-01",
+            "quote": "Apply By December 1, 2026",
+            "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tony-elumelu-entrepreneurship-programme-2027",
+      "deadline_text": "Official programme page (yearly rule, no 2027-specific announcement): 'Every year, the application portal for our flagship TEF Entrepreneurship Programme opens on the 1st of January till midnight on the 1st of March at Midnight, on our digital platform, www.TEFConnect.com.'",
+      "eligibility_reason": "The Foundation selects entrepreneurs across 'all 54 African countries', a complete set that includes the DRC, and accepts Africans aged 18 and above who reside in Africa; the profile records only an under-30 age band. Entry needs a business idea or a business under 5 years old, which the profile does not record, and the USD 5,000 seed capital is paid only after a business registration certificate, tax registration and a business bank account are submitted (the profile records no registered business).",
+      "other_requirements": [
+        "To apply: a valid government-issued ID showing date of birth and photo, and a high-resolution headshot, with details matching the TEFConnect account",
+        "Before the seed capital is paid: a Business Registration Certificate, evidence of tax registration in the business name and a bank reference letter for the business account"
+      ],
+      "potential_issues": [
+        "Requires a business idea or a business under 5 years old",
+        "Seed capital disbursed only after document review",
+        "To receive the seed capital the business must be registered, tax-registered and have a business bank account; the profile records no registered business",
+        "The official programme page still carries the 2025 title; the 1 January to 1 March window is a yearly rule and no 2027 announcement was found on the pages read"
+      ],
+      "sources": [
+        {
+          "label": "TEF Entrepreneurship Programme",
+          "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+          "type": "Official"
+        },
+        {
+          "label": "The Tony Elumelu Foundation",
+          "url": "https://www.tonyelumelufoundation.org/",
+          "type": "Official"
+        }
+      ],
+      "last_verified": "2026-11-19",
+      "notes": "The official programme page still carries the 2025 title; the 1 January to 1 March window is stated as a yearly rule. 2 November 2026 (rerun): programme page re-read (window 1 January to 1 March on TEFConnect; seven phases: application, due diligence with World-Check screening and physical verification, shortlist, training, investment readiness, seed capital). Label lowered from Fully Funded to Partially Funded: the organiser describes training plus a USD 5,000 seed grant, never 'fully funded'. 19 November 2026 (scout D, evidence backlog): programme page and home page re-read and every tracked field compared; dates, funding and eligibility unchanged; deadline_text now quotes the page's exact sentence. Newly recorded: the seed capital phase requires a Business Registration Certificate, tax registration in the business name and a business bank reference letter; shortlisted applicants are notified on 22 March each year. No 2027-specific announcement on the pages read.",
+      "evidence": {
+        "criteria": [
+          {
+            "criterion": "nationality",
+            "requirement": "Africans; the Foundation says it selects entrepreneurs across all 54 African countries, a complete set that includes the DRC.",
+            "applicant": "Citizen of the Democratic Republic of the Congo, one of the 54 African countries.",
+            "assessment": "MET",
+            "quote": "TEF looks out for and selects entrepreneurs with the most innovative, high potential business ideas across all 54 African countries.",
+            "page": "https://www.tonyelumelufoundation.org/"
+          },
+          {
+            "criterion": "residence",
+            "requirement": "Applicants must reside in Africa and plan to establish their business in Africa.",
+            "applicant": "Resident of the Democratic Republic of the Congo.",
+            "assessment": "MET",
+            "quote": "Applications from Africans who reside in Africa and plan to establish their business in Africa.",
+            "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+          },
+          {
+            "criterion": "age",
+            "requirement": "18 years and above.",
+            "applicant": "Recorded only as under 30; exact age not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Exact age (the profile records only the under-30 band; the minimum is 18).",
+            "quote": "Applications from Africans who are 18 years and above.",
+            "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+          },
+          {
+            "criterion": "business",
+            "requirement": "A business idea or a business no older than 5 years to apply; a registered, tax-registered business with a business bank account before the seed capital is paid.",
+            "applicant": "No registered business recorded; whether there is a business idea is not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether the applicant has a business idea, and whether a business would be registered (with tax registration and a business bank account) by the seed capital phase.",
+            "quote": "Applications from applicants who either have a business idea or have a business no older than 5 years.",
+            "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+          },
+          {
+            "criterion": "other",
+            "requirement": "Applicants must never have benefited from any earlier TEF programme.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether the applicant has benefited from an earlier TEF programme (not recorded).",
+            "quote": "Applications from applicants who have never benefitted from any of our previous programmes.",
+            "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+          },
+          {
+            "criterion": "education",
+            "requirement": "No degree requirement is stated.",
+            "assessment": "NOT STATED"
+          }
+        ],
+        "funding": [
+          {
+            "item": "training",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "Selected participants get TEF's business management training, a mentor and coaching sessions; the pages read mention no fee.",
+            "quote": "Training Phase: access to TEF training, pairing with mentors, and coaching sessions",
+            "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+          },
+          {
+            "item": "other_support",
+            "arrangement": "Paid directly by organiser",
+            "amount": "5000",
+            "currency": "USD",
+            "conditions": "Non-refundable seed capital paid into the business bank account, only to participants who complete the training and investment-readiness phases and whose documents (business registration certificate, tax registration, bank reference letter) are endorsed.",
+            "quote": "Programme Participants whose documents are endorsed will be deemed eligible to receive their $5,000 non-refundable seed capital and will be notified.",
+            "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+          }
+        ],
+        "out_of_pocket": "Unknown: no fee is stated on the pages read; registering a business and opening a business bank account before the seed capital is paid may cost money (amounts not stated).",
+        "cycles": [
+          {
+            "cycle": "2027",
+            "state": "EXPECTED NEXT CYCLE",
+            "basis": "organiser states",
+            "window_text": "The organiser's yearly rule: the portal opens on 1 January and closes at midnight on 1 March, on TEFConnect. No 2027-specific announcement was found on the pages read.",
+            "quote": "Every year, the application portal for our flagship TEF Entrepreneurship Programme opens on the 1st of January till midnight on the 1st of March at Midnight",
+            "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+          }
+        ]
+      }
+    }
+  ],
+  "lead_outcomes": [
+    {
+      "lead_id": "bdfafeccecab",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The organiser's eligibility criteria require 'minimum 7 years' of relevant work experience' and a 'Master’s degree' ('Fellowships are open annually to young professionals, mid-career and new executives from Africa with relevant work experience and a master’s degree.'). The profile holds a Bachelor's (2024) and records under one year of internships. The 2027 call closes on 20 November 2026 ('Deadline : 20 November 2026').",
+      "page": "https://mo.ibrahim.foundation/fellowships"
+    },
+    {
+      "lead_id": "fb84a7cdbd77",
+      "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+      "reason": "The page is a blog/news reflection ('The cloud has a postcode: reflections on the CNBC Africa AI Summit 2026') about AI and data centres; it contains no call, application or programme.",
+      "page": "https://mo.ibrahim.foundation/news/2026/cloud-has-a-postcode-reflections-cnbc-africa-ai-summit-2026"
+    },
+    {
+      "lead_id": "14002c1a1bbc",
+      "outcome": "OFFICIAL SOURCE FOUND",
+      "page": "https://eabiodesign.org/apply",
+      "reason": "Organiser's page read: 'The EAB 2027–2028 applications are now open.' and 'Applications open Closes December 13, 2026'; it targets 'physicians, engineers and entrepreneurs' for a 10-month health-technology fellowship hosted in Kigali (Rwanda) and Nairobi (Kenya). The eligibility rules (nationality/residence list, degree, profession) and any stipend are only in the call document on SharePoint, which returned HTTP 403 (call) or a Microsoft sign-in page (FAQ); no record written because the DRC position and funding could not be read."
+    },
+    {
+      "lead_id": "c9c4c00cf0d6",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The ILO page says the three BRMM competitions invite entrants from a closed country list that does not include the DRC: 'The International Labour Organization (ILO) has launched three competitions inviting students, researchers, journalists and media creators from Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda'. The essay competition is also for 'university students' and the profile is not enrolled. Entries close on 25 November 2026.",
+      "page": "https://www.ilo.org/resource/news/ilo-launches-three-writing-competitions-safe-labour-migration-east-and-horn"
+    },
+    {
+      "lead_id": "69c22f1904b2",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "Same ILO BRMM programme as lead c9c4c00cf0d6. The organiser's page: 'The International Labour Organization (ILO) has launched three competitions inviting students, researchers, journalists and media creators from Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda'. The DRC is not on the list. Entries close on 25 November 2026.",
+      "page": "https://www.ilo.org/resource/news/ilo-launches-three-writing-competitions-safe-labour-migration-east-and-horn"
+    },
+    {
+      "lead_id": "980212669771",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The organiser's FAQ: 'Applicants must be based in the United States for the duration of the Fellowship.' and 'Fellows must be based in the United States'. The profile resides in the DRC.",
+      "page": "https://morgridgefamilyfoundation.org/morgridge-acceleration-program"
+    },
+    {
+      "lead_id": "b06f4a1bc228",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The organiser's eligibility criteria require a company: 'For-profit and registered in Africa', 'Management team of at least two people' and 'At least MVP, ideally recurring revenue, paying customers and established partnerships'. The profile records no registered business. The 2027 cohort deadline has also passed ('15 November 2026: Deadline to apply').",
+      "page": "https://sais-accelerator.com/livestock-apply-now-for-2027/"
+    },
+    {
+      "lead_id": "d8deab6350ea",
+      "outcome": "NOT CURRENTLY OPEN",
+      "page": "https://www.eyecity.africa/hei-call-for-applications",
+      "reason": "Applications closed: 'Applications close on 9 November 2026.' The programme is for higher education institutions and research centres (it asks for 'A letter from your institutional head'), not for individuals without an institution."
+    },
+    {
+      "lead_id": "101bf610f9ba",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The organiser's 'Are you eligible?' section is for start-ups that 'Have a working technology or product (MVP or post-MVP; beyond concept stage)' ('We are looking for ambitious startups building technologies that can shape the future of snacking.'). The profile records no business or product.",
+      "page": "https://www.pladisglobal.com/our-impact/pladis-accelerator-programme"
+    },
+    {
+      "lead_id": "03936430eeab",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The organiser's 'Who can take part?' list: 'Live in London, Glasgow, Manchester, Bradford or Birmingham', 'Aged 16-19 years of age' and 'Eligible for Free School Meals or the college bursary / Education Maintenance Allowance'. The profile resides in the DRC.",
+      "page": "https://www.eyfoundation.com/en_uk/apply/i-m-a-young-person/step-into-business"
+    },
+    {
+      "lead_id": "14bfdd2e0e3c",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The grant terms on the organiser's page: 'The Program is open to eligible startups and emerging companies building AI-driven products or services'. It gives platform credits, not cash, and 'Participant must maintain a valid payment method or other approved billing arrangement' for overage charges. The profile records no business.",
+      "page": "https://www.zoom.ai/ai-launchpad"
+    },
+    {
+      "lead_id": "0be73daf4eff",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "The organiser's eligibility section: 'Their business must be located in one of New York City’s five boroughs.' and 'Their business has been operating for at least two years.' The profile resides in the DRC and records no business.",
+      "page": "https://www.citizensnyc.org/nbg/"
+    },
+    {
+      "lead_id": "7b468eb471a9",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "reason": "Microsoft's Imagine Cup 2027 eligibility page: 'Startup credits offered through the Imagine Cup 2027 competition are available to eligible startups that are two years old or younger (must be a legal entity founded on or after November 2, 2024).' The Official Rules (PDF at https://aka.ms/ImagineCup2027TCs) section 4.1: 'Your Startup must be a legal entity that was founded on or after November 2, 2024'. The profile records no registered business.",
+      "page": "https://learn.microsoft.com/en-us/startups/imagine-cup-credits-eligibility"
+    }
+  ],
+  "blocked": [
+    {
+      "url": "https://ughe-my.sharepoint.com/:w:/g/personal/innovation_center_ughe_org/IQCq-aPVkCNHRYOKFF4_j87rAcw16AJWtyBD_tL8dmrC4b4?e=i8AfF6",
+      "what": "East Africa Biodesign 2027-2028 call for applications (SharePoint Word document linked from eabiodesign.org/apply): HTTP 403 to WebFetch; opening it in the browser was refused by this session's permission system, so it was not pursued."
+    },
+    {
+      "url": "https://ughe-my.sharepoint.com/:w:/g/personal/innovation_center_ughe_org/IQBeC1ZGYUEcRrvEXEqD3Y3zAaiWrcR-ZABwbrgIm3G_xUI?e=binOdP",
+      "what": "East Africa Biodesign Fellowship FAQ (SharePoint): the plain reader is redirected to a Microsoft sign-in page; no login attempted."
+    },
+    {
+      "url": "https://www.sbs.ox.ac.uk/oxford-experience/scholarships-and-funding/afox-graduate-scholarships",
+      "what": "Official AfOx Graduate Scholarships page (evidence backlog): HTTP 403 to the plain reader and to WebFetch; in the browser a Cloudflare 'Performing security verification' bot check appeared, so reading stopped there (not bypassed)."
+    },
+    {
+      "url": "https://www.afox.ox.ac.uk/education/mastercard-foundation-scholars-program-at-the-university-of-oxford",
+      "what": "Africa Oxford Initiative page: HTTP 202 with an empty body to the plain reader, HTTP 403 to WebFetch."
+    },
+    {
+      "url": "https://www.afox.ox.ac.uk/education/scholarships",
+      "what": "Africa Oxford Initiative scholarships FAQ: HTTP 202 with an empty body to the plain reader."
+    },
+    {
+      "url": "https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/under-represented-groups",
+      "what": "University of Oxford graduate funding page: HTTP 403 to the plain reader."
+    }
+  ],
+  "source_proposals": [],
+  "notes": "Scout D, 2026-11-19: work in progress."
+}

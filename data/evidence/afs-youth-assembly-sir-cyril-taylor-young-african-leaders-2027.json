@@ -1,0 +1,159 @@
+{
+  "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "From a Sub-Saharan African country. The page publishes no country list and does not name the DRC; the first two editions selected leaders from Uganda, Kenya, Nigeria, Mali, South Africa, Ghana, Malawi and Namibia.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A country list or a sentence naming the DRC. The page says only 'Sub-Saharan African country'.",
+      "quote": "Must be from a Sub-Saharan African country",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Aged 18 to 35.",
+      "applicant": "Recorded as under 30 (exact age not recorded), with a bachelor's degree obtained in 2024, which places the applicant inside the 18 to 35 range.",
+      "assessment": "MET",
+      "quote": "18-35 years old",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "criterion": "passport",
+      "requirement": "An unexpired passport (the programme requires travel to Geneva in August 2027).",
+      "applicant": "Passport not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant holds a passport that is valid now and through August 2027.",
+      "quote": "Must have an unexpired passport",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "criterion": "language",
+      "requirement": "English at intermediate level.",
+      "applicant": "English is listed among the applicant's languages; no level and no test are recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The applicant's English level.",
+      "quote": "Proficient in English (Intermediate Level)",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "Demonstrable leadership qualities or a proven track record of leadership experience.",
+      "applicant": "Three short internships and field assignments, under one year in total; no leadership role recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "A leadership role or track record that the applicant can document.",
+      "quote": "Have demonstrable leadership qualities or proven track record of leadership experience",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Leading a social impact project related to the Sustainable Development Goals (preferred, not required).",
+      "applicant": "No social impact project recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant leads an SDG-related social impact project (the page marks it as preferred).",
+      "quote": "Leading a social impact project related to the sustainable development goals (preferred)",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Able to attend the Youth Assembly in Geneva, Switzerland, in person in August 2027.",
+      "applicant": "Availability and visa situation not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Availability in August 2027 and the ability to obtain a Swiss (Schengen) visa in time.",
+      "quote": "Be able to attend the Youth Assembly in Geneva, Switzerland in person, August 2027",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No degree or study requirement is stated on the page.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "There is no tuition as such: the scholarship covers the cost of every programme element (the virtual AFS Global Competence Certificate, the preparation workshops, the Youth Assembly and the 'Effect+ in the Community' workshop).",
+      "quote": "This is a 12-month fully funded scholarship that covers the costs of participating in all program elements listed below.",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Travel to the AFS Youth Assembly in Geneva, August 2027. The page says travel 'will be covered' and does not say whether AFS books the tickets or reimburses them.",
+      "quote": "Travel and accommodation for the AFS Youth Assembly will be covered for the participants in this program.",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Accommodation for the AFS Youth Assembly in Geneva.",
+      "quote": "Travel and accommodation for the AFS Youth Assembly will be covered for the participants in this program.",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Seed funding for a six-month impact project after the Assembly, with mentorship; the amount is not stated.",
+      "quote": "leaders will initiate their own impact projects utilizing seed funding provided",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "item": "meals",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Meals are not mentioned on the page."
+    },
+    {
+      "item": "visa_fees",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Visa fees are not mentioned; the page warns that visa processing can take several months."
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Travel or health insurance is not mentioned on the page."
+    }
+  ],
+  "out_of_pocket": "Unknown. The page gives no amounts and does not say whether visa fees, insurance or meals are covered.",
+  "cycles": [
+    {
+      "cycle": "2025 (first edition)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "",
+      "quote": "The program started in 2025.",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "cycle": "second edition",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "",
+      "quote": "The second edition selected 10 leaders from Nigeria, Ghana, Kenya, Malawi, Uganda, South Africa, and Namibia.",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    },
+    {
+      "cycle": "2027 (third edition)",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "",
+      "deadline": "2026-11-19",
+      "quote": "Application Deadline: November 19, 2026 23:59 UTC",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+    }
+  ]
+}

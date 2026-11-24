@@ -1,0 +1,116 @@
+{
+  "id": "obama-foundation-leaders",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Leaders Africa accepts residents of all nations and territories on the African continent (the DRC is an African nation): citizens or permanent residents of an eligible country, refugees or asylum seekers there, or people who have lived there for at least five years.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "All nations and territories on/in the continent.",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    },
+    {
+      "criterion": "residence",
+      "requirement": "Must be living in the region for the duration of the programme.",
+      "applicant": "Resident in the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "You must be living in the region for the duration of the program and meet one of the following criteria:",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Between 24 and 45 years of age on 1 September 2027.",
+      "applicant": "Recorded only as under 30.",
+      "assessment": "UNKNOWN",
+      "missing": "Exact age: the applicant must be at least 24 on 1 September 2027.",
+      "quote": "You will be between 24 and 45 years of age on September 1, 2027.",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    },
+    {
+      "criterion": "experience",
+      "requirement": "At least 3 years of relevant experience in the applicant's issue area, and a leadership position in changemaking work (full-time or volunteer).",
+      "applicant": "Three short internships and field assignments, under one year in total; no volunteer or changemaking role recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Volunteer, community or changemaking experience beyond the recorded internships: the programme asks for three years of relevant experience in an issue area.",
+      "quote": "You can demonstrate at least 3 years of relevant experience in your issue area.",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    },
+    {
+      "criterion": "language",
+      "requirement": "Professional proficiency in English.",
+      "applicant": "English is among the recorded languages; no proficiency level or test score is recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "English proficiency level (no IELTS, TOEFL or similar score recorded).",
+      "quote": "You are professionally proficient in English.",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    },
+    {
+      "criterion": "education",
+      "requirement": "No education requirement for admission.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024; no degree is required.",
+      "assessment": "MET",
+      "quote": "No, there is no education requirement for admission to the Obama Leaders program.",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Applicants must be under no legal or regulatory restriction that would limit participation in virtual Foundation programming or travel to the U.S. for in-person programming (if any).",
+      "applicant": "No such restriction is recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether any legal or regulatory restriction applies to the applicant (not recorded).",
+      "quote": "you must be under no legal or regulatory restrictions that would limit your participation in virtual Foundation programming or travel to the U.S. for in-person programming (if any).",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Participants selected for the programme pay no fees.",
+      "quote": "Participants selected for the Obama Foundation Leaders program incur no fees.",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    },
+    {
+      "item": "participation_fee",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The programme is free to all participants.",
+      "quote": "The program is open across four regions and free to all participants.",
+      "page": "https://www.obama.org/programs/leaders/"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "No stipend is paid.",
+      "quote": "Leaders will not be paid a stipend.",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "No grants or financial support for participants' work.",
+      "quote": "The Obama Foundation does not offer grants or financial support for selected participants’ work.",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    }
+  ],
+  "out_of_pocket": "No fees and no stipend. The programme is virtual, so no travel is stated; a computer with a camera and a reliable internet connection are the applicant's own.",
+  "cycles": [
+    {
+      "cycle": "2027-2028",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "2026-11-09",
+      "deadline": "2026-12-04",
+      "window_text": "Priority deadline 23 November 2026; applications after it are reviewed as space allows until 4 December 2026, 12:00 PM US Central Time (GMT-6).",
+      "quote": "Applications open November 9, 2026, and close December 4, 2026, at 12:00 PM United States Central Time (GMT-6).",
+      "page": "https://www.obama.org/programs/leaders/africa/faq/"
+    }
+  ]
+}

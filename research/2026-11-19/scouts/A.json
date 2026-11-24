@@ -1,0 +1,555 @@
+{
+  "channel": "A",
+  "records": [
+    {
+      "id": "mcw-global-young-leaders-fellowship-2027",
+      "eligibility": [
+        "Aged 18 to 26 at the start of the programme (1 June 2027); no exceptions",
+        "Open to applicants from all countries and regions worldwide, with no geographic restrictions",
+        "Demonstrate commitment to their community and identify an issue in it in education, health or economic security",
+        "Strong motivation to create positive change and interest in social projects (original ideas are valued over AI-generated responses)",
+        "Fluent in written and spoken English",
+        "Commit to the Community Needs Assessment in June, the 10-day in-person programme in July and a year carrying out the community project",
+        "Access to email and the internet throughout the year-long programme",
+        "Eligible for appropriate visa and travel documentation"
+      ],
+      "nationality_requirements": [
+        "Open to applicants from all countries and regions worldwide: 'There are no geographic restrictions on eligibility' (official page, updated 10 November 2026). The DRC is not excluded."
+      ],
+      "sources": [
+        {
+          "label": "MCW Global: 2027 Young Leaders Fellowship - Applications are open! (eligibility, timeline, costs, liability release)",
+          "url": "https://mcwglobal.org/young-leaders-fellowship-2027/",
+          "type": "Official"
+        },
+        {
+          "label": "Opportunity Desk listing (feed lead)",
+          "url": "https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/",
+          "type": "Aggregator"
+        }
+      ],
+      "last_verified": "2026-11-19",
+      "notes": "Seen in the feeds on 6-8 November 2026 (Opportunity Desk, Opportunities for Africans, Opportunities Corners). Official page read on 9 November 2026 (posted 27 October, updated 5 November 2026); MCW Global says it hosted the 29th edition of the fellowship in July 2026. The applicant portal answered HTTP 429 (too many requests) to the plain reader and was not read. 19 November 2026 (evidence backlog, scout A): official page re-read (now dated 10 November 2026) and every tracked field compared. Deadline (3 December 2026, 11:59 PM New York time), timeline, costs covered and not covered, the USD 100 refundable deposit, the age rule and the apply link are unchanged. The page now states geographic eligibility explicitly ('Open to applicants from all countries and regions worldwide. There are no geographic restrictions on eligibility.'), so nationality_requirements and the eligibility line were reworded; no label changed.",
+      "evidence": {
+        "criteria": [
+          {
+            "criterion": "nationality",
+            "requirement": "Open to applicants from all countries and regions worldwide, with no geographic restrictions.",
+            "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+            "assessment": "MET",
+            "quote": "Geographic Eligibility: Open to applicants from all countries and regions worldwide. There are no geographic restrictions on eligibility.",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "criterion": "age",
+            "requirement": "Between 18 and 26 at the start of the programme (1 June 2027); the organiser makes no exceptions.",
+            "applicant": "Recorded only as under 30.",
+            "assessment": "UNKNOWN",
+            "missing": "Exact age on 1 June 2027.",
+            "quote": "Be between the ages of 18 – 26 at the start of the program (June 1, 2027).",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "criterion": "language",
+            "requirement": "Fluent written and spoken English; the application, resume and recommendation letters must be in English.",
+            "applicant": "English is listed among the profile's languages, with no level and no test score.",
+            "assessment": "UNKNOWN",
+            "missing": "The applicant's level of written and spoken English.",
+            "quote": "Be fluent in written and spoken English",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "criterion": "passport",
+            "requirement": "Eligible for the visa and travel documents needed to attend the in-person programme in the United States.",
+            "applicant": "Passport not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "A valid passport and eligibility for a U.S. visa.",
+            "quote": "Be eligible for appropriate visa and travel documentation",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "criterion": "other",
+            "requirement": "Identify a community issue in education, health or economic security and commit to the year-long programme (June 2027 to July 2028).",
+            "applicant": "Interests are recorded (operations, business analysis, programme coordination, policy research); no community project is recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "A community issue in education, health or economic security that the applicant would work on, and availability for the whole year.",
+            "quote": "Identify an issue in their community in the areas of education, health, or economic security",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "criterion": "education",
+            "requirement": "No degree or education requirement is stated on the page.",
+            "assessment": "NOT STATED"
+          }
+        ],
+        "funding": [
+          {
+            "item": "airfare",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "Economy class, arriving one day before and leaving one day after the programme; travel is no longer provided if a late visa application means the visa arrives less than a month before the programme.",
+            "quote": "International Economy Flights for international participants",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "item": "accommodation",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "From the evening of 19 July to 29 July 2027 (New York University in New York, Champlain College in Burlington).",
+            "quote": "Housing from the evening of July 19 – July 29, 2027",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "item": "meals",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "Three meals a day from 20 to 29 July 2027.",
+            "quote": "Three meals per day from July 20 – July 29, 2027",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "item": "local_transport",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "Round trip between New York and Burlington, Vermont.",
+            "quote": "Round Trip Travel from New York, New York to Burlington, Vermont",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "item": "airport_transfers",
+            "arrangement": "Paid directly by organiser",
+            "amount": "",
+            "currency": "",
+            "conditions": "Public transport to and from JFK, LaGuardia and Newark airports.",
+            "quote": "Public Transportation to/from JFK, LaGuardia, and Newark Airports",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "item": "visa_fees",
+            "arrangement": "Not covered",
+            "amount": "",
+            "currency": "",
+            "conditions": "Passport fees, visa fees and in-country costs (travel to the airport, extra baggage fees) are listed as not covered by MCW.",
+            "quote": "Cost Not Covered by MCW Passport Fees Visa Fees",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "item": "participation_fee",
+            "arrangement": "Reimbursed after purchase",
+            "amount": "100",
+            "currency": "USD",
+            "conditions": "Refundable deposit due from accepted participants by 16 March 2027, refunded in full in July 2027 after completing the in-person training; NYU's USD 50 cancellation fee is deducted if a requested room is not used.",
+            "quote": "The deposit will be refunded to the participant in full in July 2027, when they have successfully completed the in-person training program of the Fellowship.",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          },
+          {
+            "item": "other_support",
+            "arrangement": "Not covered",
+            "amount": "",
+            "currency": "",
+            "conditions": "Under the liability release, any medical care during the in-person programme is at the participant's cost.",
+            "quote": "Agree that I am responsible for fees encountered for any cost associated with medical care",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          }
+        ],
+        "out_of_pocket": "Passport and U.S. visa fees, travel to the departure airport, extra baggage and any medical care during the programme (amounts not stated), plus a USD 100 deposit that is refunded in July 2027 after the in-person training (less USD 50 if a requested NYU room is not used).",
+        "cycles": [
+          {
+            "cycle": "2027",
+            "state": "CONFIRMED CURRENT CYCLE",
+            "opens_on": "2026-11-05",
+            "deadline": "2026-12-03",
+            "quote": "Submit a completed application on or before Thursday, December 3, 2026, 11:59 PM (NYC EST time)",
+            "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "internet-society-fellowship-2027",
+      "deadline_text": "'To become eligible to apply for the fellowship program, participants must enroll in the required Pre-Fellowship Training modules before 22 November 2026.' Once the modules are completed the application link is emailed within 24 hours; applications are rolling and must be submitted 'no later than 18 December 2026' (the Applicant Journey now also says 'By 18 December 2026', and the Timeline says '18 December 2026 Fellowship applications close'). Open enrolment for the self-paced training: 23 September - 22 November 2026.",
+      "funding_type": "Partially Funded",
+      "funding_details": [
+        "A project stipend of up to USD 5,000 for justified direct project costs (for example workshop expenses, printing, local transport, minor equipment hire), subject to approval of the project budget; the FAQ says project stipends 'are not designed to provide personal compensation'",
+        "Travel support to attend a global or regional Internet event (for example IGF, AfPIF or the NDSS Symposium); the page and the brochure do not say what it pays (flight, accommodation, visa)",
+        "A dedicated mentor and expert sessions",
+        "Benefits apply only to applicants offered a place; enrolling in the Pre-Fellowship Training does not by itself give access to them"
+      ],
+      "coverage": {
+        "tuition": "Not specified",
+        "stipend": "Not specified",
+        "flight": "Not specified",
+        "accommodation": "Not specified",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Not specified",
+        "local_transport": "Not specified"
+      },
+      "stipend": "No personal stipend is stated; a project stipend of up to USD 5,000 for direct project costs, subject to budget approval",
+      "potential_issues": [
+        "Enrolment in the pre-fellowship training closes on 22 November 2026, and the modules must be finished before applying",
+        "A concrete Internet-related project is needed",
+        "The subject is far from the recorded experience",
+        "A passport valid six months beyond 2027 travel is required and is not recorded",
+        "The USD 5,000 project stipend pays direct project costs only, not personal compensation (FAQ)",
+        "'Travel support' to an Internet event is not itemised: flight, accommodation and visa costs are not specified"
+      ],
+      "sources": [
+        {
+          "label": "Internet Society Fellowship Program",
+          "url": "https://www.internetsociety.org/fellowship/",
+          "type": "Official"
+        },
+        {
+          "label": "Internet Society Fellowship Program: FAQ (project stipend rules)",
+          "url": "https://www.internetsociety.org/fellowship/faq/",
+          "type": "Official"
+        }
+      ],
+      "last_verified": "2026-11-19",
+      "notes": "9 November 2026 (source_changed flag): page re-read. It now says participants must 'enroll' (not complete) before 22 November 2026, adds a 'By 22 December 2026' date in one graphic, moves the kick-off to 24 February 2027 in the selected-fellows section, and lists a passport, four hours a week, reliable Internet and not being a current 2026 fellow among the requirements. Label lowered from LIKELY to POSSIBLY ELIGIBLE because the passport and English level are not recorded in the profile. 19 November 2026 (evidence backlog, scout A): page, FAQ and brochure re-read and every tracked field compared. The 'By 22 December 2026' graphic now reads 'By 18 December 2026', so deadline_text was updated. The FAQ says the USD 5,000 project stipend covers 'justified direct project costs' and is 'not designed to provide personal compensation', and 'Travel support' is not itemised on the page or in the brochure, so coverage.stipend and coverage.flight were lowered from Covered to Not specified and funding_type from Substantially Funded to Partially Funded.",
+      "evidence": {
+        "criteria": [
+          {
+            "criterion": "nationality",
+            "requirement": "Open to anyone interested in Internet policy, connectivity, safety and security; the page sets no nationality or country restriction.",
+            "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+            "assessment": "MET",
+            "quote": "The program is open to anyone interested in building their knowledge and skills in Internet policy, community mobilization, connectivity, Internet safety, and security.",
+            "page": "https://www.internetsociety.org/fellowship/"
+          },
+          {
+            "criterion": "language",
+            "requirement": "A high level of reading, speaking and writing in English.",
+            "applicant": "English is listed among the profile's languages, with no level and no test score.",
+            "assessment": "UNKNOWN",
+            "missing": "The applicant's level of reading, speaking and writing in English.",
+            "quote": "Applicants must have a high level of reading, speaking, and writing skills in English.",
+            "page": "https://www.internetsociety.org/fellowship/"
+          },
+          {
+            "criterion": "passport",
+            "requirement": "A valid passport that remains valid at least six months beyond fellowship-related travel dates.",
+            "applicant": "Passport not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether the applicant holds a passport valid six months beyond travel in 2027.",
+            "quote": "Applicants must hold a valid passport that remains valid for at least six months beyond anticipated fellowship-related travel dates.",
+            "page": "https://www.internetsociety.org/fellowship/"
+          },
+          {
+            "criterion": "other",
+            "requirement": "Enrol in the Pre-Fellowship Training before 22 November 2026 and complete it before applying.",
+            "applicant": "No enrolment is recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether the applicant enrols before 22 November 2026 and completes the modules.",
+            "quote": "participants must enroll in the required Pre-Fellowship Training modules before 22 November 2026",
+            "page": "https://www.internetsociety.org/fellowship/"
+          },
+          {
+            "criterion": "other",
+            "requirement": "Weekly sessions and at least four hours a week during the 10-month programme.",
+            "applicant": "Availability is not recorded.",
+            "assessment": "UNKNOWN",
+            "missing": "Availability for weekly sessions and four hours a week in 2027.",
+            "quote": "Applicants must have the availability to take part in weekly sessions and be able to dedicate a minimum of four hours per week during the 10-month program.",
+            "page": "https://www.internetsociety.org/fellowship/"
+          },
+          {
+            "criterion": "education",
+            "requirement": "No degree requirement is stated.",
+            "assessment": "NOT STATED"
+          },
+          {
+            "criterion": "age",
+            "requirement": "No age limit is stated.",
+            "assessment": "NOT STATED"
+          }
+        ],
+        "funding": [
+          {
+            "item": "other_support",
+            "arrangement": "Covered through an allowance",
+            "amount": "up to 5,000",
+            "currency": "USD",
+            "conditions": "Project stipend for justified direct project costs, subject to review and approval of the project budget; not personal compensation and not for salaries or consulting fees.",
+            "quote": "Selected fellows may apply for a project stipend of up to USD $5,000 for justified direct project costs.",
+            "page": "https://www.internetsociety.org/fellowship/faq/"
+          },
+          {
+            "item": "airfare",
+            "arrangement": "Unknown",
+            "amount": "",
+            "currency": "",
+            "conditions": "Selected fellows receive 'travel support' to attend one global or regional Internet event; the page and the brochure do not say whether it pays the flight, accommodation or visa.",
+            "quote": "Travel support to attend a global or regional Internet event",
+            "page": "https://www.internetsociety.org/fellowship/"
+          }
+        ],
+        "out_of_pocket": "Unknown",
+        "cycles": [
+          {
+            "cycle": "2027",
+            "state": "CONFIRMED CURRENT CYCLE",
+            "opens_on": "2026-09-23",
+            "deadline": "2026-12-18",
+            "quote": "Eligible participants may submit their application as soon as they receive the application link and no later than 18 December 2026",
+            "page": "https://www.internetsociety.org/fellowship/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "fao-internship-programme-africa-2026-2027",
+      "program_dates": "Assignments of 3 to 11 months (vacancy duration field: 'From 3 months to 11 months'; FAO Internship Programme page). The FAQ says interns are preferably assigned to FAO offices or project locations in their own country or country of residence.",
+      "age_requirement": "21 to 30 at the start of the internship (it must start before the 31st birthday)",
+      "eligibility": [
+        "Enrolled in an undergraduate or graduate degree programme at a bona fide institution at the time of application, or a recent graduate (qualifications must be from a WHED-listed institution)",
+        "Specialise in a field relevant to the mission and work of FAO",
+        "Working knowledge of at least one FAO language (Arabic, Chinese, English, French, Russian or Spanish); a second is an asset",
+        "National of an FAO Member",
+        "Aged between 21 and 30 at the start of the internship (it must start before the 31st birthday)",
+        "Able to adapt to an international multicultural environment, good communication skills",
+        "Not previously an FAO intern; no mother, father, sister or brother employed by FAO",
+        "Appropriate residence or immigration status in the proposed country of assignment before joining"
+      ],
+      "funding_details": [
+        "'FAO provides a monthly stipend to interns if they are not sponsored by sending universities or other entities.' (vacancy). The Internship FAQ: 'Interns will receive a stipend in local currency and not exceeding US$ 700 per month'; sponsored interns are paid by their sponsor",
+        "Accommodation: 'Interns (or their sponsoring institutions as case may be) are responsible for their own accommodation at the duty station' (FAQ)",
+        "Insurance: service-incurred medical coverage is provided with FAO paying the full premium; interns arrange and pay their own insurance for non-service-incurred illness (FAQ)",
+        "'FAO does not charge any fee at any stage of the recruitment process' (vacancy)",
+        "Travel to the duty station and visa costs are not mentioned"
+      ],
+      "coverage": {
+        "tuition": "Not applicable",
+        "stipend": "Covered",
+        "flight": "Not specified",
+        "accommodation": "Not covered",
+        "meals": "Not specified",
+        "visa": "Not specified",
+        "insurance": "Partially covered",
+        "local_transport": "Not specified"
+      },
+      "stipend": "Monthly stipend in local currency, not exceeding USD 700, for interns not sponsored by a university or other entity (sponsored interns are paid by their sponsor)",
+      "potential_issues": [
+        "'Recent graduate' is not defined; a 2024 graduate may fall outside FAO's usage",
+        "Stipend capped at USD 700 a month (paid in local currency); accommodation at the duty station is the intern's own responsibility and travel is not mentioned",
+        "Interns pay their own insurance for non-service-incurred illness",
+        "Interns need residence or immigration status in the country of assignment before joining",
+        "Expression-of-interest pool: applying does not guarantee an assignment"
+      ],
+      "upfront_cost_risk": "Medium: accommodation at the duty station and non-service medical insurance are at the intern's expense, and travel to the duty station is not mentioned as paid",
+      "sources": [
+        {
+          "label": "FAO vacancy 2601980: Call for Expression of Interest - Internship Programme for Africa (RAF)",
+          "url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601980",
+          "type": "Official"
+        },
+        {
+          "label": "FAO: Membership of FAO",
+          "url": "https://www.fao.org/legal/home/Membership-of-FAO/en",
+          "type": "Official"
+        },
+        {
+          "label": "FAO Employment: Internship Programme (eligibility, duration)",
+          "url": "https://www.fao.org/employment/young-talent-programme/internship-programme/en",
+          "type": "Official"
+        },
+        {
+          "label": "FAO Employment: Internship Programme FAQs (stipend, accommodation, insurance, assignment country)",
+          "url": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en",
+          "type": "Official"
+        },
+        {
+          "label": "Global South Opportunities listing (lead)",
+          "url": "https://www.globalsouthopportunities.com/2026/10/19/internship-70/",
+          "type": "Aggregator"
+        }
+      ],
+      "last_verified": "2026-11-19",
+      "notes": "The vacancy text was extracted from the FAO Taleo page's embedded data; the portal's hidden time-zone field is Europe/Rome, so 31 Dec 2026 23:59 is taken as CET (22:59 UTC). The aggregator shows '1 January 2027 at 12:59 AM', consistent with a one-hour time-zone shift. 19 November 2026 (evidence backlog, scout A): the vacancy was re-read from the page's embedded data (posting 21/Sep/2026, closing '31/Dec/2026, 11:59:00 PM', time zone field Europe/Rome, duration 'From 3 months to 11 months', minimum requirements and additional information unchanged) and every tracked field compared. The visible page still shows blank fields to plain readers, so the evidence quotes come from FAO's own Internship Programme page and FAQ, which also give the stipend cap (USD 700 a month, local currency), state that accommodation is the intern's responsibility, split medical insurance, and fix the age limit at the start of the internship. program_dates, age_requirement, coverage (accommodation Not covered, insurance Partially covered) and the funding details were updated.",
+      "evidence": {
+        "criteria": [
+          {
+            "criterion": "nationality",
+            "requirement": "Nationals of FAO Members.",
+            "applicant": "Citizen of the Democratic Republic of the Congo, which is on FAO's membership list (see the next entry).",
+            "assessment": "MET",
+            "quote": "candidates must be nationals of FAO Members",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+          },
+          {
+            "criterion": "nationality",
+            "requirement": "The Democratic Republic of the Congo is listed as an FAO Member.",
+            "applicant": "Citizen of the Democratic Republic of the Congo.",
+            "assessment": "MET",
+            "quote": "Democratic Republic of the Congo",
+            "page": "https://www.fao.org/legal/home/Membership-of-FAO/en"
+          },
+          {
+            "criterion": "age",
+            "requirement": "Aged between 21 and 30 at the start of the internship (it must start before the 31st birthday).",
+            "applicant": "Recorded only as under 30.",
+            "assessment": "UNKNOWN",
+            "missing": "Exact age, to confirm the 21-year minimum at the start of the internship.",
+            "quote": "candidates should be aged between 21 and 30 at the start of their internship (i.e. internship should start before the candidate turns 31)",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+          },
+          {
+            "criterion": "education",
+            "requirement": "Enrolled in an undergraduate or graduate degree programme at the time of application, or a recent graduate.",
+            "applicant": "Bachelor's degree (Licence) in Business Administration obtained in 2024; not recorded as enrolled.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether a 2024 graduate counts as a 'recent graduate' (FAO does not define it), and whether the university is listed in the World Higher Education Database.",
+            "quote": "candidates must be students enrolled in an under-graduate or graduate degree programme in a bona fide educational institution at the time of application, or recent graduates",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+          },
+          {
+            "criterion": "discipline",
+            "requirement": "Specialisation in a field relevant to FAO's work.",
+            "applicant": "Business Administration degree; experience in logistics, public-sector research and vaccination-campaign monitoring.",
+            "assessment": "UNKNOWN",
+            "missing": "Whether the hiring office counts Business Administration as relevant to its Terms of Reference.",
+            "quote": "the Programme provides FAO with the assistance of qualified individuals specializing in relevant fields",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+          },
+          {
+            "criterion": "language",
+            "requirement": "Working knowledge of at least one FAO official language (English, French, Spanish, Arabic, Chinese or Russian).",
+            "applicant": "French and English are among the recorded languages.",
+            "assessment": "MET",
+            "quote": "candidates must have working knowledge of at least one FAO official language (English, French, Spanish, Arabic, Chinese or Russian)",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+          },
+          {
+            "criterion": "residence",
+            "requirement": "Appropriate residence or immigration status in the country of assignment before the internship starts.",
+            "applicant": "Resident of the Democratic Republic of the Congo.",
+            "assessment": "UNKNOWN",
+            "missing": "The country of assignment (an assignment in the DRC would meet it; elsewhere a permit or visa is needed).",
+            "quote": "candidates should have appropriate residence or immigration status in the country of assignment prior to the start of the internship assignment",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+          }
+        ],
+        "funding": [
+          {
+            "item": "daily_allowance",
+            "arrangement": "Covered through an allowance",
+            "amount": "up to 700 per month",
+            "currency": "USD",
+            "conditions": "Paid in local currency to interns not sponsored by a university or other entity; sponsored interns are paid by their sponsor.",
+            "quote": "Interns will receive a stipend in local currency and not exceeding US$ 700 per month.",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+          },
+          {
+            "item": "accommodation",
+            "arrangement": "Not covered",
+            "amount": "",
+            "currency": "",
+            "conditions": "The intern (or the sponsoring institution) arranges and pays for accommodation at the duty station.",
+            "quote": "Interns (or their sponsoring institutions as case may be) are responsible for their own accommodation at the duty station.",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+          },
+          {
+            "item": "insurance",
+            "arrangement": "Partially covered",
+            "amount": "",
+            "currency": "",
+            "conditions": "FAO pays the full premium for service-incurred medical coverage; interns arrange and pay their own insurance for non-service-incurred illness.",
+            "quote": "medical coverage related to service-incurred is provided, with FAO paying the full premium",
+            "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+          }
+        ],
+        "out_of_pocket": "Unknown: accommodation at the duty station and insurance for non-service-incurred illness are at the intern's expense (amounts not stated); travel to the duty station is not mentioned."
+      }
+    }
+  ],
+  "lead_outcomes": [
+    {
+      "lead_id": "fdd9afdcc7e3",
+      "outcome": "NOT CURRENTLY OPEN",
+      "page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/programme-de-bourses-de-la-cea-et-de-l-oif-a-l-intention-de-jeunes-traductrices-et-traducteurs-africains",
+      "reason": "OIF youth portal: 'La date limite de dépôt des candidatures est fixée au 31 juillet 2026.' Three-month pilot (October-December 2026) at UNECA in Addis Ababa for young African translators; the cycle is closed."
+    },
+    {
+      "lead_id": "f37dbf3e8203",
+      "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+      "page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/21-bourses-d-etudes-en-belgique-en-2026",
+      "reason": "Not a single call: the portal item is a generic roundup ('Suivez le lien pour en savoir plus et connaitre toutes les meilleures offres de bourses d'études en Belgique pour l'année universitaire 2026 et 2027.') that sends readers to a third-party listing site (unibourses.unifac.net), with no organiser, criteria or deadline."
+    },
+    {
+      "lead_id": "0fe89502af90",
+      "outcome": "OFFICIAL SOURCE FOUND",
+      "page": "https://summit.youthconnektafrica.org/",
+      "reason": "YouthConnekt Africa Summit 2026, Kigali, 25-27 November 2026. The summit site says 'Free · Open to all' with online registration; no travel or accommodation support is offered and 'no invitation letters are issued', so attendance is self-funded. No record written: six days away and self-funded."
+    },
+    {
+      "lead_id": "a2aa314fe4c6",
+      "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+      "page": "https://www.comesa.int/comesa-and-russia-strengthen-partnership-at-the-third-russia-africa-summit/",
+      "reason": "News report, not a call: COMESA's Secretary General 'undertook high-level engagements during the Third Russia–Africa Summit held in Moscow from 27 to 31 October 2026'. No application, eligibility or deadline."
+    },
+    {
+      "lead_id": "0c7b4dc53d50",
+      "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+      "page": "https://www.sadc.int/pillars/women-economic-empowerment-programme",
+      "reason": "A SADC policy (pillar) page about a regional programme for Member States: 'In 2019 SADC adopted the Regional Multi-Dimensional Women’s Economic Empowerment Programme 2020-2030 (RMDWEEP)'. No call, deadline or application route for individuals."
+    },
+    {
+      "lead_id": "95e5674911e7",
+      "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+      "page": "https://www.sadc.int/grants-annexes",
+      "reason": "An index of grant-contract templates for SADC grant beneficiaries ('Annex F – I Special Condition of Grant contract', 'Annex F – V.1 Model interim narrative report'); not an opportunity for individuals."
+    },
+    {
+      "lead_id": "111356569984",
+      "outcome": "VERIFICATION REQUIRED",
+      "reason": "Africa Dyslexia Organisation with REED Charitable Foundation. The organiser's site (africadyslexia.org) does not describe the teacher fellowship and its Google application form answered HTTP 401 (sign-in). According to Opportunity Desk only, it is for in-service English or literacy teachers at primary or junior secondary level, or final-year teacher trainees, deadline 20 November 2026. Not a fit for the recorded profile, but not confirmed on an organiser page, so not excluded."
+    },
+    {
+      "lead_id": "e5e3d66279dc",
+      "outcome": "OFFICIAL SOURCE FOUND",
+      "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/",
+      "reason": "The lesopportunites item is the AFS Youth Assembly Sir Cyril Taylor Young African Leaders Program 2027, already stored as afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027 (channel E backlog). The official page read today says 'Application Deadline: November 19, 2026 23:59 UTC' (today)."
+    },
+    {
+      "lead_id": "8c410f8690c1",
+      "outcome": "NOT CURRENTLY OPEN",
+      "page": "https://www.globalsouthopportunities.com/2026/10/23/nrf-6/",
+      "reason": "DSTI-NRF Policy Fellowship Programme Cohort 2 (South Africa). The official NRF page (nrf.ac.za) did not resolve for either reader (DNS failure), so this rests on the aggregator: 'Application deadline: 17 November 2026' (passed); doctoral degree obtained within the past 10 years required; primarily South African citizens and permanent residents."
+    },
+    {
+      "lead_id": "1610795403ac",
+      "outcome": "NOT CURRENTLY OPEN",
+      "page": "https://idi.mak.ac.ug/opportunities/home/selected_job/2315",
+      "reason": "The organiser's portal (Infectious Diseases Institute, Makerere University) shows 'Sorry! The Job Advert was closed.' (Opportunity Desk gave a 30 October 2026 deadline). The fellowship also requires a master's degree in a quantitative or health-related field plus infectious-disease modelling training."
+    },
+    {
+      "lead_id": "9d976373aab3",
+      "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+      "page": "https://ijp.org/en/programmes/southernafrica/",
+      "reason": "IJP's own page: 'All journalists from Southern Africa (SADC Member States and Kenya) between the age of 25 and 40 who regularly work for a media organisation can apply.' The profile records three short internships (logistics, public-sector research, vaccination monitoring) and no journalism or media employment. (The DRC itself is eligible as a SADC member; deadline 20 January 2027.)"
+    },
+    {
+      "lead_id": "57b75accd1b8",
+      "outcome": "NOT CURRENTLY OPEN",
+      "page": "https://equalityfund.ca/en/posts/application-journalism-fellowship",
+      "reason": "Equality Fund guidelines: 'Closing Date for applications is November 8, 2026 at midnight, Eastern Standard Time'. The fellowship is also limited to working journalists in ODA-recipient countries."
+    }
+  ],
+  "blocked": [
+    {
+      "url": "https://nrf.ac.za/dsti-nrf-policy-fellowship-programme-cohort-2-24-month-placements/",
+      "what": "Host did not resolve (DNS failure) for both the repo reader (HTTP 0) and WebFetch (getaddrinfo ENOTFOUND nrf.ac.za)."
+    },
+    {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSdakWdrYiUB14vvICyuzv620h7PvbZTnjT9BNSKFz4GpHqZlQ/viewform",
+      "what": "Africa Dyslexia Teacher Fellowship application form: HTTP 401 (Google sign-in required) to the repo reader; not opened further."
+    }
+  ],
+  "source_proposals": [],
+  "notes": "Work in progress (scout A, 2026-11-19)."
+}

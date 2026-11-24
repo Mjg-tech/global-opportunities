@@ -1,0 +1,85 @@
+{
+  "id": "auf-ifav-incubateur-francophone-africain-virtuel",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Students and young graduates of 'Afrique francophone'; the 2026 page lists no country.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "A country list, or a statement that the DRC counts as 'Afrique francophone' for IFAV.",
+      "quote": "Destiné aux étudiants et jeunes diplômés d'Afrique francophone",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+    },
+    {
+      "criterion": "graduation",
+      "requirement": "Students or young graduates; how recent a graduation counts is not defined.",
+      "applicant": "Bachelor's (Licence) in Business Administration obtained in 2024.",
+      "assessment": "UNKNOWN",
+      "missing": "How recent a graduation counts as 'jeune diplômé', and whether the applicant's institution is an AUF member (a condition reported for the 2025 edition).",
+      "quote": "Destiné aux étudiants et jeunes diplômés d'Afrique francophone",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+    },
+    {
+      "criterion": "business",
+      "requirement": "No registered business is required: the programme starts from the ideation phase.",
+      "applicant": "No registered business recorded.",
+      "assessment": "MET",
+      "quote": "de la phase d'idéation à la structuration d'un modèle économique viable",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+    },
+    {
+      "criterion": "other",
+      "requirement": "An innovative idea with a strong social or environmental impact.",
+      "applicant": "No idea or project recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant has an innovative idea with a social or environmental impact to present.",
+      "quote": "s'adresse aux porteurs d'idées innovantes à fort impact social ou environnemental",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No age limit is stated on the page read.",
+      "assessment": "NOT STATED"
+    },
+    {
+      "criterion": "language",
+      "requirement": "No language requirement is stated on the page read.",
+      "assessment": "NOT STATED"
+    }
+  ],
+  "funding": [
+    {
+      "item": "training",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "The page describes online training, coaching and mentoring but states no fee and does not say who pays or whether the programme is free.",
+      "quote": "une combinaison de formations en ligne, d'un accompagnement personnalisé assuré par des coachs et mentors",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+    }
+  ],
+  "out_of_pocket": "Unknown: the page states no fee and does not say the programme is free; internet access is the participant's own cost.",
+  "cycles": [
+    {
+      "cycle": "Next call",
+      "state": "NOT YET ANNOUNCED"
+    },
+    {
+      "cycle": "2025 (IFAV 2025)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2025-09-01",
+      "quote": "Candidatez avant le 1er septembre 2025",
+      "page": "https://afri-carrieres.com/2025/08/candidature-au-programme-ifav.html"
+    },
+    {
+      "cycle": "2026 (IFAV 2026)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-09-25",
+      "deadline": "2026-10-11",
+      "quote": "Clôture : 11/10/2026 à 23h00",
+      "page": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026"
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+ "channel": "E",
+ "records": [],
+ "lead_outcomes": [
+  {
+   "lead_id": "6c461f707486",
+   "outcome": "EXCLUDED - CONFIRMED INELIGIBLE",
+   "reason": "The organiser's own call (Congress of Local and Regional Authorities of the Council of Europe, call dated 4 November 2026, deadline 30 November 2026) lists under 'Profile of candidates' the requirement: 'live in and hold the passport of one of the 46 Council of Europe member States'. The profile records nationality and residence as the Democratic Republic of the Congo, which is not a Council of Europe member State and is not mentioned on the call. The call does fund travel, subsistence and accommodation, but only for delegates who meet that rule. The call is a PDF on rm.coe.int (HTTP 200 to the repo reader as a binary PDF, so the text was extracted from those bytes with a PDF parser; WebFetch gets 403); the aggregator page named by the lead (opportunitiesforyouth.org) reproduces the same sentence.",
+   "page": "https://rm.coe.int/call-for-applications-2027-yd-en/48802ea170"
+  },
+  {
+   "lead_id": "d0c6f7686795",
+   "outcome": "NOT CURRENTLY OPEN",
+   "reason": "AFRODAD's own vacancies page lists 'January - June 2027 Internship Positions (call for applications)' with deadline '20 Nov 2026' and status 'Closed'; the call document on afrodad.org gives the deadline as '12noon (SAT), Friday 20th November 2026'. The call names no stipend and no nationality rule (the title speaks of young African graduates). It recurs twice a year: the same page lists an 'Internship Program | July - December 2026' call (10 Jun 2026), 'AFRODAD Internship Program (January - June 2026)' (31 Oct 2025) and 'Internship Program (July - December 2025)' (24 May 2025). Watch the vacancies page for the July - December 2027 call (expected around May-June 2027).",
+   "page": "https://afrodad.org/opportunities/vacancies"
+  },
+  {
+   "lead_id": "292f584eb6ee",
+   "outcome": "VERIFICATION REQUIRED",
+   "reason": "The aggregator page (lesopportunites.com) is only a list of 50 links to app.unv.org opportunity pages grouped by country (10 under 'Congo RDC'), each labelled just 'Poste 1', 'Poste 2' and so on, with no job title, deadline, volunteer category or eligibility rule, so it is not itself an opportunity. The linked app.unv.org pages cannot be read here: both the repo reader and WebFetch get only the empty JavaScript shell titled 'UVP - Unified Volunteer Platform', and www.unv.org itself answered with an Incapsula bot-check page ('Request unsuccessful. Incapsula incident ID ...') after one successful home-page read, so no UNV condition of service (age, nationality, living allowance) could be read. Nothing was worked around. Whether a current UNV assignment in the DRC (or abroad) is open to this profile needs a browser: open https://app.unv.org/ and filter by Democratic Republic of the Congo; the UN Volunteers programme itself deserves a record once its official pages can be read."
+  },
+  {
+   "lead_id": "e030979e1ea8",
+   "outcome": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
+   "reason": "Fee-based and unverifiable. The only page found is the aggregator post itself, which says 'Complete the Form and pay the required application fees' and lists 'Forum fee waiver of up to $500' (so a forum fee exists) plus a self-funded 'Direct Forum Access' category. The organiser is named only as 'Youth Diplomatic Academy (YDA)'; the post links no official event page of its own, two web searches found no official YDA website (only copies of the same post on other aggregators, one of which gives an application fee of $29), and its two application forms are Cognito Forms pages that show only a title to the readers. The 'fully funded' wording therefore exists only on aggregators and is attached to a paid application.",
+   "page": "https://opportunitiescorners.com/london-youth-diplomacy-forum-2027/"
+  },
+  {
+   "lead_id": "068fdd54a49a",
+   "outcome": "NOT CURRENTLY OPEN",
+   "reason": "The Xes Jeux de la Francophonie (Yerevan, 23 July - 1 August 2027) admit only competitors chosen by their own state: the CIJF page says 'La participation aux Xes Jeux de la Francophonie est conditionnée à une présélection nationale officielle'. Its calendar ends with 'Avril - juin 2026 : Envoi des dossiers des 3 candidats par discipline', '29 juillet 2026 : Délibérations des jurys et du comité de sélection' and '7 septembre 2026 : Publication d'une première liste officielle des concurrents', so the cultural preselections are over; sport places go through national federations. Congo (RD) is listed as a registered state (contact: Délégation générale à la Francophonie) but is not among the states with retained cultural candidates. The per-participant fee of 600 euro covers local transport, meals and accommodation only, so the flight is not stated as covered. No record written; the next Games are the XIes in 2031 (Senegal).",
+   "page": "https://www.jeux.francophonie.org/preselections-culturelles-nationales-des-xes-jeux-de-la-francophonie"
+  }
+ ],
+ "blocked": [
+  {
+   "url": "https://www.unv.org/",
+   "what": "Repo reader: HTTP 200 with the home page on the first request, then 'Request unsuccessful. Incapsula incident ID ...' (bot check) on every later request, including /become-un-volunteer, /become-un-volunteer/volunteer-abroad, /become-un-volunteer/volunteer-your-country, /engage-un-volunteer/conditions-service and /conditions-service. WebFetch (volunteer-abroad page): empty content. Tools tried: repo reader, WebFetch. Not worked around."
+  },
+  {
+   "url": "https://app.unv.org/opportunities/1784888021274111",
+   "what": "Empty JavaScript shell for both the repo reader (HTTP 200, only 'UVP - Unified Volunteer Platform') and WebFetch (title only). Each UNV opportunity page on app.unv.org behaves the same way, so no UNV assignment can be read without a browser. Tools tried: repo reader, WebFetch."
+  },
+  {
+   "url": "https://www.coe.int/en/web/congress/rejuvenating-politics-and-youth-delegates",
+   "what": "HTTP 403 to the repo reader and to WebFetch (also WebFetch HTTP 403 on https://rm.coe.int/call-for-applications-2027-yd-en/48802ea170). The 2027 call itself is a PDF on rm.coe.int: the repo reader returns HTTP 200 with the raw PDF bytes (its text-only check cannot find any quote in it), and the text was read by passing those bytes through a PDF parser (pypdf). Tools tried: repo reader, WebFetch."
+  },
+  {
+   "url": "https://www2.fundsforngos.org/?p=502170",
+   "what": "HTTP 403 to WebFetch and HTTP 403 to the repo reader (aggregator post; not pursued). Tools tried: WebFetch, repo reader."
+  },
+  {
+   "url": "https://www.undp.org/africa/blog/call-applications-african-youth-co-creators-council",
+   "what": "HTTP 403 to the repo reader and HTTP 403 to WebFetch (UNDP site). Tools tried: repo reader, WebFetch. The call itself is past (deadline 31 July 2026 per listings), so nothing depended on it."
+  }
+ ],
+ "source_proposals": [],
+ "search_log": [
+  {
+   "phrase": "youth delegate programme 2027 sponsored travel apply",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 15,
+   "opened": [
+    "https://rm.coe.int/call-for-applications-2027-yd-en/48802ea170",
+    "https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/",
+    "https://www.eeas.europa.eu/delegations/un-new-york/call-applications-eu-%E2%80%93-un-youth-delegates-2026-2027_en",
+    "https://opportunitydesk.org/2025/11/06/wwc-youth-delegate-program-2026-2028/"
+   ],
+   "candidates": [
+    {
+     "name": "Council of Europe Congress Youth Delegates 2027 (Strasbourg, travel + accommodation paid)",
+     "url": "https://rm.coe.int/call-for-applications-2027-yd-en/48802ea170",
+     "verdict": "ALREADY A LEAD (6c461f707486) - NOT ELIGIBLE: call requires living in and holding the passport of one of the 46 Council of Europe member States"
+    },
+    {
+     "name": "EU-UN Youth Delegates 2026-2027",
+     "url": "https://www.eeas.europa.eu/delegations/un-new-york/call-applications-eu-%E2%80%93-un-youth-delegates-2026-2027_en",
+     "verdict": "NOT ELIGIBLE (call requires 'Be a citizen of an EU Member State'; nominations only through EU National Youth Councils, deadline 17 April 2026, so also closed)"
+    },
+    {
+     "name": "World Water Council Youth Delegate Program 2026-2028 (travel costs 'if and when' covered)",
+     "url": "https://opportunitydesk.org/2025/11/06/wwc-youth-delegate-program-2026-2028/",
+     "verdict": "CLOSED / PAST (deadline 15 November 2025 per the listing; only the aggregator was read)"
+    },
+    {
+     "name": "Hamburg Sustainability Conference Youth Ambassador Program 2027",
+     "url": "https://opportunitiescorners.com/?p=27518",
+     "verdict": "ALREADY A RECORD (hsc-youth-ambassador-program-2027)"
+    },
+    {
+     "name": "World Forum for Democracy Youth Delegation",
+     "url": "https://opportunitydesk.org/2026/07/29/world-forum-for-democracy-youth-delegation-2026/",
+     "verdict": "ALREADY A RECORD (world-forum-for-democracy-youth-delegation)"
+    },
+    {
+     "name": "National UN Youth Delegate programmes of Ireland (NYCI) and Italy, 2026-2027",
+     "url": "https://www.youth.ie/programmes/projects-initiatives/un-youth-delegate/un-youth-delegate-programme-for-ireland-2026-2027/",
+     "verdict": "NOT ELIGIBLE (national delegate schemes of EU states; not opened beyond the search summary, Italy call closed 27 April 2026 per aggregator)"
+    }
+   ],
+   "records_written": [],
+   "note": "Useful as a map of the youth-delegate field: every sponsored-travel delegate scheme found is either closed or limited to nationals of European states; none open to a DRC national."
+  },
+  {
+   "phrase": "volunteer programme abroad 2027 Africa funded flights accommodation",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 12,
+   "opened": [
+    "https://youth.europa.eu/solidarity/opportunity/52697_sr",
+    "https://www.gooverseas.com/volunteer-abroad/mozambique/program/439284"
+   ],
+   "candidates": [
+    {
+     "name": "European Solidarity Corps individual volunteering placements in Ghana (Feb-Aug 2027, ICYE Ghana / ICJA)",
+     "url": "https://youth.europa.eu/solidarity/opportunity/52697_sr",
+     "verdict": "NOT ELIGIBLE (eligibility on the page: 'reside in one of the eligible countries (EU Member State, North Macedonia, Iceland, Liechtenstein or Turkey)'; the DRC is not on it)"
+    },
+    {
+     "name": "Humana People to People 'International Volunteering Project' (Denmark stages + 6-month project in Malawi, Mozambique, Zambia or India)",
+     "url": "https://www.gooverseas.com/volunteer-abroad/mozambique/program/439284",
+     "verdict": "NEW - NOT RECORDED (programme fee of 3,650 euro for the Denmark stages, scholarships up to 80% only; participant travels to Denmark at own cost; read on a directory page, not the organiser's)"
+    },
+    {
+     "name": "Raleigh International expeditions (South Africa 2027)",
+     "url": "https://raleighinternational.org/?p=24047",
+     "verdict": "NOT AN OPPORTUNITY (fee-paying volunteering per the search summary: accommodation included, flights not, several thousand pounds; not opened)"
+    },
+    {
+     "name": "International Volunteer HQ programmes",
+     "url": "https://www.volunteerhq.org/programs",
+     "verdict": "NOT AN OPPORTUNITY (pay-to-volunteer, fees from 800 pounds per the search summary; not opened)"
+    },
+    {
+     "name": "Warwick in Africa / Nottingham Travelteer / Swansea Travelteer Morocco",
+     "url": "https://warwick.ac.uk/services/studentopportunity/wia/faqs",
+     "verdict": "NOT ELIGIBLE (schemes for enrolled students of those UK universities; not opened beyond the search summary)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: the phrase returns fee-paying voluntourism and university-only schemes; no funded volunteering abroad open to a DRC national."
+  },
+  {
+   "phrase": "international youth exchange 2027 Africa all expenses paid",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 18,
+   "opened": [
+    "https://www.for9a.com/en/opportunity/funded-youth-exchange-program-2027-with-the-opportunity-to-travel-to-east-africa"
+   ],
+   "candidates": [
+    {
+     "name": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly, Geneva)",
+     "url": "https://afs.org/global-stem/changemakers/",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027; stored deadline 2026-11-19, now past)"
+    },
+    {
+     "name": "Changemakers for Equality 2027 (ChangemakerXchange, March 2027 summit)",
+     "url": "https://www.for9a.com/en/opportunity/funded-youth-exchange-program-2027-with-the-opportunity-to-travel-to-east-africa",
+     "verdict": "NOT ELIGIBLE (listing names the eligible countries: UAE, Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, Sudan, Somalia and Yemen; the DRC is not on it; the listing also says it closed 9 November 2026; aggregator page only)"
+    },
+    {
+     "name": "Mandela Washington Fellowship 2027",
+     "url": "https://ng.linkedin.com/in/joy-origho-94657015b",
+     "verdict": "ALREADY A RECORD (mandela-washington-fellowship-2027, reserved id)"
+    },
+    {
+     "name": "Rotary Youth Exchange 2027-28 (South Africa)",
+     "url": "https://www.citizen.co.za/north-glen-news/news-headlines/2025/11/07/applications-open-for-2027-28-rotary-youth-exchange-programme/",
+     "verdict": "NOT ELIGIBLE (school-age learners and not fully free per the search summary; not opened)"
+    },
+    {
+     "name": "Youth Ambassadors Africa 2025-2027 (Project Harmony)",
+     "url": "https://www.ph-int.org/program/youth-ambassadors-africa-2025-2026/",
+     "verdict": "NOT ELIGIBLE (ages 15-18 per the search summary; not opened)"
+    },
+    {
+     "name": "BLACK Youth Culture partner call (Spain, April 2027)",
+     "url": "https://www.salto-youth.net/tools/otlas-partner-finding/download/12011/BLACK_Youth_Culture%20Partner%20Call%20Info%20Doc.pdf",
+     "verdict": "NOT ELIGIBLE (young people of African descent living in Europe per the search summary; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Weak: returned known records and schemes for teenagers, Europeans or Gulf-region residents; no new open opportunity for a DRC national."
+  },
+  {
+   "phrase": "leadership summit 2027 scholarship ticket Africa young people",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 17,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "One Young World Leading Scholarship (2026 cycle, Cape Town summit)",
+     "url": "https://www.oneyoungworld.com/scholarship/leading-scholarship-2026",
+     "verdict": "ALREADY A RECORD (one-young-world-leading-scholarship-2026; stored as NOT ELIGIBLE because the 51-country list includes Congo-Brazzaville but not the DRC; a 2027 Tokyo-summit call is not announced yet)"
+    },
+    {
+     "name": "MCN Global Leadership Summit 2027 (Lagos)",
+     "url": "https://www.mcnpartners.org/gls2027-faq",
+     "verdict": "NEW - NOT RECORDED (paid delegate pass at a reduced USD 50 for attendees from Africa, flights and visas excluded, priority deadline 31 August 2026, all per the search summary; not opened; no funded travel)"
+    },
+    {
+     "name": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly)",
+     "url": "https://www.opportunitiesforafricans.com/?p=103232",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027)"
+    }
+   ],
+   "records_written": [],
+   "note": "Weak: only known programmes and a paid summit; nothing new with funded travel."
+  },
+  {
+   "phrase": "conférence 2027 bourse de voyage jeunes africains",
+   "lang": "fr",
+   "origin": "plan",
+   "results_seen": 16,
+   "opened": [
+    "https://afri-carrieres.com/conferences",
+    "https://afri-carrieres.com/opportunites/global-youth-climate-summit/",
+    "https://afri-carrieres.com/opportunites/vancouver-digital-diplomacy-forum/",
+    "https://www.cccd.ca/events/vancouver-digital-diplomacy-forum-2027"
+   ],
+   "candidates": [
+    {
+     "name": "Programme Sir Cyril Taylor 2027 (AFS Youth Assembly, Geneva)",
+     "url": "https://afri-carrieres.com/opportunites/programme-sir-cyril-taylor/",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027)"
+    },
+    {
+     "name": "Global Mental Health Africa Conference 2027 (Nairobi, 8-10 February 2027)",
+     "url": "https://afri-carrieres.com/opportunites/global-mental-health-africa-conference/",
+     "verdict": "CLOSED / PAST (deadline 31 August 2026 per the search summary; page not opened)"
+    },
+    {
+     "name": "HWCC travel grants 2027 (2nd conference on human-wildlife conflict and coexistence, Bangkok, 2-4 March 2027)",
+     "url": "https://afri-carrieres.com/opportunites/bourses-de-voyage-hwcc/",
+     "verdict": "CLOSED / PAST (applications due 31 October 2026 per the search summary; page not opened)"
+    },
+    {
+     "name": "Global Youth Climate Summit 2027 (Global Youth Leadership Center + HKUST, Hong Kong, 10-13 March 2027)",
+     "url": "https://afri-carrieres.com/opportunites/global-youth-climate-summit/",
+     "verdict": "NEW - NOT RECORDED (international in-person participants pay USD 400 non-refundable and bear flights, visas, airport transfers and travel insurance; online places are free; ten USD 1,000 project grants; deadline 31 January 2027; read on the afri-carrieres relay only, official site gylc.org not read)"
+    },
+    {
+     "name": "Vancouver Digital Diplomacy Forum 2027 (Canadian Center for Cultural Diplomacy, 9 January 2027)",
+     "url": "https://www.cccd.ca/events/vancouver-digital-diplomacy-forum-2027",
+     "verdict": "NEW - NOT RECORDED (fee-based: relay says applicants pay application fees and offers a self-funded category; the organiser's own page sells tickets, names no funding and says venue 'To be announced')"
+    },
+    {
+     "name": "Forum Jeunes Autonomes International (Paris, 27 March 2027)",
+     "url": "https://afri-carrieres.com/opportunites/forum-jeunes-autonomes-international/",
+     "verdict": "NEW - NOT RECORDED (no funding mentioned on the listing; not opened)"
+    },
+    {
+     "name": "YouthConnekt Africa Summit 2026 (Kigali, 25-27 November 2026)",
+     "url": "https://afri-carrieres.com/opportunites/youthconnekt-africa-summit/",
+     "verdict": "ALREADY A LEAD (0fe89502af90)"
+    }
+   ],
+   "records_written": [],
+   "note": "Mostly closed calls and fee-based forums relayed by afri-carrieres.com; useful to learn that this French aggregator lists many pay-to-attend events labelled 'finance'."
+  },
+  {
+   "phrase": "sommet 2027 jeunes leaders entièrement financé Afrique candidature",
+   "lang": "fr",
+   "origin": "plan",
+   "results_seen": 17,
+   "opened": [
+    "https://afri-carrieres.com/opportunites/sommet-africain-des-jeunes-pour-la-biodiversite/"
+   ],
+   "candidates": [
+    {
+     "name": "Programme Sir Cyril Taylor 2027 (AFS Youth Assembly, Geneva, August 2027)",
+     "url": "https://afri-carrieres.com/?p=57824",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027)"
+    },
+    {
+     "name": "One Young World 2026 (Cape Town) and its Leading Scholarship",
+     "url": "https://afri-carrieres.com/opportunites/leading-scholarship-one-young-world/",
+     "verdict": "ALREADY A RECORD (one-young-world-leading-scholarship-2026)"
+    },
+    {
+     "name": "NewNow One Young 2026 (South Africa)",
+     "url": "https://afri-carrieres.com/opportunites/newnow-one-young/",
+     "verdict": "CLOSED / PAST (deadline 16 February 2026 per the search summary; not opened)"
+    },
+    {
+     "name": "Sommet Africain des Jeunes pour la Biodiversite 2025 (GYBN Africa, Rwanda)",
+     "url": "https://afri-carrieres.com/opportunites/sommet-africain-des-jeunes-pour-la-biodiversite/",
+     "verdict": "CLOSED / PAST (deadline 5 July 2025; no funding wording on the listing)"
+    },
+    {
+     "name": "Africa-Europe Youth Academy (AEYA) New Leaders Lab 2026",
+     "url": "https://capacity4dev.europa.eu/library/call-applications-new-leaders-lab-2026_en",
+     "verdict": "CLOSED / PAST (deadline 19 July 2026 per the search summary; leadership programme for 18-30 year olds in 19 African countries, cross-channel D; not opened)"
+    },
+    {
+     "name": "Accra Sommet des jeunes leaders africains 2025",
+     "url": "https://www.financialafrik.com/agenda/accra-sommet-des-jeunes-leaders-africains-2025-appel-a-candidatures/",
+     "verdict": "CLOSED / PAST (2025 edition)"
+    }
+   ],
+   "records_written": [],
+   "note": "Weak: returned only 2026 or older cycles and the AFS record; the 'entièrement financé' wording mostly points at the One Young World family."
+  },
+  {
+   "phrase": "cúpula 2027 jovens líderes totalmente financiada África candidaturas",
+   "lang": "pt",
+   "origin": "plan",
+   "results_seen": 14,
+   "opened": [
+    "https://opportunitiesforyouth.org/2026/11/16/french-african-foundation-young-leaders-programme-2027-applications-open-for-emerging-african-and-french-leaders/",
+    "https://www.lesopportunites.com/?p=161196",
+    "https://www2.fundsforngos.org/?p=502170"
+   ],
+   "candidates": [
+    {
+     "name": "French-African Foundation Young Leaders Programme 2027",
+     "url": "https://french-african.org/young-leaders/",
+     "verdict": "ALREADY A RECORD (french-african-foundation-young-leaders)"
+    },
+    {
+     "name": "Mandela Washington Fellowship 2027",
+     "url": "https://ng.linkedin.com/in/joy-origho-94657015b",
+     "verdict": "ALREADY A RECORD (mandela-washington-fellowship-2027, reserved id)"
+    },
+    {
+     "name": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly)",
+     "url": "https://www.lesopportunites.com/?p=161196",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027)"
+    },
+    {
+     "name": "Africa-Europe Youth Academy New Leaders Lab 2026",
+     "url": "https://www.aics.gov.it/news/aeya-aperte-le-candidature-per-la-prima-edizione-del-new-leaders-lab/?lang=en",
+     "verdict": "CLOSED / PAST (deadline 19 July 2026 per the search summary; cross-channel D)"
+    },
+    {
+     "name": "fundsforngos post 502170 (appeared for two phrases)",
+     "url": "https://www2.fundsforngos.org/?p=502170",
+     "verdict": "BLOCKED (HTTP 403 to WebFetch and to the repo reader; an aggregator, so not pursued)"
+    },
+    {
+     "name": "UNITAR and Japan TICAD9 programme for African youth and women",
+     "url": "https://unitar.org/about/news-stories/news/unitar-and-japan-launch-ticad9-programme-african-youth-and-women",
+     "verdict": "NOT AN OPPORTUNITY (news item about a TICAD9 programme; not opened, TICAD9 took place in 2025)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: the Portuguese wording returned English-language leadership programmes already stored; no Portuguese-language summit with funded travel."
+  },
+  {
+   "phrase": "cumbre 2027 jóvenes líderes financiada África convocatoria",
+   "lang": "es",
+   "origin": "plan",
+   "results_seen": 14,
+   "opened": [
+    "https://www.undp.org/africa/blog/call-applications-african-youth-co-creators-council"
+   ],
+   "candidates": [
+    {
+     "name": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly)",
+     "url": "https://opportunitiesforyouth.org/2026/10/26/fully-funded-2026-sir-cyril-taylor-young-african-leaders-program-by-afs-youth-assembly/",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027)"
+    },
+    {
+     "name": "French-African Foundation Young Leaders Programme 2027",
+     "url": "https://opportunitiesforyouth.org/2026/11/16/french-african-foundation-young-leaders-programme-2027-applications-open-for-emerging-african-and-french-leaders/",
+     "verdict": "ALREADY A RECORD (french-african-foundation-young-leaders)"
+    },
+    {
+     "name": "UNDP African Youth Co-Creators Council 2026 (travel, accommodation and meals covered for council activities per the search summary)",
+     "url": "https://www.undp.org/africa/blog/call-applications-african-youth-co-creators-council",
+     "verdict": "BLOCKED (UNDP page HTTP 403 to WebFetch and repo reader); CLOSED / PAST by the listings (deadline 31 July 2026)"
+    },
+    {
+     "name": "Erasmus+ Capacity Building in Youth, sub-Saharan Africa",
+     "url": "https://erasmus-plus.ec.europa.eu/es/programme-guide/part-b/key-action-2/capacity-youth",
+     "verdict": "NOT AN OPPORTUNITY (call for organisations, deadline 6 March 2025 per the search summary)"
+    },
+    {
+     "name": "ADEL 2026 (Policy Center for the New South) and Beca Ilia Calderon (One Young World)",
+     "url": "https://bogota.gov.co/boletin-oferta-internacional/adel-2026-liderazgo-internacional-para-jovenes-de-bogota",
+     "verdict": "NOT ELIGIBLE (bulletins for young people of Bogota and Latin America; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: Spanish wording returned Latin-American schemes and the same African leadership programmes already stored."
+  },
+  {
+   "phrase": "study tour OR delegation 2027 fully funded Africa applications",
+   "lang": "en",
+   "origin": "bank",
+   "results_seen": 20,
+   "opened": [
+    "https://opportunitiesforyouth.org/2026/11/17/shaping-futures-academy-2027-in-germany-and-belgium-fully-funded-african-european-sustainability-programme-for-mid-career-professionals-apply-by-december-14-2026/",
+    "https://www.idos-research.de/ausbildung/shaping-futures-academy/",
+    "https://www.idos-research.de/ausbildung/shaping-futures-academy/applyfor2027/",
+    "https://opportunitydesk.org/?p=179638",
+    "https://opportunitydesk.org/?p=178615"
+   ],
+   "candidates": [
+    {
+     "name": "Shaping Futures Academy 2027 (IDOS, Bonn and Brussels, 31 May - 1 July 2027, deadline 14 December 2026)",
+     "url": "https://www.idos-research.de/ausbildung/shaping-futures-academy/",
+     "verdict": "NOT ELIGIBLE (IDOS page: open to professionals and researchers aged 28 to 40 'aus Cote d'Ivoire, Kenia, Marokko, Togo und Sambia sowie aus Europa'; the DRC is not on the list; mid-career profile)"
+    },
+    {
+     "name": "Sir Cyril Taylor Young African Leaders Program 2027 (AFS Youth Assembly)",
+     "url": "https://opportunitydesk.org/?p=179638",
+     "verdict": "ALREADY A RECORD (afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027)"
+    },
+    {
+     "name": "Mandela Washington Fellowship 2027",
+     "url": "https://opportunitydesk.org/?p=178615",
+     "verdict": "ALREADY A RECORD (mandela-washington-fellowship-2027, reserved id)"
+    },
+    {
+     "name": "World Forum for Democracy Youth Delegation",
+     "url": "https://opportunitydesk.org/2026/07/29/world-forum-for-democracy-youth-delegation-2026/",
+     "verdict": "ALREADY A RECORD (world-forum-for-democracy-youth-delegation)"
+    },
+    {
+     "name": "Future Leaders Programme 2027 (Coalition for Global Prosperity, overseas visit to the Middle East or Africa)",
+     "url": "https://www.afterschoolafrica.com/122311/future-leaders-programme-coalition-for-global-prosperity/",
+     "verdict": "CLOSED / PAST (deadline 31 October 2026 per the search summary; not opened)"
+    },
+    {
+     "name": "KOICA Youth Leaders Program 2026/2027 (study visit to South Korea)",
+     "url": "https://www.opportunitiesforafricans.com/?p=101325",
+     "verdict": "CLOSED / PAST (deadline 17 June 2026 per the search summary; not opened)"
+    },
+    {
+     "name": "WomenLift Health Leadership Journeys 2027",
+     "url": "https://opportunitydesk.org/?p=177474",
+     "verdict": "CLOSED / PAST (listing date 14 August 2026 per the search summary; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Useful as a negative map of study-tour schemes: every funded one found is closed, mid-career, or limited to a country list without the DRC (Shaping Futures Academy)."
+  },
+  {
+   "phrase": "programme de volontariat 2027 Afrique billet d'avion pris en charge",
+   "lang": "fr",
+   "origin": "bank",
+   "results_seen": 13,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "African Union Youth Volunteer Corps (AU-YVC) 2026 edition (return flight, monthly allowance and medical insurance per the listing; deadline 10 April 2026)",
+     "url": "https://afri-carrieres.com/opportunites/jeunes-volontaires-union-africaine/",
+     "verdict": "ALREADY A RECORD (african-union-youth-volunteer-corps, reserved id, helpers re-read it in this run)"
+    },
+    {
+     "name": "Volontaires unis pour la Francophonie (V-Francophonie, France Volontaires)",
+     "url": "https://www.resacoop.org/wp-content/uploads/sites/20/2026/05/Presentation-programme-V-Francophonie.pdf",
+     "verdict": "ALREADY A RECORD (volontaires-unis-pour-la-francophonie)"
+    },
+    {
+     "name": "France Volontaires calls for expressions of interest (AMI) for host structures",
+     "url": "https://france-volontaires.org/wp-content/uploads/2026/06/france-volontaires.org-presentation-ami-2-presentation-ami-2.pdf",
+     "verdict": "NOT AN OPPORTUNITY (calls addressed to host organisations, not individual volunteers; not opened)"
+    },
+    {
+     "name": "European Solidarity Corps placement 49225",
+     "url": "https://youth.europa.eu/solidarity/opportunity/49225_fr",
+     "verdict": "NOT ELIGIBLE (European Solidarity Corps placements are limited to residents of EU / associated countries, rule read on the Ghana placement page; this one not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: only the stored AU-YVC and V-Francophonie records and a call for host organisations; no new funded volunteering for individuals."
+  },
+  {
+   "phrase": "jeunes congolais RDC 2027 forum ou sommet à l'étranger voyage pris en charge appel à candidatures",
+   "lang": "fr",
+   "origin": "own",
+   "results_seen": 20,
+   "opened": [
+    "https://acp.cd/business/kinshasa-appel-a-la-participation-au-programme-de-renforcement-des-capacites-debout-bilenge/",
+    "https://monusco.unmissions.org/en/node/136665"
+   ],
+   "candidates": [
+    {
+     "name": "EU Delegation to the DRC: subsidised internship for young graduates",
+     "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1",
+     "verdict": "ALREADY A RECORD (eu-delegation-drc-subsidised-internship)"
+    },
+    {
+     "name": "Ebuteli Fellowship (Kinshasa research institute)",
+     "url": "https://www.ebuteli.org/api/files/cbc3f08b-70c3-44aa-9af3-17ab0df7ae88",
+     "verdict": "ALREADY A RECORD (ebuteli-fellowship)"
+    },
+    {
+     "name": "Debout Bilenge 2 (EU-funded leadership programme for Congolese aged 18 to 29, implemented by Neo)",
+     "url": "https://acp.cd/business/kinshasa-appel-a-la-participation-au-programme-de-renforcement-des-capacites-debout-bilenge/",
+     "verdict": "CLOSED / PAST (call launched 13 March 2026, closed 5 April 2026; training in the DRC, no travel or allowance mentioned; read on a news site)"
+    },
+    {
+     "name": "Empower Peace W2W 2026 (United States, July 2026)",
+     "url": "https://form.jotform.com/260126299019357",
+     "verdict": "CLOSED / PAST (held July 2026 per the search summary; only a form link, not opened)"
+    },
+    {
+     "name": "Global youth summit in Kinshasa, 3-4 September (Global Youth Synergy for Peacebuilding and Security)",
+     "url": "https://monusco.unmissions.org/en/node/136665",
+     "verdict": "NOT AN OPPORTUNITY (MONUSCO news report on a past summit held in Kinshasa)"
+    },
+    {
+     "name": "Concours de plans d'affaires jeunes entrepreneurs, RDC (vc4a, PADMPME)",
+     "url": "https://vc4a.com/padmpme/copa-jeunes-entrepreneurs/?lang=fr",
+     "verdict": "NEW - NOT RECORDED (cross-channel D: business-plan competition for entrepreneurs, no travel; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Useful to confirm that the DRC-specific wording finds the stored DRC records (EU Delegation internship, Ebuteli) and local news, but no new funded travel or event for a DRC national."
+  },
+  {
+   "phrase": "Congo Democratic Republic youth fully sponsored forum 2027 travel accommodation covered \"Democratic Republic of the Congo\" eligible",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 15,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "DRC Investment Forum 2026 and Congo2050 NextGen youth programme (Kinshasa, 26-28 August 2026)",
+     "url": "https://africa.com/happening/drc-investment-forum-2026-puts-youth-at-the-centre-of-economic-future-with-a-dedicated-congo2050-nextgen-programme",
+     "verdict": "CLOSED / PAST (event held in August 2026 in Kinshasa; no travel funding mentioned in the summary; not opened)"
+    },
+    {
+     "name": "Youth IGF DRC and Regional Youth Forum for Peace (North Kivu)",
+     "url": "https://www.intgovforum.org/en/filedepot_download/21/30550",
+     "verdict": "NOT AN OPPORTUNITY (national or regional events inside the DRC with no travel funding mentioned; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: naming the DRC in English returned only DRC-hosted events and news; no funded travel abroad open to Congolese youth."
+  },
+  {
+   "phrase": "Xes Jeux de la Francophonie 2027 présélections culturelles nationales appel à candidatures concours culturels",
+   "lang": "fr",
+   "origin": "own",
+   "results_seen": 20,
+   "opened": [
+    "https://www.jeux.francophonie.org/",
+    "https://www.jeux.francophonie.org/participer-aux-jeux-de-la-francophonie",
+    "https://www.jeux.francophonie.org/preselections-culturelles-nationales-des-xes-jeux-de-la-francophonie",
+    "https://www.jeux.francophonie.org/preselections-internationales-concours-culturels-erevan-2027",
+    "https://www.jeux.francophonie.org/faq-0"
+   ],
+   "candidates": [
+    {
+     "name": "Xes Jeux de la Francophonie, Yerevan, 23 July - 1 August 2027 (sport and cultural competitions, ages 18-35, delegation of an OIF member state)",
+     "url": "https://www.jeux.francophonie.org/preselections-culturelles-nationales-des-xes-jeux-de-la-francophonie",
+     "verdict": "ALREADY A LEAD (068fdd54a49a) - CLOSED / PAST for this cycle: CIJF calendar ends with jury deliberations on 29 July 2026 and a first competitor list on 7 September 2026; sport places are chosen by national federations; the DRC (Congo (RD)) is listed as a registered state, but not among the states with retained cultural candidates; the 600 euro per-participant fee covers only local transport, meals and accommodation (no international airfare stated); next Games 2031 in Senegal"
+    },
+    {
+     "name": "National calls of Quebec (CALQ), New Brunswick, France (Ministry of Culture) and Morocco for the Xes Jeux",
+     "url": "https://www.calq.gouv.qc.ca/en/aides/jeux-francophonie-2027",
+     "verdict": "NOT ELIGIBLE (national selections for nationals of those states; not opened beyond the search summary)"
+    },
+    {
+     "name": "DRC national call for the Yerevan Games launched 20 May 2026 (acp.cd report)",
+     "url": "https://acp.cd/culture/rdc-lancement-des-candidatures-pour-les-jeux-francophones-derevan-prevus-en-2027/",
+     "verdict": "CLOSED / PAST (national preselection stage ended before the 29 July 2026 jury; page not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Useful: led to the official CIJF pages and settled the Jeux de la Francophonie lead (closed cycle, no open application); no record because nothing is open and the next Games are in 2031."
+  },
+  {
+   "phrase": "intercâmbio jovens africanos 2027 passagem aérea e hospedagem custeadas inscrições abertas voluntariado fórum",
+   "lang": "pt",
+   "origin": "own",
+   "results_seen": 16,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Caminhos Amefricanos (CAPES / Ministry of Racial Equality: travel and stay paid for Brazilian university students going to Panama, Angola, Mexico)",
+     "url": "https://www.pebsp.com/capes-encerra-inscricoes-em-breve-para-intercambio-em-2-paises-com-tudo-pago/",
+     "verdict": "NOT ELIGIBLE (programme for Brazilian university students; applications ended February 2026 per the search summary; not opened)"
+    },
+    {
+     "name": "Capes Move Africa (CAPES programme bringing African students to Brazil, announced at the Brazil-Africa Rectors Forum)",
+     "url": "https://www.educamaisbrasil.com.br/educacao/dicas/quer-estudar-na-africa-conheca-opcoes-de-intercambio",
+     "verdict": "NEW - NOT RECORDED (academic scholarship, cross-channel C; the search summary shows no open call and no travel funding; official CAPES page not read)"
+    },
+    {
+     "name": "European Solidarity Corps placements in Africa (Ghana, Mozambique) with 2027 start dates",
+     "url": "https://youth.europa.eu/solidarity/opportunity/52697_pt",
+     "verdict": "NOT ELIGIBLE (participants must reside in an EU / associated country, rule read on the Ghana placement page)"
+    },
+    {
+     "name": "France Volontaires V-Amazonia call for expressions of interest (second call)",
+     "url": "https://france-volontaires.org/wp-content/uploads/2026/05/france-volontaires.org-voluntarios-para-a-amazonia-chamada-para-manifestacao-de-interesse-segunda-chamada-programa-v-amazonia.pdf",
+     "verdict": "NOT AN OPPORTUNITY (call for expressions of interest addressed to organisations, May 2026; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Not useful: Portuguese-language results are Brazilian schemes for Brazilians or for study in Brazil; nothing funded for a DRC national. The database holds no Brazil or Portugal programme at all, which is worth a dedicated channel C search."
+  },
+  {
+   "phrase": "becas de viaje jóvenes africanos 2027 foro internacional pasaje y alojamiento cubiertos convocatoria abierta voluntariado",
+   "lang": "es",
+   "origin": "own",
+   "results_seen": 17,
+   "opened": [
+    "https://asa.engagement-global.de/en/programme-opportunities-for-participants",
+    "https://asa.engagement-global.de/en/project-countries",
+    "https://asa.engagement-global.de/files/2_dokumente/ngoglobal/Factsheet_ASA_NGO_global_english.pdf"
+   ],
+   "candidates": [
+    {
+     "name": "ASA Programme 2027, global format (Engagement Global, Germany: 3 months in Germany + 3 months in the home country, scholarship, seminar travel)",
+     "url": "https://asa.engagement-global.de/en/programme-opportunities-for-participants",
+     "verdict": "NEW - NOT RECORDED (no direct application: 'Participants from partner countries are selected directly by organisations proposing a project for the ASA Programme and are already involved in these organisations. Non-German residents living outside of Germany cannot apply directly'; partner-country participants must be chosen by 15 December 2026, age up to 35, English B2; the DRC is not named on the project-countries page, which says only 'All countries and regions in Africa, Asia, Latin America, and Southeast Europe that are included in the DAC List')"
+    },
+    {
+     "name": "Mandela Washington Fellowship 2027",
+     "url": "https://ng.linkedin.com/in/joy-origho-94657015b",
+     "verdict": "ALREADY A RECORD (mandela-washington-fellowship-2027, reserved id)"
+    },
+    {
+     "name": "French-African Foundation Young Leaders Programme 2027",
+     "url": "https://www.opportunitiesforafricans.com/?p=103325",
+     "verdict": "ALREADY A RECORD (french-african-foundation-young-leaders)"
+    },
+    {
+     "name": "Youth Development Forum 2026, Berlin (Center for Global Dialogue and Leadership, 7-10 May 2026, 30 funded seats per aggregators)",
+     "url": "https://opportunitiescorners.com/youth-development-forum-berlin/",
+     "verdict": "CLOSED / PAST (held May 2026; no 2027 edition found; the same organiser's Youth Global Forum 2027 is already stored as youth-global-forum-2027-paris-cgdl)"
+    },
+    {
+     "name": "Youth Action Summit 2027, Berlin (Centre for Diplomatic Advancement, 11-14 January 2027)",
+     "url": "https://opportunitiescorners.com/youth-action-summit-2027-in-germany/",
+     "verdict": "CLOSED / PAST (stated deadline 5 October 2026 per aggregators; also a seats-plus-paid-access-pass model; official site not found)"
+    },
+    {
+     "name": "Becas LEARN Africa 2026-2027 (Spanish Ministry of Foreign Affairs, Embassy in Yaounde)",
+     "url": "https://exteriores.gob.es/Embajadas/yaunde/es/Comunicacion/Noticias/Paginas/Articulos/20260704_NOT01_Becas-LEARN-Africa-2026-2027.aspx",
+     "verdict": "NEW - NOT RECORDED (study-grant news item, cross-channel B/C; not opened)"
+    },
+    {
+     "name": "Fundacion Carolina Jovenes Lideres Iberoamericanos; Alianza del Pacifico youth scholarships and volunteering; Ilia Calderon scholarship",
+     "url": "https://www.fundacioncarolina.es/wp-content/uploads/2025/06/Dossier_Participantes_JLI_2025_web.pdf",
+     "verdict": "NOT ELIGIBLE (Latin American / Ibero-American youth schemes; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Partly useful: surfaced the ASA programme (a genuine funded exchange between Germany and Africa, but closed to direct applications) and Spanish-language aggregator echoes of CGDL forums; no new open opportunity."
+  },
+  {
+   "phrase": "ECOSOC Youth Forum 2027 call for participation youth delegates funding travel",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 16,
+   "opened": [
+    "https://www.un.org/youthaffairs/en"
+   ],
+   "candidates": [
+    {
+     "name": "ECOSOC Youth Forum 2027 (UN DESA / UN Major Group for Children and Youth)",
+     "url": "https://ecosoc.un.org/en/what-we-do/ecosoc-youth-forum/about-youth-forum/ecosoc-youth-forum-2026",
+     "verdict": "NEW - NOT RECORDED (no 2027 call published; the 2026 forum ran 14-16 April with speaker applications closing 7 March 2026 and a separate UNMGCY expression of interest; no travel funding stated in any result; UN Youth Office home page read, it only carries news)"
+    }
+   ],
+   "records_written": [],
+   "note": "Useful as a watch signal: the ECOSOC Youth Forum call and the UNMGCY expression of interest typically appear around January-March, so re-check then; nothing open now."
+  }
+ ],
+ "notes": "CLOSING SUMMARY, channel E (Community and social), discovery pass 2026-11-21. 16 phrases (en 7, fr 5, pt 2, es 2), 0 new records, 5 lead outcomes (the 4 leftover leads + 068fdd54a49a), 5 blocked pages. Run was interrupted by the account usage limit; closing notes written by the orchestrator from the file contents."
+}

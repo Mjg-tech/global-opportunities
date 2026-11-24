@@ -1,0 +1,1322 @@
+{
+ "channel": "C",
+ "records": [
+  {
+   "id": "pec-pg-brazil-2027",
+   "title": "PEC-PG 2027: Brazilian government postgraduate exchange programme (master's and doctorate scholarships for students from partner countries)",
+   "organization": "CNPq, CAPES and the Brazilian Ministry of Foreign Affairs (Itamaraty)",
+   "overview": "The Programa de Estudantes-Convenio de Pos-Graduacao (PEC-PG) gives graduates from partner countries a monthly stipend (R$ 2,100 for a 24-month master's, R$ 3,100 for a 48-month doctorate) to study at participating Brazilian graduate programmes. For the 2027 round CNPq publishes the list of participating Brazilian institutions in December 2026 and each institution then runs its own selection; scholarships start between March 2027 and March 2028. Applying is free.",
+   "category": [
+    "Scholarship"
+   ],
+   "subcategory": [
+    "Master's",
+    "Doctorate",
+    "Government scholarship"
+   ],
+   "education_levels": [
+    "Master's",
+    "PhD"
+   ],
+   "country": "Brazil",
+   "city": "Various (participating Brazilian institutions)",
+   "region": "South America",
+   "continent": "South America",
+   "location_type": "International travel",
+   "delivery_mode": "In-person",
+   "program_dates": "Master's scholarship 24 months, doctorate 48 months; scholarships start between March 2027 and March 2028",
+   "application_deadline": "",
+   "deadline_utc": "",
+   "deadline_text": "No single deadline. MRE page (read 21 November 2026): CNPq publishes the final list of eligible Brazilian institutions in 'December 2026', then 'From December 2026 , each HEI/ICT will conduct its own selection of candidates for the PEC-PG program'; scholarships start 'Between March 2027 and March 2028'. Each institution sets its own application dates.",
+   "deadline_timezone": "Not applicable",
+   "opens_on": "",
+   "open_now": false,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "",
+   "last_cycle_deadline": "2025-09-29",
+   "funding_type": "Partially Funded",
+   "funding_details": [
+    "MRE page: 'Monthly stipend - R$ 2,100.00 for Master's degree (duration of 24 months) and R$ 3,100.00 for Doctorate degree (duration of 48 months)'",
+    "MRE page: access to the Brazilian Public Health System (SUS) 'on the same conditions as Brazilian citizens'",
+    "MRE page: financial aid to return to the country of origin, paid by the Ministry of Foreign Affairs 'depending on budgetary and financial availability'",
+    "CNPq call notice (PDF, section 5.2.2): PEC-PG does not fund the ticket to Brazil, connections and baggage, lodging of any kind (including installation aid), family allowances, or academic and administrative fees of the Brazilian institution"
+   ],
+   "coverage": {
+    "tuition": "Not specified",
+    "stipend": "Covered",
+    "flight": "Partially covered",
+    "accommodation": "Not covered",
+    "meals": "Not specified",
+    "visa": "Not specified",
+    "insurance": "Not specified",
+    "local_transport": "Not specified"
+   },
+   "participation_fee": "None: the MRE page states 'Application for PEC-PG is free'",
+   "stipend": "R$ 2,100.00 per month for the master's (24 months); R$ 3,100.00 per month for the doctorate (48 months)",
+   "eligibility": [
+    "National of one of the countries participating in PEC-PG and living in one of them (the CAPES list of participating African countries names the Democratic Republic of the Congo)",
+    "Completed higher education equivalent to an undergraduate degree (graduacao); no doctorate",
+    "No Brazilian nationality (including dual nationality or the right to it) and no permanent residence permit for Brazil",
+    "No debts with CAPES or the Brazilian government; able to start within the graduate programme's deadline; an updated Lattes CV",
+    "Must also meet the specific requirements of the chosen graduate programme (PPG), including language requirements"
+   ],
+   "nationality_requirements": [
+    "Nationals of countries participating in PEC-PG who live in one of those countries. The CAPES announcement of the PEC-PG selection (July 2025) lists 29 African participants including 'Republica Democratica do Congo' (the Republic of the Congo is listed separately); the 2027 MRE page refers to 'the countries participating in the Program' without repeating the list."
+   ],
+   "age_requirement": "Unknown / Not specified",
+   "education_requirement": "A higher education course equivalent to an undergraduate degree (graduacao); the CNPq call ties its scholarships to academic (stricto sensu) graduate programmes recognised by CAPES",
+   "experience_requirement": "Unknown / Not specified",
+   "language_requirement": "Set by each graduate programme (PPG), 'including language requirements'; the research project may be in Portuguese, Spanish or English; the Lattes CV must be in Portuguese",
+   "other_requirements": [
+    "Not have a doctorate degree",
+    "Not already be taking, in Brazil, a course of the same level as the PEC-PG course",
+    "Updated Lattes CV on the Lattes platform",
+    "Valid ORCID number (listed among the items needed to begin receiving the scholarship)"
+   ],
+   "documents_required": [
+    "Digital copy of the personal information page of the passport",
+    "Proof of CPF (Brazilian taxpayer registry) status",
+    "Proof of residence abroad (such as a water or electricity bill)",
+    "Valid ORCID number",
+    "Research project in Portuguese, Spanish or English",
+    "Statement of employment, if applicable",
+    "Complete, updated Lattes CV in Portuguese",
+    "Statement from the graduate programme confirming regular enrolment (the MRE page lists these to begin receiving the scholarship)"
+   ],
+   "application_process": [
+    "STEP 1: wait until December 2026, when CNPq publishes the list of Brazilian institutions that may receive PEC-PG students",
+    "STEP 2: check which graduate programmes (PPGs) are included and their specific requirements",
+    "STEP 3: contact the institutions of interest, or use their websites, to find out how to apply for a PEC-PG scholarship",
+    "STEP 4: await the result of the institution's own selection; STEP 5: prepare to travel to Brazil between March 2027 and March 2028"
+   ],
+   "official_application_url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+   "official_information_url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+   "source_url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+   "source_type": "Official",
+   "source_confidence": "HIGH",
+   "verification": "PARTIALLY VERIFIED",
+   "sources": [
+    {
+     "label": "Brazilian Ministry of Foreign Affairs: PEC-PG 2027 selection process (calendar, requirements, benefits, steps)",
+     "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+     "type": "Official"
+    },
+    {
+     "label": "CAPES news: PEC-PG notice (list of participating countries, previous round dates)",
+     "url": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-lanca-edital-para-estudantes-estrangeiros",
+     "type": "Official"
+    },
+    {
+     "label": "CNPq Public Call 16/2026 (PDF): what PEC-PG does and does not fund",
+     "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-16-2026/ChamadaPblica_CNPq_CAPES_MRE_16_2026_2717524.pdf",
+     "type": "Official"
+    },
+    {
+     "label": "CAPES news (26 May 2026): CAPES Move Africa announcement, also reports PEC-PG selections 2023-2026",
+     "url": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-move-africa-oferta-2-6-mil-bolsas-para-estudantes-africanos-em-instituicoes-brasileiras",
+     "type": "Official"
+    }
+   ],
+   "eligibility_for_me": "POSSIBLY ELIGIBLE",
+   "eligibility_reason": "A Bachelor's degree is held and the DRC is named as a participating country on the CAPES list, so the nationality, residence and degree rules are met. The study field, the chosen programme's language requirement (no Portuguese is recorded in the profile) and a valid passport are not recorded, and the participating institutions and programmes are announced only in December 2026.",
+   "potential_issues": [
+    "The participating institutions and programmes are not published until December 2026; each institution sets its own application dates and requirements",
+    "No Portuguese is recorded in the profile; programme language requirements are unknown and the Lattes CV must be in Portuguese",
+    "The ticket to Brazil, lodging and installation aid are not funded (CNPq call notice, PDF); the monthly stipend is the main support and the selected student pays the ticket and early living costs until the first payment",
+    "The list of participating countries quoted is from the CAPES announcement of the previous PEC-PG notice (July 2025); the 2027 MRE page does not repeat it",
+    "The CNPq call funds academic (stricto sensu) graduate programmes; proposals tied to professional programmes are rejected",
+    "Selection is small: CAPES reports that between 2023 and 2026 PEC-PG selected 154 African students from 12 countries for 54 Brazilian institutions (CAPES news page, 26 May 2026)"
+   ],
+   "benefits": [
+    "Monthly stipend of R$ 2,100 for a 24-month master's",
+    "Access to the Brazilian public health system (SUS) on the same terms as Brazilian citizens",
+    "Return-travel aid from the Brazilian Ministry of Foreign Affairs, subject to budget availability",
+    "Free application"
+   ],
+   "relevance": {
+    "academic": "Medium",
+    "career": "Medium",
+    "travel": "Medium",
+    "networking": "Medium",
+    "funding": "Medium",
+    "accessibility": "Low",
+    "profile_fit": "Medium"
+   },
+   "relevance_reason": "A funded academic master's in Brazil could suit the applicant's research and public-sector analysis interests if a management or public-policy programme is on the 2027 list, but it is taught in Portuguese, the stipend is modest and the ticket and lodging are not funded.",
+   "visa": {
+    "required": "Unknown / Not specified",
+    "support": "Unknown / Not specified"
+   },
+   "upfront_cost_risk": "Medium: the application is free, but the ticket to Brazil and living costs until the first monthly payment are the student's (CNPq call notice, PDF)",
+   "action": "Wait for CNPq's December 2026 list of participating Brazilian institutions, then shortlist academic master's programmes in management, public administration or logistics and check each one's language and document requirements (research project, Lattes CV). Applying is free; do not pay anyone to apply.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 Nov 2026 (scout C), found with the Portuguese plan phrase. The MRE selection page and the CAPES news page were read with the repo reader. The CNPq call is a PDF: the repo reader returns it as bytes, so the same bytes were converted locally with pdftotext (WebFetch was not used for it); no evidence quote relies on it because the judge's plain reader cannot quote a PDF. The DRC list quoted is the CAPES July 2025 list; the 2027 MRE page does not restate it. The CAPES Move Africa news page (also read, HTTP 200) announces 2,600 'sandwich' scholarships (two to ten months in Brazil as part of a degree) with no call published yet; it is not recorded separately.",
+   "match_keywords": [
+    "pec-pg",
+    "pec-pg 2027",
+    "programa de estudantes-convenio de pos-graduacao",
+    "programa de estudantes-convênio de pós-graduação",
+    "brazilian program for exchange students postgraduate"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "nationality",
+      "requirement": "Be a national of one of the countries participating in PEC-PG; the CAPES list of participating African countries names the Democratic Republic of the Congo (Republica Democratica do Congo).",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Quênia, República Democrática do Congo, República do Congo, São Tomé e Príncipe",
+      "page": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-lanca-edital-para-estudantes-estrangeiros"
+     },
+     {
+      "criterion": "residence",
+      "requirement": "Live in one of the countries participating in PEC-PG.",
+      "applicant": "Resident in the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Live in one of the countries participating in the Program",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     },
+     {
+      "criterion": "education",
+      "requirement": "A completed higher education course equivalent to an undergraduate degree (graduacao).",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Have completed a higher education course equivalent to an undergraduate degree (graduação)",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     },
+     {
+      "criterion": "discipline",
+      "requirement": "The chosen graduate programme (PPG) sets its own admission requirements; the programmes on the 2027 list are published in December 2026.",
+      "applicant": "Business Administration degree; interests in operations, business analysis, project coordination and policy analysis.",
+      "assessment": "UNKNOWN",
+      "missing": "which graduate programmes are on the 2027 list and the admission requirements of the ones of interest",
+      "quote": "specific requirements of the Graduate Program (PPG) of your interest, including language requirements",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     },
+     {
+      "criterion": "language",
+      "requirement": "Language requirements are set by each graduate programme; the Lattes CV must be in Portuguese and the research project in Portuguese, Spanish or English.",
+      "applicant": "French, English, Swahili and Lingala are recorded; no Portuguese is recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "the language requirement of the chosen programme and whether the applicant can meet it in Portuguese",
+      "quote": "specific requirements of the Graduate Program (PPG) of your interest, including language requirements",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     },
+     {
+      "criterion": "passport",
+      "requirement": "A digital copy of the personal information page of the passport is needed to begin receiving the scholarship.",
+      "applicant": "Passport not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "whether the applicant holds a valid passport",
+      "quote": "Digital copy of the personal information page from your passport",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     }
+    ],
+    "funding": [
+     {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "2100",
+      "currency": "BRL",
+      "conditions": "Per month for a master's of 24 months (R$ 3,100 per month for a doctorate of 48 months).",
+      "quote": "Monthly stipend - R$ 2,100.00 for Master's degree (duration of 24 months)",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     },
+     {
+      "item": "airfare",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Only an aid to return to the country of origin, paid by the Ministry of Foreign Affairs depending on budget availability; the ticket to Brazil is not funded (CNPq call notice, PDF).",
+      "quote": "Financial aid to return to the country of origin - paid by the Ministry of Foreign Affairs (MRE), depending on budgetary and financial availability.",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     },
+     {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Access to the Brazilian public health system (SUS) on the same terms as Brazilian citizens; this is public-system access, not a private insurance policy.",
+      "quote": "Access to the Brazilian Public Health System (SUS) - Access throughout Brazil, on the same conditions as Brazilian citizens, without discrimination based on nationality or immigration status.",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     }
+    ],
+    "out_of_pocket": "No amounts are stated. The CNPq call notice (PDF) makes the selected student responsible for the ticket to Brazil and for living costs until the first monthly payment; lodging and installation aid are not funded. The application itself is free.",
+    "cycles": [
+     {
+      "cycle": "PEC-PG 2027 selection",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "",
+      "deadline": "",
+      "window_text": "Institutions select candidates from December 2026; scholarships start between March 2027 and March 2028.",
+      "quote": "From December 2026 , each HEI/ICT will conduct its own selection of candidates for the PEC-PG program.",
+      "page": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2"
+     },
+     {
+      "cycle": "PEC-PG 2026 (CAPES Notice No. 12/2025)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2025-08-14",
+      "deadline": "2025-09-29",
+      "quote": "O período de inscrição dos candidatos estrangeiros vai de 14 de agosto a 29 de setembro para mestrado e doutorado pleno",
+      "page": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-lanca-edital-para-estudantes-estrangeiros"
+     }
+    ]
+   }
+  },
+  {
+   "id": "universite-senghor-master-developpement-alexandrie",
+   "title": "Universite Senghor (Alexandria): two-year Master en Developpement with living-cost scholarships (Governance and public management, Project management and other specialities)",
+   "organization": "Universite Senghor, direct operator of the Francophonie (Alexandria, Egypt)",
+   "overview": "A professional two-year Master en Developpement taught in French on the Alexandria campus, with eight specialities including Governance and public management and Project management. The 2026 call (21st promotion) offered a living-cost grant to 100 winners of an admission competition open to holders of a Licence with at least one year of relevant professional experience beyond academic internships. The 2026 call is closed; no 2027 call is published yet.",
+   "category": [
+    "Scholarship"
+   ],
+   "subcategory": [
+    "Master's",
+    "Francophonie",
+    "Governance",
+    "Project management"
+   ],
+   "education_levels": [
+    "Master's"
+   ],
+   "country": "Egypt",
+   "city": "Alexandria (Borg El-Arab campus)",
+   "region": "North Africa",
+   "continent": "Africa",
+   "location_type": "International travel",
+   "delivery_mode": "In-person",
+   "program_dates": "2026 call: first year from 20 September 2026; second year from 5 September 2027; end-of-studies internship between 31 January and 16 June 2028; diplomas 18 June to 13 July 2028 (dates indicative, per the 2026 call)",
+   "application_deadline": "",
+   "deadline_utc": "",
+   "deadline_text": "No open call. The 2026 call page (read 21 November 2026) shows 'Registration deadline April 1, 2026, 12:00 AM GMT', 'Deadline passed', and says the online file 'doit etre rempli obligatoirement en ligne avant le 15 mars 2026 minuit GMT'. No 2027 call is published.",
+   "deadline_timezone": "GMT",
+   "opens_on": "",
+   "open_now": false,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "Not announced. Pattern only: the 2026 call opened on 28 January 2026 and closed in March/April 2026, so a similar window in early 2027 is likely but not stated by the organiser.",
+   "last_cycle_deadline": "2026-03-15",
+   "funding_type": "Substantially Funded",
+   "funding_details": [
+    "2026 call: a living-cost grant ('bourse de frais de vie') for 100 winners, who pay only a flat EUR 400 administrative registration fee per year of Master",
+    "Living costs covered: individual studio on the campus, one lunch a day, medical insurance, a monthly allowance of 4000 LE per month of effective presence, and a weekend shuttle subject to a minimum number of interested students",
+    "Contribution to the end-of-studies internship (return ticket and associated visa fees, travel insurance in 2028); internship allowances are not paid",
+    "Not covered: the return trip from the country of residence to Alexandria; a EUR 30 fee is due for the written admission test"
+   ],
+   "coverage": {
+    "tuition": "Partially covered",
+    "stipend": "Covered",
+    "flight": "Not covered",
+    "accommodation": "Covered",
+    "meals": "Partially covered",
+    "visa": "Not specified",
+    "insurance": "Covered",
+    "local_transport": "Partially covered"
+   },
+   "participation_fee": "EUR 30 admission-test registration fee (stage 2 of the competition); EUR 400 per year administrative registration fee for scholarship holders",
+   "stipend": "4000 LE per month of effective presence in Alexandrie (2026 call)",
+   "eligibility": [
+    "Licence (bac+3) or equivalent diploma",
+    "At least one year of relevant professional experience distinct from academic internships",
+    "Under 36 on 1 September of the entry year to claim a scholarship (2026 call)",
+    "Three eliminatory phases: online file, online written test, oral interview"
+   ],
+   "nationality_requirements": [
+    "No nationality list is stated on the 2026 call page; it is not restricted to named countries"
+   ],
+   "age_requirement": "Under 36 on 1 September 2026 to claim a scholarship (2026 call)",
+   "education_requirement": "Licence (bac+3) or an equivalent diploma",
+   "experience_requirement": "At least one year of relevant professional experience distinct from academic internships",
+   "language_requirement": "Teaching in French ('universite internationale de langue francaise')",
+   "other_requirements": [
+    "Civil servants need an employer's authorisation to compete (or proof that it was requested)",
+    "At least one recommendation letter with the signatory's full contact details, a motivation letter and a CV of at most 2 pages",
+    "Gender balance is considered in awarding scholarships; women's applications are strongly encouraged"
+   ],
+   "documents_required": [
+    "Passport-style photo and a copy of an identity card or passport",
+    "Copies of diplomas and transcripts",
+    "Documents proving at least one year of relevant professional experience (employment contract, employer certificate or equivalent)",
+    "Employer authorisation for civil servants",
+    "At least one recommendation letter, a motivation letter and a 2-page CV"
+   ],
+   "application_process": [
+    "Phase 1: online application file and selection",
+    "Phase 2: online written test after paying the EUR 30 registration fee",
+    "Phase 3: remote oral interview, where original or certified copies of documents are shown"
+   ],
+   "official_application_url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+   "official_information_url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+   "source_url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+   "source_type": "Official",
+   "source_confidence": "HIGH",
+   "verification": "PARTIALLY VERIFIED",
+   "sources": [
+    {
+     "label": "Universite Senghor: Master 1 call 2026-27 (conditions, scholarships, dates; closed)",
+     "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+     "type": "Official"
+    },
+    {
+     "label": "Universite Senghor: calls for the partner campuses, September 2026 (self-financed M2 programmes)",
+     "url": "https://usenghor-francophonie.org/en/formations/masters/20-appels-a-candidature-pour-les-masters-des-campus-senghor-septembre-2026",
+     "type": "Official"
+    }
+   ],
+   "eligibility_for_me": "NOT ELIGIBLE",
+   "eligibility_reason": "The 2026 call required a Licence (held), an age under 36 on 1 September (recorded as under 30) and at least one year of relevant professional experience distinct from academic internships. The profile records under one year in total, all internships and field assignments, so the experience rule is not met. The page names no country list, so the DRC position is not stated either way.",
+   "potential_issues": [
+    "The experience rule (one year of professional experience beyond internships) is not met on the recorded profile; it may become reachable in a later cycle",
+    "The call is closed and no 2027 call is published; criteria, dates and the number of scholarships may change",
+    "Costs for scholarship holders: EUR 30 admission-test fee, EUR 400 per year administrative fee, and the return trip to Alexandria; competition is for 100 scholarships across eight specialities",
+    "The call page shows two different closing dates (15 March 2026 for the file, 1 April 2026 in the header)",
+    "The self-financed M2 programmes on partner campuses (one at ISEP in the DRC) are paid by the student and are not scholarships"
+   ],
+   "benefits": [
+    "Living costs covered for scholarship holders: studio on campus, daily lunch, medical insurance and a monthly allowance",
+    "French-language master's focused on development, public governance and project management",
+    "Contribution to the end-of-studies internship travel"
+   ],
+   "relevance": {
+    "academic": "High",
+    "career": "High",
+    "travel": "Medium",
+    "networking": "High",
+    "funding": "High",
+    "accessibility": "Low",
+    "profile_fit": "High"
+   },
+   "relevance_reason": "Governance and public management and Project management in French match the applicant's public-sector, policy and project-coordination interests and the living-cost grant is substantial, but the one-year professional experience rule currently blocks the application.",
+   "visa": {
+    "required": "Unknown / Not specified",
+    "support": "Unknown / Not specified"
+   },
+   "upfront_cost_risk": "Medium: EUR 30 test fee, EUR 400 per year registration fee and the return trip to Alexandria are paid by the student",
+   "action": "Not eligible under the 2026 criteria (one year of professional experience beyond internships). Keep it on the watch list: check the Universite Senghor calls page from January 2027 and re-assess once the applicant has a year of relevant professional experience; do not pay the EUR 30 test fee unless the criteria are met.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 Nov 2026 (scout C), found with the French own phrase on management and public administration. Both pages were read with the repo reader (HTTP 200). The Master 1 page also hosts the direct-entry M2 call text; the 2026 M1 specialities listed are cultural heritage, cultural enterprises, protected areas, environment, governance and public management, project management, international nutrition and international public health. Written as a NOT ELIGIBLE record because the programme is well known in the francophone world and the experience rule is the only blocker.",
+   "match_keywords": [
+    "universite senghor",
+    "université senghor",
+    "master en développement alexandrie",
+    "master 1 de l'université senghor",
+    "senghor university master",
+    "concours d'admission université senghor"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "education",
+      "requirement": "Licence (bac+3) or an equivalent diploma.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "être titulaire d’une Licence (bac+3) ou d’un diplôme équivalent",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "criterion": "experience",
+      "requirement": "At least one year of relevant professional experience, distinct from academic internships.",
+      "applicant": "Under one year in total of internships and field assignments; no full-time employment recorded.",
+      "assessment": "NOT MET",
+      "quote": "faire état d’une expérience professionnelle pertinente d’au moins une année distincte des stages académiques",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "criterion": "age",
+      "requirement": "Under 36 on 1 September of the entry year to claim a scholarship (date quoted is for the 2026 call).",
+      "applicant": "Recorded only as under 30.",
+      "assessment": "MET",
+      "quote": "être âgé de moins de 36 ans au 1er septembre 2026 pour prétendre à une bourse",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "criterion": "language",
+      "requirement": "The university teaches in French.",
+      "applicant": "French is a recorded language.",
+      "assessment": "MET",
+      "quote": "université internationale de langue française au service du développement africain",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "criterion": "nationality",
+      "requirement": "The call page states no nationality or country list.",
+      "assessment": "NOT STATED"
+     }
+    ],
+    "funding": [
+     {
+      "item": "tuition",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Scholarship holders pay only a flat EUR 400 administrative registration fee per year of Master.",
+      "quote": "l’Université offre une bourse de frais de vie à 100 lauréats dits boursiers qui devront s’acquitter uniquement des droits d’inscription administrative d’un montant forfaitaire de 400 € par année de Master",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "item": "accommodation",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Individual studio on the university campus during the study period in Alexandria.",
+      "quote": "hébergement en studio individuel dans le campus universitaire à Borg El-Arab",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "item": "meals",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "One meal a day, served at lunch.",
+      "quote": "un repas quotidien servi le midi au restaurant universitaire",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "item": "insurance",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "Medical insurance during the study period in Alexandria.",
+      "quote": "une assurance médicale",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "amount": "4000",
+      "currency": "EGP",
+      "conditions": "Per month of effective presence in Alexandria; the page writes 'LE' (Egyptian pounds).",
+      "quote": "une allocation mensuelle de subsistance d’un montant de 4000 LE par mois de présence effective à Alexandrie",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "item": "local_transport",
+      "arrangement": "Partially covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Weekend shuttle between the campus and the city centre, subject to a minimum number of interested students.",
+      "quote": "le transport entre le campus à Borg El-Arab et le centre-ville d’Alexandrie durant les week-ends sous réserve d’un nombre minimum de personnes intéressées",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "item": "airfare",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "Return trip from the country of residence to Alexandria, including during summer holidays.",
+      "quote": "Tous les étudiants doivent assumer leurs frais de voyage aller-retour du pays de résidence à Alexandrie",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "item": "participation_fee",
+      "arrangement": "Not covered",
+      "amount": "",
+      "currency": "",
+      "conditions": "A EUR 30 registration fee is due for the online written test (stage 2); the EUR 400 yearly administrative fee applies to scholarship holders.",
+      "quote": "après l’acquittement d’un droit d’inscription au concours de 30 euros",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     }
+    ],
+    "out_of_pocket": "EUR 30 for the written admission test, EUR 400 per year administrative registration fee for scholarship holders, and the return trip to Alexandria (no amount stated for the trip).",
+    "cycles": [
+     {
+      "cycle": "2026 (21st promotion, M1)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "",
+      "deadline": "2026-03-15",
+      "quote": "doit être rempli obligatoirement en ligne avant le 15 mars 2026 minuit GMT",
+      "page": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor"
+     },
+     {
+      "cycle": "2027 intake",
+      "state": "EXPECTED NEXT CYCLE",
+      "basis": "pattern",
+      "opens_on": "",
+      "deadline": "",
+      "window_text": "Not announced; the 2026 call opened on 28 January 2026 and closed in March/April 2026, so a similar early-2027 window is likely."
+     }
+    ]
+   }
+  },
+  {
+   "id": "e-just-ticad9-fall-2027",
+   "title": "E-JUST TICAD9 African Scholarship for STI, Fall 2027 intake (M.Sc. and Ph.D. at the Egypt-Japan University of Science and Technology)",
+   "organization": "Egypt-Japan University of Science and Technology (E-JUST), with JICA (Japan)",
+   "overview": "Reported by secondary sources (the E-JUST page could not be read): the TICAD9 scholarships for science, technology and innovation (STI) offer 20 M.Sc. and 22 Ph.D. places for the Fall 2027 semester at E-JUST in Egypt, described as a cost-sharing scheme between E-JUST and JICA. The fields listed are Engineering, Computer Science and Information Technology, Basic and Applied Sciences, International Business and Humanities. Applicants are expected to be researchers or instructors, or people potentially expected to become them.",
+   "category": [
+    "Scholarship"
+   ],
+   "subcategory": [
+    "Master's",
+    "Doctorate",
+    "JICA",
+    "TICAD"
+   ],
+   "education_levels": [
+    "Master's",
+    "PhD"
+   ],
+   "country": "Egypt",
+   "city": "Unknown / Not specified",
+   "region": "North Africa",
+   "continent": "Africa",
+   "location_type": "International travel",
+   "delivery_mode": "In-person",
+   "program_dates": "Reported by secondary sources: Fall 2027 semester; two years for the M.Sc. and three years for the Ph.D., each with six months of preparatory courses if necessary",
+   "application_deadline": "2027-01-10",
+   "deadline_utc": "",
+   "deadline_text": "Reported by secondary sources, not confirmed by E-JUST: Opportunities for Africans (12 Nov 2026) states 'Application Deadline: January 10, 2027'; Opportunity Desk (12 Nov 2026) shows 'Deadline: Unspecified'. The E-JUST page could not be read.",
+   "deadline_timezone": "Not stated",
+   "opens_on": "",
+   "open_now": true,
+   "rolling": false,
+   "recurring": true,
+   "expected_next_cycle": "",
+   "last_cycle_deadline": "",
+   "funding_type": "Funding Unclear",
+   "funding_details": [
+    "Reported by secondary sources (E-JUST page not read): 'a fully funded scholarship' covering tuition fees, single accommodation in the E-JUST dormitory, a monthly stipend, medical care and the international round-trip flight from and to the home country; Ph.D. students may receive a research visit to Japan of up to six months, conditional on prerequisites",
+    "The flyer for the previous intake (Fall 2025, TICAD8) on the Embassy of Japan in Namibia site lists the same kinds of support under 'Fully Funded Scholarships': tuition fees, flight tickets, accommodation, medical insurance and a monthly stipend",
+    "No amounts are given on any page read"
+   ],
+   "coverage": {
+    "tuition": "Not specified",
+    "stipend": "Not specified",
+    "flight": "Not specified",
+    "accommodation": "Not specified",
+    "meals": "Not specified",
+    "visa": "Not specified",
+    "insurance": "Not specified",
+    "local_transport": "Not specified"
+   },
+   "participation_fee": "Unknown / Not specified",
+   "stipend": "Unknown / Not specified",
+   "eligibility": [
+    "Reported by secondary sources: researchers or instructors (or people potentially expected to become those) who need an M.Sc. or Ph.D.",
+    "Nationality of a country in Africa except Egypt, with a current home address in an African country",
+    "Not serving in the military",
+    "Must meet E-JUST's admission requirements and pass the academic interview and oral examination",
+    "Applicants who will return to their home university or institution are preferred; the institution's endorsement of the application form is then required"
+   ],
+   "nationality_requirements": [
+    "Reported by secondary sources: 'a holder of nationality of a country in Africa except for Egypt' (Targeted Countries: African Countries, except Egypt). No country list was shown and the DRC is not named, so its position on the organiser's list is not confirmed; a literal reading of 'a country in Africa' would include it."
+   ],
+   "age_requirement": "Unknown / Not specified",
+   "education_requirement": "Unknown / Not specified (E-JUST's admission requirements were not read)",
+   "experience_requirement": "Unknown / Not specified",
+   "language_requirement": "Unknown / Not specified",
+   "other_requirements": [
+    "Not serving in the military",
+    "Endorsement of the application form by the home institution for applicants who will return to it",
+    "Passing the academic interview and oral examination"
+   ],
+   "documents_required": [
+    "Unknown / Not specified for this intake. The flyer for the previous intake mentions an online application with a research proposal and the required documents, then original certified documents after selection"
+   ],
+   "application_process": [
+    "Apply through E-JUST's online application system (Opportunity Desk links its apply button to eduportal.ejust.edu.eg, a login and sign-up page that shows no call text)",
+    "Reported for the previous intake: primary screening, online personal and academic interview, results announcement, then submission of original certified documents"
+   ],
+   "official_application_url": "https://eduportal.ejust.edu.eg/",
+   "official_information_url": "https://www.ejust.edu.eg/international-scholarships",
+   "source_url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+   "source_type": "Aggregator",
+   "source_confidence": "LOW",
+   "verification": "NEEDS VERIFICATION",
+   "sources": [
+    {
+     "label": "Opportunities for Africans: E-JUST TICAD9 Postgraduate Scholarship Program 2027 (12 Nov 2026)",
+     "url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+     "type": "Aggregator"
+    },
+    {
+     "label": "Opportunity Desk: E-JUST TICAD9 African Scholarship for STI, Fall 2027 (12 Nov 2026)",
+     "url": "https://opportunitydesk.org/2026/11/12/e-just-ticad9-african-scholarship-for-sti-fall-2027/",
+     "type": "Aggregator"
+    },
+    {
+     "label": "E-JUST EduPortal: application login and sign-up page (no call text)",
+     "url": "https://eduportal.ejust.edu.eg/",
+     "type": "Official"
+    },
+    {
+     "label": "Embassy of Japan in Namibia: E-JUST TICAD8 flyer for the Fall 2025 intake (PDF, previous cycle)",
+     "url": "https://www.na.emb-japan.go.jp/files/100776912.pdf",
+     "type": "Institutional"
+    }
+   ],
+   "eligibility_for_me": "INSUFFICIENT INFORMATION",
+   "eligibility_reason": "Reported by secondary sources: the nationality rule is 'a country in Africa except for Egypt' with no country list, so the DRC is not confirmed on the organiser's list (a literal reading would include it). The applicant lives in the DRC, but whether a Business Administration degree fits the listed fields, whether the applicant counts as a researcher or instructor 'potentially expected to become those', and the military-service rule cannot be assessed from the profile or from a page written by the organiser.",
+   "potential_issues": [
+    "The E-JUST pages (www.ejust.edu.eg/international-scholarships and /int-admission) could not be read by either reader (HTTP 0 and a TLS certificate error); everything here comes from two aggregators that carry the same text",
+    "The deadline is unconfirmed: Opportunities for Africans gives 10 January 2027 and Opportunity Desk says 'Unspecified'",
+    "'Fully funded' appears only on aggregators for this edition and no amounts are given",
+    "The scholarship targets researchers or instructors, and applicants who keep a post at a home institution need that institution's endorsement; the profile records no academic or research post",
+    "STI scholarship: the Fall 2025 (TICAD8) flyer limits the fields to 'Science or Engineering', while the aggregators' Fall 2027 text adds 'International Business and Humanities'. Which programmes accept a Business Administration degree is not known",
+    "Competitive: 20 M.Sc. and 22 Ph.D. places for applicants from all African countries except Egypt"
+   ],
+   "benefits": [
+    "Reported by secondary sources: tuition, single dormitory room, monthly stipend, medical care and a round-trip flight",
+    "Up to six months of research in Japan for Ph.D. students, conditional",
+    "Joint Egypt-Japan (JICA) scheme at a university with Japanese partner universities"
+   ],
+   "relevance": {
+    "academic": "Medium",
+    "career": "Medium",
+    "travel": "Medium",
+    "networking": "Medium",
+    "funding": "Medium",
+    "accessibility": "Low",
+    "profile_fit": "Low"
+   },
+   "relevance_reason": "An STI-oriented scholarship for future researchers or instructors. The only listed field that could suit a Business Administration graduate is 'International Business', and no E-JUST page confirms that it accepts the applicant's degree or the DRC.",
+   "visa": {
+    "required": "Unknown / Not specified",
+    "support": "Unknown / Not specified"
+   },
+   "upfront_cost_risk": "Unknown / Not specified: no application fee is mentioned on the pages read, but the organiser's own page could not be read",
+   "action": "Open https://www.ejust.edu.eg/international-scholarships in a browser (both automated readers failed on its certificate) and confirm the deadline, whether the DRC is on the country list, which programmes accept a Business Administration degree and what is paid. Apply only if a programme in International Business or a related field is open to your degree.",
+   "last_verified": "2026-11-21",
+   "date_discovered": "2026-11-21",
+   "notes": "21 Nov 2026 (scout C), leftover leads 52fe64b7db30 (Opportunities for Africans) and cbcee7028ed3 (Opportunity Desk), which describe the same programme. E-JUST pages www.ejust.edu.eg/international-scholarships, /int-admission and the site root answered HTTP 0 with the repo reader and 'unable to verify the first certificate' with WebFetch; nothing was worked around (see blocked). Both aggregators link to www.ejust.edu.eg/international-scholarships as the organiser's page (link targets read with WebFetch). The apply button on Opportunity Desk points to eduportal.ejust.edu.eg, which the repo reader opened (login and sign-up page only; no account was created). The Embassy of Japan in Namibia flyer is a PDF: its bytes were fetched with the repo reader and converted locally with pdftotext (not quoted in evidence). Evidence quotes come from the two aggregator pages only; no funding or cycle evidence is given because the organiser's text was not read.",
+   "match_keywords": [
+    "e-just ticad9",
+    "e-just ticad9 african scholarship for sti",
+    "egypt-japan university of science and technology",
+    "ticad9 postgraduate scholarship",
+    "e-just scholarship",
+    "ticad9 african scholarship for sti"
+   ],
+   "evidence": {
+    "criteria": [
+     {
+      "criterion": "nationality",
+      "requirement": "Reported by secondary sources: a holder of the nationality of a country in Africa except Egypt; no country list is shown.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "UNKNOWN",
+      "missing": "whether the DRC is on the organiser's list of eligible countries (the aggregators give only 'a country in Africa except for Egypt')",
+      "quote": "Applicant must be a holder of nationality of a country in Africa except for Egypt.",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+     },
+     {
+      "criterion": "residence",
+      "requirement": "Reported by secondary sources: a current home address in an African country.",
+      "applicant": "Resident in the Democratic Republic of the Congo, an African country.",
+      "assessment": "MET",
+      "quote": "Applicant must have a current home address in an African country.",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+     },
+     {
+      "criterion": "discipline",
+      "requirement": "Reported by secondary sources: M.Sc. or Ph.D. in Engineering, Computer Science and Information Technology, Basic and Applied Sciences, International Business and Humanities.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "UNKNOWN",
+      "missing": "whether the International Business and Humanities programmes accept a Business Administration degree, and their admission requirements",
+      "quote": "in the fields of Engineering, Computer Science and Information Technology, Basic and Applied Sciences, International Business and Humanities",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+     },
+     {
+      "criterion": "employment",
+      "requirement": "Reported by secondary sources: applicants shall be researchers or instructors, or potentially expected to become those.",
+      "applicant": "No academic or research post is recorded; the profile lists internships and field assignments only.",
+      "assessment": "UNKNOWN",
+      "missing": "whether the applicant counts as someone 'potentially expected to become' a researcher or instructor, which the organiser decides",
+      "quote": "Applicants shall be researchers or instructors (or potentially expected to become those)",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+     },
+     {
+      "criterion": "other",
+      "requirement": "Reported by secondary sources: the applicant must not be serving in the military.",
+      "applicant": "Military service is not recorded in the profile.",
+      "assessment": "UNKNOWN",
+      "missing": "military service status",
+      "quote": "Applicant must not be serving in the military.",
+      "page": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/"
+     }
+    ],
+    "out_of_pocket": "Unknown"
+   }
+  }
+ ],
+ "lead_outcomes": [
+  {
+   "lead_id": "aebadcabc2d7",
+   "outcome": "OFFICIAL SOURCE FOUND",
+   "page": "https://ieo.shou.edu.cn/2026/0828/c18223a354919/page.htm",
+   "reason": "The AfDB vacancy page (afdb.org/en/vacancy/2027-african-development-bank-group-shanghai-ocean-98320) answered HTTP 403 to both readers on 21 Nov 2026. Shanghai Ocean University's own International Student Office page for the same two master's programmes (Master in Translation and Interpreting, Chinese-taught, HSK 5; Master in Foreign Languages and Literatures (Area Studies), English-taught, IELTS 6.0 / TOEFL 80) was read: 'Bachelor degree or above, aged 30 or younger'; SHOU University Scholarship Type A covers 'full tuition, international student apartment accommodation, monthly living allowance (Master 800RMB) and medical insurance', deadline February 1, 2027, with a non-refundable application fee of RMB 400. The page names no nationality list. Both programmes are languages/area studies, not business administration (profile fit Low). Secondary sources give 17 Nov 2026 as the AfDB call deadline, which has already passed. No record written."
+  },
+  {
+   "lead_id": "df737c1762c1",
+   "outcome": "VERIFICATION REQUIRED",
+   "reason": "Undergraduate (Licence) version of the AfDB-SHOU call. The AfDB page answered HTTP 403 to both readers (same block as the master's lead), so only the aggregator lesopportunites.com was read: it reports a 12 Nov 2026 deadline (already passed), age 25 or younger at 1 Sept 2027, Chinese-taught programmes in marine and aquatic sciences. The applicant already holds a Licence, so a first-degree programme does not fit; not written as a record."
+  },
+  {
+   "lead_id": "52fe64b7db30",
+   "outcome": "PROMOTED",
+   "record_id": "e-just-ticad9-fall-2027"
+  },
+  {
+   "lead_id": "cbcee7028ed3",
+   "outcome": "PROMOTED",
+   "record_id": "e-just-ticad9-fall-2027"
+  },
+  {
+   "lead_id": "0ed1cb20bfd3",
+   "outcome": "VERIFICATION REQUIRED",
+   "reason": "No organiser page found: the only links in the Opportunity Desk article point to a Google Form, and two web searches returned only aggregators (the 2026 edition only on arbiterz.com). Reported by secondary sources: fully virtual research fellowship on digital rights / internet governance, deadline 7 Dec 2026, benefits are sessions, mentorship, a policy paper and an alumni network, no stipend or funding stated, nationality described only as 'emerging African researchers' (no country list). Not written as a record: no official page, no funding."
+  }
+ ],
+ "blocked": [
+  {
+   "url": "https://www.afdb.org/en/vacancy/2027-african-development-bank-group-shanghai-ocean-98320",
+   "what": "HTTP 403 to the repo reader and to WebFetch (21 Nov 2026); the 98313 sibling (Master and PhD) was not opened"
+  },
+  {
+   "url": "https://ejust.edu.eg/international-scholarships",
+   "what": "Repo reader HTTP 0 (network error); WebFetch 'unable to verify the first certificate' (incomplete TLS chain); same for www.ejust.edu.eg/international-scholarships, ejust.edu.eg/int-scholarships and www.ejust.edu.eg/get/news/details/211 (21 Nov 2026)"
+  },
+  {
+   "url": "https://www.ejust.edu.eg/international-scholarships",
+   "what": "HTTP 0 with the repo reader and 'unable to verify the first certificate' with WebFetch (21 Nov 2026). Both aggregators link to this page as the organiser's page. Also tried: ejust.edu.eg/international-scholarships, ejust.edu.eg/int-scholarships, www.ejust.edu.eg/get/news/details/211, www.ejust.edu.eg/int-admission and the site root www.ejust.edu.eg (same result). eduportal.ejust.edu.eg opened (HTTP 200) but shows only a login and sign-up page"
+  },
+  {
+   "url": "https://www.ox.ac.uk/clarendon",
+   "what": "HTTP 403 with the repo reader; /clarendon/about and /clarendon/how-to-apply also 403 (21 Nov 2026); WebFetch was refused as well. lookup.py finds no Clarendon record, lead or archive entry, so the Oxford Clarendon Scholarship is a gap in the database that needs a browser read"
+  },
+  {
+   "url": "https://exteriores.gob.es/Embajadas/rabat/es/Comunicacion/Noticias/Paginas/Articulos/CONVOCATORIA-DE-BECAS-MAEC-AECID-PARA-LA-CIUDADANIA-DE-PAISES-DE-AFRICA-Y-ORIENTE-MEDIO-2026-2027.aspx",
+   "what": "Repo reader HTTP 0 (21 Nov 2026); readable only with WebFetch, which gave the AECID Africa-Med call text (public-sector staff, closed 15 Jul 2026). Same for the LEARN Africa 2026-27 page on the embassy of Spain in Yaounde"
+  },
+  {
+   "url": "https://impgt.univ-amu.fr/sites/default/files/ressources_docs/IMPGT_Presentation%20Bourse%20TIGER-TFR%202026.pdf",
+   "what": "Repo reader HTTP 0 (21 Nov 2026); WebFetch returned the PDF as a saved file that was converted locally with pdftotext. Facts cannot be quoted by the judge gate, so no record was written (see notes)"
+  },
+  {
+   "url": "http://www.dce.mre.gov.br/PEC/PG/paises_participantes.html",
+   "what": "Repo reader HTTP 0 (21 Nov 2026) for this PEC-PG participating-countries page and for http://www.dce.mre.gov.br/en/PEC/paises_participantes.html; the DRC list for PEC-PG comes from the CAPES news page instead"
+  },
+  {
+   "url": "https://www.unesco.org/en/fellowships",
+   "what": "repo reader HTTP 0; WebFetch readable: lists 7 fellowship schemes (Great Wall, TWAS PhD, ISEDC, Poland Engineering, Republic of Korea, Nestle Because Youth Matter, Silk Roads grant) but no open call or deadline"
+  },
+  {
+   "url": "https://www.chevening.org/scholarships/",
+   "what": "repo reader HTTP 0; WebFetch readable but no 2027/28 dates on this page (stored record chevening-scholarships-2027 already covers the DRC page)"
+  },
+  {
+   "url": "https://www.daad.de/en/study-and-research-in-germany/scholarships/",
+   "what": "301 to www2.daad.de scholarship database, which returns 403 to the repo reader (JS database; browser only)"
+  },
+  {
+   "url": "https://auf.org/",
+   "what": "403 for both repo reader and WebFetch"
+  },
+  {
+   "url": "https://erasmus-plus.ec.europa.eu/news",
+   "what": "403 for both repo reader and WebFetch"
+  },
+  {
+   "url": "https://www.studyinkorea.go.kr/en/sub/gks/allnew_invite.do",
+   "what": "404 with the repo reader (GKS notice path changed); main page redirects to Korean /ko/main.do"
+  }
+ ],
+ "source_proposals": [],
+ "search_log": [
+  {
+   "phrase": "summer school 2027 fully funded African students",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 18,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "CODESRIA-ZASB Summer School in African Studies 2026",
+     "url": "https://opportunitydesk.org/2026/03/30/codesria-zasb-7th-summer-school-in-african-studies-and-area-studies-in-africa-2026/",
+     "verdict": "CLOSED / PAST (2026 edition, deadline May 2026; PhD students and early-career scholars only)"
+    },
+    {
+     "name": "ATRIUM Summer School 2027 (AI for the Humanities)",
+     "url": "https://opportunitydesk.org/2026/09/14/atrium-summer-school-2027/",
+     "verdict": "NEW - NOT RECORDED (deadline 30 Nov 2026 per aggregator; funding and eligibility not stated; humanities research topic, profile fit Low; not opened)"
+    },
+    {
+     "name": "UKUDLA Summer School 2027 (South Africa)",
+     "url": "https://opportunitiesforyouth.org/2026/10/30/2027-ukudla-summer-school-in-south-africa-applications-open-for-msc-students-to-explore-data-science-and-sustainable-food-systems/",
+     "verdict": "NOT ELIGIBLE (aggregator: open to MSc students of the University of Hohenheim only)"
+    },
+    {
+     "name": "WHO Summer School 2027",
+     "url": "https://opportunitydesk.org/2026/10/29/world-health-organisation-summer-school-2027/",
+     "verdict": "ALREADY A LEAD (fb57828cd298 and b17f6d85f81f; public health, other channel)"
+    }
+   ],
+   "records_written": [],
+   "note": "Mostly aggregator pages and fee-based university summer schools; no new funded summer school fitting the profile."
+  },
+  {
+   "phrase": "postgraduate scholarship 2027 deadline Africa women OR youth",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 19,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Mastercard Foundation Scholars Program, University of Edinburgh 2027/28",
+     "url": "https://www.opportunitiesforafricans.com/university-of-edinburgh-mastercard-foundation-scholars-program-2027-2028/",
+     "verdict": "ALREADY A RECORD (mastercard-foundation-scholars-edinburgh-2027)"
+    },
+    {
+     "name": "Mastercard Foundation Scholars Program, University of Cape Town 2027",
+     "url": "https://www.afterschoolafrica.com/121155/university-of-cape-town-mastercard-foundation-scholars-program-2027-for-african-students/",
+     "verdict": "ALREADY A RECORD (mastercard-foundation-scholars-uct-2027)"
+    },
+    {
+     "name": "Mastercard Foundation Scholars Program, University of Cambridge 2027/28",
+     "url": "https://opportunitiesforyouth.org/2026/09/12/call-for-applications-mastercard-foundation-scholarship-program-at-the-university-of-cambridge-for-2025-2026/",
+     "verdict": "ALREADY A RECORD (mastercard-foundation-scholars-cambridge-2027)"
+    },
+    {
+     "name": "Mandela Rhodes Foundation Postgraduate Scholarships 2027",
+     "url": "https://www.opportunitiesforafricans.com/the-mandela-rhodes-foundation-mrf-postgraduate-scholarships-2027/",
+     "verdict": "ALREADY A RECORD (mandela-rhodes-scholarship-2028)"
+    },
+    {
+     "name": "UGHE Mastercard Foundation Scholarship 2027",
+     "url": "https://crispng.com/ughe-mastercard-foundation-scholarship-2027/",
+     "verdict": "CLOSED / PAST (aggregator: deadline 25 Oct 2026; public-health master's)"
+    },
+    {
+     "name": "Patrick and Margaret Flanagan Scholarship 2027",
+     "url": "https://opportunitiesforyouth.org/2026/08/24/patrick-margaret-flanagan-scholarship-2027-full-cost-funding-for-south-african-women-to-pursue-masters-or-phd-studies-abroad/",
+     "verdict": "NOT ELIGIBLE (aggregator: South African women only)"
+    }
+   ],
+   "records_written": [],
+   "note": "Only already-known Mastercard Foundation and Mandela Rhodes programmes plus closed or nationality-limited items."
+  },
+  {
+   "phrase": "scholarship for students from Central Africa 2027",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 19,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Reach Oxford Scholarships",
+     "url": "https://www.scholarshiptab.com/scholarships-for/central-african-republic/15",
+     "verdict": "NOT ELIGIBLE (undergraduate scholarship; the applicant already holds a Bachelor's; aggregator only)"
+    },
+    {
+     "name": "KOICA Scholarship Program 2027",
+     "url": "https://www.scholarshiptab.com/scholarships-for/central-african-republic/15",
+     "verdict": "CLOSED / PAST (aggregator and search summaries: 2027 round deadlines 29 Jun / 31 Jul 2026; guideline asks for work experience; official koica.go.kr page not opened)"
+    },
+    {
+     "name": "Maastricht University NL-High Potential Scholarship",
+     "url": "https://www.scholarshiptab.com/scholarships-for/central-african-republic/15",
+     "verdict": "ALREADY A RECORD (maastricht-nl-high-potential-2027)"
+    }
+   ],
+   "records_written": [],
+   "note": "Results were scholarshiptab / scholars4dev category pages for the Central African Republic (wrong country); little use."
+  },
+  {
+   "phrase": "PhD OR doctoral scholarship 2027 Africa funded application",
+   "lang": "en",
+   "origin": "plan",
+   "results_seen": 18,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "University of Manchester Africa Futures Doctoral Scholar Awards 2027",
+     "url": "https://www.se.manchester.ac.uk/study/postgraduate-research/fees-and-funding/search-for-funding/africa-futures-doctoral-scholar-awards/",
+     "verdict": "NOT ELIGIBLE (doctoral level; profile holds a Bachelor's only; not opened)"
+    },
+    {
+     "name": "Canon Collins RMTF PhD Scholarship 2027",
+     "url": "https://propakistani.pk/edunation/guides/how-to-study-in-south-africa-with-the-canon-collins-rmtf-scholarship-phd-2027/",
+     "verdict": "NOT ELIGIBLE (doctoral level)"
+    },
+    {
+     "name": "Commonwealth PhD Scholarships 2027/28",
+     "url": "https://opportunitydesk.org/2025/09/03/commonwealth-phd-scholarships-2026-2027/",
+     "verdict": "NOT ELIGIBLE (doctoral level; Commonwealth countries only)"
+    },
+    {
+     "name": "CARTA PhD Fellowship Africa 2027",
+     "url": "https://scholarshipspace.org/?p=173",
+     "verdict": "NOT ELIGIBLE (doctoral level; closed 18 Mar 2026 per aggregator)"
+    },
+    {
+     "name": "PASET-RSIF PhD scholarships",
+     "url": "https://scholarshipsforafricans.com/scholarships/rsif-paset-phd-scholarship-african-students",
+     "verdict": "NOT ELIGIBLE (doctoral level)"
+    }
+   ],
+   "records_written": [],
+   "note": "All doctoral calls, which the profile (Bachelor's only) cannot enter; no record possible."
+  },
+  {
+   "phrase": "école d'été 2027 bourse jeunes africains",
+   "lang": "fr",
+   "origin": "plan",
+   "results_seen": 17,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Nairobi Summer School on Climate Justice, cohort VI 2027",
+     "url": "https://afri-carrieres.com/opportunites/nairobi-summer-school-on-climate-justice-2/",
+     "verdict": "NEW - NOT RECORDED (climate-justice topic, profile fit Low; organiser, funding and dates not verified on an official page; not opened)"
+    },
+    {
+     "name": "WIPO Summer School South Africa 2026",
+     "url": "https://www.emploitogo.info/ecole-dete-ompi-afrique-du-sud-2026/",
+     "verdict": "CLOSED / PAST (2026 edition, deadline 30 Jun 2026)"
+    },
+    {
+     "name": "World Bank Group Africa Fellowship Program",
+     "url": "https://www.banquemondiale.org/fr/brief/2025/03/06/world-bank-group-africa-fellowship-program",
+     "verdict": "NOT ELIGIBLE (doctoral students; aggregator-level reading only)"
+    },
+    {
+     "name": "Princeton in Africa Nexus fellowship",
+     "url": "https://afri-carrieres.com/opportunites/bourse-princeton-in-africa-nexus/",
+     "verdict": "NEW - NOT RECORDED (work-placement fellowship, belongs to another channel; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Aggregator-heavy; surfaced the Nairobi climate-justice summer school only."
+  },
+  {
+   "phrase": "bourse master 2027 entièrement financée étudiants africains",
+   "lang": "fr",
+   "origin": "plan",
+   "results_seen": 19,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Mastercard Foundation Scholars (Edinburgh, Cambridge, McGill)",
+     "url": "https://afri-carrieres.com/opportunites/bourse-mastercard-foundation-2027/",
+     "verdict": "ALREADY A RECORD (mastercard-foundation-scholars-edinburgh-2027, -cambridge-2027, -mcgill-2027)"
+    },
+    {
+     "name": "Erasmus Mundus master's 2027 for African students",
+     "url": "https://www.cameroondesks.com/2026/10/bourses-erasmus-mundus-etudiants-africains-bou.html",
+     "verdict": "ALREADY A RECORD (erasmus-mundus-joint-masters-2027 and individual programme records)"
+    },
+    {
+     "name": "Romanian Government scholarships",
+     "url": "https://concoursn.com/bourse-entierement-financee-du-gouvernement-de-roumanie-2026/",
+     "verdict": "NEW - NOT RECORDED (government scholarship, belongs to channel B; 2026 article; not opened)"
+    },
+    {
+     "name": "ARC-GSSP master's scholarships",
+     "url": "https://greatyop.com/bourses-arc-gssp-etude-master/",
+     "verdict": "NEW - NOT RECORDED (not opened; aggregator only)"
+    }
+   ],
+   "records_written": [],
+   "note": "Known Mastercard Foundation and Erasmus Mundus items; nothing new that could be verified."
+  },
+  {
+   "phrase": "bolsa de estudo 2027 mestrado totalmente financiada estudantes africanos",
+   "lang": "pt",
+   "origin": "plan",
+   "results_seen": 15,
+   "opened": [
+    "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-move-africa-oferta-2-6-mil-bolsas-para-estudantes-africanos-em-instituicoes-brasileiras",
+    "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-lanca-edital-para-estudantes-estrangeiros",
+    "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+    "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-16-2026/ChamadaPblica_CNPq_CAPES_MRE_16_2026_2717524.pdf",
+    "https://www.dnoticias.pt/2026/5/25/493207-brasil-investira-819-me-em-bolsas-para-estudantes-africanos-em-2027/"
+   ],
+   "candidates": [
+    {
+     "name": "PEC-PG 2027 (Brazil: CNPq/CAPES/MRE postgraduate exchange programme)",
+     "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+     "verdict": "NEW - RECORD WRITTEN (pec-pg-brazil-2027)"
+    },
+    {
+     "name": "CAPES Move Africa (2,600 sandwich scholarships)",
+     "url": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-move-africa-oferta-2-6-mil-bolsas-para-estudantes-africanos-em-instituicoes-brasileiras",
+     "verdict": "NEW - NOT RECORDED (announcement only, no call yet; sandwich master's/doctorate scholarships for students who do part of their training in Brazil)"
+    },
+    {
+     "name": "Fundacao Millennium bcp master's grants",
+     "url": "https://www.european-funding-guide.eu/pt/node/74290",
+     "verdict": "NOT ELIGIBLE (aggregator: citizens of Angola, Cabo Verde, Guinea-Bissau, Mozambique, Sao Tome and Principe, Timor-Leste only)"
+    },
+    {
+     "name": "Camoes master's scholarships 2026/27",
+     "url": "https://www.european-funding-guide.eu/pt/node/74198",
+     "verdict": "NOT ELIGIBLE (Guinea-Bissau citizens only; closed 15 Jul 2026)"
+    }
+   ],
+   "records_written": [
+    "pec-pg-brazil-2027"
+   ],
+   "note": "Useful: led to the PEC-PG record (the DRC is a participating country)."
+  },
+  {
+   "phrase": "beca maestría 2027 totalmente financiada estudiantes africanos",
+   "lang": "es",
+   "origin": "plan",
+   "results_seen": 19,
+   "opened": [
+    "https://appspublic.agci.cl/becas/horizontal/docs/cv_367/CONVOCATORIA%20NELSON%20MANDELA%202027%20-%20FINAL%20OK.pdf",
+    "https://exteriores.gob.es/Embajadas/rabat/es/Comunicacion/Noticias/Paginas/Articulos/CONVOCATORIA-DE-BECAS-MAEC-AECID-PARA-LA-CIUDADANIA-DE-PAISES-DE-AFRICA-Y-ORIENTE-MEDIO-2026-2027.aspx",
+    "https://exteriores.gob.es/Embajadas/yaunde/es/Comunicacion/Noticias/Paginas/Articulos/20260704_NOT01_Becas-LEARN-Africa-2026-2027.aspx"
+   ],
+   "candidates": [
+    {
+     "name": "Chile AGCID Nelson Mandela scholarships 2027",
+     "url": "https://appspublic.agci.cl/becas/horizontal/docs/cv_367/CONVOCATORIA%20NELSON%20MANDELA%202027%20-%20FINAL%20OK.pdf",
+     "verdict": "NOT ELIGIBLE (the call invites nationals of Angola, Algeria, Botswana, Egypt, Ethiopia, Ghana, Kenya, Morocco, Mozambique and South Africa; DRC not listed; Spanish required)"
+    },
+    {
+     "name": "MAEC-AECID Africa-Med Master 2026-27",
+     "url": "https://exteriores.gob.es/Embajadas/rabat/es/Comunicacion/Noticias/Paginas/Articulos/CONVOCATORIA-DE-BECAS-MAEC-AECID-PARA-LA-CIUDADANIA-DE-PAISES-DE-AFRICA-Y-ORIENTE-MEDIO-2026-2027.aspx",
+     "verdict": "NOT ELIGIBLE (DRC is on the list but the call is for civil servants / permanent public-system staff; closed 15 Jul 2026)"
+    },
+    {
+     "name": "LEARN Africa 2026-2027 (Fundacion Mujeres por Africa)",
+     "url": "https://exteriores.gob.es/Embajadas/yaunde/es/Comunicacion/Noticias/Paginas/Articulos/20260704_NOT01_Becas-LEARN-Africa-2026-2027.aspx",
+     "verdict": "NEW - NOT RECORDED (African women only; gender not recorded; no deadline or coverage on the page; fields health, new technologies, hispanism)"
+    },
+    {
+     "name": "Erasmus Mundus NOHA 2027",
+     "url": "https://bogota.gov.co/boletin-oferta-internacional/becas-erasmus-mundus-noha-2027-hasta-eu33600-en-europa",
+     "verdict": "ALREADY A RECORD (noha-erasmus-mundus-humanitarian-2027)"
+    },
+    {
+     "name": "Gates Cambridge 2027",
+     "url": "https://www.vistazo.com/servicios/2026-10-02-becas-del-100-para-estudiar-posgrados-universidad-cambridge-como-postular-JH11258735",
+     "verdict": "ALREADY A RECORD (gates-cambridge-2027)"
+    }
+   ],
+   "records_written": [],
+   "note": "Useful: official Spanish and Chilean calls read; two programmes ruled out with the official sentence, and a promising Latin-American call turned out to exclude the DRC."
+  },
+  {
+   "phrase": "university scholarship 2027 international students Democratic Republic of the Congo eligible",
+   "lang": "en",
+   "origin": "bank",
+   "results_seen": 19,
+   "opened": [
+    "https://international.gc.ca/world-monde/study_work_travel-etude_travail_voyage/cfsp-pcbf.aspx?lang=eng"
+   ],
+   "candidates": [
+    {
+     "name": "Chevening Scholarships 2027/28",
+     "url": "https://www.chevening.org/?p=11786",
+     "verdict": "ALREADY A RECORD (chevening-scholarships-2027)"
+    },
+    {
+     "name": "Pan African University scholarships",
+     "url": "https://scholarshipsforafricans.com/scholarships/drc/canada",
+     "verdict": "ALREADY A RECORD (pan-african-university-scholarships)"
+    },
+    {
+     "name": "Canadian Francophonie Scholarship Program (CFSP)",
+     "url": "https://international.gc.ca/world-monde/study_work_travel-etude_travail_voyage/cfsp-pcbf.aspx?lang=eng",
+     "verdict": "NOT ELIGIBLE (official page: candidates are identified by institutions of the recipient country through a quota system and 'must hold a key position'; no individual application; page last modified 2017)"
+    }
+   ],
+   "records_written": [],
+   "note": "Mostly scholarshiptab / Fulbright country pages (Republic of the Congo mix-ups); one follow-up ruled the CFSP out with an official sentence."
+  },
+  {
+   "phrase": "bourse université 2027 étudiants internationaux RDC",
+   "lang": "fr",
+   "origin": "bank",
+   "results_seen": 15,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Excellentia-RDC national scholarship",
+     "url": "https://fr.allafrica.com/stories/202607290582.html",
+     "verdict": "NOT ELIGIBLE (national scholarship for top State Examination laureates entering university)"
+    },
+    {
+     "name": "ESURSI third-cycle scholarships (DRC)",
+     "url": "https://acp.cd/business/rdc-fixation-des-modalites-doctroi-des-bourses-detudes-de-troisieme-cycle-aux-apprenants/",
+     "verdict": "NOT ELIGIBLE (doctoral students enrolled in a Congolese institution)"
+    },
+    {
+     "name": "Chinese Government scholarship 2027-2028 for state agents (ENA-RDC)",
+     "url": "https://yop.l-frii.com/s/grpy3s5",
+     "verdict": "NOT ELIGIBLE (reserved for DRC civil servants / state agents per the aggregator summary; government scholarship, channel B)"
+    },
+    {
+     "name": "France Excellence Eiffel 2027",
+     "url": "https://www.univ-tlse3.fr/medias/fichier/livret-information-bourses-france-excellence-eiffel-2026_1759483244858-pdf",
+     "verdict": "ALREADY A RECORD (france-excellence-eiffel-2027)"
+    }
+   ],
+   "records_written": [],
+   "note": "Domestic DRC scholarships and civil-servant schemes; nothing a recent graduate can use."
+  },
+  {
+   "phrase": "Erasmus Mundus joint master 2027 management OR logistics OR \"public policy\" OR statistics scholarship applications open",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 15,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Erasmus Mundus Joint Masters 2027 (umbrella)",
+     "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-2/erasmus-mundus",
+     "verdict": "ALREADY A RECORD (erasmus-mundus-joint-masters-2027)"
+    },
+    {
+     "name": "Erasmus Mundus MARIHE 2027",
+     "url": "https://opportunitiescorners.com/?p=27303",
+     "verdict": "NEW - NOT RECORDED (higher-education research and innovation master's; aggregator only; not opened)"
+    }
+   ],
+   "records_written": [],
+   "note": "Generic Erasmus Mundus aggregator posts; no logistics, management or statistics joint master surfaced by name. The EACEA catalogue is the place to filter by field."
+  },
+  {
+   "phrase": "bourse master gestion OR \"administration publique\" OR logistique 2027 étudiants africains francophones candidature ouverte",
+   "lang": "fr",
+   "origin": "own",
+   "results_seen": 18,
+   "opened": [
+    "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+    "https://usenghor-francophonie.org/en/formations/masters/20-appels-a-candidature-pour-les-masters-des-campus-senghor-septembre-2026",
+    "https://impgt.univ-amu.fr/sites/default/files/ressources_docs/IMPGT_Presentation%20Bourse%20TIGER-TFR%202026.pdf"
+   ],
+   "candidates": [
+    {
+     "name": "Université Senghor (Alexandria) Master en Développement, M1 2026-27 (Gouvernance et management public; Management de projets)",
+     "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+     "verdict": "NEW - RECORD WRITTEN (universite-senghor-master-developpement-alexandrie)"
+    },
+    {
+     "name": "IMPGT (Aix-Marseille) Master Management public, TIGER TFR scholarship (EUR 10,000 per year, 1-2 awards)",
+     "url": "https://impgt.univ-amu.fr/sites/default/files/ressources_docs/IMPGT_Presentation%20Bourse%20TIGER-TFR%202026.pdf",
+     "verdict": "NEW - NOT RECORDED (2026 call only, window 17 Feb to 30 Mar 2026; evidence is a PDF the repo reader cannot open; see notes)"
+    },
+    {
+     "name": "Erasmus Mundus MAPP 2027",
+     "url": "https://www.cameroondesks.com/2026/10/bourse-erasmus-mundus-mapp-master-politique-publique-bou.html",
+     "verdict": "ALREADY A RECORD (mundus-mapp-2027)"
+    },
+    {
+     "name": "DAAD Helmut Schmidt Programme (Public Policy and Good Governance)",
+     "url": "https://scholarshipsforafricans.com/fr/bourses/daad-helmut-schmidt-masters-scholarships-for-public-policy-and-good-governance",
+     "verdict": "ALREADY A RECORD (daad-helmut-schmidt-programme)"
+    },
+    {
+     "name": "Pan African University master's scholarships",
+     "url": "https://www.9rayti.com/bourse/universite-panafricaine-bourses-de-master-pour-les-etudiants-africain-2026-2027",
+     "verdict": "ALREADY A RECORD (pan-african-university-scholarships)"
+    },
+    {
+     "name": "IUCEA two-year funded master's (EAC Scholarship Programme)",
+     "url": "https://iucea.org/wp-content/uploads/2026/08/Two-Year-Funded-Masters-Scholarships-French-version.pdf",
+     "verdict": "ALREADY A RECORD (eacsp-iucea-kfw-masters-scholarship-2026-cohort-4)"
+    },
+    {
+     "name": "Bourse Djena (Togo, Benin)",
+     "url": "https://afri-carrieres.com/opportunites/bourse-djena-master-togo-benin/",
+     "verdict": "NOT ELIGIBLE (Togo and Benin nationals; closed 30 Sep 2026)"
+    }
+   ],
+   "records_written": [
+    "universite-senghor-master-developpement-alexandrie"
+   ],
+   "note": "Best phrase of the pass for this profile: surfaced Université Senghor (public governance and project management, francophone) and the IMPGT public-management scholarship, both new."
+  },
+  {
+   "phrase": "bolsas de estudo mestrado 2027 gestão OR \"administração pública\" OR logística estudantes africanos Congo OR RDC candidaturas abertas",
+   "lang": "pt",
+   "origin": "own",
+   "results_seen": 18,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "Fundacao Portugal-Africa / Fundacao Cidade de Lisboa master's grants 2026/27",
+     "url": "https://www.fct.unl.pt/noticias/agenda/2026/07/candidaturas-abertas-bolsas-de-estudo-para-cursos-de-mestrado-20262027",
+     "verdict": "NOT ELIGIBLE (PALOP nationals and students already enrolled; deadline 30 Sep 2026 passed)"
+    },
+    {
+     "name": "AI4D Africa Scholarship",
+     "url": "https://ai4d.acts-net.org/wp-content/uploads/RFP_Portuguese_AI4D_Africa_Scholarship.pdf",
+     "verdict": "NOT ELIGIBLE (artificial-intelligence research scholarship; STEM; not opened)"
+    },
+    {
+     "name": "CAPES Move Africa / PEC-PG (Brazil)",
+     "url": "https://www.dnoticias.pt/2026/5/25/493207-brasil-investira-819-me-em-bolsas-para-estudantes-africanos-em-2027/",
+     "verdict": "ALREADY LOGGED (see the first Portuguese phrase; pec-pg-brazil-2027)"
+    }
+   ],
+   "records_written": [],
+   "note": "Repeated the Brazilian and Portuguese results of the plan phrase; no further new programme."
+  },
+  {
+   "phrase": "becas máster 2027 gestión OR \"administración pública\" OR logística estudiantes África subsahariana Congo convocatoria abierta",
+   "lang": "es",
+   "origin": "own",
+   "results_seen": 16,
+   "opened": [],
+   "candidates": [
+    {
+     "name": "MAEC-AECID Africa-Med Master 2026-27",
+     "url": "https://exteriores.gob.es/Embajadas/rabat/es/Comunicacion/Noticias/Paginas/Articulos/CONVOCATORIA-DE-BECAS-MAEC-AECID-PARA-LA-CIUDADANIA-DE-PAISES-DE-AFRICA-Y-ORIENTE-MEDIO-2026-2027.aspx",
+     "verdict": "NOT ELIGIBLE (see the Spanish plan phrase: public-sector staff only; closed 15 Jul 2026)"
+    },
+    {
+     "name": "Becas LEARN Africa 2026-2027",
+     "url": "https://exteriores.gob.es/Embajadas/yaunde/es/Comunicacion/Noticias/Paginas/Articulos/20260704_NOT01_Becas-LEARN-Africa-2026-2027.aspx",
+     "verdict": "NEW - NOT RECORDED (women only; see the Spanish plan phrase)"
+    }
+   ],
+   "records_written": [],
+   "note": "Only the AECID Africa-Med results again; confirms the Spanish government route is closed for 2026-27 and reserved for public-sector staff."
+  },
+  {
+   "phrase": "AGCI Becas Nelson Mandela convocatoria 2027 magister Chile Africa",
+   "lang": "es",
+   "origin": "own",
+   "results_seen": 19,
+   "opened": [
+    "https://appspublic.agci.cl/becas/horizontal/docs/cv_367/CONVOCATORIA%20NELSON%20MANDELA%202027%20-%20FINAL%20OK.pdf",
+    "https://www.agcid.gob.cl/becas/"
+   ],
+   "candidates": [
+    {
+     "name": "Becas Nelson Mandela (AGCID, Chile) - Convocatoria 2027",
+     "url": "https://appspublic.agci.cl/becas/horizontal/docs/cv_367/CONVOCATORIA%20NELSON%20MANDELA%202027%20-%20FINAL%20OK.pdf",
+     "verdict": "NOT ELIGIBLE (nationality: 2027 call open only to nationals of Angola, Argelia, Botswana, Egipto, Etiopia, Ghana, Kenia, Marruecos, Mozambique y Sudafrica - DRC not listed; also CLOSED: AGCID platform deadline 30 DE OCTUBRE DE 2026)"
+    }
+   ],
+   "records_written": [],
+   "note": "Step c watchlist follow-up (Becas Nelson Mandela). Official call PDF read; settles the watchlist item - no record."
+  },
+  {
+   "phrase": "\"2027 Global Korea Scholarship\" graduate degrees application guidelines studyinkorea",
+   "lang": "en",
+   "origin": "own",
+   "results_seen": 19,
+   "opened": [
+    "https://www.studyinkorea.go.kr/en/main.do"
+   ],
+   "candidates": [
+    {
+     "name": "GKS Graduate (GKS-G) 2027",
+     "url": "https://www.studyinkorea.go.kr/",
+     "verdict": "NEW - NOT RECORDED (2027 GKS-G guidelines not published yet; only 2026 GKS-G and 2027 GKS-U found; pattern = early February)"
+    }
+   ],
+   "records_written": [],
+   "note": "Step c watchlist follow-up (GKS-G). Confirms no 2027 graduate guidelines yet."
+  }
+ ],
+ "notes": "CLOSING SUMMARY (scout C, pass 2026-11-21; finished 2026-11-24 by a second scout-C instance after the first was stopped by the usage limit). Step a: 5 leftover leads handled (2 PROMOTED to e-just-ticad9-fall-2027 - both leads describe the same programme; 1 OFFICIAL SOURCE FOUND for the AfDB-SHOU master's lead (SHOU IEO page); 2 VERIFICATION REQUIRED: AfDB-SHOU Licence lead (afdb.org 403 to both readers) and lead 0ed1cb20bfd3 (only a Google Form and aggregators found)). Step b: 14 phrases (8 plan, 2 bank, 4 own) plus 2 step-c follow-up searches = 16 search_log entries (en 7, fr 4, pt 2, es 3). 3 new records: pec-pg-brazil-2027 (POSSIBLY ELIGIBLE, DRC on the CAPES participating-country list), universite-senghor-master-developpement-alexandrie (NOT ELIGIBLE on the 2026 call's one-year professional experience rule; kept as a well-known programme), e-just-ticad9-fall-2027 (INSUFFICIENT INFORMATION; E-JUST official pages HTTP 0 to the repo reader, facts from aggregators only - see the record notes). No patches. Step c (watchlist + open_in_browser): Becas Nelson Mandela (AGCID Chile) - official Convocatoria 2027 PDF read (repo reader returns raw PDF bytes; text extracted locally with pdftotext): only nationals of Angola, Argelia, Botswana, Egipto, Etiopia, Ghana, Kenia, Marruecos, Mozambique y Sudafrica are invited, DRC not listed, and the AGCID platform deadline was 30 October 2026 - NOT ELIGIBLE and closed, no record; watch for a 2028 call (the 2027 call was issued May 2026). GKS Graduate: no 2027 GKS-G guidelines published yet (only 2026 GKS-G and 2027 GKS-U exist; pattern early February) - no record. Hamad Bin Khalifa University: skipped (next_step depends on an English test score the profile does not record). PIONEER (next_step None) and Rotary Peace Fellowship (needs 3 years' experience): skipped. KAS DRC: skipped - next_step requires contacting the Kinshasa office, which scouts may not do. open_in_browser: unesco.org/en/fellowships and chevening.org/scholarships are HTTP 0 to the repo reader but readable with WebFetch (UNESCO lists 7 schemes - Great Wall, TWAS PhD, ISEDC, Poland Engineering, Republic of Korea, Nestle Because Youth Matter, Silk Roads grant - with no open call or deadline; Chevening page has no 2027/28 dates, stored record chevening-scholarships-2027 already covers it); DAAD scholarship database, auf.org and erasmus-plus.ec.europa.eu/news are 403 to both readers (browser only). Source proposals: none - usenghor-francophonie.org/en/actualites/appels renders 'No calls match your criteria' to the repo reader (JS list) and agcid.gob.cl/becas is a link shell. Not recorded for follow-up: CAPES Move Africa (2,600 sandwich scholarships announced, no call yet - watch); IMPGT Aix-Marseille TIGER TFR public-management master scholarship (2026 call only, evidence is a PDF the repo reader cannot quote); LEARN Africa (women only, no deadline/coverage on page); ATRIUM and Nairobi climate-justice summer schools (low fit, aggregator only). Cross-channel: Princeton in Africa (work placement) and Romanian Government scholarships (channel B), ENA-RDC Chinese Government scholarship for state agents (channel B, civil servants only). No scam-like items found. No news about reserved records. judge.py check: 3 records, 0 blocked (3 'not-re-read-today' reviews only because the pages were read on 2026-11-21, the pass date); quotecheck --batch: 29/29 quotes found."
+}

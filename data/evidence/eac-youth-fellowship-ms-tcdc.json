@@ -1,0 +1,81 @@
+{
+  "id": "eac-youth-fellowship-ms-tcdc",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "Eligible countries listed on the page include The Democratic Republic of Congo; the page does not say whether the list means citizenship or residence.",
+      "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Kenya, Tanzania, Uganda, South Sudan, Burundi, Rwanda, Somalia and The Democratic Republic of Congo",
+      "page": "https://mstcdc.or.tz/eac-youth-fellowship"
+    },
+    {
+      "criterion": "age",
+      "requirement": "Between 18 and 35 years old.",
+      "applicant": "Recorded as under 30.",
+      "assessment": "MET",
+      "quote": "Applicants should be between 18-35 years old.",
+      "page": "https://mstcdc.or.tz/eac-youth-fellowship"
+    },
+    {
+      "criterion": "education",
+      "requirement": "Minimum of a Bachelor's degree or its equivalent.",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Minimum of a Bachelor’s degree or its equivalent.",
+      "page": "https://mstcdc.or.tz/eac-youth-fellowship"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Strong demonstrated leadership potential is required.",
+      "applicant": "Three short internships and field assignments; no leadership role recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Evidence of demonstrated leadership (roles, projects or initiatives); the profile records internships and field assignments only.",
+      "quote": "Strong demonstrated leadership potential is required.",
+      "page": "https://mstcdc.or.tz/eac-youth-fellowship"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The programme itself is fully funded by the organiser; no fee is mentioned. Other costs (flights, accommodation) are not itemised.",
+      "quote": "the EAC Youth Fellowship is fully funded under the Together for Impact Partnership between the Danida Fellowship Centre and MS TCDC",
+      "page": "https://mstcdc.or.tz/eac-youth-fellowship"
+    },
+    {
+      "item": "participation_fee",
+      "arrangement": "Paid directly by organiser",
+      "amount": "",
+      "currency": "",
+      "conditions": "The organiser calls the fellowship fully funded under the Together for Impact Partnership; what that includes (flights, accommodation, meals) is not itemised.",
+      "quote": "the EAC Youth Fellowship is fully funded under the Together for Impact Partnership between the Danida Fellowship Centre and MS TCDC",
+      "page": "https://mstcdc.or.tz/eac-youth-fellowship"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Unknown",
+      "amount": "",
+      "currency": "",
+      "conditions": "Fellows 'may also receive a stipend or allowances'; details are disclosed to selected participants only."
+    }
+  ],
+  "out_of_pocket": "Unknown: the organiser says fully funded but does not itemise flights, accommodation, visa or meals for the two weeks in Arusha.",
+  "cycles": [
+    {
+      "cycle": "Next cohort",
+      "state": "NOT YET ANNOUNCED"
+    },
+    {
+      "cycle": "4th cohort (2026)",
+      "state": "HISTORICAL CYCLE",
+      "opens_on": "2026-08-17",
+      "deadline": "2026-09-07",
+      "quote": "07-Sep-2026 11:59 PM",
+      "page": "https://portal.youlead.africa/public/events"
+    }
+  ]
+}

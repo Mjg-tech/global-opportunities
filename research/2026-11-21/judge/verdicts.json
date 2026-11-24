@@ -1,0 +1,911 @@
+{
+  "records": [
+    {
+      "id": "african-union-commission-internship-programme",
+      "decision": "ACCEPT",
+      "reason": "Re-read all three official pages today (2026-11-24) with the plain reader (answers not-re-read-today): posting Req 1506 shows End Date December 31, 2026; nationals of AU member states and the member-states page lists the Democratic Republic of Congo; graduates accepted per FAQ; age 22-32 (page) / max 32 (posting) correctly left UNKNOWN; unpaid stated on both pages. PARTIALLY VERIFIED and POSSIBLY ELIGIBLE are not too generous given the enrolled-student bullet and recommendation-letter ambiguity. No duplicate in lookup.",
+      "evidence": [
+        {
+          "url": "https://jobs.au.int/job/Internship-Program/1506-en_US",
+          "quote": "December 31, 2026"
+        },
+        {
+          "url": "https://jobs.au.int/job/Internship-Program/1506-en_US",
+          "quote": "Be nationals of a Member State of the African Union."
+        },
+        {
+          "url": "https://au.int/en/member_states/countryprofiles2",
+          "quote": "Democratic Republic of Congo"
+        },
+        {
+          "url": "https://au.int/en/internships",
+          "quote": "graduates of Bachelor’s degree, Master’s degree and PhD"
+        },
+        {
+          "url": "https://au.int/en/internships",
+          "quote": "Applicants must be aged between 22 and 32 at the time of application;"
+        },
+        {
+          "url": "https://jobs.au.int/job/Internship-Program/1506-en_US",
+          "quote": "Be no more than thirty-two (32) years of age at the time of selection."
+        },
+        {
+          "url": "https://jobs.au.int/job/Internship-Program/1506-en_US",
+          "quote": "The AU will have no financial obligation towards interns - travel arrangements and cost of accommodation and living expenses will be the responsibility of the interns."
+        },
+        {
+          "url": "https://au.int/en/internships",
+          "quote": "AU does not provide any financial support or cover any costs for living expenses during the assignment for interns."
+        },
+        {
+          "url": "https://jobs.au.int/job/Internship-Program/1506-en_US",
+          "quote": "Prior work experience is not required for the internship positions."
+        },
+        {
+          "url": "https://jobs.au.int/job/Internship-Program/1506-en_US",
+          "quote": "Be fluent in at least one of the African Union working languages (Arabic, English, French or Portuguese)."
+        }
+      ]
+    },
+    {
+      "id": "unicef-internship-programme",
+      "decision": "DOWNGRADE",
+      "reason": "Re-read the internship page, FAQ and vacancies page today (answers not-re-read-today). Rules, stipend, conditional lump sum, per-vacancy deadlines and the 2-year graduate window all match the pages; no nationality rule stated, so POSSIBLY ELIGIBLE and PARTIALLY VERIFIED are right. Only overstatement: travel_funded=true although the travel/visa lump sum 'may also be granted when funding is available' (not a commitment) - adding that as a potential issue; the vacancies page shows an Internship filter but no individual vacancy (DRC or other) could be read, so open_now rests on the 'throughout the year' sentence.",
+      "evidence": [
+        {
+          "url": "https://www.unicef.org/careers/internships",
+          "quote": "UNICEF provides a monthly stipend to interns."
+        },
+        {
+          "url": "https://www.unicef.org/careers/internships",
+          "quote": "A one-time lump sum, as a contribution towards travel and visa costs, may also be granted when funding is available."
+        },
+        {
+          "url": "https://www.unicef.org/careers/internships",
+          "quote": "or have graduated within the past two years"
+        },
+        {
+          "url": "https://www.unicef.org/careers/internships",
+          "quote": "Proficient in at least one of UNICEF's working languages"
+        },
+        {
+          "url": "https://www.unicef.org/careers/internships",
+          "quote": "Have no immediate relatives (e.g., mother, father, sister, brother) working with UNICEF"
+        },
+        {
+          "url": "https://www.unicef.org/careers/internships",
+          "quote": "Internship opportunities are offered throughout the year"
+        },
+        {
+          "url": "https://www.unicef.org/careers/frequently-asked-questions-internships",
+          "quote": "Refer to the details of the specific vacancy for important dates such as the deadline for application"
+        },
+        {
+          "url": "https://www.unicef.org/careers/frequently-asked-questions-internships",
+          "quote": "All our interns are entitled to a stipend as a contribution towards living expenses, paid by UNICEF or a partner institution."
+        }
+      ],
+      "changes": {
+        "potential_issues": [
+          "Travel is not guaranteed: the travel and visa lump sum is only paid 'when funding is available', so treat travel as self-funded unless the specific vacancy says otherwise"
+        ]
+      }
+    },
+    {
+      "id": "sadc-secretariat-work-integrated-learning-programme",
+      "decision": "ACCEPT",
+      "reason": "Re-read the call, vacancies and member-states pages today (answers not-re-read-today): nationals of SADC Member States and the DRC is listed; under 52; graduates at least a year before enrolment; return ticket + US$250/month by SADC, accommodation/medical/visa put on Member States; closed 28 June 2026 and the vacancies page says no open vacancies. Closed recurring record with PARTIALLY VERIFIED / POSSIBLY ELIGIBLE (streams and host-country residence unknown) is not too generous. No duplicate.",
+      "evidence": [
+        {
+          "url": "https://www.sadc.int/vagas/work-intergrated-learning-opportunities-6",
+          "quote": "(i) be nationals of SADC Member States"
+        },
+        {
+          "url": "https://www.sadc.int/member-states",
+          "quote": "Democratic Republic of Congo"
+        },
+        {
+          "url": "https://www.sadc.int/vagas/work-intergrated-learning-opportunities-6",
+          "quote": "(ii) be under the age of 52 years;"
+        },
+        {
+          "url": "https://www.sadc.int/vagas/work-intergrated-learning-opportunities-6",
+          "quote": "A graduate must have passed and graduated at least a year before enrolment into the SADC WIL programme."
+        },
+        {
+          "url": "https://www.sadc.int/vagas/work-intergrated-learning-opportunities-6",
+          "quote": "The SADC Secretariat will cover the return ticket from and to Member State of each intern/graduate."
+        },
+        {
+          "url": "https://www.sadc.int/vagas/work-intergrated-learning-opportunities-6",
+          "quote": "The Secretariat will also provide a monthly stipend of US$250.00 per intern/graduate."
+        },
+        {
+          "url": "https://www.sadc.int/vagas/work-intergrated-learning-opportunities-6",
+          "quote": "Member States are required to cover cost for accommodation in the host country, medical/life cover and visa application."
+        },
+        {
+          "url": "https://www.sadc.int/vagas/work-intergrated-learning-opportunities-6",
+          "quote": "not later than or on 28th June 2026"
+        },
+        {
+          "url": "https://www.sadc.int/vacancies",
+          "quote": "There are no open vacancies at the moment, please check again later."
+        }
+      ]
+    },
+    {
+      "id": "eac-youth-fellowship-ms-tcdc",
+      "decision": "ACCEPT",
+      "reason": "Re-read both official pages today (answers not-re-read-today): eligible-country list names The Democratic Republic of Congo; 18-35; Bachelor's minimum; leadership potential correctly UNKNOWN; 'Fully Funded' is the organiser's own FAQ wording (stipend only 'may'); YouLead portal shows the 4th cohort Open 17-Aug-2026, Close 07-Sep-2026, 'Window Closed'. Closed recurring record, PARTIALLY VERIFIED / POSSIBLY ELIGIBLE not too generous. No duplicate.",
+      "evidence": [
+        {
+          "url": "https://mstcdc.or.tz/eac-youth-fellowship",
+          "quote": "Kenya, Tanzania, Uganda, South Sudan, Burundi, Rwanda, Somalia and The Democratic Republic of Congo"
+        },
+        {
+          "url": "https://mstcdc.or.tz/eac-youth-fellowship",
+          "quote": "Applicants should be between 18-35 years old."
+        },
+        {
+          "url": "https://mstcdc.or.tz/eac-youth-fellowship",
+          "quote": "Minimum of a Bachelor’s degree or its equivalent."
+        },
+        {
+          "url": "https://mstcdc.or.tz/eac-youth-fellowship",
+          "quote": "Strong demonstrated leadership potential is required."
+        },
+        {
+          "url": "https://mstcdc.or.tz/eac-youth-fellowship",
+          "quote": "the EAC Youth Fellowship is fully funded under the Together for Impact Partnership between the Danida Fellowship Centre and MS TCDC"
+        },
+        {
+          "url": "https://portal.youlead.africa/public/events",
+          "quote": "07-Sep-2026 11:59 PM"
+        },
+        {
+          "url": "https://portal.youlead.africa/public/events",
+          "quote": "EAC Youth Fellowship 4th Cohort"
+        }
+      ]
+    },
+    {
+      "id": "romania-mfa-scholarships-non-eu-2027",
+      "decision": "DOWNGRADE",
+      "reason": "Re-read both portal pages today (answers not-re-read-today). evidence-nationality-not-drc: the rule is 'Foreign citizens from all non-EU countries' with an exception list (Romanian origin, protection in Romania, stateless, diplomatic/IO staff in Romania, existing scholars) that names no country, so a DRC citizen is covered - the MET stands. Funding lines (fee exemption, tuition, prep year, monthly scholarship, dormitory within subsidy) and the 2026 window (16 Feb-31 Mar 2026) match the page. But the record is the 2027-2028 round and the organiser's page publishes no 2027 dates, so VERIFIED (which needs the deadline read) is too generous: lowered to PARTIALLY VERIFIED.",
+      "evidence": [
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "Foreign citizens from all non-EU countries , with the following exceptions:"
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "beneficiaries of a scholarship from the Romanian state for the same cycle of study."
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "Applications can be submitted only via the online platform, between 16 February 2026 and 31 March 2026"
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "Each year, the Romanian Government, through the Ministry of Foreign Affairs, provides a number of scholarships to citizens from non-EU countries."
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "have good results in education, respectively an average of the study years, for the last graduated school of at least 7 (seven)"
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "exemption from the payment of registration fees or any other fees required by application processing"
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "financing the tuition expenses for the actual studies, but not more than the duration of a university cycle"
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "granting a monthly scholarship, for students enrolled in bachelor's, master's or doctoral studies"
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "financing the accommodation expenses in the student dormitories, within the allocated subsidy"
+        },
+        {
+          "url": "https://scholarships.studyinromania.gov.ro/scholarship-about",
+          "quote": "For Bachelor and Master, only study programs in Romanian are available"
+        }
+      ],
+      "changes": {
+        "verification": "PARTIALLY VERIFIED"
+      }
+    },
+    {
+      "id": "pec-pg-brazil-2027",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: re-read today, the MRE PEC-PG 2027 page (HTTP 200) and the CAPES notice page; calendar (Dec 2026 institution selections, start Mar 2027-Mar 2028), stipend amounts, free application, nationality/residence/degree rules and the DRC on the CAPES 2025 country list all match; PARTIALLY VERIFIED and POSSIBLY ELIGIBLE are not too generous (no deadline yet, programme language unknown, 2027 country list not restated, flagged in potential_issues).",
+      "evidence": [
+        {
+          "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+          "quote": "From December 2026 , each HEI/ICT will conduct its own selection of candidates for the PEC-PG program."
+        },
+        {
+          "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+          "quote": "Between March 2027 and March 2028 , HEIs/ICTs must begin paying out scholarships."
+        },
+        {
+          "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+          "quote": "Monthly stipend - R$ 2,100.00 for Master's degree (duration of 24 months) and R$ 3,100.00 for Doctorate degree (duration of 48 months)."
+        },
+        {
+          "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+          "quote": "Application for PEC-PG is free"
+        },
+        {
+          "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+          "quote": "Be a national of one of the countries participating in the Program"
+        },
+        {
+          "url": "https://www.gov.br/mre/en/subjects/culture-and-education/educational-themes/study-opportunities-for-international-applicants/pec-pg-graduate/selection-process-2",
+          "quote": "Have completed a higher education course equivalent to an undergraduate degree (graduação)"
+        },
+        {
+          "url": "https://www.gov.br/capes/pt-br/assuntos/noticias/capes-lanca-edital-para-estudantes-estrangeiros",
+          "quote": "Quênia, República Democrática do Congo, República do Congo, São Tomé e Príncipe"
+        }
+      ]
+    },
+    {
+      "id": "universite-senghor-master-developpement-alexandrie",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: re-read today (HTTP 200); the 2026 call shows Deadline passed and the 15 March 2026 file deadline, the Licence, one-year professional experience beyond internships and under-36 rules, the 100 living-cost grants with the EUR 400/yr registration fee, the EUR 30 test fee and unfunded return travel, all as recorded; NOT ELIGIBLE (experience rule) and PARTIALLY VERIFIED are correctly cautious; fees are a legitimate university's published fees, disclosed in participation_fee and potential_issues.",
+      "evidence": [
+        {
+          "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+          "quote": "faire état d’une expérience professionnelle pertinente d’au moins une année distincte des stages académiques"
+        },
+        {
+          "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+          "quote": "être titulaire d’une Licence (bac+3) ou d’un diplôme équivalent"
+        },
+        {
+          "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+          "quote": "être âgé de moins de 36 ans au 1er septembre 2026 pour prétendre à une bourse"
+        },
+        {
+          "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+          "quote": "Le dossier de candidature doit être rempli obligatoirement en ligne avant le 15 mars 2026 minuit GMT"
+        },
+        {
+          "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+          "quote": "l’Université offre une bourse de frais de vie à 100 lauréats dits boursiers qui devront s’acquitter uniquement des droits d’inscription administrative d’un montant forfaitaire de 400 € par année de Master"
+        },
+        {
+          "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+          "quote": "après l’acquittement d’un droit d’inscription au concours de 30 euros"
+        },
+        {
+          "url": "https://usenghor-francophonie.org/en/actualites/appels/master-1-de-l-universite-senghor",
+          "quote": "Tous les étudiants doivent assumer leurs frais de voyage aller-retour du pays de résidence à Alexandrie"
+        }
+      ]
+    },
+    {
+      "id": "e-just-ticad9-fall-2027",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: re-read today; www.ejust.edu.eg/international-scholarships still HTTP 0 for the plain reader, both aggregators (HTTP 200) carry the text as recorded (OfA: deadline 10 Jan 2027; Opportunity Desk: Deadline Unspecified, applications open). A warning record (NEEDS VERIFICATION + LOW, Funding Unclear, INSUFFICIENT INFORMATION, aggregator-only deadline and 'fully funded' flagged in potential_issues): useful and honest.",
+      "evidence": [
+        {
+          "url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+          "quote": "Application Deadline: January 10, 2027"
+        },
+        {
+          "url": "https://opportunitydesk.org/2026/11/12/e-just-ticad9-african-scholarship-for-sti-fall-2027/",
+          "quote": "Deadline: Unspecified"
+        },
+        {
+          "url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+          "quote": "Applicant must be a holder of nationality of a country in Africa except for Egypt."
+        },
+        {
+          "url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
+          "quote": "Applicants shall be researchers or instructors (or potentially expected to become those)"
+        }
+      ]
+    },
+    {
+      "id": "oif-cap-innovation",
+      "decision": "DOWNGRADE",
+      "reason": "not-re-read-today: all 7 cited OIF pages re-read today (HTTP 200): ages 18-34 from the 90 OIF states, 10 May 2026 deadline, platform status Cloturé, Congo (RD) on the member list, EUR 10,000 for each of the 8 grand laureates, September 2026 training path; labels (PARTIALLY VERIFIED, POSSIBLY ELIGIBLE, no open call) are fair. Only addition: delivery_mode 'Online'/location 'Remote' rests on the online application ('La participation se fait en ligne'); no page states whether the training path is online or in person.",
+      "evidence": [
+        {
+          "url": "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488",
+          "quote": "L’appel est ouvert aux jeunes de 18 à 34 ans issus des 90 États et gouvernements de l'OIF"
+        },
+        {
+          "url": "https://www.francophonie.org/cap-innovation-lancement-du-2e-appel-a-candidatures-8488",
+          "quote": "La date limite pour l'envoi des candidatures est fixée au 10 mai 2026"
+        },
+        {
+          "url": "https://www.francophonie.org/node/125",
+          "quote": "Congo Sao Tomé-et-Principe Congo (RD) Sénégal"
+        },
+        {
+          "url": "https://jeunesse.francophonie.org/actualites/item/cap-innovation-2026-decouvrez-les-huit-grands-laureats-de-la-deuxieme-edition",
+          "quote": "Chaque lauréate et chaque lauréat recevra un prix d’amorçage de 10 000 euros"
+        },
+        {
+          "url": "https://jeunesse.francophonie.org/content_page/capinnovation/cap-innovation-2026-decouvrez-les-100-laureats-de-la-2e-edition",
+          "quote": "bénéficiera d’un parcours structuré d’accompagnement durant le mois de septembre 2026"
+        },
+        {
+          "url": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-cap-innovation-creation-accompagnement-propulsion-l-oif-aux-cotes-des-jeunes-francophones",
+          "quote": "Les projets doivent être en phase d’idéation avancée au minimum"
+        }
+      ],
+      "changes": {
+        "potential_issues": [
+          "Only the application is stated to be online; no OIF page read says whether the training path for the 100 laureates is online or in person, so travel costs cannot be ruled out"
+        ]
+      }
+    },
+    {
+      "id": "auf-ifav-incubateur-francophone-africain-virtuel",
+      "decision": "DOWNGRADE",
+      "reason": "not-re-read-today: all 3 cited pages re-read today (HTTP 200): 2026 call 25/09-11/10/2026 Europe/Paris, 'La campagne est clôturée', audience 'étudiants et jeunes diplômés d'Afrique francophone', online training/coaching, no fee or grant stated; 2025 aggregator deadline 1 Sept 2025 as recorded. Labels (PARTIALLY VERIFIED, MEDIUM, Funding Unclear, POSSIBLY ELIGIBLE) are fair. Added issue: the AUF listing says IFAV is run by the AUF North Africa office with the Bidaya incubator, which the record does not mention and which may matter for the country scope.",
+      "evidence": [
+        {
+          "url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+          "quote": "Destiné aux étudiants et jeunes diplômés d’Afrique francophone"
+        },
+        {
+          "url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+          "quote": "La campagne est clôturée"
+        },
+        {
+          "url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+          "quote": "Clôture : 11/10/2026 à 23h00"
+        },
+        {
+          "url": "https://appels-propositions.auf.org/candidature-au-programme-ifav-incubateur-francophone-africain-virtuel-2026",
+          "quote": "une combinaison de formations en ligne, d’un accompagnement personnalisé assuré par des coachs et mentors"
+        },
+        {
+          "url": "https://appels-propositions.auf.org/en/",
+          "quote": "porté par l’Agence Universitaire de la Francophonie en Afrique du Nord en partenariat avec l'Incubateur d'innovation sociale Bidaya"
+        }
+      ],
+      "changes": {
+        "potential_issues": [
+          "The AUF call listing says IFAV is run by the AUF North Africa regional office in partnership with the Bidaya social-innovation incubator; whether the next call is open to Central Africa / the DRC must be checked on the call page itself"
+        ]
+      }
+    },
+    {
+      "id": "acep-next-generation-resource-governance-leaders-program",
+      "decision": "DOWNGRADE",
+      "reason": "not-re-read-today: both ACEP pages re-read today (HTTP 200): 11th cohort closing 21 June 2026 (application page shows 'Application Closed'), 'young African residing in Africa, aged not exceeding 32', stipend + lunch, accommodation and return ticket for international participants, English working knowledge, all as recorded; PARTIALLY VERIFIED / POSSIBLY ELIGIBLE are fair. Added issue: the call also asks for adequate knowledge of analytical tools (R, Stata, Eviews, NVivo, Atlas.ti), which the profile does not record and the evidence block does not assess.",
+      "evidence": [
+        {
+          "url": "https://acep.africa/nextgen11/",
+          "quote": "The applicant must be a young African residing in Africa, aged not exceeding 32 years"
+        },
+        {
+          "url": "https://acep.africa/nextgen11/",
+          "quote": "Adequate knowledge of relevant qualitative and quantitative analytical tools (R, Stata, Eviews, NVivo, Atlas.ti etc.)"
+        },
+        {
+          "url": "https://acep.africa/nextgen11/",
+          "quote": "A generous stipend and lunch for the duration of the program."
+        },
+        {
+          "url": "https://acep.africa/nextgen11/",
+          "quote": "An approved return ticket from the NextGen Leader’s home country to Ghana."
+        },
+        {
+          "url": "https://acep.africa/nextgen11/",
+          "quote": "Applications close at 11:59 PM GMT on Sunday, 21st June 2026."
+        },
+        {
+          "url": "https://acep.africa/nextgen-program-application/",
+          "quote": "Application Closed"
+        }
+      ],
+      "changes": {
+        "potential_issues": [
+          "The call asks for adequate knowledge of qualitative and quantitative analytical tools (R, Stata, Eviews, NVivo, Atlas.ti); no such software is recorded in the profile"
+        ]
+      }
+    },
+    {
+      "id": "orange-corners-rdc-incubation-programme",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: both pages re-read today (HTTP 200): Congolese aged 18-35, Kinshasa in person / rest of DRC online, secondary or higher diploma, full-time dedication, no participation fees, no direct financing, December-January yearly window, 10 months from mid-February; ACP confirms the 8th cohort call on 12 Feb 2026. PARTIALLY VERIFIED and POSSIBLY ELIGIBLE (business idea not recorded) are fair; not a duplicate (lookup finds only this batch). The ACP page is slow: the plain reader timed out once and then found the quote; it was also read with WebFetch (quote present), hence the via.",
+      "evidence": [
+        {
+          "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+          "quote": "Avoir entre 18 à 35 ans et être un homme/ une femme congolais(e)"
+        },
+        {
+          "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+          "quote": "Être Diplômé(e) de l’enseignement secondaire ou supérieur"
+        },
+        {
+          "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+          "quote": "Les applications au programme sont ouvertes entre décembre et janvier chaque année."
+        },
+        {
+          "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+          "quote": "Il n’y a pas de coûts ou de frais de participation au programme."
+        },
+        {
+          "url": "https://www.orangecorners.com/country/republique-democratique-du-congo/",
+          "quote": "En tant que programme, Orange Corners ne finance pas directement"
+        },
+        {
+          "url": "https://acp.cd/business/la-8eme-cohorte-dun-programme-dencadrement-des-jeunes-entrepreneurs-annoncee-a-kinshasa/",
+          "quote": "Les candidatures sont ouvertes pour la 8 ème cohorte du programme",
+          "via": "webfetch"
+        }
+      ]
+    },
+    {
+      "id": "echoing-green-fellowship",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: both Echoing Green pages re-read today (HTTP 200): Talent Platform first window closes 31 March 2027 (the recorded deadline is that step, as deadline_text says; Fellowship dates 'announced in early 2027'), any nationality, no educational requirement, free membership, not unstarted work, founder only, USD 100,000 stipend over 18 months with recoverable grants for for-profits, 10-20 percent admission; PARTIALLY VERIFIED and POSSIBLY ELIGIBLE (venture not recorded) are fair.",
+      "evidence": [
+        {
+          "url": "https://echoinggreen.org/fellowship/talent-platform/",
+          "quote": "Request to join the Talent Platform by March 31, 2027 to be included in this first submission period."
+        },
+        {
+          "url": "https://echoinggreen.org/fellowship/talent-platform/",
+          "quote": "Fellowship selection dates will be announced in early 2027."
+        },
+        {
+          "url": "https://echoinggreen.org/fellowship/talent-platform/",
+          "quote": "We welcome social entrepreneurs of any nationality, working in any country."
+        },
+        {
+          "url": "https://echoinggreen.org/fellowship/talent-platform/",
+          "quote": "We back unproven, unfunded, and unfinished work, but not unstarted work."
+        },
+        {
+          "url": "https://echoinggreen.org/fellowship/talent-platform/",
+          "quote": "Does it cost anything? No. Membership is free."
+        },
+        {
+          "url": "https://echoinggreen.org/fellowship/talent-platform/",
+          "quote": "We anticipate admitting about 10–20 percent of submissions"
+        },
+        {
+          "url": "https://echoinggreen.org/fellowship/",
+          "quote": "A stipend over 18 months (100,000 USD). Funding offered to for-profit organizations is in the form of recoverable grants."
+        }
+      ]
+    },
+    {
+      "id": "un-young-professionals-programme-2026",
+      "decision": "ACCEPT",
+      "reason": "Honest warning record (NEEDS VERIFICATION/LOW): careers.un.org unreadable, deadline only from aggregators and flagged as such, DRC on 2026 list left UNKNOWN, eligibility INSUFFICIENT INFORMATION; all evidence quotes re-read today on un.org pages (not-re-read-today: yes, re-read 2026-11-21); age MET is sound (under 30 vs 32 or younger); no duplicate in store.",
+      "evidence": [
+        {
+          "url": "https://www.un.org/en/academic-impact/work4un-young-professionals-programme",
+          "quote": "The list of participating countries is published annually on the YPP home page of the UN Careers website and varies from year to year."
+        },
+        {
+          "url": "https://www.un.org/en/academic-impact/work4un-young-professionals-programme",
+          "quote": "Must be 32 years old or younger in the year of the exam"
+        },
+        {
+          "url": "https://www.un.org/en/academic-impact/work4un-young-professionals-programme",
+          "quote": "Must hold at least a first-level university degree relevant for the exam subject"
+        },
+        {
+          "url": "https://www.un.org/en/about-us/fraud-alert",
+          "quote": "The United Nations does not charge a fee at any stage of its recruitment process (application, interview, processing, training)"
+        },
+        {
+          "url": "https://www.opportunitiesforafricans.com/the-united-nations-young-professionals-programme-2026-launch-your-career-at-the-united-nations/",
+          "quote": "Application Deadline: November 30, 2026"
+        }
+      ]
+    },
+    {
+      "id": "wff-youth-policy-board-2027-2028",
+      "decision": "ACCEPT",
+      "reason": "Patch only lowers trust (VERIFIED -> PARTIALLY VERIFIED) because the Microsoft Form with the deadline is JS-only; not-re-read-today: correct that last_verified stays 2026-11-09 since the deadline was not re-read on the form; ToR re-read today via WebFetch (plain reader gets compressed PDF) confirm age/nationality/education/C1; FAO list names the DRC; POSSIBLY ELIGIBLE is right (C1 English and agrifood/advocacy experience not recorded); deadline 30 Nov 2026 also on Opportunity Desk. PDF quotes not attached: the plain reader gets the PDF (HTTP 200) but cannot extract its compressed text, so a via declaration cannot carry them; the PDF facts were read today from the WebFetch-saved copy (pdftotext).",
+      "evidence": [
+        {
+          "url": "https://www.fao.org/legal/home/Membership-of-FAO/en",
+          "quote": "Democratic Republic of the Congo"
+        },
+        {
+          "url": "https://opportunitydesk.org/2026/10/23/world-food-forum-youth-policy-board-2027-2028/",
+          "quote": "Deadline: November 30, 2026"
+        }
+      ]
+    },
+    {
+      "id": "kectil-program-2027",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: yes, home, apply and who-can-apply pages re-read 2026-11-21; patch records the closed 2027 portal (DEADLINE PASSED) and keeps the past 15 Nov deadline; ages 17-26, developing countries, English and 'provided free' all on the official page; POSSIBLY ELIGIBLE is right (exact age not recorded).",
+      "evidence": [
+        {
+          "url": "https://kectil.com/apply",
+          "quote": "The 2027 application portal is closed"
+        },
+        {
+          "url": "https://kectil.com/",
+          "quote": "2027 applications closed"
+        },
+        {
+          "url": "https://kectil.com/program/who-can-apply",
+          "quote": "High-potential youth aged 17–26 who have demonstrated a talent and passion for leadership, scholarship, or innovation."
+        },
+        {
+          "url": "https://kectil.com/program/who-can-apply",
+          "quote": "Applicants live in least developed and developing countries and intend to serve their communities and countries."
+        },
+        {
+          "url": "https://kectil.com/program/who-can-apply",
+          "quote": "The 2027 Program is provided free to accepted applicants."
+        }
+      ]
+    },
+    {
+      "id": "mandela-washington-fellowship-2027",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: yes, About page and portal notice re-read 2026-11-21 (plain reader); instructions PDF is compressed for the plain reader and WebFetch, read from the WebFetch-saved file (pdftotext): deadline 13 Oct 2026 16:00 GMT, ages 25-35, DRC listed, no fee, all program costs covered, no dependents all confirmed; patch only adds dependents/orientation rules and the portal's Nov-Jan interview window; POSSIBLY ELIGIBLE right (exact age, track record not recorded). Pre-existing status UPCOMING for a closed cycle with no next call is left as is (not in this patch). PDF quotes not attached: the plain reader gets the PDF (HTTP 200) but cannot extract its compressed text, so a via declaration cannot carry them; the PDF facts were read today from the WebFetch-saved copy (pdftotext).",
+      "evidence": [
+        {
+          "url": "https://www.mandelawashingtonfellowship.org/about/",
+          "quote": "Applications for the 2027 Mandela Washington Fellowship are now closed."
+        },
+        {
+          "url": "https://apply.mandelawashingtonfellowship.org",
+          "quote": "will be contacted by their local U.S. embassy or consulate for interviews from November 2026 through January 2027"
+        }
+      ]
+    },
+    {
+      "id": "obama-foundation-leaders",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: FAQ, Leaders and Leaders Africa pages re-read 2026-11-21. changed:application_deadline '' -> 2026-12-04: FAQ states close Dec 4 2026 12:00 PM US Central (GMT-6) = 18:00Z, priority Nov 23. changed:nationality: FAQ answers 'Which nations and territories are part of Leaders Africa?' with 'All nations and territories on/in the continent' (an all-countries statement, not a subset) and the Africa page lists a DRC Leader in the current cohort, so MET holds. changed:age: FAQ says 24-45 on 1 Sept 2027 (UNKNOWN for under-30 band, correct). raised:verification to VERIFIED: deadline, eligibility and funding (free, no fees, no stipend) all read today on obama.org. POSSIBLY ELIGIBLE is the ceiling: exact age, English level and 3 years' relevant (incl. volunteer) experience are not recorded; the record already warns the internships fall short.",
+      "evidence": [
+        {
+          "url": "https://www.obama.org/programs/leaders/africa/faq/",
+          "quote": "Applications open November 9, 2026, and close December 4, 2026, at 12:00 PM United States Central Time (GMT-6)."
+        },
+        {
+          "url": "https://www.obama.org/programs/leaders/africa/faq/",
+          "quote": "All nations and territories on/in the continent."
+        },
+        {
+          "url": "https://www.obama.org/programs/leaders/africa/faq/",
+          "quote": "You will be between 24 and 45 years of age on September 1, 2027."
+        },
+        {
+          "url": "https://www.obama.org/programs/leaders/africa/faq/",
+          "quote": "You can demonstrate at least 3 years of relevant experience in your issue area."
+        },
+        {
+          "url": "https://www.obama.org/programs/leaders/africa/faq/",
+          "quote": "Participants selected for the Obama Foundation Leaders program incur no fees."
+        },
+        {
+          "url": "https://www.obama.org/programs/leaders/africa/faq/",
+          "quote": "Leaders will not be paid a stipend."
+        },
+        {
+          "url": "https://www.obama.org/programs/leaders/africa/",
+          "quote": "Applications for 2027-2028 Leaders Africa are now open!"
+        }
+      ]
+    },
+    {
+      "id": "si-scholarship-global-professionals",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: SI page and FAQ re-read 2026-11-21 with the plain reader; 34-country list has no DRC (the word Congo is absent from the page), so NOT ELIGIBLE stands. fee-present: the only fee is University Admissions' own programme-application fee, stated by SI's FAQ as separate from SI's free scholarship application; it is the official Swedish admissions system, not a scam signal, and the record says it is not covered. Tuition, SEK 12,000/month and portal close 24 Feb 2027 14:59 CET confirmed.",
+      "evidence": [
+        {
+          "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+          "quote": "Senegal, South Africa, Tanzania, Thailand, Uganda, Ukraine"
+        },
+        {
+          "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+          "quote": "Full tuition fee coverage. The fee is paid directly by SI to your Swedish university each semester."
+        },
+        {
+          "url": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+          "quote": "A monthly allowance of SEK 12,000 to cover your living expenses throughout the study period."
+        },
+        {
+          "url": "https://si.se/en/apply/faq-scholarships-on-masters-level/",
+          "quote": "We do not charge any application fee to apply for our scholarships. There is, however, an application fee that you need to pay when you apply for programmes via University Admissions."
+        },
+        {
+          "url": "https://si.se/en/apply/faq-scholarships-on-masters-level/",
+          "quote": "The application portal will close at 14:59 CET, 24 February 2027."
+        }
+      ]
+    },
+    {
+      "id": "stipendium-hungaricum-2027",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: stipendiumhungaricum.hu returns HTTP 0 to the plain reader today; Apply page read via WebFetch (still the 2026/2027 round, 2026-01-15 timeline, nomination required: no 2027/28 call, so empty deadline + UPCOMING is right) and the BA/MA Call PDF read from the WebFetch-saved file. changed:nationality: the Call lists 'Democratic Republic of the Congo' among full-time Sending Partners - confirmed. changed:age: Call excludes 'Applicants born after 31 August 2008' (minimum 18), no upper limit seen - confirmed. Funding lines (tuition-free, HUF 43,700/month, HUF 40,000 accommodation, HUF 65,000 insurance) match the Call. POSSIBLY ELIGIBLE right (nomination and host language criteria unknown).",
+      "evidence": [
+        {
+          "url": "https://stipendiumhungaricum.hu/wp-content/uploads/2025/10/BA_MA_OTM_Call_for_Applications_2026_27.pdf",
+          "quote": "Democratic Republic of the Congo",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://stipendiumhungaricum.hu/wp-content/uploads/2025/10/BA_MA_OTM_Call_for_Applications_2026_27.pdf",
+          "quote": "Applicants born after 31 August 2008",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://stipendiumhungaricum.hu/wp-content/uploads/2025/10/BA_MA_OTM_Call_for_Applications_2026_27.pdf",
+          "quote": "Tuition-free education - exemption from the payment of tuition fee",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://stipendiumhungaricum.hu/wp-content/uploads/2025/10/BA_MA_OTM_Call_for_Applications_2026_27.pdf",
+          "quote": "monthly amount of HUF 43,700",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://stipendiumhungaricum.hu/apply/",
+          "quote": "only the nominated applicants can proceed with their applications",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://stipendiumhungaricum.hu/apply/",
+          "quote": "there is only one application deadline each year",
+          "via": "webfetch"
+        }
+      ]
+    },
+    {
+      "id": "weidenfeld-hoffmann-scholarships-oxford-2027",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: whtrust.org is unreachable to the plain reader today; FAQ, application and check-eligibility pages read via WebFetch, every evidence-block quote is there (via items added for all three URLs so the block survives). Patch is evidence plus wording: last_verified correctly left at 2026-10-19 since Oxford's country list (ox.ac.uk, 403) was not read. changed:nationality: new text is accurate (WHT points to Oxford's list; no page read names the DRC) and nationality stays UNKNOWN, so POSSIBLY ELIGIBLE and PARTIALLY VERIFIED are the right ceilings; empty deadline with aggregator Jan 6 2027 flagged.",
+      "evidence": [
+        {
+          "url": "https://whtrust.org/scholarship-application/check-eligibility/",
+          "quote": "A list of eligible courses and countries is available on the University of Oxford website",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://whtrust.org/scholarship-application/faqs/",
+          "quote": "is fully funded and covers 100% of course fees",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://whtrust.org/scholarship-application/faqs/",
+          "quote": "(of £21,805 in 2026-27)",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://whtrust.org/scholarship-application/faqs/",
+          "quote": "No, we don’t have an age limit.",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://whtrust.org/scholarship-application/faqs/",
+          "quote": "Applicants must be offered a place on an eligible course by the University of Oxford before being considered",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://whtrust.org/scholarship-application/faqs/",
+          "quote": "Please note applicants must have passed their required English language test to be accepted onto the Programme.",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://whtrust.org/scholarship-application/",
+          "quote": "accommodation/expenses should be covered by the stipend",
+          "via": "webfetch"
+        },
+        {
+          "url": "https://whtrust.org/scholarship-application/",
+          "quote": "must be submitted by the January deadline",
+          "via": "webfetch"
+        }
+      ]
+    },
+    {
+      "id": "vlir-uos-icp-connect-2027",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: study-scholarships, call and country-list pages re-read 2026-11-21 with the plain reader; all evidence quotes found. changed:nationality: country list shows 'DR Congo' and residence rule quoted - MET correct. changed:age: page says not older than 35 (bachelor/initial master, 45 advanced) on 1 January of intake, bachelor at least 19 - matches. Patch lowers LIKELY to POSSIBLY (English level, host admission unknown) - correct. 'Full scholarships' wording on the call page supports Fully Funded; no application fee confirmed. Minor: airfare arrangement 'Paid directly by organiser' is more specific than the page ('cover ... travel'), coverage itself is supported.",
+      "evidence": [
+        {
+          "url": "https://www.vliruos.be/country-list-scholarships",
+          "quote": "● Cameroon ● DR Congo ● Ethiopia"
+        },
+        {
+          "url": "https://www.vliruos.be/get-funded/study-scholarships",
+          "quote": "The ICP Connect Scholarship call for the 2027–2028 academic year is open."
+        },
+        {
+          "url": "https://www.vliruos.be/get-funded/study-scholarships",
+          "quote": "Candidates for a bachelor or initial master programme cannot be older than 35 as of 1 January of the intake year"
+        },
+        {
+          "url": "https://www.vliruos.be/get-funded/study-scholarships",
+          "quote": "VLIRUOS ICP Connect scholarships cover tuition fees, travel, insurance and living expenses (board and lodging)."
+        },
+        {
+          "url": "https://www.vliruos.be/get-funded/calls/icp-connect-2027-2028",
+          "quote": "We are offering full scholarships for 12 programmes."
+        },
+        {
+          "url": "https://www.vliruos.be/get-funded/calls/icp-connect-2027-2028",
+          "quote": "ICP Connect scholarship programmes do not require an application fee."
+        }
+      ]
+    },
+    {
+      "id": "european-forum-alpbach-scholarships",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: FAQ and scholarship-programme pages re-read 2026-11-21, all evidence quotes found. changed:nationality: 'Applicants from all countries and professional/academic backgrounds' - an all-countries rule, MET correct. changed:age: page says 18-30 at the time of the forum, 18-35 for Global South citizens; FAQ's UNCTAD definition covers Africa - MET correct for the under-30 band. Patch lowers LIKELY to POSSIBLY (B2 English proof and first-time status unrecorded) - correct. Funding lines (fee + accommodation covered; travel, insurance, daily costs not) match; empty deadline with organiser-stated March 2027 opening is right.",
+      "evidence": [
+        {
+          "url": "https://www.alpbach.org/faq-scholarship-programme",
+          "quote": "Applicants from all countries and professional/academic backgrounds."
+        },
+        {
+          "url": "https://www.alpbach.org/blog/scholarship-programme",
+          "quote": "You are between 18 and 30 years of age (or between 18 and 35 for citizens of the Global South) at the time of the forum."
+        },
+        {
+          "url": "https://www.alpbach.org/blog/scholarship-programme",
+          "quote": "A scholarship of the EFA for the Forum covers the participation fee and accommodation costs."
+        },
+        {
+          "url": "https://www.alpbach.org/faq-scholarship-programme",
+          "quote": "Travel costs to and from Alpbach have to be covered by yourself, as well as health care and travel insurance."
+        },
+        {
+          "url": "https://www.alpbach.org/blog/scholarship-programme",
+          "quote": "Applications will open in March 2027."
+        },
+        {
+          "url": "https://www.alpbach.org/faq-scholarship-programme",
+          "quote": "No. The application is free of charge."
+        }
+      ]
+    },
+    {
+      "id": "african-union-youth-volunteer-corps",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: AU volunteer page, careers posting and 13th-cohort press release re-read 2026-11-21, all quotes found. No open call (posting 'not available'), empty deadline + UPCOMING + PARTIALLY VERIFIED right. Evidence block is careful: Africa-wide sentence kept as nationality UNKNOWN (not MET), experience UNKNOWN, stipend without amount stated as such, accommodation/insurance Unknown; POSSIBLY ELIGIBLE is the right ceiling.",
+      "evidence": [
+        {
+          "url": "https://jobs.au.int/job/African-Union-Youth-Volunteer-Corps-%28AU-YVC%29/2949-en_US",
+          "quote": "You can't view this job because it's not available at this time."
+        },
+        {
+          "url": "https://au.int/en/volunteer/african-union-youth-volunteer-corps",
+          "quote": "please be on the lookout for an advertised Call for Applications on the AU Careers page"
+        },
+        {
+          "url": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps",
+          "quote": "Applications are opened for qualified young Africans across the continent and the Diaspora from 26 March to 26 April 2026"
+        },
+        {
+          "url": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps",
+          "quote": "18 – 35 years (must be under 35 upon completion of service)"
+        },
+        {
+          "url": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps",
+          "quote": "A monthly stipend to cover living expenses and a separation allowance upon successful completion."
+        },
+        {
+          "url": "https://au.int/en/pressreleases/20260326/au-launches-call-applications-13th-cohort-au-youth-volunteer-corps",
+          "quote": "An AU Service Passport and an economy return ticket to the place of deployment."
+        }
+      ]
+    },
+    {
+      "id": "orange-digital-center-drc",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: both Orange Engage for Change pages re-read 2026-11-21, quotes found. changed:nationality: new text quotes Orange's 'young Congolese will be able to benefit from free training' (names the DRC's nationals) and states no formal rule is published - accurate. Patch lowers LIKELY to POSSIBLY and keeps PARTIALLY VERIFIED/MEDIUM with DATE UNKNOWN status - right, since no calendar, age or selection rule is published. 'Free training' wording is Orange's own.",
+      "evidence": [
+        {
+          "url": "https://engageforchange.orange.com/en/news/07e9164f-679d-452f-aea4-28344ee9b4f6",
+          "quote": "young Congolese will be able to benefit from free training"
+        },
+        {
+          "url": "https://engageforchange.orange.com/en/programs/e1be1cd0-d5a6-494a-8ce7-e03cf6eb2205",
+          "quote": "These centres are aimed at students and young people in the region"
+        },
+        {
+          "url": "https://engageforchange.orange.com/en/programs/e1be1cd0-d5a6-494a-8ce7-e03cf6eb2205",
+          "quote": "offering free training in hard and soft skills and activities in the digital fields"
+        }
+      ]
+    },
+    {
+      "id": "mckinsey-forward-fall-2026",
+      "decision": "DOWNGRADE",
+      "reason": "not-re-read-today: FAQ and overview re-read 2026-11-21, but the FAQ answers are not visible to the plain reader (only the questions) nor to WebFetch, so the judge could not read the DRC in the country list, the residence rule, the experience/education criteria or the no-fee answer today. changed:nationality: the new residence-based wording and the DRC on the Africa list cannot be confirmed by either reader. Only the overview is readable: 'free multi-week learning program', regions incl. Africa, and 'notified when applications reopen' (closed, UPCOMING with empty deadline is right). LIKELY ELIGIBLE needs the nationality/residence rule read: lowered to POSSIBLY ELIGIBLE; VERIFIED lowered to PARTIALLY VERIFIED.",
+      "evidence": [
+        {
+          "url": "https://www.mckinsey.org/our-programs/forward/overview",
+          "quote": "Forward is a free multi-week learning program"
+        },
+        {
+          "url": "https://www.mckinsey.org/our-programs/forward/overview",
+          "quote": "Stay connected and be the first to get notified when applications reopen in your country"
+        }
+      ],
+      "changes": {
+        "verification": "PARTIALLY VERIFIED",
+        "eligibility_for_me": "POSSIBLY ELIGIBLE",
+        "potential_issues": [
+          "21 November 2026: the FAQ answers (country list naming the DRC, eligibility rules, no-fee statement) could not be read by the judge with either reader; only the overview page (free programme, regions, applications closed) was confirmed. Check the FAQ in a browser when the next cycle opens."
+        ]
+      }
+    },
+    {
+      "id": "objectif-2030-ifdd-free-moocs",
+      "decision": "ACCEPT",
+      "reason": "not-re-read-today: home, MOOC list and course pages re-read 2026-11-21, all evidence quotes found. changed:nationality: home says 'Formations gratuites et accessibles à tous' and the eco/devdur pages speak of learners from the 'monde entier' - an open-to-all rule, so MET and LIKELY ELIGIBLE hold (no prerequisite; French, which the profile records; no age or residence condition stated). Sessions (Eco 30 Nov-27 Dec 2026) and 'Toutes nos formations sont gratuites' confirmed on the organiser's pages.",
+      "evidence": [
+        {
+          "url": "https://www.objectif2030.org/",
+          "quote": "Formations gratuites et accessibles à tous"
+        },
+        {
+          "url": "https://www.objectif2030.org/mooc/tech/",
+          "quote": "Il n'ya pas de prérequis pour vous inscrire"
+        },
+        {
+          "url": "https://www.objectif2030.org/mooc/",
+          "quote": "Toutes nos formations sont gratuites"
+        },
+        {
+          "url": "https://www.objectif2030.org/mooc/eco/",
+          "quote": "La prochaine session de la formation se tiendra du 30 novembre au 27 décembre 2026"
+        },
+        {
+          "url": "https://www.objectif2030.org/mooc/tech/",
+          "quote": "plateforme Objectif2030 de développement des capacités des acteurs francophones"
+        }
+      ]
+    }
+  ],
+  "lead_outcomes": [
+    {
+      "lead_id": "6c461f707486",
+      "decision": "CONFIRM",
+      "reason": "Council of Europe Congress youth delegates 2027: the rule is 'live in and hold the passport of one of the 46 Council of Europe member States'; the DRC is not a CoE member State (the only non-member exceptions named are Belarusian democratic forces living in a member State and a Moroccan delegate). The organiser's PDF on rm.coe.int returns PDF bytes the plain reader cannot extract and WebFetch gets 403 there, so the sentence was read today with WebFetch on the lead's own aggregator page, which reproduces the call verbatim.",
+      "evidence": [
+        {
+          "url": "https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/",
+          "quote": "live in and hold the passport of one of the 46 Council of Europe member States",
+          "via": "webfetch"
+        }
+      ]
+    },
+    {
+      "lead_id": "e030979e1ea8",
+      "decision": "CONFIRM",
+      "reason": "'London Youth Diplomacy Forum 2027' (Youth Diplomatic Academy) is advertised as 'Fully Funded' but the same page tells applicants to pay application fees, mentions only a forum fee waiver up to $500 and a self-funded Direct Forum Access category; pay-to-apply with a misleading 'fully funded' claim and no official organiser page is a scam/cost-risk pattern under the rules.",
+      "evidence": [
+        {
+          "url": "https://opportunitiescorners.com/london-youth-diplomacy-forum-2027/",
+          "quote": "Complete the Form and pay the required application fees."
+        },
+        {
+          "url": "https://opportunitiescorners.com/london-youth-diplomacy-forum-2027/",
+          "quote": "Forum fee waiver of up to $500"
+        },
+        {
+          "url": "https://opportunitiescorners.com/london-youth-diplomacy-forum-2027/",
+          "quote": "Host Organization: Youth Diplomatic Academy (YDA)"
+        }
+      ]
+    }
+  ]
+}

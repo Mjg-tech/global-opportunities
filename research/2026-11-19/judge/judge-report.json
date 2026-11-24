@@ -1,0 +1,396 @@
+{
+  "date": "2026-11-21",
+  "accepted": [
+    "mcw-global-young-leaders-fellowship-2027",
+    "internet-society-fellowship-2027",
+    "yali-network-online-courses",
+    "yenching-academy-2027",
+    "jim-leech-mastercard-foundation-fellowship-2027",
+    "gtf-telemachus-mentoring-2027",
+    "ned-hurford-youth-fellows-2027",
+    "aspire-leaders-program-2026-cohort-4",
+    "dalai-lama-fellows-2027",
+    "eu-delegation-drc-subsidised-internship",
+    "french-african-foundation-young-leaders",
+    "icann-fellowship",
+    "mastercard-foundation-scholars-uct-2027",
+    "pan-african-university-scholarships",
+    "turkiye-burslari-2027",
+    "wageningen-africa-scholarship-programme-2027",
+    "auc-african-graduate-fellowship-2027",
+    "gates-cambridge-2027",
+    "mastercard-foundation-scholars-cambridge-2027",
+    "mundus-mapp-2027",
+    "noha-erasmus-mundus-humanitarian-action-2027",
+    "eric-bleumink-fellowship-groningen-2027",
+    "mastercard-foundation-scholars-uc-berkeley-2027",
+    "mauritius-africa-scholarship-scheme-2027"
+  ],
+  "downgraded": [
+    "fao-internship-programme-africa-2026-2027",
+    "rlc-east-africa",
+    "tony-elumelu-entrepreneurship-programme-2027",
+    "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+    "abe-initiative-jica",
+    "erasmus-mundus-joint-masters-2027"
+  ],
+  "returned": [],
+  "rejected": [],
+  "unreviewed": [],
+  "blocked": [],
+  "quote_failed": [],
+  "refused_changes": [],
+  "evidence_dropped": [],
+  "findings": {
+    "mcw-global-young-leaders-fellowship-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: [\"Open to young people 'from all over the world'; no country -> [\"Open to applicants from all countries and regions worldwid"
+      }
+    ],
+    "internet-society-fellowship-2027": [
+      {
+        "severity": "review",
+        "rule": "evidence-nationality-not-drc",
+        "message": "criteria[0] (nationality): MET, but neither the requirement nor the quote names the DRC or says all nationalities (an Africa-wide rule does not by itself include the DRC: read the country list)"
+      },
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:funding_type",
+        "message": "funding_type: Substantially Funded -> Partially Funded"
+      }
+    ],
+    "fao-internship-programme-africa-2026-2027": [
+      {
+        "severity": "review",
+        "rule": "evidence-nationality-not-drc",
+        "message": "criteria[0] (nationality): MET, but neither the requirement nor the quote names the DRC or says all nationalities (an Africa-wide rule does not by itself include the DRC: read the country list)"
+      },
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:age_requirement",
+        "message": "age_requirement: 21 to 30 -> 21 to 30 at the start of the internship (it must start befor"
+      }
+    ],
+    "rlc-east-africa": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['Burundi, Central African Republic, Republic of the Congo,  -> ['Citizens and residents of Burundi, Central African Republi"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:age_requirement",
+        "message": "age_requirement: 18 to 35 at the time of application -> 18 to 35 (inclusive) for the duration of the 4-week programm"
+      },
+      {
+        "severity": "note",
+        "rule": "lowered:eligibility_for_me",
+        "message": "eligibility_for_me: LIKELY ELIGIBLE -> POSSIBLY ELIGIBLE"
+      }
+    ],
+    "yali-network-online-courses": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "yenching-academy-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['International applicants; no nationality list on the page  -> ['International candidates must be non-Chinese citizens with"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:age_requirement",
+        "message": "age_requirement: Not specified on the page read -> No strict age cut-off (FAQ). Excluding Zhuoyue Scholarship r"
+      }
+    ],
+    "jim-leech-mastercard-foundation-fellowship-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "tony-elumelu-entrepreneurship-programme-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027": [
+      {
+        "severity": "note",
+        "rule": "deadline-passed",
+        "message": "the deadline has passed; the daily job will archive the record"
+      },
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "gtf-telemachus-mentoring-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "ned-hurford-youth-fellows-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:application_deadline",
+        "message": "application_deadline: 2026-11-30 -> 2026-12-07"
+      }
+    ],
+    "aspire-leaders-program-2026-cohort-4": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:application_deadline",
+        "message": "application_deadline:  -> 2027-01-10"
+      },
+      {
+        "severity": "review",
+        "rule": "raised:verification",
+        "message": "verification: PARTIALLY VERIFIED -> VERIFIED needs a quoted page"
+      }
+    ],
+    "dalai-lama-fellows-2027": [
+      {
+        "severity": "note",
+        "rule": "deadline-passed",
+        "message": "the deadline has passed; the daily job will archive the record"
+      },
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "eu-delegation-drc-subsidised-internship": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['No nationality restriction is stated on the call; applican -> ['No nationality restriction is stated on the call; only can"
+      }
+    ],
+    "french-african-foundation-young-leaders": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:application_deadline",
+        "message": "application_deadline:  -> 2026-12-16"
+      }
+    ],
+    "icann-fellowship": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['No nationality restriction stated on the page read'] -> [\"Open to all regions: 'Candidates from all regions and sect"
+      }
+    ],
+    "mastercard-foundation-scholars-uct-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['Citizens of any African country (DRC included)'] -> ['A citizen of an African country, including South Africa (t"
+      }
+    ],
+    "pan-african-university-scholarships": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "turkiye-burslari-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "wageningen-africa-scholarship-programme-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "fee-present",
+        "message": "participation_fee 'Not stated on the scholarship page': check the scam rules and the cost risk"
+      }
+    ],
+    "auc-african-graduate-fellowship-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['Non-Egyptian African nationals (DRC included)'] -> ['Non-Egyptian African nationals; African nationals with a d"
+      }
+    ],
+    "gates-cambridge-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "fee-present",
+        "message": "participation_fee 'Cambridge charges GBP 85 per non-doctoral application; the f': check the scam rules and the cost risk"
+      }
+    ],
+    "mastercard-foundation-scholars-cambridge-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "mundus-mapp-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ],
+    "noha-erasmus-mundus-humanitarian-action-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "fee-present",
+        "message": "participation_fee 'Participation costs EUR 4,000 per semester (waiver for schol': check the scam rules and the cost risk"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: [] -> ['No nationality restriction stated; Erasmus Mundus scholars"
+      }
+    ],
+    "abe-initiative-jica": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:nationality_requirements",
+        "message": "nationality_requirements: ['African countries; apply through the JICA office of your c -> [\"Countries whose official requests have been approved by th"
+      }
+    ],
+    "eric-bleumink-fellowship-groningen-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "fee-present",
+        "message": "participation_fee 'University of Groningen application fee for applicants with ': check the scam rules and the cost risk"
+      }
+    ],
+    "mastercard-foundation-scholars-uc-berkeley-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "fee-present",
+        "message": "participation_fee 'UC Berkeley graduate application fee (amount not read); the ': check the scam rules and the cost risk"
+      }
+    ],
+    "mauritius-africa-scholarship-scheme-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      },
+      {
+        "severity": "review",
+        "rule": "changed:application_deadline",
+        "message": "application_deadline:  -> 2027-01-31"
+      }
+    ],
+    "erasmus-mundus-joint-masters-2027": [
+      {
+        "severity": "review",
+        "rule": "not-re-read-today",
+        "message": "last_verified is 2026-11-19: was this page read in this cycle?"
+      }
+    ]
+  }
+}

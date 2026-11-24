@@ -1,0 +1,129 @@
+{
+  "id": "yenching-academy-2027",
+  "checked_on": "2026-11-24",
+  "criteria": [
+    {
+      "criterion": "nationality",
+      "requirement": "International candidates must be non-Chinese citizens; no other nationality is excluded, so a DRC citizen is not excluded.",
+      "applicant": "Citizen of the Democratic Republic of the Congo.",
+      "assessment": "MET",
+      "quote": "Applicants must be non-Chinese citizens with a valid passport.",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    },
+    {
+      "criterion": "passport",
+      "requirement": "A valid passport.",
+      "applicant": "Passport not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether the applicant holds a valid passport.",
+      "quote": "Applicants must be non-Chinese citizens with a valid passport.",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    },
+    {
+      "criterion": "education",
+      "requirement": "A bachelor's degree in any field (or a bachelor's diploma expected by August of the enrolment year).",
+      "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+      "assessment": "MET",
+      "quote": "Minimum of a Bachelor’s degree in any field",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    },
+    {
+      "criterion": "education",
+      "requirement": "An outstanding academic record.",
+      "applicant": "Degree grade not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "The grade of the 2024 degree.",
+      "quote": "An outstanding academic record;",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    },
+    {
+      "criterion": "enrolment",
+      "requirement": "No enrolment in another degree programme while studying at Peking University.",
+      "applicant": "Not recorded as enrolled in any degree programme.",
+      "assessment": "MET",
+      "quote": "Peking University does not allow students to be enrolled in other degree programs whilst studying at the university.",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    },
+    {
+      "criterion": "age",
+      "requirement": "No strict age cut-off (the FAQ adds that nobody over 29 has been admitted, Zhuoyue Scholarship recipients excepted).",
+      "applicant": "Recorded as under 30; there is no formal age limit to meet.",
+      "assessment": "MET",
+      "quote": "We do not have a strict age cut-off for applicants",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+    },
+    {
+      "criterion": "language_certificate",
+      "requirement": "IELTS Academic 7.0, TOEFL iBT overall 5 or Cambridge English Scale 185, taken after 1 September 2025 and sent directly by the test body; exempt if English is the native language or the degree was taught in English.",
+      "applicant": "No IELTS, TOEFL or DELF score recorded; the language of instruction of the degree is not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "An English test result at the required level sent before 30 November 2026, or proof of an English-taught degree.",
+      "quote": "IELTS (Academic): Overall 7.0",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    },
+    {
+      "criterion": "other",
+      "requirement": "Two recommendation letters written by full or associate professors in the intended field of study.",
+      "applicant": "Referees not recorded.",
+      "assessment": "UNKNOWN",
+      "missing": "Whether two full or associate professors in the intended field can recommend the applicant.",
+      "quote": "Peking University will only accept recommendation letters written by full professors or associate professors (or equivalent titles).",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    }
+  ],
+  "funding": [
+    {
+      "item": "tuition",
+      "arrangement": "Paid directly by organiser",
+      "conditions": "First academic year through the Yenching Fellowship; the second-year fellowship must be applied for (good academic standing, staying in Beijing).",
+      "quote": "All admitted students receive the Yenching Fellowship for the first academic year, which covers tuition",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+    },
+    {
+      "item": "accommodation",
+      "arrangement": "Paid directly by organiser",
+      "conditions": "First year in the Yenching Academy House on campus; second-year housing support only with the second-year fellowship.",
+      "quote": "accommodation in the Yenching Academy House",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+    },
+    {
+      "item": "airfare",
+      "arrangement": "Covered through an allowance",
+      "conditions": "A travel stipend for one round trip; the base city must be in the country of nationality and the cost is estimated and calculated by the Academy.",
+      "quote": "a travel stipend for one round-trip journey between your base city and Beijing",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+    },
+    {
+      "item": "insurance",
+      "arrangement": "Paid directly by organiser",
+      "conditions": "Basic medical insurance, first year (and second year with the second-year fellowship).",
+      "quote": "basic medical insurance, a monthly stipend, and expenses related to research",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+    },
+    {
+      "item": "daily_allowance",
+      "arrangement": "Covered through an allowance",
+      "conditions": "Monthly stipend; the amount is not stated on the pages read.",
+      "quote": "basic medical insurance, a monthly stipend, and expenses related to research",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+    },
+    {
+      "item": "other_support",
+      "arrangement": "Paid directly by organiser",
+      "conditions": "Research expenses and field study costs (a week-long field study trip is a required course).",
+      "quote": "Field study costs",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    }
+  ],
+  "out_of_pocket": "Unknown: the pages read give no amounts. Not covered on the pages read: an English test if one is needed, visa costs, and second-year costs if the second-year fellowship is not granted.",
+  "cycles": [
+    {
+      "cycle": "2027 cohort",
+      "state": "CONFIRMED CURRENT CYCLE",
+      "opens_on": "2026-09-01",
+      "deadline": "2026-11-30",
+      "quote": "Application deadline: November 30, 2026",
+      "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+    }
+  ]
+}

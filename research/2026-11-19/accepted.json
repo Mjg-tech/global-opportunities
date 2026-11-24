@@ -1,0 +1,2349 @@
+[
+  {
+    "id": "mcw-global-young-leaders-fellowship-2027",
+    "eligibility": [
+      "Aged 18 to 26 at the start of the programme (1 June 2027); no exceptions",
+      "Open to applicants from all countries and regions worldwide, with no geographic restrictions",
+      "Demonstrate commitment to their community and identify an issue in it in education, health or economic security",
+      "Strong motivation to create positive change and interest in social projects (original ideas are valued over AI-generated responses)",
+      "Fluent in written and spoken English",
+      "Commit to the Community Needs Assessment in June, the 10-day in-person programme in July and a year carrying out the community project",
+      "Access to email and the internet throughout the year-long programme",
+      "Eligible for appropriate visa and travel documentation"
+    ],
+    "nationality_requirements": [
+      "Open to applicants from all countries and regions worldwide: 'There are no geographic restrictions on eligibility' (official page, updated 10 November 2026). The DRC is not excluded."
+    ],
+    "sources": [
+      {
+        "label": "MCW Global: 2027 Young Leaders Fellowship - Applications are open! (eligibility, timeline, costs, liability release)",
+        "url": "https://mcwglobal.org/young-leaders-fellowship-2027/",
+        "type": "Official"
+      },
+      {
+        "label": "Opportunity Desk listing (feed lead)",
+        "url": "https://opportunitydesk.org/2026/11/07/mcw-global-young-leaders-fellowship-2027-funded/",
+        "type": "Aggregator"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "Seen in the feeds on 6-8 November 2026 (Opportunity Desk, Opportunities for Africans, Opportunities Corners). Official page read on 9 November 2026 (posted 27 October, updated 5 November 2026); MCW Global says it hosted the 29th edition of the fellowship in July 2026. The applicant portal answered HTTP 429 (too many requests) to the plain reader and was not read. 19 November 2026 (evidence backlog, scout A): official page re-read (now dated 10 November 2026) and every tracked field compared. Deadline (3 December 2026, 11:59 PM New York time), timeline, costs covered and not covered, the USD 100 refundable deposit, the age rule and the apply link are unchanged. The page now states geographic eligibility explicitly ('Open to applicants from all countries and regions worldwide. There are no geographic restrictions on eligibility.'), so nationality_requirements and the eligibility line were reworded; no label changed.",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "Open to applicants from all countries and regions worldwide, with no geographic restrictions.",
+          "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "Geographic Eligibility: Open to applicants from all countries and regions worldwide. There are no geographic restrictions on eligibility.",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "criterion": "age",
+          "requirement": "Between 18 and 26 at the start of the programme (1 June 2027); the organiser makes no exceptions.",
+          "applicant": "Recorded only as under 30.",
+          "assessment": "UNKNOWN",
+          "missing": "Exact age on 1 June 2027.",
+          "quote": "Be between the ages of 18 – 26 at the start of the program (June 1, 2027).",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "criterion": "language",
+          "requirement": "Fluent written and spoken English; the application, resume and recommendation letters must be in English.",
+          "applicant": "English is listed among the profile's languages, with no level and no test score.",
+          "assessment": "UNKNOWN",
+          "missing": "The applicant's level of written and spoken English.",
+          "quote": "Be fluent in written and spoken English",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "criterion": "passport",
+          "requirement": "Eligible for the visa and travel documents needed to attend the in-person programme in the United States.",
+          "applicant": "Passport not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "A valid passport and eligibility for a U.S. visa.",
+          "quote": "Be eligible for appropriate visa and travel documentation",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Identify a community issue in education, health or economic security and commit to the year-long programme (June 2027 to July 2028).",
+          "applicant": "Interests are recorded (operations, business analysis, programme coordination, policy research); no community project is recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "A community issue in education, health or economic security that the applicant would work on, and availability for the whole year.",
+          "quote": "Identify an issue in their community in the areas of education, health, or economic security",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "criterion": "education",
+          "requirement": "No degree or education requirement is stated on the page.",
+          "assessment": "NOT STATED"
+        }
+      ],
+      "funding": [
+        {
+          "item": "airfare",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Economy class, arriving one day before and leaving one day after the programme; travel is no longer provided if a late visa application means the visa arrives less than a month before the programme.",
+          "quote": "International Economy Flights for international participants",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "item": "accommodation",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "From the evening of 19 July to 29 July 2027 (New York University in New York, Champlain College in Burlington).",
+          "quote": "Housing from the evening of July 19 – July 29, 2027",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "item": "meals",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Three meals a day from 20 to 29 July 2027.",
+          "quote": "Three meals per day from July 20 – July 29, 2027",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "item": "local_transport",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Round trip between New York and Burlington, Vermont.",
+          "quote": "Round Trip Travel from New York, New York to Burlington, Vermont",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "item": "airport_transfers",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Public transport to and from JFK, LaGuardia and Newark airports.",
+          "quote": "Public Transportation to/from JFK, LaGuardia, and Newark Airports",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "item": "visa_fees",
+          "arrangement": "Not covered",
+          "amount": "",
+          "currency": "",
+          "conditions": "Passport fees, visa fees and in-country costs (travel to the airport, extra baggage fees) are listed as not covered by MCW.",
+          "quote": "Cost Not Covered by MCW Passport Fees Visa Fees",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "item": "participation_fee",
+          "arrangement": "Reimbursed after purchase",
+          "amount": "100",
+          "currency": "USD",
+          "conditions": "Refundable deposit due from accepted participants by 16 March 2027, refunded in full in July 2027 after completing the in-person training; NYU's USD 50 cancellation fee is deducted if a requested room is not used.",
+          "quote": "The deposit will be refunded to the participant in full in July 2027, when they have successfully completed the in-person training program of the Fellowship.",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        },
+        {
+          "item": "other_support",
+          "arrangement": "Not covered",
+          "amount": "",
+          "currency": "",
+          "conditions": "Under the liability release, any medical care during the in-person programme is at the participant's cost.",
+          "quote": "Agree that I am responsible for fees encountered for any cost associated with medical care",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        }
+      ],
+      "out_of_pocket": "Passport and U.S. visa fees, travel to the departure airport, extra baggage and any medical care during the programme (amounts not stated), plus a USD 100 deposit that is refunded in July 2027 after the in-person training (less USD 50 if a requested NYU room is not used).",
+      "cycles": [
+        {
+          "cycle": "2027",
+          "state": "CONFIRMED CURRENT CYCLE",
+          "opens_on": "2026-11-05",
+          "deadline": "2026-12-03",
+          "quote": "Submit a completed application on or before Thursday, December 3, 2026, 11:59 PM (NYC EST time)",
+          "page": "https://mcwglobal.org/young-leaders-fellowship-2027/"
+        }
+      ]
+    }
+  },
+  {
+    "id": "internet-society-fellowship-2027",
+    "deadline_text": "'To become eligible to apply for the fellowship program, participants must enroll in the required Pre-Fellowship Training modules before 22 November 2026.' Once the modules are completed the application link is emailed within 24 hours; applications are rolling and must be submitted 'no later than 18 December 2026' (the Applicant Journey now also says 'By 18 December 2026', and the Timeline says '18 December 2026 Fellowship applications close'). Open enrolment for the self-paced training: 23 September - 22 November 2026.",
+    "funding_type": "Partially Funded",
+    "funding_details": [
+      "A project stipend of up to USD 5,000 for justified direct project costs (for example workshop expenses, printing, local transport, minor equipment hire), subject to approval of the project budget; the FAQ says project stipends 'are not designed to provide personal compensation'",
+      "Travel support to attend a global or regional Internet event (for example IGF, AfPIF or the NDSS Symposium); the page and the brochure do not say what it pays (flight, accommodation, visa)",
+      "A dedicated mentor and expert sessions",
+      "Benefits apply only to applicants offered a place; enrolling in the Pre-Fellowship Training does not by itself give access to them"
+    ],
+    "coverage": {
+      "tuition": "Not specified",
+      "stipend": "Not specified",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "stipend": "No personal stipend is stated; a project stipend of up to USD 5,000 for direct project costs, subject to budget approval",
+    "potential_issues": [
+      "Enrolment in the pre-fellowship training closes on 22 November 2026, and the modules must be finished before applying",
+      "A concrete Internet-related project is needed",
+      "The subject is far from the recorded experience",
+      "A passport valid six months beyond 2027 travel is required and is not recorded",
+      "The USD 5,000 project stipend pays direct project costs only, not personal compensation (FAQ)",
+      "'Travel support' to an Internet event is not itemised: flight, accommodation and visa costs are not specified"
+    ],
+    "sources": [
+      {
+        "label": "Internet Society Fellowship Program",
+        "url": "https://www.internetsociety.org/fellowship/",
+        "type": "Official"
+      },
+      {
+        "label": "Internet Society Fellowship Program: FAQ (project stipend rules)",
+        "url": "https://www.internetsociety.org/fellowship/faq/",
+        "type": "Official"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "9 November 2026 (source_changed flag): page re-read. It now says participants must 'enroll' (not complete) before 22 November 2026, adds a 'By 22 December 2026' date in one graphic, moves the kick-off to 24 February 2027 in the selected-fellows section, and lists a passport, four hours a week, reliable Internet and not being a current 2026 fellow among the requirements. Label lowered from LIKELY to POSSIBLY ELIGIBLE because the passport and English level are not recorded in the profile. 19 November 2026 (evidence backlog, scout A): page, FAQ and brochure re-read and every tracked field compared. The 'By 22 December 2026' graphic now reads 'By 18 December 2026', so deadline_text was updated. The FAQ says the USD 5,000 project stipend covers 'justified direct project costs' and is 'not designed to provide personal compensation', and 'Travel support' is not itemised on the page or in the brochure, so coverage.stipend and coverage.flight were lowered from Covered to Not specified and funding_type from Substantially Funded to Partially Funded.",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "Open to anyone interested in Internet policy, connectivity, safety and security; the page sets no nationality or country restriction.",
+          "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "The program is open to anyone interested in building their knowledge and skills in Internet policy, community mobilization, connectivity, Internet safety, and security.",
+          "page": "https://www.internetsociety.org/fellowship/"
+        },
+        {
+          "criterion": "language",
+          "requirement": "A high level of reading, speaking and writing in English.",
+          "applicant": "English is listed among the profile's languages, with no level and no test score.",
+          "assessment": "UNKNOWN",
+          "missing": "The applicant's level of reading, speaking and writing in English.",
+          "quote": "Applicants must have a high level of reading, speaking, and writing skills in English.",
+          "page": "https://www.internetsociety.org/fellowship/"
+        },
+        {
+          "criterion": "passport",
+          "requirement": "A valid passport that remains valid at least six months beyond fellowship-related travel dates.",
+          "applicant": "Passport not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant holds a passport valid six months beyond travel in 2027.",
+          "quote": "Applicants must hold a valid passport that remains valid for at least six months beyond anticipated fellowship-related travel dates.",
+          "page": "https://www.internetsociety.org/fellowship/"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Enrol in the Pre-Fellowship Training before 22 November 2026 and complete it before applying.",
+          "applicant": "No enrolment is recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant enrols before 22 November 2026 and completes the modules.",
+          "quote": "participants must enroll in the required Pre-Fellowship Training modules before 22 November 2026",
+          "page": "https://www.internetsociety.org/fellowship/"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Weekly sessions and at least four hours a week during the 10-month programme.",
+          "applicant": "Availability is not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Availability for weekly sessions and four hours a week in 2027.",
+          "quote": "Applicants must have the availability to take part in weekly sessions and be able to dedicate a minimum of four hours per week during the 10-month program.",
+          "page": "https://www.internetsociety.org/fellowship/"
+        },
+        {
+          "criterion": "education",
+          "requirement": "No degree requirement is stated.",
+          "assessment": "NOT STATED"
+        },
+        {
+          "criterion": "age",
+          "requirement": "No age limit is stated.",
+          "assessment": "NOT STATED"
+        }
+      ],
+      "funding": [
+        {
+          "item": "other_support",
+          "arrangement": "Covered through an allowance",
+          "amount": "up to 5,000",
+          "currency": "USD",
+          "conditions": "Project stipend for justified direct project costs, subject to review and approval of the project budget; not personal compensation and not for salaries or consulting fees.",
+          "quote": "Selected fellows may apply for a project stipend of up to USD $5,000 for justified direct project costs.",
+          "page": "https://www.internetsociety.org/fellowship/faq/"
+        },
+        {
+          "item": "airfare",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Selected fellows receive 'travel support' to attend one global or regional Internet event; the page and the brochure do not say whether it pays the flight, accommodation or visa.",
+          "quote": "Travel support to attend a global or regional Internet event",
+          "page": "https://www.internetsociety.org/fellowship/"
+        }
+      ],
+      "out_of_pocket": "Unknown",
+      "cycles": [
+        {
+          "cycle": "2027",
+          "state": "CONFIRMED CURRENT CYCLE",
+          "opens_on": "2026-09-23",
+          "deadline": "2026-12-18",
+          "quote": "Eligible participants may submit their application as soon as they receive the application link and no later than 18 December 2026",
+          "page": "https://www.internetsociety.org/fellowship/"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fao-internship-programme-africa-2026-2027",
+    "program_dates": "Assignments of 3 to 11 months (vacancy duration field: 'From 3 months to 11 months'; FAO Internship Programme page). The FAQ says interns are preferably assigned to FAO offices or project locations in their own country or country of residence.",
+    "age_requirement": "21 to 30 at the start of the internship (it must start before the 31st birthday)",
+    "eligibility": [
+      "Enrolled in an undergraduate or graduate degree programme at a bona fide institution at the time of application, or a recent graduate (qualifications must be from a WHED-listed institution)",
+      "Specialise in a field relevant to the mission and work of FAO",
+      "Working knowledge of at least one FAO language (Arabic, Chinese, English, French, Russian or Spanish); a second is an asset",
+      "National of an FAO Member",
+      "Aged between 21 and 30 at the start of the internship (it must start before the 31st birthday)",
+      "Able to adapt to an international multicultural environment, good communication skills",
+      "Not previously an FAO intern; no mother, father, sister or brother employed by FAO",
+      "Appropriate residence or immigration status in the proposed country of assignment before joining"
+    ],
+    "funding_details": [
+      "'FAO provides a monthly stipend to interns if they are not sponsored by sending universities or other entities.' (vacancy). The Internship FAQ: 'Interns will receive a stipend in local currency and not exceeding US$ 700 per month'; sponsored interns are paid by their sponsor",
+      "Accommodation: 'Interns (or their sponsoring institutions as case may be) are responsible for their own accommodation at the duty station' (FAQ)",
+      "Insurance: service-incurred medical coverage is provided with FAO paying the full premium; interns arrange and pay their own insurance for non-service-incurred illness (FAQ)",
+      "'FAO does not charge any fee at any stage of the recruitment process' (vacancy)",
+      "Travel to the duty station and visa costs are not mentioned"
+    ],
+    "coverage": {
+      "tuition": "Not applicable",
+      "stipend": "Covered",
+      "flight": "Not specified",
+      "accommodation": "Not covered",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Partially covered",
+      "local_transport": "Not specified"
+    },
+    "stipend": "Monthly stipend in local currency, not exceeding USD 700, for interns not sponsored by a university or other entity (sponsored interns are paid by their sponsor)",
+    "potential_issues": [
+      "'Recent graduate' is not defined; a 2024 graduate may fall outside FAO's usage",
+      "Stipend capped at USD 700 a month (paid in local currency); accommodation at the duty station is the intern's own responsibility and travel is not mentioned",
+      "Interns pay their own insurance for non-service-incurred illness",
+      "Interns need residence or immigration status in the country of assignment before joining",
+      "Expression-of-interest pool: applying does not guarantee an assignment",
+      "The vacancy page (jobs.fao.org, job 2601980) could not be read on 21 November 2026 (no response to the plain reader, blank fields for WebFetch): the 31 December 2026 closing date was confirmed that day only by an aggregator. Check the closing date on the FAO career portal before applying."
+    ],
+    "upfront_cost_risk": "Medium: accommodation at the duty station and non-service medical insurance are at the intern's expense, and travel to the duty station is not mentioned as paid",
+    "sources": [
+      {
+        "label": "FAO vacancy 2601980: Call for Expression of Interest - Internship Programme for Africa (RAF)",
+        "url": "https://jobs.fao.org/careersection/fao_external/jobdetail.ftl?lang=en&job=2601980",
+        "type": "Official"
+      },
+      {
+        "label": "FAO: Membership of FAO",
+        "url": "https://www.fao.org/legal/home/Membership-of-FAO/en",
+        "type": "Official"
+      },
+      {
+        "label": "FAO Employment: Internship Programme (eligibility, duration)",
+        "url": "https://www.fao.org/employment/young-talent-programme/internship-programme/en",
+        "type": "Official"
+      },
+      {
+        "label": "FAO Employment: Internship Programme FAQs (stipend, accommodation, insurance, assignment country)",
+        "url": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en",
+        "type": "Official"
+      },
+      {
+        "label": "Global South Opportunities listing (lead)",
+        "url": "https://www.globalsouthopportunities.com/2026/10/19/internship-70/",
+        "type": "Aggregator"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "The vacancy text was extracted from the FAO Taleo page's embedded data; the portal's hidden time-zone field is Europe/Rome, so 31 Dec 2026 23:59 is taken as CET (22:59 UTC). The aggregator shows '1 January 2027 at 12:59 AM', consistent with a one-hour time-zone shift. 19 November 2026 (evidence backlog, scout A): the vacancy was re-read from the page's embedded data (posting 21/Sep/2026, closing '31/Dec/2026, 11:59:00 PM', time zone field Europe/Rome, duration 'From 3 months to 11 months', minimum requirements and additional information unchanged) and every tracked field compared. The visible page still shows blank fields to plain readers, so the evidence quotes come from FAO's own Internship Programme page and FAQ, which also give the stipend cap (USD 700 a month, local currency), state that accommodation is the intern's responsibility, split medical insurance, and fix the age limit at the start of the internship. program_dates, age_requirement, coverage (accommodation Not covered, insurance Partially covered) and the funding details were updated.",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "Nationals of FAO Members.",
+          "applicant": "Citizen of the Democratic Republic of the Congo, which is on FAO's membership list (see the next entry).",
+          "assessment": "MET",
+          "quote": "candidates must be nationals of FAO Members",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+        },
+        {
+          "criterion": "nationality",
+          "requirement": "The Democratic Republic of the Congo is listed as an FAO Member.",
+          "applicant": "Citizen of the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "Democratic Republic of the Congo",
+          "page": "https://www.fao.org/legal/home/Membership-of-FAO/en"
+        },
+        {
+          "criterion": "age",
+          "requirement": "Aged between 21 and 30 at the start of the internship (it must start before the 31st birthday).",
+          "applicant": "Recorded only as under 30.",
+          "assessment": "UNKNOWN",
+          "missing": "Exact age, to confirm the 21-year minimum at the start of the internship.",
+          "quote": "candidates should be aged between 21 and 30 at the start of their internship (i.e. internship should start before the candidate turns 31)",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+        },
+        {
+          "criterion": "education",
+          "requirement": "Enrolled in an undergraduate or graduate degree programme at the time of application, or a recent graduate.",
+          "applicant": "Bachelor's degree (Licence) in Business Administration obtained in 2024; not recorded as enrolled.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether a 2024 graduate counts as a 'recent graduate' (FAO does not define it), and whether the university is listed in the World Higher Education Database.",
+          "quote": "candidates must be students enrolled in an under-graduate or graduate degree programme in a bona fide educational institution at the time of application, or recent graduates",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+        },
+        {
+          "criterion": "discipline",
+          "requirement": "Specialisation in a field relevant to FAO's work.",
+          "applicant": "Business Administration degree; experience in logistics, public-sector research and vaccination-campaign monitoring.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the hiring office counts Business Administration as relevant to its Terms of Reference.",
+          "quote": "the Programme provides FAO with the assistance of qualified individuals specializing in relevant fields",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+        },
+        {
+          "criterion": "language",
+          "requirement": "Working knowledge of at least one FAO official language (English, French, Spanish, Arabic, Chinese or Russian).",
+          "applicant": "French and English are among the recorded languages.",
+          "assessment": "MET",
+          "quote": "candidates must have working knowledge of at least one FAO official language (English, French, Spanish, Arabic, Chinese or Russian)",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+        },
+        {
+          "criterion": "residence",
+          "requirement": "Appropriate residence or immigration status in the country of assignment before the internship starts.",
+          "applicant": "Resident of the Democratic Republic of the Congo.",
+          "assessment": "UNKNOWN",
+          "missing": "The country of assignment (an assignment in the DRC would meet it; elsewhere a permit or visa is needed).",
+          "quote": "candidates should have appropriate residence or immigration status in the country of assignment prior to the start of the internship assignment",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/en"
+        }
+      ],
+      "funding": [
+        {
+          "item": "daily_allowance",
+          "arrangement": "Covered through an allowance",
+          "amount": "up to 700 per month",
+          "currency": "USD",
+          "conditions": "Paid in local currency to interns not sponsored by a university or other entity; sponsored interns are paid by their sponsor.",
+          "quote": "Interns will receive a stipend in local currency and not exceeding US$ 700 per month.",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+        },
+        {
+          "item": "accommodation",
+          "arrangement": "Not covered",
+          "amount": "",
+          "currency": "",
+          "conditions": "The intern (or the sponsoring institution) arranges and pays for accommodation at the duty station.",
+          "quote": "Interns (or their sponsoring institutions as case may be) are responsible for their own accommodation at the duty station.",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+        },
+        {
+          "item": "insurance",
+          "arrangement": "Partially covered",
+          "amount": "",
+          "currency": "",
+          "conditions": "FAO pays the full premium for service-incurred medical coverage; interns arrange and pay their own insurance for non-service-incurred illness.",
+          "quote": "medical coverage related to service-incurred is provided, with FAO paying the full premium",
+          "page": "https://www.fao.org/employment/young-talent-programme/internship-programme/faqs/en"
+        }
+      ],
+      "out_of_pocket": "Unknown: accommodation at the duty station and insurance for non-service-incurred illness are at the intern's expense (amounts not stated); travel to the duty station is not mentioned."
+    },
+    "verification": "PARTIALLY VERIFIED"
+  },
+  {
+    "id": "rlc-east-africa",
+    "program_dates": "4-week residential programme at Kenyatta University, Nairobi (blended and fully online cohorts are also offered); the next cohort's dates are not announced",
+    "deadline_text": "Admissions page (read 19 November 2026), section 'Upcoming Cohorts' headed '2025 Program Schedule': 'New cohort dates will be announced soon. Stay tuned!' No open cohort or deadline is shown. The FAQ adds that applications not submitted by the indicated deadline for the cohort are not considered.",
+    "funding_type": "Funding Unclear",
+    "funding_details": [
+      "The only cost list is in the FAQ, written for the former YALI Regional Leadership Center East Africa programme (it still sends applicants to www.yalieastafrica.org): FAQ: 'If you are selected to participate in the Regional Leadership Center East Africa program, all of the following expenses will be covered by the program': visa to Kenya (if required); round-trip travel from the country of citizenship to Nairobi; airport transfers for non-Kenyan participants; the academic and leadership course; an accident and sickness benefit plan; housing and meals; a stipend for miscellaneous costs in Nairobi",
+      "FAQ (YALI-era): Travel to and from Kenya is covered only for participants residing in one of the 14 countries served",
+      "Admissions page: '100% Free Program' and 'No application fees, no program fees, no hidden costs.' This is about fees; it does not say that travel or living costs are paid.",
+      "Not covered (FAQ): incidental expenses such as entertainment and alcoholic beverages, and internet fees for the distance-learning part of the course",
+      "FAQ (YALI-era): Housing is usually a shared room in university hostels; most meals at campus cafeterias or restaurants",
+      "The home page calls the centre a legacy of YALI RLC EA and says USAID and other private partners 'provided financial support for YALI RLC EA' (past tense). Whether the next cohort's travel and living costs are paid is not stated on the current pages."
+    ],
+    "coverage": {
+      "tuition": "Not specified",
+      "stipend": "Not specified",
+      "flight": "Not specified",
+      "accommodation": "Not specified",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Not specified",
+      "local_transport": "Not specified"
+    },
+    "participation_fee": "None: FAQ 'There is no fee to apply to the Regional Leadership Center East Africa program.'; admissions page 'No application fees, no program fees, no hidden costs.'",
+    "stipend": "Unknown / Not specified (the YALI-era FAQ mentions a stipend for miscellaneous costs in Nairobi; not confirmed for the next cohort)",
+    "eligibility": [
+      "18 to 35 years (inclusive) for the duration of the 4-week programme (FAQ); the homepage says 18 to 35 at the time of application submission",
+      "Citizen and resident of one of 14 countries, including the Democratic Republic of the Congo",
+      "Not living outside the 14 coverage countries",
+      "Not a U.S. citizen or permanent resident",
+      "Eligible to receive any necessary visa to Kenya",
+      "Proficient in reading, writing and speaking English (the admissions page accepts an intermediate level for francophone applicants)",
+      "Merit-based open competition: panel review, interview of semi-finalists, final selection"
+    ],
+    "nationality_requirements": [
+      "Citizens and residents of Burundi, Central African Republic, Republic of the Congo, Democratic Republic of the Congo, Djibouti, Eritrea, Ethiopia, Kenya, Rwanda, Somalia, South Sudan, Sudan, Tanzania or Uganda (FAQ and homepage)"
+    ],
+    "age_requirement": "18 to 35 (inclusive) for the duration of the 4-week programme (FAQ)",
+    "language_requirement": "English: reading, writing and speaking proficiency; English is the only language of instruction. The admissions page says an intermediate level is accepted for francophone applicants.",
+    "application_process": [
+      "Apply online through the RLC application portal (the FAQ says applications by email or other means are not considered)",
+      "Selection panel review, interview of semi-finalists, final selection and invitation"
+    ],
+    "verification": "PARTIALLY VERIFIED",
+    "source_confidence": "HIGH",
+    "sources": [
+      {
+        "label": "Regional Leadership Center East Africa (home page: countries served, who should apply)",
+        "url": "https://www.rlceastafrica.org/",
+        "type": "Official"
+      },
+      {
+        "label": "Admissions page (no cohort open; free programme)",
+        "url": "https://www.rlceastafrica.org/public/admissions.php",
+        "type": "Official"
+      },
+      {
+        "label": "FAQs (eligibility, costs covered, fee, language)",
+        "url": "https://www.rlceastafrica.org/public/faqs.php",
+        "type": "Official"
+      }
+    ],
+    "source_url": "https://www.rlceastafrica.org/public/faqs.php",
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "The FAQ names the Democratic Republic of the Congo among the 14 countries whose citizens and residents may apply, and there is no fee. The age range is 18 to 35 for the whole programme (the profile records only 'under 30') and applicants must be able to obtain any visa Kenya requires (passport not recorded).",
+    "potential_issues": [
+      "No cohort is open: the admissions page says 'New cohort dates will be announced soon. Stay tuned!'",
+      "The list of covered costs is in the FAQ, which still names the old YALI application site (www.yalieastafrica.org); confirm the cost cover when the next cohort opens",
+      "English is the only language of instruction",
+      "Shared hostel rooms on campus during the residential phase",
+      "Internet costs for the distance-learning part are not covered",
+      "The cost list (travel, housing, meals, visa, insurance, stipend) is from the FAQ written for the USAID-funded YALI centre; the current admissions page promises only 'No application fees, no program fees, no hidden costs'",
+      "The admissions page's 'Eligibility Criteria' also list 'Demonstrated leadership and community impact initiatives' and availability for the full 4-week intensive programme, and the FAQ's selection criteria include 'professional experience in the sector/track selected'; the profile does not record whether these are met."
+    ],
+    "benefits": [
+      "Per the FAQ written for the former YALI programme: travel to Nairobi, visa, airport transfers, housing, meals, insurance and a stipend for selected participants (not confirmed for the next cohort)",
+      "4-week leadership training in one of three tracks: Business and Entrepreneurship, Civic Leadership, Public Management",
+      "Regional network across 14 East and Central African countries"
+    ],
+    "relevance": {
+      "academic": "Low",
+      "career": "Medium",
+      "travel": "High",
+      "networking": "High",
+      "funding": "Medium",
+      "accessibility": "High",
+      "profile_fit": "High"
+    },
+    "relevance_reason": "One of the few leadership programmes that names the DRC explicitly, charges no fee and has no work-experience bar; the Public Management and Business tracks suit the profile. Whether the next cohort's travel and living costs are paid is not confirmed, and no cohort is open now.",
+    "visa": {
+      "required": "Entry authorisation for Kenya if required (FAQ: 'Visa to Kenya (if required)')",
+      "support": "The FAQ written for the former YALI programme lists the visa among covered costs; not confirmed for the next cohort"
+    },
+    "upfront_cost_risk": "Unknown / Not specified",
+    "action": "Check the admissions page every month; when a cohort is announced, apply through the RLC portal before its deadline and confirm that cohort's cost cover.",
+    "last_verified": "2026-11-19",
+    "notes": "19 November 2026 (scout B): home page, admissions page and FAQ read. 21 November 2026: the judge RETURNED the raise to 'Fully Funded' because the FAQ cost list was written for the former USAID-funded YALI centre; on the one further pass the orchestrator kept funding_type 'Funding Unclear', set coverage back to 'Not specified', marked the FAQ cost lines as YALI-era (arrangement Unknown) and made the English criterion UNKNOWN, as the judge's correction says.",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "Citizen and resident of one of 14 East and Central African countries; the list names the Democratic Republic of the Congo.",
+          "applicant": "Citizen of the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "Are citizens and residents of one of the following countries: Burundi, Central African Republic, Republic of the Congo, Democratic Republic of the Congo",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "criterion": "residence",
+          "requirement": "Must not be living outside the 14 coverage countries.",
+          "applicant": "Resident in the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "Are not living outside of the 14 coverage countries listed above.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "criterion": "age",
+          "requirement": "18 to 35 years inclusive for the whole 4-week programme.",
+          "applicant": "Recorded only as under 30; exact age not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Exact age: 'under 30' is inside the upper limit of 35, but the profile does not record the exact age, so the lower limit of 18 is not formally confirmed.",
+          "quote": "Are 18 to 35 years (inclusive) for the duration of the 4 week program.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Not a U.S. citizen or permanent resident of the U.S.",
+          "applicant": "Nationality and residence recorded as the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "Are not U.S. citizens or permanent residents of the U.S.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "criterion": "passport",
+          "requirement": "Must be eligible to receive any visa needed to enter Kenya.",
+          "applicant": "Passport not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant holds a valid passport and can obtain any entry authorisation Kenya requires.",
+          "quote": "Are eligible to receive any necessary visa to Kenya.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "criterion": "language",
+          "requirement": "Proficiency in reading, writing and speaking English; all instruction is in English.",
+          "applicant": "English is among the profile's languages; no test score or level is recorded.",
+          "assessment": "UNKNOWN",
+          "quote": "Are proficient in reading, writing, and speaking English.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php",
+          "missing": "The applicant's level of English (reading, writing and speaking): not recorded in the profile."
+        }
+      ],
+      "funding": [
+        {
+          "item": "tuition",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. The course is listed among the expenses covered for selected participants; the admissions page adds 'No application fees, no program fees, no hidden costs.'",
+          "quote": "Customized academic and leadership course.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "item": "airfare",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Round trip from the country of citizenship to Nairobi, only for participants residing in one of the 14 countries served.",
+          "quote": "Round-trip travel from your country of citizenship",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "item": "airport_transfers",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Between Jomo Kenyatta International Airport and the centre, for all non-Kenyan participants.",
+          "quote": "Transportation to/from Jomo Kenyatta International Airport to/from the Regional Leadership Center East Africa for all non-Kenyan participants.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "item": "visa_fees",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Kenyan visa, if one is required.",
+          "quote": "Visa to Kenya (if required).",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "item": "insurance",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Accident and sickness benefit plan.",
+          "quote": "Accident and sickness benefit plan.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "item": "accommodation",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Usually a shared room and washroom in university hostels; Nairobi residents must also stay in the hostels.",
+          "quote": "Housing and meals.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "item": "meals",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Most meals at campus cafeterias or restaurants; participants may cook some meals themselves.",
+          "quote": "Most meals will be provided at campus cafeterias or restaurants",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "item": "daily_allowance",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Stipend for miscellaneous costs while in Nairobi; amount not stated.",
+          "quote": "Stipend to cover miscellaneous costs when in Nairobi.",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        },
+        {
+          "item": "other_support",
+          "arrangement": "Not covered",
+          "amount": "",
+          "currency": "",
+          "conditions": "Listed in the FAQ written for the former YALI programme (the FAQ still names www.yalieastafrica.org); not confirmed for the next cohort. Incidental expenses (entertainment, alcoholic beverages) and internet fees for the distance-learning portion are not covered.",
+          "quote": "incidental expenses such as entertainment, alcoholic beverages, and internet fees",
+          "page": "https://www.rlceastafrica.org/public/faqs.php"
+        }
+      ],
+      "out_of_pocket": "Unknown: the only cost list is in the FAQ written for the former YALI programme; the current admissions page says only that there are no application or programme fees. Under that FAQ, incidental expenses and internet fees for the distance-learning portion were the participant's.",
+      "cycles": [
+        {
+          "cycle": "next cohort",
+          "state": "NOT YET ANNOUNCED",
+          "quote": "New cohort dates will be announced soon. Stay tuned!",
+          "page": "https://www.rlceastafrica.org/public/admissions.php"
+        }
+      ]
+    }
+  },
+  {
+    "id": "yali-network-online-courses",
+    "title": "YALI Network Online Courses (free, self-paced, with certificates)",
+    "organization": "Young African Leaders Initiative (YALI) Network, U.S. Department of State",
+    "overview": "Free self-paced online courses from the U.S. Department of State's YALI Network, in English, French and Portuguese, with video, audio and text transcripts and a YALI Network certificate. Topics include leadership, business and entrepreneurship, civic leadership and public management.",
+    "category": [
+      "Training"
+    ],
+    "subcategory": [
+      "Online course",
+      "Certificate",
+      "Leadership"
+    ],
+    "education_levels": [
+      "Open to all"
+    ],
+    "country": "Online",
+    "city": "Online",
+    "region": "Global",
+    "continent": "Global",
+    "location_type": "Remote",
+    "delivery_mode": "Online",
+    "program_dates": "Self-paced; no session dates",
+    "application_deadline": "",
+    "deadline_utc": "",
+    "deadline_text": "No deadline: the courses page (read 19 November 2026) says 'Take online courses at your own pace and earn completion certificates'. No enrolment period is stated.",
+    "deadline_timezone": "Not applicable",
+    "opens_on": "",
+    "open_now": true,
+    "rolling": false,
+    "recurring": false,
+    "expected_next_cycle": "",
+    "last_cycle_deadline": "",
+    "funding_type": "Participation Funded",
+    "funding_details": [
+      "YALI Network page: section headed 'Free Online Courses and Videos'; members have access to 'over 25 Online Courses and Video Vignette Series'",
+      "The Online Courses include discussion guides, quizzes 'and an opportunity to earn a YALI Network Certificate'"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Not applicable",
+      "flight": "Not applicable",
+      "accommodation": "Not applicable",
+      "meals": "Not applicable",
+      "visa": "Not applicable",
+      "insurance": "Not applicable",
+      "local_transport": "Not applicable"
+    },
+    "participation_fee": "None: the YALI Network page presents them as 'Free Online Courses and Videos'",
+    "stipend": "Not applicable",
+    "eligibility": [
+      "No admission requirement is stated on the courses page",
+      "The YALI Network describes its members as current and future young leaders of sub-Saharan Africa; joining is through a sign-up form linked on the site (membership conditions not published on the pages read)",
+      "Courses are offered in English, French and Portuguese"
+    ],
+    "nationality_requirements": [
+      "No nationality rule stated; the YALI Network describes its members as 'current and future young leaders of sub-Saharan Africa' without a country list"
+    ],
+    "age_requirement": "Unknown / Not specified",
+    "education_requirement": "Unknown / Not specified",
+    "experience_requirement": "Unknown / Not specified",
+    "language_requirement": "Courses offered in English, French and Portuguese",
+    "other_requirements": [],
+    "documents_required": [],
+    "application_process": [
+      "Open a course on the YALI Network Online Courses page and work through it at your own pace (video, audio or text transcript)",
+      "The courses include quizzes and an opportunity to earn a YALI Network Certificate; YALI Network membership is through the 'Join the Network' sign-up form"
+    ],
+    "official_application_url": "https://yali.state.gov/courses/",
+    "official_information_url": "https://yali.state.gov/courses/",
+    "source_url": "https://yali.state.gov/courses/",
+    "source_type": "Official",
+    "source_confidence": "HIGH",
+    "verification": "PARTIALLY VERIFIED",
+    "sources": [
+      {
+        "label": "YALI Network Online Courses (course list, certificates, languages)",
+        "url": "https://yali.state.gov/courses/",
+        "type": "Official"
+      },
+      {
+        "label": "The YALI Network (free online courses, certificate)",
+        "url": "https://yali.state.gov/network/",
+        "type": "Official"
+      },
+      {
+        "label": "Young African Leaders Initiative home page (YALI Network description)",
+        "url": "https://yali.state.gov/",
+        "type": "Official"
+      },
+      {
+        "label": "Course page: Organizational Development for Volunteer-Based Initiatives (loads with JavaScript)",
+        "url": "https://yali.state.gov/courses/course-5361/",
+        "type": "Official"
+      },
+      {
+        "label": "Course page: Mental Health and Wellness (loads with JavaScript)",
+        "url": "https://yali.state.gov/courses/course-5417/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "The courses are free and offered in French and English, both recorded languages, and no admission rule is stated. The YALI Network describes its members as young leaders of sub-Saharan Africa but publishes no country list, so the DRC is not named either way.",
+    "potential_issues": [
+      "YALI Network certificates are completion certificates, not accredited qualifications",
+      "YALI Network membership conditions are not published on the pages read",
+      "Individual course pages load only with JavaScript"
+    ],
+    "benefits": [
+      "Free YALI Network certificate on completion",
+      "Courses in French, English and Portuguese with video, audio and transcripts",
+      "Topics close to the profile: Strengthening Public Sector Service, Basics of Public-Private Partnerships, Management Strategies for People and Resources, Fundamentals of Grant Writing"
+    ],
+    "relevance": {
+      "academic": "Low",
+      "career": "Medium",
+      "travel": "Low",
+      "networking": "Medium",
+      "funding": "Medium",
+      "accessibility": "Very High",
+      "profile_fit": "Medium"
+    },
+    "relevance_reason": "Free, self-paced certificates in French or English on public management, partnerships, people management and grant writing, which fit the profile's target roles; they weigh less than a degree or fellowship but help close skill gaps.",
+    "visa": {
+      "required": "No",
+      "support": "Not applicable (online)"
+    },
+    "upfront_cost_risk": "Low",
+    "action": "Open the YALI Network Online Courses page and start with Strengthening Public Sector Service, Basics of Public-Private Partnerships or Management Strategies for People and Resources; complete the quizzes for the certificate.",
+    "last_verified": "2026-11-19",
+    "date_discovered": "2026-11-19",
+    "notes": "19 November 2026 (scout B): one umbrella record for all YALI Network online courses, promoted from the course leads 'Organizational Development for Volunteer-Based Initiatives' (course-5361) and 'Mental Health and Wellness' (course-5417) of the yali-state-gov registry source, so later course titles from that source can be matched to it. Course detail pages are JavaScript-only (repo reader: 'Just a moment, loading...'; WebFetch: HTTP 403; Chrome showed only the course title and lecturer); the courses landing page, the network page and the home page are readable by the repo reader.",
+    "match_keywords": [
+      "yali network online course",
+      "yali online course",
+      "yali network certificate",
+      "organizational development for volunteer-based initiatives",
+      "in this five-part course on mental health and wellness"
+    ],
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "No nationality rule is stated for the courses; the YALI Network describes its members as young leaders of sub-Saharan Africa, without a country list.",
+          "applicant": "Citizen of the Democratic Republic of the Congo.",
+          "assessment": "UNKNOWN",
+          "missing": "A country list or a statement of who may join the YALI Network or take the courses; the pages name no country.",
+          "quote": "the YALI Network consists of over 600,000 current and future young leaders of sub-Saharan Africa",
+          "page": "https://yali.state.gov/"
+        },
+        {
+          "criterion": "language",
+          "requirement": "Courses are offered in English, French and Portuguese.",
+          "applicant": "French and English are among the recorded languages.",
+          "assessment": "MET",
+          "quote": "YALI Network Online Courses are currently offered in English, French, and Portuguese",
+          "page": "https://yali.state.gov/courses/"
+        }
+      ],
+      "funding": [
+        {
+          "item": "tuition",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "The courses and videos are free; the YALI Network bears the cost.",
+          "quote": "Free Online Courses and Videos",
+          "page": "https://yali.state.gov/network/"
+        },
+        {
+          "item": "other_support",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Completion certificate (YALI Network Certificate) at no charge stated.",
+          "quote": "an opportunity to earn a YALI Network Certificate",
+          "page": "https://yali.state.gov/network/"
+        }
+      ],
+      "out_of_pocket": "None stated; internet access is the learner's own cost."
+    }
+  },
+  {
+    "id": "yenching-academy-2027",
+    "funding_details": [
+      "Admissions page: 'The Yenching Academy provides a generous fellowship to all scholars, including: Tuition fees, Accommodation, Monthly stipend, One round-trip travel fare, Field study costs'",
+      "FAQ: the first-year Yenching Fellowship covers tuition, accommodation in the Yenching Academy House, a travel stipend for one round trip between a base city in the country of nationality and Beijing (estimated and calculated by the Academy), basic medical insurance, a monthly stipend and research expenses",
+      "Second year: students in good academic standing who stay in Beijing can apply for the second-year fellowship (tuition, accommodation support, basic medical insurance and a monthly stipend)"
+    ],
+    "coverage": {
+      "tuition": "Covered",
+      "stipend": "Covered",
+      "flight": "Covered",
+      "accommodation": "Covered",
+      "meals": "Not specified",
+      "visa": "Not specified",
+      "insurance": "Covered",
+      "local_transport": "Not specified"
+    },
+    "eligibility": [
+      "International candidates: non-Chinese citizens with a valid passport (no other nationality restriction is stated)",
+      "A bachelor's degree in any field, or a bachelor's diploma expected by August of the enrolment year; no concurrent enrolment in another degree programme",
+      "An outstanding academic record, strong interest in interdisciplinary study of China, and a record of extracurricular achievement, community engagement, social responsibility and leadership potential",
+      "English: IELTS Academic 7.0, TOEFL iBT overall 5 (scores of 100 or above obtained between 1 September 2025 and 21 January 2026 also accepted) or Cambridge English Scale (Advanced) 185, taken after 1 September 2025 and sent directly by the test body; not required for native English speakers or graduates of an English-taught degree",
+      "Two academic recommendation letters from full or associate professors in the intended field of study",
+      "Students and alumni of partner universities must first go through their home university's internal pre-selection"
+    ],
+    "nationality_requirements": [
+      "International candidates must be non-Chinese citizens with a valid passport; no other nationality restriction is stated, so DRC citizens are not excluded"
+    ],
+    "age_requirement": "No strict age cut-off (FAQ). Excluding Zhuoyue Scholarship recipients, no person over the age of 29 has been admitted; the average entry age is 23",
+    "documents_required": [
+      "Completed online application form",
+      "Personal statement (750 words or less)",
+      "Statement of Research Interest (maximum 1,500 words, excluding citations)",
+      "Curriculum Vitae",
+      "Official transcript(s)",
+      "Diploma(s) or Certificate(s) of Enrollment",
+      "Two academic letters of recommendation (Chinese or English) from full or associate professors in the intended field",
+      "English test score sent directly by the test body, unless exempt"
+    ],
+    "application_process": [
+      "Create an account on the Yenching Academy admissions portal and submit the application in English before 30 November 2026, 9:00 am Beijing time",
+      "Have IELTS, TOEFL or Cambridge scores sent directly to the Academy (TOEFL institution code C488)",
+      "Students and alumni of partner universities first go through their home university's internal pre-selection",
+      "International finalists are interviewed online in winter or early spring; final decisions are released around April"
+    ],
+    "sources": [
+      {
+        "label": "Yenching Academy admissions",
+        "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm",
+        "type": "Official"
+      },
+      {
+        "label": "Yenching Academy FAQ (age, fellowship coverage, programme length, selection timeline)",
+        "url": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm",
+        "type": "Official"
+      }
+    ],
+    "eligibility_for_me": "POSSIBLY ELIGIBLE",
+    "eligibility_reason": "DRC citizens are not excluded (international candidates must only be non-Chinese citizens with a valid passport) and a bachelor's degree in any field qualifies. No English test score is recorded and the degree is not recorded as English-taught, so an IELTS 7.0, TOEFL overall 5 or Cambridge 185 result would have to reach the Academy before 30 November 2026; the passport, degree grade and two professorial referees are not recorded either.",
+    "potential_issues": [
+      "English test score must reach the Academy directly from the test provider before 30 November 2026; TOEFL Home Edition, TOEFL MyBest scores, IELTS Indicator, IELTS Online and IELTS One Skill Retake are not accepted",
+      "Referees must be full or associate professors in the intended field of study",
+      "No strict age cut-off, but the FAQ says no person over 29 has been admitted (Zhuoyue Scholarship recipients excepted); the average entry age is 23",
+      "The fellowship is initially for twelve months; the second-year fellowship must be applied for and requires good academic standing and staying in Beijing",
+      "Chinese language course is compulsory for international scholars",
+      "No application fee is mentioned on the pages read"
+    ],
+    "action": "Apply only if you already hold, or can have sent directly to the Academy before 30 November 2026 (9:00 Beijing time), an IELTS 7.0, TOEFL overall 5 or Cambridge 185 result (or your degree was taught in English), and two full or associate professors in your field can recommend you. Otherwise skip this round.",
+    "last_verified": "2026-11-19",
+    "notes": "9 November 2026: admissions page re-read; deadline (30 November 2026, 9:00 Beijing time) and fellowship unchanged. The TOEFL requirement is now 'Overall 5' on the new scale, and the page adds the Cambridge English Scale (185) and a valid passport for international candidates. 19 November 2026 (source_changed flag): admissions page and FAQ re-read and every tracked field compared. International deadline (30 November 2026, 9:00 am Beijing time), opening (1 September 2026), English scores and fellowship items unchanged; the page also gives the Hong Kong, Macao and Taiwan deadline (8 January 2027, 12:00 noon Beijing time), which does not apply to DRC applicants. The FAQ adds basic medical insurance to the first-year fellowship (coverage.insurance now Covered), says fellowships are initially for twelve months with a second-year fellowship by application, and states there is no strict age cut-off (nobody over 29 admitted, Zhuoyue Scholarship recipients excepted). The portal deep link still answers but is a JavaScript application; the admissions page links the portal root https://apply.yca.pku.edu.cn/.",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "International candidates must be non-Chinese citizens; no other nationality is excluded, so a DRC citizen is not excluded.",
+          "applicant": "Citizen of the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "Applicants must be non-Chinese citizens with a valid passport.",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        },
+        {
+          "criterion": "passport",
+          "requirement": "A valid passport.",
+          "applicant": "Passport not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant holds a valid passport.",
+          "quote": "Applicants must be non-Chinese citizens with a valid passport.",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        },
+        {
+          "criterion": "education",
+          "requirement": "A bachelor's degree in any field (or a bachelor's diploma expected by August of the enrolment year).",
+          "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+          "assessment": "MET",
+          "quote": "Minimum of a Bachelor’s degree in any field",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        },
+        {
+          "criterion": "education",
+          "requirement": "An outstanding academic record.",
+          "applicant": "Degree grade not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "The grade of the 2024 degree.",
+          "quote": "An outstanding academic record;",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        },
+        {
+          "criterion": "enrolment",
+          "requirement": "No enrolment in another degree programme while studying at Peking University.",
+          "applicant": "Not recorded as enrolled in any degree programme.",
+          "assessment": "MET",
+          "quote": "Peking University does not allow students to be enrolled in other degree programs whilst studying at the university.",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        },
+        {
+          "criterion": "age",
+          "requirement": "No strict age cut-off (the FAQ adds that nobody over 29 has been admitted, Zhuoyue Scholarship recipients excepted).",
+          "applicant": "Recorded as under 30; there is no formal age limit to meet.",
+          "assessment": "MET",
+          "quote": "We do not have a strict age cut-off for applicants",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+        },
+        {
+          "criterion": "language_certificate",
+          "requirement": "IELTS Academic 7.0, TOEFL iBT overall 5 or Cambridge English Scale 185, taken after 1 September 2025 and sent directly by the test body; exempt if English is the native language or the degree was taught in English.",
+          "applicant": "No IELTS, TOEFL or DELF score recorded; the language of instruction of the degree is not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "An English test result at the required level sent before 30 November 2026, or proof of an English-taught degree.",
+          "quote": "IELTS (Academic): Overall 7.0",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Two recommendation letters written by full or associate professors in the intended field of study.",
+          "applicant": "Referees not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether two full or associate professors in the intended field can recommend the applicant.",
+          "quote": "Peking University will only accept recommendation letters written by full professors or associate professors (or equivalent titles).",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        }
+      ],
+      "funding": [
+        {
+          "item": "tuition",
+          "arrangement": "Paid directly by organiser",
+          "conditions": "First academic year through the Yenching Fellowship; the second-year fellowship must be applied for (good academic standing, staying in Beijing).",
+          "quote": "All admitted students receive the Yenching Fellowship for the first academic year, which covers tuition",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+        },
+        {
+          "item": "accommodation",
+          "arrangement": "Paid directly by organiser",
+          "conditions": "First year in the Yenching Academy House on campus; second-year housing support only with the second-year fellowship.",
+          "quote": "accommodation in the Yenching Academy House",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+        },
+        {
+          "item": "airfare",
+          "arrangement": "Covered through an allowance",
+          "conditions": "A travel stipend for one round trip; the base city must be in the country of nationality and the cost is estimated and calculated by the Academy.",
+          "quote": "a travel stipend for one round-trip journey between your base city and Beijing",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+        },
+        {
+          "item": "insurance",
+          "arrangement": "Paid directly by organiser",
+          "conditions": "Basic medical insurance, first year (and second year with the second-year fellowship).",
+          "quote": "basic medical insurance, a monthly stipend, and expenses related to research",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+        },
+        {
+          "item": "daily_allowance",
+          "arrangement": "Covered through an allowance",
+          "conditions": "Monthly stipend; the amount is not stated on the pages read.",
+          "quote": "basic medical insurance, a monthly stipend, and expenses related to research",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS/Frequently_Asked_Questions.htm"
+        },
+        {
+          "item": "other_support",
+          "arrangement": "Paid directly by organiser",
+          "conditions": "Research expenses and field study costs (a week-long field study trip is a required course).",
+          "quote": "Field study costs",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        }
+      ],
+      "out_of_pocket": "Unknown: the pages read give no amounts. Not covered on the pages read: an English test if one is needed, visa costs, and second-year costs if the second-year fellowship is not granted.",
+      "cycles": [
+        {
+          "cycle": "2027 cohort",
+          "state": "CONFIRMED CURRENT CYCLE",
+          "opens_on": "2026-09-01",
+          "deadline": "2026-11-30",
+          "quote": "Application deadline: November 30, 2026",
+          "page": "https://yenchingacademy.pku.edu.cn/ADMISSIONS.htm"
+        }
+      ]
+    }
+  },
+  {
+    "id": "jim-leech-mastercard-foundation-fellowship-2027",
+    "eligibility_reason": "The programme is for 'African students and recent graduates' of 'any post-secondary institution in Africa'; neither the page nor the FAQ publishes a country list, so the DRC is not named and its position is unknown under the Africa-alone rule. 'Recent graduate' is undefined (the profile's degree dates from 2024) and the programme asks for at least 10 hours a week for eight months; no business is needed, and English, required for assignments, is among the profile's languages.",
+    "application_process": [
+      "Apply online by 1 December 2026 (the Apply button on the official page opens a Queen's University Qualtrics form)",
+      "Results are announced in late December for the cohort starting in January (official FAQ)",
+      "Selection funnel: Explore (January-February), Ignite (March-April), Launch and Fellowship (May-August) for up to 60 Fellows"
+    ],
+    "sources": [
+      {
+        "label": "Queen's University: Jim Leech Mastercard Foundation Fellowship",
+        "url": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship",
+        "type": "Official"
+      },
+      {
+        "label": "Queen's University: African Entrepreneurship FAQ (free access, CAD 500 stipend, results in late December)",
+        "url": "https://www.queensu.ca/innovationcentre/african-entrepreneurship-faq-page",
+        "type": "Official"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "2 November 2026 (rerun, plain-curl read): label lowered from Fully Funded to Participation Funded because the organiser's page never says 'fully funded' and the stipend goes only to the final 60 Fellows; eligibility lowered from LIKELY to POSSIBLY ELIGIBLE because 'recent graduate' is undefined. 9 November 2026: page re-read; deadline (1 December 2026), funnel, stipend wording (CAD 500 and USD 350) unchanged. The page also says the programme offers downloadable content and language support for French-speaking learners. 19 November 2026 (scout D, evidence backlog): programme page and official FAQ re-read and every tracked field compared; nothing changed. The FAQ adds that accepted applicants get free access to the courses, coaches and micro-credentials, that the CAD 500 Launch-phase stipend is a seed fund for the venture, and that results come out in late December. The page still shows 'Sign up to be notified when applications launch!' next to the 'Apply By December 1, 2026' button; the button links to a Queen's Qualtrics application form, which was not opened.",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "African students and recent graduates. The page and the FAQ publish no country list and do not name the DRC.",
+          "applicant": "Citizen and resident of the Democratic Republic of the Congo.",
+          "assessment": "UNKNOWN",
+          "missing": "A country list or a sentence naming the DRC; the pages say only 'African' and 'in Africa'.",
+          "quote": "For African students and recent graduates who want to solve pressing problems and bring entrepreneurial ideas to life.",
+          "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+        },
+        {
+          "criterion": "education",
+          "requirement": "A current student or recent graduate of any post-secondary institution in Africa, in any discipline. 'Recent graduate' is not defined.",
+          "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024; not enrolled; the country of the awarding institution is not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "How recent a graduation must be (not defined on the page or in the FAQ), and the country of the institution that awarded the degree (not recorded).",
+          "quote": "We welcome students and recent graduates from all academic disciplines and any post-secondary institution in Africa.",
+          "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+        },
+        {
+          "criterion": "business",
+          "requirement": "No business is required: applicants may already be building a business or only exploring an idea.",
+          "applicant": "No registered business recorded.",
+          "assessment": "MET",
+          "quote": "Whether you’re already building a business or just exploring a new idea, this program will help you take the next step.",
+          "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+        },
+        {
+          "criterion": "language",
+          "requirement": "Content is delivered in English and assignments and pitches must be completed in English; no language certificate is asked for.",
+          "applicant": "Languages recorded: French, English, Swahili, Lingala.",
+          "assessment": "MET",
+          "quote": "Assignments and pitches must be completed in English",
+          "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+        },
+        {
+          "criterion": "other",
+          "requirement": "At least 10 hours per week over the 8-month cycle; assignment deadlines must be met to advance.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant can commit at least 10 hours a week for eight months (not recorded).",
+          "quote": "Willing to dedicate at least 10 hours per week to their entrepreneurial journey",
+          "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+        },
+        {
+          "criterion": "age",
+          "requirement": "No age limit is stated on the programme page or in the FAQ.",
+          "assessment": "NOT STATED"
+        }
+      ],
+      "funding": [
+        {
+          "item": "tuition",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Accepted applicants get the online courses, coaches and micro-credentials free of charge; no fee is mentioned.",
+          "quote": "Applicants accepted into the program will gain free access to comprehensive course content, seasoned program coaches, and the opportunity to earn badges and other microcredentials at each phase of their journey.",
+          "page": "https://www.queensu.ca/innovationcentre/african-entrepreneurship-faq-page"
+        },
+        {
+          "item": "daily_allowance",
+          "arrangement": "Partially covered",
+          "amount": "500",
+          "currency": "CAD",
+          "conditions": "Only for up to 60 Fellows selected for the final Launch phase (May-August); a one-off sum to use towards the venture (the FAQ calls it a seed fund). The Phase 3 text on the same page says 'a USD 350 stipend' instead.",
+          "quote": "Up to 60 Fellows will be selected in the final phase to receive a stipend of $500 CAD",
+          "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+        }
+      ],
+      "out_of_pocket": "Unknown: no fee is stated and course access is free for accepted applicants; internet and device costs are not stated.",
+      "cycles": [
+        {
+          "cycle": "2027 cohort",
+          "state": "CONFIRMED CURRENT CYCLE",
+          "opens_on": "",
+          "deadline": "2026-12-01",
+          "quote": "Apply By December 1, 2026",
+          "page": "https://www.queensu.ca/innovationcentre/programs/jim-leech-mastercard-foundation-fellowship-entrepreneurship"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tony-elumelu-entrepreneurship-programme-2027",
+    "deadline_text": "Official programme page (yearly rule, no 2027-specific announcement): 'Every year, the application portal for our flagship TEF Entrepreneurship Programme opens on the 1st of January till midnight on the 1st of March at Midnight, on our digital platform, www.TEFConnect.com.'",
+    "eligibility_reason": "The Foundation selects entrepreneurs across 'all 54 African countries', a complete set that includes the DRC, and accepts Africans aged 18 and above who reside in Africa; the profile records only an under-30 age band. Entry needs a business idea or a business under 5 years old, which the profile does not record, and the USD 5,000 seed capital is paid only after a business registration certificate, tax registration and a business bank account are submitted (the profile records no registered business).",
+    "other_requirements": [
+      "To apply: a valid government-issued ID showing date of birth and photo, and a high-resolution headshot, with details matching the TEFConnect account",
+      "Before the seed capital is paid: a Business Registration Certificate, evidence of tax registration in the business name and a bank reference letter for the business account"
+    ],
+    "potential_issues": [
+      "Requires a business idea or a business under 5 years old",
+      "Seed capital disbursed only after document review",
+      "To receive the seed capital the business must be registered, tax-registered and have a business bank account; the profile records no registered business",
+      "The official programme page still carries the 2025 title; the 1 January to 1 March window is a yearly rule and no 2027 announcement was found on the pages read"
+    ],
+    "sources": [
+      {
+        "label": "TEF Entrepreneurship Programme",
+        "url": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme",
+        "type": "Official"
+      },
+      {
+        "label": "The Tony Elumelu Foundation",
+        "url": "https://www.tonyelumelufoundation.org/",
+        "type": "Official"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "The official programme page still carries the 2025 title; the 1 January to 1 March window is stated as a yearly rule. 2 November 2026 (rerun): programme page re-read (window 1 January to 1 March on TEFConnect; seven phases: application, due diligence with World-Check screening and physical verification, shortlist, training, investment readiness, seed capital). Label lowered from Fully Funded to Partially Funded: the organiser describes training plus a USD 5,000 seed grant, never 'fully funded'. 19 November 2026 (scout D, evidence backlog): programme page and home page re-read and every tracked field compared; dates, funding and eligibility unchanged; deadline_text now quotes the page's exact sentence. Newly recorded: the seed capital phase requires a Business Registration Certificate, tax registration in the business name and a business bank reference letter; shortlisted applicants are notified on 22 March each year. No 2027-specific announcement on the pages read.",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "Africans; the Foundation says it selects entrepreneurs across all 54 African countries, a complete set that includes the DRC.",
+          "applicant": "Citizen of the Democratic Republic of the Congo, one of the 54 African countries.",
+          "assessment": "MET",
+          "quote": "TEF looks out for and selects entrepreneurs with the most innovative, high potential business ideas across all 54 African countries.",
+          "page": "https://www.tonyelumelufoundation.org/"
+        },
+        {
+          "criterion": "residence",
+          "requirement": "Applicants must reside in Africa and plan to establish their business in Africa.",
+          "applicant": "Resident of the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "Applications from Africans who reside in Africa and plan to establish their business in Africa.",
+          "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+        },
+        {
+          "criterion": "age",
+          "requirement": "18 years and above.",
+          "applicant": "Recorded only as under 30; exact age not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Exact age (the profile records only the under-30 band; the minimum is 18).",
+          "quote": "Applications from Africans who are 18 years and above.",
+          "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+        },
+        {
+          "criterion": "business",
+          "requirement": "A business idea or a business no older than 5 years to apply; a registered, tax-registered business with a business bank account before the seed capital is paid.",
+          "applicant": "No registered business recorded; whether there is a business idea is not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant has a business idea, and whether a business would be registered (with tax registration and a business bank account) by the seed capital phase.",
+          "quote": "Applications from applicants who either have a business idea or have a business no older than 5 years.",
+          "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Applicants must never have benefited from any earlier TEF programme.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant has benefited from an earlier TEF programme (not recorded).",
+          "quote": "Applications from applicants who have never benefitted from any of our previous programmes.",
+          "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+        },
+        {
+          "criterion": "education",
+          "requirement": "No degree requirement is stated.",
+          "assessment": "NOT STATED"
+        }
+      ],
+      "funding": [
+        {
+          "item": "training",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Selected participants get TEF's business management training, a mentor and coaching sessions; the pages read mention no fee.",
+          "quote": "Training Phase: access to TEF training, pairing with mentors, and coaching sessions",
+          "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+        },
+        {
+          "item": "other_support",
+          "arrangement": "Paid directly by organiser",
+          "amount": "5000",
+          "currency": "USD",
+          "conditions": "Non-refundable seed capital paid into the business bank account, only to participants who complete the training and investment-readiness phases and whose documents (business registration certificate, tax registration, bank reference letter) are endorsed.",
+          "quote": "Programme Participants whose documents are endorsed will be deemed eligible to receive their $5,000 non-refundable seed capital and will be notified.",
+          "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+        }
+      ],
+      "out_of_pocket": "Unknown: no fee is stated on the pages read; registering a business and opening a business bank account before the seed capital is paid may cost money (amounts not stated).",
+      "cycles": [
+        {
+          "cycle": "2027",
+          "state": "EXPECTED NEXT CYCLE",
+          "basis": "organiser states",
+          "window_text": "The organiser's yearly rule: the portal opens on 1 January and closes at midnight on 1 March, on TEFConnect. No 2027-specific announcement was found on the pages read.",
+          "quote": "Every year, the application portal for our flagship TEF Entrepreneurship Programme opens on the 1st of January till midnight on the 1st of March at Midnight",
+          "page": "https://www.tonyelumelufoundation.org/tef-entrepreneurship-programme"
+        }
+      ]
+    },
+    "verification": "PARTIALLY VERIFIED"
+  },
+  {
+    "id": "afs-youth-assembly-sir-cyril-taylor-young-african-leaders-2027",
+    "last_verified": "2026-11-19",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "From a Sub-Saharan African country. The page publishes no country list and does not name the DRC; the first two editions selected leaders from Uganda, Kenya, Nigeria, Mali, South Africa, Ghana, Malawi and Namibia.",
+          "applicant": "Citizen of the Democratic Republic of the Congo.",
+          "assessment": "UNKNOWN",
+          "missing": "A country list or a sentence naming the DRC. The page says only 'Sub-Saharan African country'.",
+          "quote": "Must be from a Sub-Saharan African country",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "criterion": "age",
+          "requirement": "Aged 18 to 35.",
+          "applicant": "Recorded as under 30 (exact age not recorded), with a bachelor's degree obtained in 2024, which places the applicant inside the 18 to 35 range.",
+          "assessment": "MET",
+          "quote": "18-35 years old",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "criterion": "passport",
+          "requirement": "An unexpired passport (the programme requires travel to Geneva in August 2027).",
+          "applicant": "Passport not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant holds a passport that is valid now and through August 2027.",
+          "quote": "Must have an unexpired passport",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "criterion": "language",
+          "requirement": "English at intermediate level.",
+          "applicant": "English is listed among the applicant's languages; no level and no test are recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "The applicant's English level.",
+          "quote": "Proficient in English (Intermediate Level)",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "criterion": "experience",
+          "requirement": "Demonstrable leadership qualities or a proven track record of leadership experience.",
+          "applicant": "Three short internships and field assignments, under one year in total; no leadership role recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "A leadership role or track record that the applicant can document.",
+          "quote": "Have demonstrable leadership qualities or proven track record of leadership experience",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Leading a social impact project related to the Sustainable Development Goals (preferred, not required).",
+          "applicant": "No social impact project recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant leads an SDG-related social impact project (the page marks it as preferred).",
+          "quote": "Leading a social impact project related to the sustainable development goals (preferred)",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Able to attend the Youth Assembly in Geneva, Switzerland, in person in August 2027.",
+          "applicant": "Availability and visa situation not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Availability in August 2027 and the ability to obtain a Swiss (Schengen) visa in time.",
+          "quote": "Be able to attend the Youth Assembly in Geneva, Switzerland in person, August 2027",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "criterion": "education",
+          "requirement": "No degree or study requirement is stated on the page.",
+          "assessment": "NOT STATED"
+        }
+      ],
+      "funding": [
+        {
+          "item": "tuition",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "There is no tuition as such: the scholarship covers the cost of every programme element (the virtual AFS Global Competence Certificate, the preparation workshops, the Youth Assembly and the 'Effect+ in the Community' workshop).",
+          "quote": "This is a 12-month fully funded scholarship that covers the costs of participating in all program elements listed below.",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "item": "airfare",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Travel to the AFS Youth Assembly in Geneva, August 2027. The page says travel 'will be covered' and does not say whether AFS books the tickets or reimburses them.",
+          "quote": "Travel and accommodation for the AFS Youth Assembly will be covered for the participants in this program.",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "item": "accommodation",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Accommodation for the AFS Youth Assembly in Geneva.",
+          "quote": "Travel and accommodation for the AFS Youth Assembly will be covered for the participants in this program.",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "item": "other_support",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Seed funding for a six-month impact project after the Assembly, with mentorship; the amount is not stated.",
+          "quote": "leaders will initiate their own impact projects utilizing seed funding provided",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "item": "meals",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Meals are not mentioned on the page."
+        },
+        {
+          "item": "visa_fees",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Visa fees are not mentioned; the page warns that visa processing can take several months."
+        },
+        {
+          "item": "insurance",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Travel or health insurance is not mentioned on the page."
+        }
+      ],
+      "out_of_pocket": "Unknown. The page gives no amounts and does not say whether visa fees, insurance or meals are covered.",
+      "cycles": [
+        {
+          "cycle": "2027 (third edition)",
+          "state": "CONFIRMED CURRENT CYCLE",
+          "opens_on": "",
+          "deadline": "2026-11-19",
+          "quote": "Application Deadline: November 19, 2026 23:59 UTC",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "cycle": "2025 (first edition)",
+          "state": "HISTORICAL CYCLE",
+          "opens_on": "",
+          "deadline": "",
+          "quote": "The program started in 2025.",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        },
+        {
+          "cycle": "second edition",
+          "state": "HISTORICAL CYCLE",
+          "opens_on": "",
+          "deadline": "",
+          "quote": "The second edition selected 10 leaders from Nigeria, Ghana, Kenya, Malawi, Uganda, South Africa, and Namibia.",
+          "page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
+        }
+      ]
+    },
+    "notes": "The AFS Youth Assembly page is dated 16 October 2026. 2 November 2026 (rerun): the programme page re-read with plain curl; text and deadline unchanged. 9 November 2026: page re-read; deadline unchanged. The page says the programme supports '10 young African leaders' (the earlier note that the number was not stated was wrong); the first two editions selected leaders from Uganda, Kenya, Nigeria, Mali, South Africa, Ghana, Malawi and Namibia. 19 November 2026 (deadline day): the programme page was re-read with the repository's plain reader and every tracked field compared (deadline 19 November 2026 23:59 UTC, eligibility list, 'fully funded' wording, travel and accommodation cover, Apply Now link to the same Google Form); nothing changed. Evidence block added. The page links an applicant FAQ hosted as a Google Doc, which does not render for a plain reader, so it was not used; no page read names the eligible countries.",
+    "potential_issues": [
+      "Only 10 leaders are selected; the second edition 'received almost 6,000 applications'",
+      "Applications are reviewed first come, first served: late applications may meet filled places",
+      "A leadership track record is required; the profile records internships and field assignments but no leadership role",
+      "A passport valid for the whole programme is required and is not recorded; visa processing 'can take several months', and visa fees and insurance are not stated as covered",
+      "The page names no countries, so DRC eligibility rests on the 'Sub-Saharan African country' wording",
+      "The application form (Google Forms, forms.gle) answers HTTP 401 (sign-in required) to a plain reader, so its questions and any documents could not be read",
+      "The page says travel and accommodation 'will be covered' but not whether AFS books them or reimburses them after purchase; ask AFS before paying for anything yourself"
+    ],
+    "action": "The 2027 call closed on 19 November 2026 at 23:59 UTC. Watch the AFS Youth Assembly site for the next edition's call (the 2027 call was posted on 16 October 2026), and have a valid passport and a documented leadership or community-impact record ready before it opens."
+  },
+  {
+    "id": "gtf-telemachus-mentoring-2027",
+    "coverage": {
+      "tuition": "Not applicable",
+      "stipend": "Not specified",
+      "flight": "Not applicable",
+      "accommodation": "Not applicable",
+      "meals": "Not applicable",
+      "visa": "Not applicable",
+      "insurance": "Not applicable",
+      "local_transport": "Not applicable"
+    },
+    "last_verified": "2026-11-19",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "Open worldwide: Telemachus is for youth 'from around the world'. No country list and no nationality restriction appear on the pages read.",
+          "applicant": "Citizen of the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "Telemachus benefits youth between 18-29 from around the world",
+          "page": "https://globalthinkersmentors.org/"
+        },
+        {
+          "criterion": "age",
+          "requirement": "Aged 18 to 29 (Telemachus). The page does not say on which date the age is counted.",
+          "applicant": "Recorded only as under 30; exact age not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Exact age, and the date the 18-29 limit is counted on (not stated).",
+          "quote": "if you are a young individual between 18-29",
+          "page": "https://globalthinkersmentors.org/"
+        },
+        {
+          "criterion": "education",
+          "requirement": "Priority (not a requirement) for applicants who have completed a Bachelor's degree, or who have at least five years of equally relevant professional experience.",
+          "applicant": "Bachelor's degree (Licence) in Business Administration, obtained in 2024.",
+          "assessment": "MET",
+          "quote": "who have completed a Bachelor’s degree or have equally-relevant professional experience of a minimum of 5 years will be prioritised",
+          "page": "https://globalthinkersmentors.org/"
+        },
+        {
+          "criterion": "language",
+          "requirement": "Priority (not a requirement) for a fluent command of English.",
+          "applicant": "English is listed among the applicant's languages; no level and no test are recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Whether the applicant's English is fluent.",
+          "quote": "Applicants with fluent command of English",
+          "page": "https://globalthinkersmentors.org/"
+        }
+      ],
+      "out_of_pocket": "Unknown. No fee is asked on the application form and no costs are stated; the mentoring is remote, so no travel is involved.",
+      "cycles": [
+        {
+          "cycle": "2027",
+          "state": "CONFIRMED CURRENT CYCLE",
+          "opens_on": "",
+          "deadline": "2026-11-23",
+          "quote": "Applications deadline: November 23, 2026",
+          "page": "https://globalthinkersmentors.org/mentees-application"
+        },
+        {
+          "cycle": "2026",
+          "state": "HISTORICAL CYCLE",
+          "opens_on": "",
+          "deadline": "",
+          "quote": "TELEMACHUS & ATHENA 2026",
+          "page": "https://globalthinkersmentors.org/"
+        }
+      ]
+    },
+    "notes": "Found as a feed lead (Opportunity Desk, 30 October 2026). The organiser's home page still carries the 2026 heading; the 2027 call and deadline are on the application page. 9 November 2026: the application page, the guidelines section of the home page and the embedded Google Form were read (the form opens without sign-in; nothing was submitted). The form lists the documents and asks for no payment, so deadline, eligibility and the absence of fees now come from official pages. 19 November 2026: the mentees application page, the home page (eligibility and guidelines) and the Google Form were re-read with the repository's plain reader (nothing was submitted) and every tracked field compared. Deadline 23 November 2026, eligibility (18-29 'from around the world'; Bachelor's degree and fluent English prioritised) and the absence of any payment request are unchanged. Coverage of travel items changed from 'Not specified' to 'Not applicable' because the mentoring is remote (the form asks whether the mentee can use email, instant messaging and video calls), following the field guidance for online programmes. Evidence block added."
+  },
+  {
+    "id": "ned-hurford-youth-fellows-2027",
+    "application_deadline": "2026-12-07",
+    "deadline_text": "'Deadlines: Applications: December 7, 2026. Recommendation Letters: December 11, 2026.' No time of day or time zone is given. When the page was read on 9 November 2026 it gave 30 November and 4 December 2026; the page does not mention an extension.",
+    "documents_required": [
+      "Online application with a project proposal",
+      "Recommendation letters, due 11 December 2026 (number not stated on the page)"
+    ],
+    "application_process": [
+      "Create an account on the NED Fellowships Online Application System and choose the Hurford Youth Fellowship; submit by 7 December 2026",
+      "Recommendation letters due 11 December 2026",
+      "Questions: fellowships@ned.org",
+      "AI: limited use for ideas, editing and translation is acceptable; copy-pasting AI-generated answers is prohibited"
+    ],
+    "action": "Apply by 7 December 2026 (the page now gives this date instead of 30 November) only if you have concrete experience in youth civic or democracy work and a project idea on a democratic challenge in the DRC; line up recommenders for 11 December 2026.",
+    "last_verified": "2026-11-19",
+    "evidence": {
+      "criteria": [
+        {
+          "criterion": "nationality",
+          "requirement": "Open worldwide: the call invites emerging youth leaders 'from around the world'. No country list and no nationality restriction appear on the page.",
+          "applicant": "Citizen of the Democratic Republic of the Congo.",
+          "assessment": "MET",
+          "quote": "invites emerging youth leaders from around the world to apply for the 2027 Hurford Youth Fellows Program",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "criterion": "age",
+          "requirement": "30 years of age or younger.",
+          "applicant": "Recorded as under 30.",
+          "assessment": "MET",
+          "quote": "Applicants must be 30 years of age or younger",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "criterion": "experience",
+          "requirement": "A demonstrated commitment to, and experience in, advancing youth participation in democracy; leaders affiliated with civic organisations, human rights groups and democracy initiatives are especially encouraged.",
+          "applicant": "Three short internships and field assignments (logistics operations, public-sector research and budget evaluation, vaccination-campaign monitoring); no civic or democracy work recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Documented experience in advancing youth participation in democracy.",
+          "quote": "demonstrate a commitment to—and experience in—advancing youth participation in democracy",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "criterion": "other",
+          "requirement": "Residence in Washington, DC for the four-month fellowship, 1 May to 31 August 2027 (up to three fellows).",
+          "applicant": "Availability and visa situation not recorded.",
+          "assessment": "UNKNOWN",
+          "missing": "Availability from May to August 2027 and the ability to obtain a United States visa.",
+          "quote": "Up to three (3) fellows will be selected for a four-month fellowship, from May 1 through August 31, 2027",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "criterion": "education",
+          "requirement": "No degree requirement is stated on the page.",
+          "assessment": "NOT STATED"
+        },
+        {
+          "criterion": "language",
+          "requirement": "No language requirement is stated; products may be created in English or another language.",
+          "assessment": "NOT STATED"
+        }
+      ],
+      "funding": [
+        {
+          "item": "daily_allowance",
+          "arrangement": "Covered through an allowance",
+          "amount": "",
+          "currency": "",
+          "conditions": "A monthly stipend for living expenses during the four months; the amount is not stated.",
+          "quote": "Each fellow receives a monthly stipend for living expenses, basic health insurance coverage, and roundtrip economy-class travel to and from Washington, D.C., at the beginning and end of the fellowship.",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "item": "airfare",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "One round trip in economy class, at the beginning and end of the fellowship. The page says each fellow 'receives' it and does not say whether NED books or reimburses the ticket. Dependents' travel is not covered.",
+          "quote": "Each fellow receives a monthly stipend for living expenses, basic health insurance coverage, and roundtrip economy-class travel to and from Washington, D.C., at the beginning and end of the fellowship.",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "item": "insurance",
+          "arrangement": "Paid directly by organiser",
+          "amount": "",
+          "currency": "",
+          "conditions": "Basic health insurance coverage for the fellow.",
+          "quote": "Each fellow receives a monthly stipend for living expenses, basic health insurance coverage, and roundtrip economy-class travel to and from Washington, D.C., at the beginning and end of the fellowship.",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "item": "accommodation",
+          "arrangement": "Covered through an allowance",
+          "amount": "",
+          "currency": "",
+          "conditions": "The stipend is calculated to cover a short-term furnished rental apartment; the fellow rents it.",
+          "quote": "Stipends are calculated to cover a short-term furnished rental apartment, food, local transportation, and other necessities.",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "item": "meals",
+          "arrangement": "Covered through an allowance",
+          "amount": "",
+          "currency": "",
+          "conditions": "Food is paid from the stipend.",
+          "quote": "Stipends are calculated to cover a short-term furnished rental apartment, food, local transportation, and other necessities.",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "item": "local_transport",
+          "arrangement": "Covered through an allowance",
+          "amount": "",
+          "currency": "",
+          "conditions": "Local transportation is paid from the stipend.",
+          "quote": "Stipends are calculated to cover a short-term furnished rental apartment, food, local transportation, and other necessities.",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        },
+        {
+          "item": "visa_fees",
+          "arrangement": "Unknown",
+          "amount": "",
+          "currency": "",
+          "conditions": "Visas and their cost are not mentioned on the page."
+        }
+      ],
+      "out_of_pocket": "Unknown. The stipend amount is not stated and visa costs are not mentioned; fellows who bring family members pay their dependents' travel and living costs.",
+      "cycles": [
+        {
+          "cycle": "2027",
+          "state": "CONFIRMED CURRENT CYCLE",
+          "opens_on": "",
+          "deadline": "2026-12-07",
+          "quote": "Applications: December 7, 2026",
+          "page": "https://www.ned.org/fellowships/hurford-youth-fellows-program/"
+        }
+      ]
+    },
+    "notes": "Seen in the feeds on 7 November 2026 (Opportunities for Africans, Opportunities Corners, Opportunity Desk). The NED call page and the application system's home page were read on 9 November 2026. 19 November 2026: the NED call page and the application system's home page were re-read (repository plain reader, confirmed with WebFetch) and every tracked field compared. The deadlines changed: applications 7 December 2026 and recommendation letters 11 December 2026 (previously 30 November and 4 December 2026); eligibility, dates (1 May - 31 August 2027) and financial support are unchanged. Evidence block added."
+  },
+  {
+    "id": "aspire-leaders-program-2026-cohort-4",
+    "title": "Aspire Leaders Program (2027 Cohort 1)",
+    "overview": "Free six-week online leadership programme for first-generation or limited-income university students and graduates aged 18 to 29. Applications for the 2027 programme close on 10 January 2027; Cohort 1 runs from 21 January to 4 March 2027.",
+    "program_dates": "2027 Cohort 1: 21 January to 4 March 2027 (programme page: 'Cohort 1 — 2027', 'January 21 – March 4', marked 'OPEN!')",
+    "application_deadline": "2027-01-10",
+    "deadline_text": "Programme page: 'APPLICATIONS FOR THE 2027 ASPIRE LEADERS PROGRAM CLOSE JANUARY 10, 2027!' Home page: 'Applications for the 2027 Aspire Leaders Program are OPEN! Register your profile and fill out our application HERE before the January 10, 2027 deadline.' No time or time zone is stated. Cohort 4 — 2026 (October 21 – November 30) is marked 'Closed'.",
+    "open_now": true,
+    "expected_next_cycle": "",
+    "funding_details": [
+      "Programme page: 'A fully-funded program for emerging leaders.' and 'Free. No application fee. No tuition. No catch.'",
+      "Free certificate of completion; an optional verifiable e-credential bundle costs USD 5",
+      "Programme page lists graduate support: Skills Advancement Grants (up to USD 200), Community Action Award (up to USD 5,000), Seed Fund, Academic Advancement Grant and Conference Grant (amounts for the last three not stated)"
+    ],
+    "application_process": [
+      "Apply online before 10 January 2027 through the Apply button on aspireleaders.org; it leads to a registration page on engage.aspireleaders.org",
+      "The programme page says the application takes about 10 minutes: 'No essays. No recommendation letters. No cost.'",
+      "Eligibility is self-identified; no documentation is required"
+    ],
+    "verification": "VERIFIED",
+    "eligibility_reason": "The 18-29 age range overlaps the profile's under-30 band (exact age not recorded), and a 2024 bachelor's graduate meets the 'enrolled in or graduated from a university program' rule. The programme is reserved for first-generation or limited-income students and graduates (self-identified), which the profile does not record. It is open to students and graduates 'around the world' with no country list, so the DRC is not excluded.",
+    "potential_issues": [
+      "Applications for 2027 close on 10 January 2027; no time or time zone is given",
+      "Reserved for first-generation or limited-income applicants (self-identified)",
+      "Age limit 18 to 29; the date on which age is counted is not stated",
+      "Live sessions need a reliable internet connection"
+    ],
+    "action": "Apply before 10 January 2027 for Cohort 1 (21 January to 4 March 2027) if you are the first in your family at university or come from a limited-income background; eligibility is self-declared and no documents are asked. Use the Apply button on aspireleaders.org.",
+    "last_verified": "2026-11-19",
+    "notes": "Several cohorts run each year. 26 October 2026: Cohort 4 (21 Oct-30 Nov 2026) is marked Closed and the 2027 programme is 'coming soon' with no dates. Eligibility (18-29, enrolled in or graduated from a university programme, limited-income or first-generation) and cost wording ('No application fee. No tuition. No catch.'; optional USD 5 e-credential bundle) unchanged. The feed item 'Aspire Leaders Program 2026' matches this cohort. [auto 2026-10-31] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens. 9 November 2026: programme and home pages re-read; '2027 Cohort 1' still 'COMING SOON', no dates. 19 November 2026 (source_changed flag): the 2027 cycle is open. Programme page: 'APPLICATIONS FOR THE 2027 ASPIRE LEADERS PROGRAM CLOSE JANUARY 10, 2027!' and 'Cohort 1 — 2027 / January 21 – March 4 / OPEN!'; home page: 'Applications for the 2027 Aspire Leaders Program are OPEN!'. Title, dates, deadline, open_now and action moved to the 2027 cycle (the id is kept). Eligibility (18-29, enrolled in or graduated from a university program, limited-income or first-generation, self-identified, no documents) and cost wording unchanged; the page now also says 'A fully-funded program for emerging leaders.' Verification raised to VERIFIED because deadline, eligibility and funding were all read on the official pages today. The Apply button is a bit.ly link that redirects to engage.aspireleaders.org/registration (Aspire's own domain; not opened)."
+  },
+  {
+    "id": "dalai-lama-fellows-2027",
+    "expected_next_cycle": "Not announced. The 2027 call ran from 1 October to 11 November 2026 (22:00 UTC); on 19 November 2026 the apply page is titled '2027 APPLICATION IS NOW CLOSED'.",
+    "application_process": [
+      "The 2027 application ran on apply.dalailamafellows.com from 1 October to 11 November 2026, 22:00 UTC (closed)",
+      "January 2027: finalists invited to interviews; February 2027: Fellows selected and notified",
+      "March 2027: virtual onboarding; April 2027: fellowship year begins"
+    ],
+    "eligibility_reason": "English fluency and the absence of any degree requirement are met; the 20-36 age band (counted on 1 April 2027) overlaps the profile's under-30 band, but the exact age is not recorded. Eligibility hinges on having, or credibly planning, a community social-change project with at least six months of community experience, which the profile does not record. The call seeks 'changemakers from around the world' with no country list, so the DRC is not excluded.",
+    "potential_issues": [
+      "The 2027 application closed on 11 November 2026; no next call is announced",
+      "Not a travel opportunity in 2027: the Opening Assembly is on Zoom",
+      "No project funding",
+      "The old domain dalailamafellows.org redirects to an unrelated site; use dalailamafellows.com only"
+    ],
+    "action": "The 2027 application closed on 11 November 2026. If you lead, or plan, a community project you have worked with for at least six months, watch dalailamafellows.com/apply for the next call (the 2027 call opened on 1 October).",
+    "last_verified": "2026-11-19",
+    "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed). 2 November 2026 (rerun): apply page re-read; age 20-36 on 1 April 2027, 22:00 UTC deadline, 'We do not offer funding for projects' all unchanged. The 28 October session and the 28 October deadline to ask for a past-Fellow introduction have passed. 9 November 2026: apply page re-read; dates (deadline 11 November 2026, 22:00 UTC), age band and funding wording unchanged. 19 November 2026 (source_changed flag): apply page re-read; it is now titled '2027 APPLICATION IS NOW CLOSED' and no longer lists information-session dates. Key dates (opened 1 October 2026, deadline 11 November 2026 at 22:00 UTC, interviews January 2027, notification February 2027, fellowship year April 2027 to March 2028, Closing Assembly June 2028), age 20-36 on 1 April 2027, English fluency, the six-month community-experience rule and 'We do not offer funding for projects' are unchanged. The Fellowship page still says they aim to 'cover all costs for attending the Assembly such as visa fees, travel, and lodging'. The application portal apply.dalailamafellows.com still loads. Deadline left as it is for the daily job to archive the closed cycle."
+  },
+  {
+    "id": "eu-delegation-drc-subsidised-internship",
+    "overview": "Subsidised internships of up to six months for young graduates in the Political, Press and Information section of the EU Delegation in Kinshasa. The section follows diplomatic relations between the EU and the DRC and makes the EU's actions in support of the country's development known. The EEAS lists seven calls since February 2022, published at irregular intervals and open 7 to 16 days each. The latest call, for two internships in 2026 with provisional starts in March and October, closed on 25 January 2026.",
+    "program_dates": "Up to six months. Provisional starts in the calls read: April 2022, November 2022, May 2023, April 2024, November 2024, May 2025, and March and October 2026.",
+    "expected_next_cycle": "Irregular, one or two calls a year. The EEAS vacancies list of the EU Delegation in Kinshasa (read 19 November 2026) shows seven calls for this internship, with deadlines 24/02/2022, 09/10/2022, 31/03/2023, 2 February 2024, 26 September 2024, 18.04.2025 and 25 January 2026. Each call page read was published 7 to 16 days before its deadline (11.02.2022, 26.09.2022, 15.03.2023, 24.01.2024, 17.09.2024, 11.04.2025 and 15.01.2026). No call after 25 January 2026 is listed.",
+    "eligibility": [
+      "Currently residing in the DRC or near Kinshasa: 'seuls les candidats résidant actuellement en République démocratique du Congo ou à proximité de Kinshasa seront pris en compte' (given local health and security conditions)",
+      "University degree, preferably in political science, international relations, humanities, or information and communication sciences (the 2025 call required a degree 'validé' in these fields)",
+      "No more than one year of professional experience after obtaining the degree, at the time the internship agreement is signed",
+      "Excellent French and good knowledge of English",
+      "Command of modern communication tools (especially social media) and of IT tools; excellent writing skills; basic knowledge of the EU and its action in the DRC",
+      "Experience producing digital content and using photo and video software; experience in event organisation is an asset",
+      "The call asks applicants to read the general eligibility criteria for a subsidised internship (Article 8 of Decision ADMIN(2017)28)"
+    ],
+    "nationality_requirements": [
+      "No nationality restriction is stated on the call; only candidates currently residing in the DRC or near Kinshasa are considered"
+    ],
+    "experience_requirement": "At most one year of professional experience after graduation when the internship agreement is signed; experience producing digital content and using photo and video software is asked for; event experience is an asset",
+    "language_requirement": "Excellent French and good knowledge of English ('Excellente maitrise du français et bonne connaissance de l’anglais')",
+    "other_requirements": [
+      "EU citizens must prove cover against pandemic risk and repatriation costs, and hold an entry visa or temporary residence permit where applicable",
+      "The internship can only be offered in line with local law and the law of the intern's country of origin"
+    ],
+    "sources": [
+      {
+        "label": "EEAS: subsidised internship, EU Delegation to the DRC, Political, Press and Information section (published 15.01.2026, deadline 25 January 2026)",
+        "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-1_en",
+        "type": "Official"
+      },
+      {
+        "label": "EEAS: previous call (published 17.09.2024, deadline 26 September 2024)",
+        "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99union-europ%C3%A9enne-en-r%C3%A9publique_und-0_en",
+        "type": "Official"
+      },
+      {
+        "label": "EEAS: earlier call (published 15.03.2023, deadline 31/03/2023)",
+        "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99ue-en-r%C3%A9publique-0_en",
+        "type": "Official"
+      },
+      {
+        "label": "EEAS vacancies list filtered to the EU Delegation in Kinshasa (all traineeship calls since 2022)",
+        "url": "https://www.eeas.europa.eu/eeas/vacancies_en?s=94&f%5B0%5D=vacancy_site%3ADR%20Congo%20%28Kinshasa%29",
+        "type": "Official"
+      },
+      {
+        "label": "EEAS: call published 11.04.2025 (deadline 18.04.2025, start May 2025)",
+        "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99ue-en-r%C3%A9publique-d%C3%A9mocratique_en",
+        "type": "Official"
+      },
+      {
+        "label": "EEAS: call published 24.01.2024 (deadline 2 February 2024, start April 2024)",
+        "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99ue-en-r%C3%A9publique-d%C3%A9mocratique_und-1_en",
+        "type": "Official"
+      },
+      {
+        "label": "EEAS: call published 26.09.2022 (deadline 09/10/2022, start November 2022)",
+        "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99ue-en-r%C3%A9publique_en",
+        "type": "Official"
+      },
+      {
+        "label": "EEAS: call published 11.02.2022 (deadline 24/02/2022, start April 2022)",
+        "url": "https://www.eeas.europa.eu/eeas/stage-subventionn%C3%A9-pour-jeunes-dipl%C3%B4m%C3%A9s-au-sein-de-la-d%C3%A9l%C3%A9gation-de-l%E2%80%99ue-de-la-r%C3%A9publique_und_en",
+        "type": "Official"
+      }
+    ],
+    "eligibility_reason": "The call considers candidates currently living in the DRC or near Kinshasa and states no nationality rule, so a DRC national living in the DRC is not excluded, and the profile's under one year of experience since graduating in 2024 fits the experience cap. The degree (Business Administration) is not one of the preferred fields, French and English levels are not recorded, and the general criteria of Article 8 of Decision ADMIN(2017)28 were not read.",
+    "potential_issues": [
+      "No call is open and none is announced; calls appear without warning and stay open only 7 to 16 days",
+      "The preferred degree fields (political science, international relations, humanities, information and communication) do not name business administration; the 2025 call made these fields a requirement",
+      "The subsistence grant amount is not stated on the call page; travel, visa, insurance and accommodation are at the intern's expense",
+      "The general eligibility criteria are in Article 8 of Decision ADMIN(2017)28, which was not read (for example any limit on the time since graduation)",
+      "The internship is in Kinshasa; only candidates currently living in the DRC or near Kinshasa are considered"
+    ],
+    "action": "Check the EEAS vacancies list of the EU Delegation in Kinshasa every week (past calls were published in January-April or September). Prepare a Europass CV and a motivation letter in advance so you can apply within the 7 to 16 days a call stays open.",
+    "last_verified": "2026-11-19",
+    "notes": "Pages read on 29 October 2026: the 2023, 2024 and 2026 calls. The recruitment mailbox changed between calls: Delegation-Dem-Rep-Of-Congo-HOA@eeas.europa.eu in 2023, DELEGATION-DEM-REP-OF-CONGO-RECRUTEMENT@eeas.europa.eu in 2024 and 2026. Use the address printed on the new call. 19 November 2026 (source_changed flag): the 2026 call page is unchanged apart from an 'Expired' label; its 'Related Vacancies' sidebar now shows posts dated 18-19.11.2026, which is the likely cause of the flag. No new traineeship call: the EEAS vacancies list filtered to the Kinshasa Delegation shows nothing after the call that closed on 25.01.2026 (its only open item is an IT Support Assistant local-agent post closing 19.11.2026). That list shows four earlier calls the record did not have (deadlines 24/02/2022, 09/10/2022, 2 February 2024, 18.04.2025); all four pages were read and added to sources. Corrections from the 2026 call text: residence is 'en République démocratique du Congo ou à proximité de Kinshasa' (DRC residents anywhere qualify, not only Kinshasa); a language rule exists ('Excellente maitrise du français et bonne connaissance de l’anglais'); only event experience is marked as an asset; the pandemic/repatriation cover and visa lines apply to 'Citoyens des États membres de l'UE'. The 2025 call asked for a degree 'validé' in the listed fields rather than 'de préférence'. Grant, cost and application wording unchanged."
+  },
+  {
+    "id": "french-african-foundation-young-leaders",
+    "overview": "Annual French-African Foundation programme for young leaders from Africa and France: two weeks of meetings, training and exchanges with public and private decision-makers, one week in France and one in an African country. Applicants must be 28 to 40 with at least five years of professional experience. Applications for the 2027 edition close on 16 December 2026 at 15:00 GMT.",
+    "program_dates": "Two weeks: one in France and one in an African country (dates and host country of the 2027 edition not stated)",
+    "application_deadline": "2026-12-16",
+    "deadline_utc": "2026-12-16T15:00:00Z",
+    "deadline_text": "Young Leaders page: 'Édition 2027 du programme Young Leaders' / 'Candidatez avant le 16 décembre 2026 à 15H GMT' (English version: '2027 edition of the Young Leaders program' / 'Apply before December 16, 2026 at 3:00 PM GMT').",
+    "deadline_timezone": "GMT",
+    "open_now": true,
+    "eligibility": [
+      "Âge : avoir entre 28 et 40 ans (aged 28 to 40)",
+      "Langue : parler couramment anglais (fluent in English)",
+      "Expérience professionnelle : justifier d'au moins 5 années d'expérience professionnelle avec des compétences en leadership et un impact démontrables (at least five years of professional experience with demonstrable leadership skills and impact)",
+      "Vision : a clear wish to build bridges between African countries and France",
+      "Nationality of a country of the African continent, or French nationality",
+      "Selection by an independent high-level jury, renewed each year, on excellence, commitment and potential"
+    ],
+    "language_requirement": "Fluent English ('Parler couramment anglais' / 'Be fluent in English'); French is no longer mentioned among the criteria",
+    "official_application_url": "https://french-african.org/young-leaders/",
+    "application_process": [
+      "Apply online through the 'Candidatez' link on the Young Leaders page (an online form hosted on Typeform) before 16 December 2026, 15:00 GMT",
+      "Applications are assessed by an independent high-level jury, renewed each year"
+    ],
+    "sources": [
+      {
+        "label": "Young Leaders programme",
+        "url": "https://french-african.org/young-leaders/",
+        "type": "Official"
+      },
+      {
+        "label": "Young Leaders programme (English version)",
+        "url": "https://french-african.org/en/young-leaders/",
+        "type": "Official"
+      }
+    ],
+    "eligibility_reason": "The programme requires at least five years of professional experience with demonstrable leadership and impact, and an age of 28 to 40; the profile records under one year of internships and field assignments. Nationality is open to any country of the African continent or France, with no country list, so the DRC is not excluded.",
+    "potential_issues": [
+      "Five years of professional experience required",
+      "Minimum age of 28; alumni average age 34",
+      "Over 8,000 applications in one month in 2025",
+      "Funding and costs are not stated on the page",
+      "The application form is hosted on Typeform (linked from the Foundation's page)"
+    ],
+    "action": "Not eligible now: the 2027 call (deadline 16 December 2026, 15:00 GMT) requires at least five years of professional experience and an age of 28 to 40. Revisit in a later edition once you have five years of experience.",
+    "last_verified": "2026-11-19",
+    "notes": "9 November 2026: Young Leaders page re-read. It lists criteria the record lacked (five years of professional experience, bilingual English) and shows 'EDITION 2025 - Candidatures clôturées !'. Label changed from POSSIBLY ELIGIBLE to NOT ELIGIBLE. 19 November 2026 (source_changed flag and 'seen again' in Opportunity Desk and Opportunities for Africans feeds): the French and English Young Leaders pages now announce the 2027 edition: 'Candidatez avant le 16 décembre 2026 à 15H GMT' / 'Apply before December 16, 2026 at 3:00 PM GMT'. The apply link goes to a Typeform form (form.typeform.com/to/IG4sh2v4; not opened). Criteria re-read: age 28-40, five years of professional experience, building bridges, African or French nationality unchanged; the language line is now only 'Parler couramment anglais' (French no longer listed as an asset). The page gives no 2027 dates or host country and says nothing about funding; one feed title calls the programme 'Fully Funded to France', which the organiser's pages do not state, so the funding label stays Funding Unclear. The 2025 edition drew 'plus de 8 000 candidatures en un mois'."
+  },
+  {
+    "id": "icann-fellowship",
+    "funding_details": [
+      "Programme page: 'Travel assistance to attend the meeting is also provided.'",
+      "Terms & Conditions: 'ICANN org will cover the cost of the lowest fare available economy airfare at the time of booking', booked through ICANN's Travel Management Company (FAQ: 'All travel including airfare and accommodations will be booked and paid for by ICANN directly.')",
+      "Terms & Conditions: 'ICANN org will book and pay for a standard room (king or queen) on the fellow's behalf based on a single occupancy'; hotel surcharges and incidentals are the fellow's",
+      "Stipend 'not to exceed USD 500.00' to offset meals, transport to/from the airport and incidentals; the Terms & Conditions say it is wired once the visa and flight booking are confirmed, the FAQ says after the programme and the post-meeting survey; 'There is no stipend for the ICANN Virtual Meetings.'",
+      "Visa: 'ICANN org will reimburse costs incurred by fellows to obtain a visa up to USD 200.00'",
+      "Insurance: 'Insurance is NOT supplied by ICANN org.' (FAQ: travel insurance is reimbursed only if it is required for a visa application)"
+    ],
+    "coverage": {
+      "tuition": "Not applicable",
+      "stipend": "Covered",
+      "flight": "Covered",
+      "accommodation": "Covered",
+      "meals": "Partially covered",
+      "visa": "Partially covered",
+      "insurance": "Not covered",
+      "local_transport": "Partially covered"
+    },
+    "participation_fee": "None mentioned on the programme page, the Terms & Conditions or the FAQ",
+    "stipend": "Up to USD 500 per in-person meeting ('a stipend not to exceed USD 500.00'); none for virtual meetings",
+    "eligibility": [
+      "Candidates from all regions and sectors are welcome to apply",
+      "At least 21 years of age by the time of the application submission",
+      "Interested in, or already engaged in, ICANN's work on policy, the Domain Name System and the security and stability of the global Internet",
+      "Complete the mandatory ICANN Learn course(s)",
+      "Not involved in or associated with other ICANN-supported travel programmes at the time of selection",
+      "No more than two previous fellowships (second- and third-time fellows must prove involvement in an ICANN community)",
+      "Policy Forum rounds (such as ICANN89) are for Fellowship alumni only"
+    ],
+    "nationality_requirements": [
+      "Open to all regions: 'Candidates from all regions and sectors are welcome to apply' (no country list; the DRC is not excluded)"
+    ],
+    "other_requirements": [
+      "Selected fellows must hold a valid passport and any required destination and transit visas before ICANN books travel"
+    ],
+    "sources": [
+      {
+        "label": "ICANN Fellowship Program",
+        "url": "https://www.icann.org/fellowshipprogram",
+        "type": "Official"
+      },
+      {
+        "label": "ICANN Fellowship Terms and Conditions (last updated 23 July 2020; linked from the programme page)",
+        "url": "https://www.icann.org/resources/pages/fellowship-terms-conditions",
+        "type": "Official"
+      },
+      {
+        "label": "ICANN Fellowship FAQs",
+        "url": "https://www.icann.org/resources/pages/fellowship-faqs-2015-07-10-en",
+        "type": "Official"
+      }
+    ],
+    "eligibility_reason": "Candidates from all regions are welcome (no country list), so the DRC is not excluded. The conditions are being at least 21, being 'interested in, or already engaged in' ICANN's work on policy, the Domain Name System and Internet security, and completing the ICANN Learn course(s); the profile records no interest in or engagement with Internet governance, so that criterion is unconfirmed.",
+    "potential_issues": [
+      "No round is open to first-time applicants until 22 March 2027 (ICANN90)",
+      "Needs a demonstrated interest in domain names and Internet policy, and the mandatory ICANN Learn course(s) completed",
+      "Passport status is not recorded: ICANN books travel only after the fellow shows a valid passport and the required visas",
+      "Insurance is not supplied by ICANN; visa costs are reimbursed only up to USD 200",
+      "An Australian visa would be needed for ICANN90 (general requirement, not stated on the page)"
+    ],
+    "benefits": [
+      "Travel to an ICANN Public Meeting: lowest-fare economy airfare and a single hotel room booked and paid by ICANN",
+      "Stipend up to USD 500 for meals, airport transport and incidentals",
+      "Mentor and training"
+    ],
+    "visa": {
+      "required": "Yes for ICANN90 in Australia (general requirement; the Terms & Conditions say destination and transit visas may be required)",
+      "support": "ICANN reimburses visa costs up to USD 200 and may help with communications, including a form invitation letter; it does not obtain visas for fellows"
+    },
+    "upfront_cost_risk": "Low to medium: visa costs (reimbursed up to USD 200), insurance and hotel incidentals are paid by the fellow, and the hotel may ask for a card or cash deposit",
+    "last_verified": "2026-11-19",
+    "notes": "2 November 2026 (rerun): fellowship page re-read; the ICANN88 round is closed, the ICANN89 Policy Forum round (5 November to 5 December 2026) is for Fellowship alumni only. Label lowered from LIKELY to POSSIBLY ELIGIBLE because interest in ICANN's work is not recorded in the profile. 9 November 2026 (source_changed flag): the dates table now lists ICANN90 (Adelaide, 30 Oct-4 Nov 2027) with a round from 22 March to 22 April 2027, the first one open to new applicants; the ICANN89 round is open but for alumni only. Eligibility now also lists the mandatory ICANN Learn course(s) and a limit of two previous fellowships. 19 November 2026 (source_changed flag): fellowship page re-read; the dates table is unchanged (ICANN90 round 22 March to 22 April 2027, 23:59 UTC, selection announced 28 June 2027; ICANN89 alumni-only round closes 5 December 2026; ICANN88 selections announced 10 November 2026). The change detected is probably the new 'ICANN88 ... Successful Candidates Announced' line and the 2026 alumni-survey link. The eligibility section opens with 'Candidates from all regions and sectors are welcome to apply' (nationality line updated). The Terms & Conditions and the FAQ, both linked from the programme page, were read for the first time and itemise the travel support (economy airfare and a single hotel room paid by ICANN, stipend up to USD 500, visa reimbursed up to USD 200, no insurance); coverage, stipend and funding details updated from them. The two pages differ on when the stipend is paid."
+  },
+  {
+    "id": "mastercard-foundation-scholars-uct-2027",
+    "overview": "UCT's Mastercard Foundation Scholars Program funds citizens of African countries who face significant social and economic barriers, for a first bachelor's degree or an eligible taught postgraduate programme (a Health Sciences postgraduate diploma, an honours degree or a coursework master's). The 2027 intake is closed: postgraduate scholarship applications closed on 31 October 2026. A UCT academic application and an offer of admission are also required.",
+    "deadline_text": "'Mastercard Foundation Scholars Program 2027 Applications are now closed.' (UCT programme home page, read 19 November 2026). The 2027 intake deadlines were 30 September 2026 for bachelor's applicants and 31 October 2026 for postgraduate diploma, honours and master's applicants. No 2028 intake dates are published.",
+    "expected_next_cycle": "Recurring: 'UCT opens its call for applications to the Mastercard Foundation Scholars Program annually.' The 2027 intake closed on 31 October 2026 (postgraduate); no 2028 intake dates were published on 19 November 2026.",
+    "eligibility": [
+      "Citizen of an African country, including South Africa",
+      "Applying for a first bachelor's degree or an eligible taught postgraduate programme at UCT: a Faculty of Health Sciences postgraduate diploma, or an honours degree or coursework master's offered by any of UCT's six faculties",
+      "Demonstrate academic talent and a commitment to excellence",
+      "Face significant social and economic barriers to accessing higher education",
+      "Demonstrate potential for transformative and ethical leadership",
+      "Be committed to serving their communities and contributing to positive change",
+      "Only applicants who receive an offer of admission to UCT are eligible"
+    ],
+    "nationality_requirements": [
+      "A citizen of an African country, including South Africa (the page gives no country list and does not name the DRC)"
+    ],
+    "eligibility_reason": "DRC position: the page asks for citizenship of 'an African country, including South Africa' and publishes no country list, so the DRC is not named. A Licence can lead to an honours or coursework master's, but the award also needs a UCT admission offer, academic talent and significant social and economic barriers, none of which the profile records. The 2027 intake is closed.",
+    "potential_issues": [
+      "The 2027 intake is closed ('Applications are now closed'); no 2028 intake dates are published yet",
+      "A UCT academic application and an offer of admission come first; for 2027, most coursework postgraduate programmes closed on 30 September 2026",
+      "Benefits are not itemised on the UCT pages read; coverage comes from secondary sources",
+      "Selection also weighs academic talent, social and economic barriers, leadership potential and commitment to community service",
+      "The apply page still carries an older line saying applications are open for the 2027 intake, next to the notice that applications are closed"
+    ],
+    "action": "The 2027 intake is closed. Check uct.ac.za/mastercardfdn for the 2028 intake call, and plan the UCT academic application first: for 2027, UCT applications opened on 1 April 2026 and most coursework postgraduate programmes closed on 30 September 2026.",
+    "last_verified": "2026-11-19",
+    "notes": "29 October 2026: UCT page uct.ac.za/node/648803 re-read. It states that the Mastercard Foundation Scholars Program application deadline is 31 October 2026 for postgraduate diploma, honours and master's applicants, and requires African citizenship ('including South Africa'). uct.ac.za/mastercardfdn/how-apply says undergraduate applications are closed, postgraduate applications are open, and a UCT offer is needed first. [auto 2026-11-15] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens. 19 November 2026 (source_changed flag): uct.ac.za/node/648803, /mastercardfdn, /mastercardfdn/how-apply and /applications-and-registration re-read with WebFetch (the local plain reader fails on a certificate-chain error, HTTP 0). The apply page now carries 'Please note: Mastercard Foundation Scholars Program Applications are now closed.' and the programme home page says 'Mastercard Foundation Scholars Program 2027 Applications are now closed.' The 2027 deadlines were 30 September 2026 (bachelor's) and 31 October 2026 (postgraduate). The apply page's eligibility list reads: citizen of an African country, including South Africa; first bachelor's or eligible taught postgraduate programme; academic talent; significant social and economic barriers; potential for transformative and ethical leadership; commitment to serving communities. No 2028 intake is mentioned and benefits are still not itemised. The applications page says UCT's 2027 applications opened on 1 April 2026 and most coursework postgraduate programmes closed on 30 September 2026."
+  },
+  {
+    "id": "pan-african-university-scholarships",
+    "deadline_text": "No 2027-2028 call published on 19 November 2026: au-pau.org/submission still states 'Applications closed on 15/12/2025', the au.int announcements list still shows the 2026-2027 call (dated 15 November 2025) as the latest PAU item, and pau-au.africa shows no new call. The previous call said 'The Call will be launched on November 15th, 2025 and will close on December 15th, 2025.'",
+    "expected_next_cycle": "The last call ran from 15 November to 15 December 2025. No 2027-2028 call was published on au.int, au-pau.org or pau-au.africa on 19 November 2026, four days after the date on which the previous call opened.",
+    "eligibility_reason": "DRC position: the call invites 'applicants from African countries and the Diaspora' and gives no country list, so the DRC is not named. The master's age limit is 25 for men and 28 for women, so 'under 30' is not enough to decide; the degree must also be at least a second-class upper.",
+    "potential_issues": [
+      "Strict age limit that differs by gender",
+      "Degree classification not recorded in the profile",
+      "Post-study service obligation in an AU Member State for at least the scholarship's duration",
+      "2027-2028 call not yet published on 19 November 2026, although the previous call opened on 15 November"
+    ],
+    "action": "Check your exact age against the limit first (master's: 25 for men, 28 for women). If you are within it, check au.int/en/announcements and au-pau.org/submission every few days: the previous call opened on 15 November and closed one month later.",
+    "last_verified": "2026-11-19",
+    "notes": "2 November 2026, after a source_changed flag: the 2026-2027 announcement page was re-read and still gives only the 15 November - 15 December 2025 window; the au.int announcements list (latest item 1 August 2026) and au-pau.org/submission show no new call. Master's age limit 25 (men) / 28 (women); second-class upper degree required. The PAU scholarships page states that the scholarship covers tuition and living expenses, that insurance is paid from the stipend, and that holders must serve an AU Member State afterwards. 9 November 2026 (source_changed flag): the watched au.int announcement page was re-read; only its sidebar news items changed. No new call on au.int, au-pau.org or pau-au.africa. 19 November 2026 (source_changed flag): the watched au.int 2026-2027 announcement was re-read; its call text is unchanged ('The Call will be launched on 15 November and will close on 15 December 2025.'). The au.int announcements list (latest PAU item still the 15 November 2025 call), au-pau.org/submission ('Applications closed on 15/12/2025'), pau-au.africa and its scholarships, how-to-apply and prerequisites pages show no 2027-2028 call. The pau-au.africa admissions menu links only to older items (a 2020-2021 deadline postponement, and a special call for refugees and displaced people that ran from 23 December 2024 to 22 January 2025). Web searches, including one limited to au.int, pau-au.africa and au-pau.org, found no 2027-2028 call. Funding and eligibility wording unchanged."
+  },
+  {
+    "id": "turkiye-burslari-2027",
+    "deadline_text": "Official application calendar (re-read 19 November 2026): 'General Application Period: January 10 – February 20' (no year given); evaluation March to April; interviews April to June; results early August. The official 2026 announcement gave 10 January to 20 February 2026. No 2027 announcement is published yet.",
+    "expected_next_cycle": "The official calendar lists the general application period as 10 January to 20 February (no year given), matching the 2026 cycle; the 'Türkiye Scholarships 2026 Applications' announcement was posted on 29 December 2025. 2027 dates not announced as of 19 November 2026.",
+    "participation_fee": "None: 'Applications are received online through the online application system, free of charge.' (official home page)",
+    "last_verified": "2026-11-19",
+    "notes": "2 November 2026 (rerun): criteria, benefits, calendar and application-steps pages were opened directly (earlier cycles had read the criteria only as search snippets). The organiser's own words are 'fully funded'; label confirmed and itemised; record upgraded to VERIFIED. 9 November 2026 (source_changed flag): home page and calendar re-read; no 2027 announcement. The news list shows the YTB-IsDB Joint Scholarship Program 2026 notice (10 January - 20 February 2026, for IsDB member countries and Muslim communities elsewhere, applied for through the same Türkiye Scholarships form). 19 November 2026 (source_changed flag): home page, calendar, criteria, benefits, application-steps and 2026 announcement pages re-read. No 2027 announcement; the news list now includes a 'YTB–IsDB Joint Scholarship Program Meeting' item. The calendar (10 January - 20 February, no year), the age and grade criteria, 'Citizens of all countries', the stipends (6.500 / 9.500 / 13.000 TL), the housing allowance (6.000 / 5.000 TL), the flight, the insurance and the one-year Turkish course are unchanged. The home page states the online application is free of charge."
+  },
+  {
+    "id": "wageningen-africa-scholarship-programme-2027",
+    "eligibility_reason": "DRC position: the ASP requires 'a citizen of an African country' and gives no country list, so the DRC is not named. A bachelor's completed in 2024 fits, but the profile does not record the degree grade against the 'First class honours and a GPA of 80% or higher' rule, official English test results (to be uploaded before 1 December 2026), or whether a Business Administration degree gives unconditional admission to a Wageningen MSc.",
+    "last_verified": "2026-11-19",
+    "notes": "The same WUR page lists three other schemes: the Wageningen Excellence Scholarship, the ABF scholarship (by invitation only, no direct application, results in May 2027) and the NL Scholarship (EUR 5,000, 8 awards). None gives a DRC applicant a direct application route. The page was read through a text-extraction tool; local scripts could not open wur.nl. 2 November 2026 (rerun): the old address returns HTTP 308 to the new page above. The text was re-read in full with plain curl and matches the earlier reading; the former note that local scripts could not open wur.nl no longer applies. 9 November 2026: scholarships page re-read; ASP criteria, 1 December 2026 deadline, lottery and 7 April 2027 offer date unchanged. 19 November 2026 (source_changed flag): scholarships page re-read with WebFetch (the local plain reader now fails on a certificate-chain error, HTTP 0). The ASP is listed under 'Scholarships based on invitation (academic year 2027-2028)'; its criteria, the 'Before 1 December 2026.' MSc application deadline, the 'Around March–April 2027' final-stage notice, the lottery and the 'On 7 April 2027' offer date are unchanged. Other dated lines on the page (Excellence programme, ABF, NL Scholarship, a Virtual Open Day on 21 January 2027) do not concern the ASP."
+  },
+  {
+    "id": "auc-african-graduate-fellowship-2027",
+    "deadline_text": "Graduate admission (graduate admissions page, re-read 19 November 2026): Spring 2027, October 1, 2026 (passed); Fall 2027, December 15, 2026 (Regular admission) and April 1, 2027 (Late admission). Fellowship applications, Fall 2027: Cycle 1 from 22 December to 17 January; Cycle 2 from 6 April to 6 May.",
+    "eligibility": [
+      "Non-Egyptian African national (dual nationals with a non-African nationality are not eligible)",
+      "Open to all disciplines of graduate studies",
+      "Admitted to an AUC graduate programme and meeting graduate admission requirements",
+      "TOEFL iBT or Academic IELTS score required for this fellowship even where other applicants are exempt (minimums: TOEFL 79 total and 21 writing; IELTS 6.5 total and 7 writing; some programmes higher)",
+      "Financial need",
+      "Continuing fellows must maintain a 3.2 GPA and full-time status"
+    ],
+    "nationality_requirements": [
+      "Non-Egyptian African nationals; African nationals with a dual non-African nationality are not eligible (no country list; the DRC is not named)"
+    ],
+    "eligibility_reason": "DRC position: the fellowship is for 'Non-Egyptian African nationals' and gives no country list, so the DRC is not named. A bachelor's degree meets the level, but a TOEFL/IELTS score is mandatory for this fellowship and none is recorded; admission to a specific programme and financial need are also required.",
+    "last_verified": "2026-11-19",
+    "notes": "2 November 2026 (rerun): the admissions page now labels 15 December 2026 'Regular admission' and 1 April 2027 'Late admission' (earlier text said early and regular). Fellowship terms re-read unchanged. 19 November 2026: fellowship listing, fellowship deadlines ('Last Updated : Nov 02, 2026') and graduate admissions pages re-read; eligibility, coverage, duties and all dates unchanged. The listing also says the fellowship is 'Open to all disciplines of graduate studies'. The old how-apply address now redirects to aucegypt.edu/admissions/graduate#howtoapply. The deadlines page shows an 'Extended Deadline' label in the Spring 2027 cycle (7 October - 8 November 2026), which does not concern Fall 2027."
+  },
+  {
+    "id": "gates-cambridge-2027",
+    "eligibility_reason": "DRC position: the rule is 'a citizen of any country outside the United Kingdom', so DRC citizens may apply, including for a one-year master's. Admission depends on the course's grade and English-test requirements, and neither the grade nor a test score is recorded.",
+    "last_verified": "2026-11-19",
+    "notes": "9 November 2026: timeline page re-read; 8 December 2026 / 6 January 2027 (by course), results by 8 March 2027 and interviews 22-23 March 2027 unchanged. 19 November 2026: timeline, eligibility, how-to-apply and scholarship pages and the Cambridge application-fee and fee-waiver pages re-read. Main round 'usually either Tuesday 8th December 2026 or Wednesday 6th January 2027' (11:59pm UK time), results by 8 March 2027, interviews 22-23 March 2027 and offers by early April 2027 unchanged; maintenance GBP 23,152 (2026-27 rate), airfares, visa costs and the Immigration Health Surcharge unchanged. The fee-waiver list ('last updated September 2026') still names 'Congo (DRC)', with the fee waived automatically for nationals who have lived there since birth."
+  },
+  {
+    "id": "mastercard-foundation-scholars-cambridge-2027",
+    "deadline_text": "Funding deadline depends on the course. Cambridge postgraduate funding page: 'For 2027/28 entry, the main University funding deadlines are:' Tuesday 8 December 2026 and Wednesday 6 January 2027; 'To be considered for funding, you must submit your complete application, including references, by 23:59 GMT on the relevant deadline.' Check the chosen course page. Programme pages: offer letters are sent 'in late March or early April' (how to apply); 'Scholarship offer letters are sent in April.' (FAQ).",
+    "funding_details": [
+      "'In addition to course fees, a monthly living allowance and a return flight, the programme covers other expenses including the student visa and Immigration Health Surcharge (IHS).'",
+      "FAQ: 'We aim to cover everything you need to pursue your master’s and get the most out of your time in Cambridge, including:' course fee, maintenance / living allowance, visa and health surcharge, travel including flights and a taxi into Cambridge, and a laptop; 'We arrange transport from the airport to Cambridge'",
+      "Application fee waived automatically for listed countries, including 'Congo (Dem. Rep.)'; other countries must file the fee-waiver form by 20 November 2026"
+    ],
+    "eligibility_reason": "DRC position: the rule is 'Be from, and live in, an African country' with no eligibility country list, and 'Congo (Dem. Rep.)' is named on the programme's list of countries whose application fee is waived automatically. A DRC citizen living in the DRC with a bachelor's meets the nationality, residence and degree rules, and IELTS can follow an offer; the deciding unknown is the degree grade (a UK 2:1 or first equivalent, depending on the course).",
+    "sources": [
+      {
+        "label": "How to apply",
+        "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/how-apply",
+        "type": "Official"
+      },
+      {
+        "label": "Application process timeline",
+        "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/application-process-timeline",
+        "type": "Official"
+      },
+      {
+        "label": "What we offer",
+        "url": "https://www.mastercardfoundation.fund.cam.ac.uk/about-us/what-we-offer",
+        "type": "Official"
+      },
+      {
+        "label": "Eligibility",
+        "url": "https://www.mastercardfoundation.fund.cam.ac.uk/apply/eligibility",
+        "type": "Official"
+      },
+      {
+        "label": "2027 applications now open (11 September 2026)",
+        "url": "https://www.mastercardfoundation.fund.cam.ac.uk/news/2027-applications-now-open",
+        "type": "Official"
+      },
+      {
+        "label": "Cambridge postgraduate funding (2027/28 funding deadlines)",
+        "url": "https://www.postgraduate.study.cam.ac.uk/finance/funding",
+        "type": "Official"
+      },
+      {
+        "label": "Cambridge postgraduate application deadlines",
+        "url": "https://www.postgraduate.study.cam.ac.uk/applying/application-deadlines",
+        "type": "Official"
+      },
+      {
+        "label": "FAQ (no upper age limit; what the scholarship covers, including a laptop and the airport transfer)",
+        "url": "https://www.mastercardfoundation.fund.cam.ac.uk/faq",
+        "type": "Official"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "9 November 2026: how-to-apply and eligibility pages re-read; funding deadlines unchanged. The DRC is on the list of countries whose application fee is waived automatically; eligibility criterion 5 names sustainability and climate resilience. 19 November 2026: how-to-apply, timeline, what-we-offer, eligibility, FAQ and 2027/2028 news pages and the Cambridge funding and application-deadline pages re-read. Funding deadlines unchanged (8 December 2026 or 6 January 2027, 23:59 GMT, by course); the dated wording now sits on the Cambridge funding page (the old /finance/funding and /applying/application-deadlines addresses redirect to /funding and /apply/application-deadlines), while the programme timeline gives only 'either early December or early January'. 'Congo (Dem. Rep.)' is still on the automatic fee-waiver list. The FAQ, now added to sources, supports the 'no upper age limit' rule, the laptop and the airport transfer already in this record. The eligibility page adds: 'You can apply if you’re temporarily living outside of Africa for study or work.'"
+  },
+  {
+    "id": "mundus-mapp-2027",
+    "eligibility": [
+      "Bachelor's degree of at least three years from a recognised university",
+      "At least class 2.1 / Upper Second (if applicable) and a GPA of at least 3.17 out of 4.0, or equivalent; the GPA must be given on a 4.0 scale",
+      "Bachelor's degrees in Natural Sciences or Engineering are not eligible; social-science degrees or equivalent are normally given preference",
+      "Country of residence must differ from the countries of the chosen study track",
+      "Open to European and third-country nationals",
+      "English test score submitted with the online application unless exempt: 'Late submission of test scores is not permitted.'",
+      "High motivation and interest in European and international public policy, assessed through a statement of purpose"
+    ],
+    "language_requirement": "English test score uploaded with the application (taken within two years of the deadline, five years for the Cambridge exams): TOEFL iBT 95 or above (or 5 on the 1-6 scale), IELTS Academic 7 or above, Cambridge C1 Advanced or C2 Proficiency, Pearson PTE Academic 76 or above, or Duolingo 130 or above. Exempt: citizens of a listed set of English-speaking countries with an English-taught degree (the DRC is not on the list); others may request a waiver only for an English-taught degree from Australia, Canada, New Zealand, the USA, the EU, the UK, Iceland, Liechtenstein, Norway, Switzerland or a US/UK satellite campus.",
+    "eligibility_reason": "DRC position: the programme 'is open to both European and third country national students', so DRC citizens can apply (the DRC is not named). The degree must reach Upper Second / GPA 3.17 out of 4.0, and an English test score must be in the application by 1 December 2026; the profile records neither the grade nor a test score.",
+    "potential_issues": [
+      "Only a limited number of top-ranked applicants receive the EMJM scholarship; the page says to seek external funding as well",
+      "The scholarship does not cover travel and visa costs to the consortium countries, nor the Study Visit and Winter School (EUR 600-1000 each)",
+      "Degree grade must reach the Upper Second / 3.17 threshold",
+      "An English test score must be uploaded with the application by 1 December 2026 ('Late submission of test scores is not permitted'); none is recorded and DRC citizens are not on the exemption list",
+      "The consortium urges applicants from visa-sensitive countries to use the first deadline"
+    ],
+    "action": "Convert your degree average to a 4.0 scale and check that you hold an English test result (IELTS Academic 7, TOEFL iBT 95, Duolingo 130 or equivalent) that you can upload with the application, since late scores are not accepted. If both hold, apply before 1 December 2026, 23:59 CET, indicate the scholarship in the form, and budget for travel, visa, the study visit and the winter school, which the scholarship does not pay.",
+    "last_verified": "2026-11-19",
+    "notes": "2 November 2026 (rerun): the financial-aid page was read; the earlier label Fully Funded was not supported (limited awards, EUR 1,400 a month, travel and visa costs not covered), so it is now Substantially Funded. 9 November 2026: admissions calendar and financial-aid pages re-read; 1 December 2026, 23:59 CET and the scholarship terms unchanged. 19 November 2026: admissions calendar, admissions requirements, how-to-apply and financial-aid pages re-read. Dates unchanged (1 December 2026, 23:59 CET for financial aid; first-round decisions including the EMJM scholarship on 14 April 2027) and scholarship terms unchanged (EUR 1,400 a month, maximum EUR 33,600, full tuition waiver, insurance bought by the consortium; travel, visa, study visit and winter school not covered). The requirements page, compared in full, states what the record lacked: an English test score uploaded with the application and no late submission (TOEFL iBT 95, IELTS Academic 7, PTE 76, Duolingo 130, Cambridge C1/C2), an exemption list of citizens that does not include the DRC, Natural Sciences and Engineering degrees not eligible, social-science degrees preferred, and work experience preferred but not required. No CEU application fee for Mundus MAPP applicants; no separate scholarship application."
+  },
+  {
+    "id": "noha-erasmus-mundus-humanitarian-action-2027",
+    "funding_details": [
+      "Erasmus Mundus scholarship: '1.400€ per month x 24', which 'shall cover travel, visa, installation and subsistence costs'; 'The scholarship can only be awarded in full, and to full-time students.'",
+      "For the 2027-2029 intake: '4 scholarships from candidates from Programme Countries', '8 scholarships are targeted to students from Partner Countries' and '4 scholarships from candidates from concrete Targeted Regions' (Regions 1, 3, 5, 7, 8, 9, 10 and 11); 'no more than 10% of the total number of scholarships can be awarded to students from the same nationality'",
+      "Region 9 (Sub-Saharan Africa) includes 'Congo - Democratic Republic of the' in the Erasmus+ Programme Guide's list of eligible countries, which the NOHA page links to (the EPOG-JM scholarships page reproduces the same list)",
+      "Participation costs '4.000€ per semester (4 semester)', defined as tuition, library, laboratory and other mandatory costs; they 'include an insurance scheme for the duration of the studies' and do not cover accommodation, subsistence, travel or travel documents; whether scholarship holders are exempt is not stated on the page read",
+      "'In 2025, the NOHA master was once again selected as an Erasmus Mundus programme'; the FAQ says 'In July 2026, the NOHA Master was once again selected as an Erasmus Mundus programme and will continue to offer Erasmus Mundus scholarships for 4 editions.'"
+    ],
+    "nationality_requirements": [
+      "No nationality restriction stated; Erasmus Mundus scholarships are split between Programme Countries (4), Partner Countries (8) and Targeted Regions 1, 3, 5, 7, 8, 9, 10 and 11 (4); the DRC is listed in Region 9 Sub-Saharan Africa of the Erasmus+ Programme Guide"
+    ],
+    "potential_issues": [
+      "English test result must be in the file by 15 December 2026, 23:59 GMT, unless the bachelor's was taught entirely in English",
+      "Whether the EUR 4,000 per semester participation cost is waived for scholarship holders is not stated",
+      "The page gives two different years (2025 and July 2026) for the latest Erasmus Mundus selection",
+      "Very competitive: 16 Erasmus Mundus scholarships for the 2027-2029 intake, at most 10% per nationality; the page says successful candidates 'generally display exceptional academic performance alongside prior experience in the field of Humanitarian Action'"
+    ],
+    "sources": [
+      {
+        "label": "NOHA Master's",
+        "url": "https://www.nohanet.org/masters",
+        "type": "Official"
+      },
+      {
+        "label": "EPOG-JM scholarships page (Erasmus Mundus Region 9 country list)",
+        "url": "https://www.epog.eu/admission-and-scholarships/scholarships/",
+        "type": "Institutional"
+      },
+      {
+        "label": "Erasmus+ Programme Guide: eligible countries (Region 9 Sub-Saharan Africa lists the DRC)",
+        "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-a/eligible-countries",
+        "type": "Institutional"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "26 October 2026: the page is now consistent (2027-2029 cohort throughout; the '2026-2028' heading and the 'summer 2025' mention are gone). New on the page: call opened 1 October 2026; TOEFL iBT thresholds on the 0-5 scale; English-test exemption for BAs taught entirely in English; EM scholarship applicants must have graduated before the deadline. The page gives both '2025' and 'July 2026' for NOHA's latest Erasmus Mundus selection. 19 November 2026: nohanet.org/masters re-read in full. Dates unchanged (call opened 1 October 2026; Erasmus Mundus scholarship deadline '15 December 2026, 23.59pm GMT'; 1 April 2027 central deadline; 1 July 2027 for applicants without EU citizenship or residence; Erasmus Mundus results 'by the end of March'). Eligibility, English rules and the 4 + 8 + 4 scholarship split unchanged. Newly recorded from the same page: participation costs include an insurance scheme; at most 10% of scholarships per nationality; ineligible candidates are told at the beginning of January 2027 and may appeal within 7 days. The DRC's place in Region 9 is now cited from the Erasmus+ Programme Guide's eligible-countries page, which the NOHA page links to; the EPOG page still shows the same list."
+  },
+  {
+    "id": "abe-initiative-jica",
+    "deadline_text": "Set by each JICA country office. No 2027-intake call for the DRC was found on 2 October, 29 October or 19 November 2026: the JICA English ABE page (the stored address now redirects to the Africa Plaza ABE page, whose latest item is still dated 10 February 2025) gives no 2027 dates, and the JICA DRC office pages in English and French list no ABE call. South Africa's call for the 2027 intake ('Closing: 28 September 2026') has closed. A secondary source relays last year's JICA RDC call (13th batch), reported to have closed on 15 October 2025.",
+    "nationality_requirements": [
+      "Countries whose official requests have been approved by the Government of Japan (JICA page); apply through the JICA office of your country. No country list is published on the JICA pages read, so the DRC is not named there; a secondary source relays a JICA RDC call for last year's intake."
+    ],
+    "eligibility_reason": "The programme targets people working in the private sector, government or higher education; the profile records internships but no current employer, so the applicant category is unclear. The JICA pages read publish no country list (the programme serves countries whose requests Japan approved); the DRC is not named on them, although a secondary source relays a JICA RDC call for last year's intake.",
+    "potential_issues": [
+      "No DRC call for the 2027 intake was found on 19 November 2026; other countries' calls for the same intake have closed (South Africa: 28 September 2026), so the DRC call may already be past",
+      "Applicant category (private sector, official or educator) must be justified",
+      "Coverage not itemised on the JICA page",
+      "The JICA pages read publish no country list; the DRC is not named on them",
+      "The South Africa (DHET) call page behind the 28 September 2026 closing, the 22-39 age guide and the priority fields could not be re-read on 21 November 2026 (its content is not visible to automated readers); treat those details as unconfirmed",
+      "Reported by secondary sources: last year's JICA RDC call (13th batch) also required a licence with at least six months of professional experience and command of English; whether internships count is not stated"
+    ],
+    "action": "Contact the JICA DRC office in Kinshasa this week: ask whether a call for the 2027 intake is open or already closed, its deadline, and which applicant category (private sector, government or educator) fits your background.",
+    "sources": [
+      {
+        "label": "JICA: ABE Initiative (redirects to the Africa Plaza ABE page)",
+        "url": "https://www.jica.go.jp/english/countries/africa/internship.html",
+        "type": "Official"
+      },
+      {
+        "label": "Tokyo Tech: JICA ABE Initiative (2024 admission cycle)",
+        "url": "https://www.titech.ac.jp/english/international-student-exchange/prospective-students/graduate-programs/jica-a",
+        "type": "Institutional"
+      },
+      {
+        "label": "2027 intake call for South Africa (DHET)",
+        "url": "https://www.internationalscholarships.dhet.gov.za/index.php/scholarships/undergraduate-scholarships/341-japan-african-business-education-initiative-abe-initiative-2027-intake",
+        "type": "Institutional"
+      },
+      {
+        "label": "Secondary relay of last year's JICA RDC call",
+        "url": "https://yop.l-frii.com/ouverture-des-candidatures-du-programme-de-bourses-abe-initiative-de-lagence-japonaise-de-cooperation-internationale-jica-2026-2027/",
+        "type": "Aggregator"
+      },
+      {
+        "label": "JICA: Democratic Republic of the Congo country page (no ABE call listed on 19 November 2026)",
+        "url": "https://www.jica.go.jp/english/overseas/drc/index.html",
+        "type": "Official"
+      },
+      {
+        "label": "JICA: Activities in the Democratic Republic of the Congo (no ABE call listed)",
+        "url": "https://www.jica.go.jp/english/overseas/drc/activities/index.html",
+        "type": "Official"
+      },
+      {
+        "label": "JICA RDC (French): country page (no ABE call listed)",
+        "url": "https://www.jica.go.jp/french/overseas/drc/index.html",
+        "type": "Official"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "19 November 2026: JICA ABE page re-read (the stored URL redirects to https://www.jica.go.jp/english/africahiroba/business/detail/03/index.html; latest news item 10 February 2025; no 2027 dates; three applicant types unchanged; coverage still not itemised). JICA DRC country and activities pages (English) and the French DRC page list no ABE call. DHET South Africa 2027 call unchanged (closing 28 September 2026; 22-39 years on 1 April 2027). Web searches found no official JICA RDC call for the 2027 intake. Tokyo Tech page re-read with WebFetch (network error for the plain reader): unchanged ('The information in this page is about 2024 admission.'; JPY 146,000 monthly stipend as a Research Student; 'For the latest admission information from AY2025, please inquire JICA'), so funding_details stay as stored."
+  },
+  {
+    "id": "eric-bleumink-fellowship-groningen-2027",
+    "overview": "University of Groningen grant for nationals of listed developing countries (DR Congo included) admitted to a master's programme of 12-24 months starting on 1 September. It covers tuition, international travel, subsistence, books and health insurance. There is no direct application: the Admission Office nominates at most two candidates per faculty among applicants who applied before 1 December and hold an admission offer before 1 February; a maximum of four scholarships are awarded each year.",
+    "program_dates": "Master's programme of 12-24 months starting on 1 September (September 2027 for this cycle)",
+    "deadline_text": "Fellowship page (last modified 9 November 2026): 'It is not possible to actively apply for an Eric Bleumink Fellowship Scholarship.' 'Only applications submitted before 1 December in both Studielink and the Progress Portal will be considered for nomination.' Candidates need 'a provisional or unconditional admission offer for a Master's programme before 1 February'. Around the first week of January the Admissions Office selects at most two nominees per faculty, who send an EBF motivation letter within one week; nomination files go to the EBF committee before 1 February and nominees hear the outcome before 1 March. The page prints no year for these dates; for a September 2027 start the next 1 December is 1 December 2026, but no page states that year, so no date is recorded. FEB master's deadline for a September 2027 start: 'you need to apply before 1 May 2027'.",
+    "eligibility": [
+      "Nationality of a country on the 'Countries of Origin' list (includes 'Congo (Dem Rep.)')",
+      "Excellent academic performance, with excellent grades obtained during the undergraduate programme",
+      "Excellent English language proficiency, meeting the language requirements of the master's programme",
+      "Provisional or unconditional admission offer for a University of Groningen master's programme before 1 February; programmes whose admission depends on a selection procedure after 1 February are not eligible",
+      "Master's application submitted before 1 December in both Studielink and the Progress Portal",
+      "Available for the whole period of the programme; in good health so that Dutch health insurance can be arranged"
+    ],
+    "funding_details": [
+      "Tuition fee",
+      "Costs of international travel",
+      "Subsistence (amount not stated)",
+      "Books",
+      "Health insurance",
+      "A maximum of four scholarships are awarded each year; the page advises applicants to look for other scholarships as well"
+    ],
+    "participation_fee": "University of Groningen application fee for applicants with a non-Dutch qualification (amount not stated on the pages read); 'no application fee waiver is available for EBF scholarships candidates'",
+    "other_requirements": [
+      "Nomination by the Admission Office: at most two nominees per faculty, selected around the first week of January; candidates cannot apply directly",
+      "Nominees send an EBF motivation letter to the Admission Office within one week"
+    ],
+    "documents_required": [
+      "University of Groningen master's application (in Studielink and the Progress Portal)",
+      "Transcripts and degree",
+      "English test result",
+      "EBF motivation letter (only if nominated, within one week)"
+    ],
+    "application_process": [
+      "Choose a University of Groningen master's programme starting 1 September 2027 whose admission does not depend on a selection procedure after 1 February",
+      "Submit the master's application in both Studielink and the Progress Portal before 1 December (no year on the page; for September 2027 entry this is 1 December 2026) and pay the application fee (no waiver for EBF candidates)",
+      "Around the first week of January the Admissions Office selects at most two nominees per faculty; nominees send an EBF motivation letter within one week",
+      "An admission offer is needed before 1 February; nominees hear the outcome before 1 March; anyone not contacted by the Admissions Office by 1 February was not nominated"
+    ],
+    "eligibility_reason": "DR Congo ('Congo (Dem Rep.)') is on the fellowship's Countries of Origin list and the profile holds a bachelor's degree. The fellowship also needs excellent undergraduate grades (not recorded), English proficiency meeting the programme's requirements (no test score recorded), an application before 1 December and an admission offer before 1 February.",
+    "potential_issues": [
+      "English test score required and none recorded; the master's application must be in Studielink and the Progress Portal before 1 December",
+      "Selection by nomination only: at most two nominees per faculty and a maximum of four scholarships a year",
+      "Application fee payable, with no waiver for EBF candidates",
+      "'Before 1 December', 'before 1 February' and 'before 1 March' are stated without a year on the fellowship page",
+      "Programmes whose admission depends on a selection procedure after 1 February are not eligible",
+      "Accommodation is not itemised (subsistence is covered)"
+    ],
+    "action": "Book an IELTS Academic or TOEFL iBT test now, choose a Groningen master's (for example in the Faculty of Economics and Business) with no selection procedure after 1 February, and submit the application in Studielink and the Progress Portal before 1 December (the page gives no year; for September 2027 entry this is the coming 1 December).",
+    "sources": [
+      {
+        "label": "University of Groningen: Eric Bleumink Fellowship (countries, criteria, coverage, timing; last modified 9 November 2026)",
+        "url": "https://www.rug.nl/education/scholarships/eric-bleumink-fund",
+        "type": "Official"
+      },
+      {
+        "label": "University of Groningen FEB: Apply with an international diploma (application fee, 1 May 2027 deadline; last modified 28 July 2026)",
+        "url": "https://www.rug.nl/feb/education/admission-application/apply-msc/int-diploma/",
+        "type": "Official"
+      },
+      {
+        "label": "University of Groningen: Master's language requirements",
+        "url": "https://www.rug.nl/education/application-enrolment-tuition-fees/admission/procedures/application-informatie/with-non-dutch-diploma/entry-requirements/master-language-requirements",
+        "type": "Official"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "19 November 2026: the fellowship page was revised on 9 November 2026 (read with WebFetch; rug.nl gives a network error to the plain reader). Changes: the 'before 1st of December' / 'before February' wording became 'Only applications submitted before 1 December in both Studielink and the Progress Portal will be considered for nomination' and an admission offer 'before 1 February'; new timeline (nominees picked around the first week of January, EBF motivation letter within one week, files to the committee before 1 February, outcome before 1 March); at most two nominees per faculty; 'A maximum of four scholarships are awarded each year.'; 'no application fee waiver is available for EBF scholarships candidates'; programmes with a selection procedure after 1 February are not eligible. Removed because no longer on the page: 'no other means of financing' and the recommendation-letter preference. Unchanged: 'Congo (Dem Rep.)' on the Countries of Origin list; coverage 'tuition fee, costs of international travel, subsistence, books, and health insurance'. FEB page (last modified 28 July 2026): 'you need to apply before 1 May 2027' for September 2027; application fee for non-Dutch qualifications (no amount). The EUR 100 fee figure from earlier secondary snippets was dropped (not re-read). Not re-read today: the master's language requirements page (language_requirement left as stored). No dated deadline recorded: the year of '1 December' is not printed on any page read."
+  },
+  {
+    "id": "mastercard-foundation-scholars-uc-berkeley-2027",
+    "deadline_text": "Scholars Program page: 'September through early January: ... must first apply to the University of California, Berkeley through the regular admissions process. Admission application deadlines vary from September to early January with most in December.' Only first-round applicants (before January) are considered. 'November 15': applicants from African countries who completed the basic demographic information and named at least two recommenders in the graduate application were invited to apply for application-fee waivers (decisions before December 1); the page prints no year, and with the open 2027-2028 cycle this step fell on 15 November 2026 and has passed. February: supplemental application for nominated candidates; March: online interviews; late March or early April: final decisions. The Graduate Division says 'The application for the 2027-2028 admissions cycle is open.' Its programme list (read 19 November 2026 with WebFetch) gives: Public Policy MPP December 1, 2026; Public Health MPH - Health Policy and Management (2-year) December 1, 2026; Industrial Engineering and Operations Research MS December 15, 2026; Global Studies MA and Information Management and Systems MIMS January 6, 2027; Development Practice MDP February 23, 2027.",
+    "participation_fee": "UC Berkeley graduate application fee (amount not read); the Scholars Program's fee-waiver invitation step for African applicants (basic details and two recommenders by 'November 15') has passed",
+    "application_process": [
+      "Choose an eligible master's (for example Public Policy MPP, Development Practice MDP, Industrial Engineering and Operations Research MS, an MPH, or the MBA with Haas funding) and check its deadline on the Graduate Division site",
+      "Submit the 2027-2028 graduate application on gradapp.berkeley.edu by the programme's first-round deadline (most in December, all before January); the fee-waiver invitation step (basic details and two recommenders by 15 November) has passed",
+      "February: nominated candidates complete the supplemental application; March: online interviews; late March or early April: final decisions"
+    ],
+    "potential_issues": [
+      "Admission to UC Berkeley comes first and is highly competitive; only one programme may be applied to in the cycle",
+      "Programme deadlines are on the Graduate Division site, not on the Scholars Program page; the earliest for profile-relevant programmes is December 1, 2026 (Public Policy MPP, MPH Health Policy and Management)",
+      "The fee-waiver invitation step ('November 15', no year printed; 15 November 2026 for the open cycle) has passed, so the application fee is likely payable",
+      "Development Practice MDP is listed with a February 23, 2027 deadline, later than the Scholars Program's first-round (before January) rule; confirm with the Program before relying on it",
+      "MBA candidates must also win Haas scholarships (Round One deadline)",
+      "Health insurance is not itemised in the FAQ"
+    ],
+    "action": "If a Berkeley master's fits, submit the 2027-2028 graduate application by that programme's first-round deadline: Public Policy MPP closes December 1, 2026 and Industrial Engineering and Operations Research MS December 15, 2026 per the Graduate Division list. The 15 November fee-waiver step has passed, so budget for the application fee.",
+    "sources": [
+      {
+        "label": "UC Berkeley Mastercard Foundation Scholars Program: Graduate Application Process (sequence, eligible programmes)",
+        "url": "https://mcfscholarsprogram.berkeley.edu/graduate-application-process",
+        "type": "Official"
+      },
+      {
+        "label": "UC Berkeley Mastercard Foundation Scholars Program: Am I Eligible for the Scholarship?",
+        "url": "https://mcfscholarsprogram.berkeley.edu/am-i-eligible-scholarship",
+        "type": "Official"
+      },
+      {
+        "label": "UC Berkeley Mastercard Foundation Scholars Program: FAQ (expenses covered, visa)",
+        "url": "https://mcfscholarsprogram.berkeley.edu/faq-page",
+        "type": "Official"
+      },
+      {
+        "label": "UC Berkeley Graduate Division: Apply ('The application for the 2027-2028 admissions cycle is open')",
+        "url": "https://gradapp.berkeley.edu/apply/",
+        "type": "Official"
+      },
+      {
+        "label": "UC Berkeley Graduate Division: Our Programs (programme deadlines; table read with WebFetch)",
+        "url": "https://grad.berkeley.edu/admissions/our-programs/",
+        "type": "Official"
+      }
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "19 November 2026: re-read the Scholars Program process, eligibility and FAQ pages and the Graduate Division apply page with the plain reader: all unchanged (citizens of an African country, the DRC included by the general wording; comprehensive scholarship covering travel, tuition, fees, visa and SEVIS fees, housing, food, living expenses; F-1 visa from fall 2026; 2027-2028 cycle open; one programme per cycle). The 'November 15' fee-waiver step has now passed. Added the Graduate Division programme list (https://grad.berkeley.edu/admissions/choosing-your-program/list/ redirects to /admissions/our-programs/); the plain reader flattens its table and drops repeated dates, so the per-programme deadlines were read with WebFetch. application_deadline left empty: each eligible programme has its own deadline (umbrella record, open_now true); the orchestrator may prefer the earliest profile-relevant one (December 1, 2026)."
+  },
+  {
+    "id": "mauritius-africa-scholarship-scheme-2027",
+    "application_deadline": "2027-01-31",
+    "deadline_text": "Two stages (guidelines, section 9.3): '1. Apply for a seat in a public HEI by end of January 2027. The HEI will provide the applicant a receipt of having applied for a seat.' (recorded as 31 January 2027, the last day of that month). 2. Submit the 2027 application form through the nominating agency of your country, by 'a deadline to be communicated by the Nominating Agency' (it may fall earlier). The agency endorses at most 15 candidates and sends the files to the Ministry: 'Soft copies of all documents 17 March 2027; Hard copies of all documents 31 March 2027.' The call is dated October 2026.",
+    "participation_fee": "No scholarship application fee stated. The chosen Mauritian public university may charge an application fee: the guidelines let applicants submit 'a receipt of payment of the application fee from their chosen Mauritian public HEI' with the scholarship application, and 'The application fee shall be refunded to successful applicants.' Amount not stated.",
+    "potential_issues": [
+      "Partial funding only: capped tuition and an allowance that 'students are expected to supplement'",
+      "The outward ticket is refunded only after arrival, and the guidelines expect at least USD 1000 of the student's own money for the first phase of the stay",
+      "For a bachelor's holder the only levels are MPhil or MPhil/PhD (research degrees); there is no taught master's in the scheme",
+      "Nomination goes through the DRC Ministry of Higher Education, whose internal deadline is not published on the Mauritian pages and may fall before the end of January",
+      "The fee grid has separate SADC and non-SADC rates; the documents read do not say which applies to each country",
+      "Interrupting the studies to take up employment, or for any other non-medical reason, ends the scholarship and makes the awardee liable to refund the fees, allowance and airfare paid",
+      "The Mauritian university's application fee is paid up front and refunded only to successful applicants (amount not stated)"
+    ],
+    "last_verified": "2026-11-19",
+    "notes": "19 November 2026: re-read the MASS page (2027 documents still listed) and the three 2027 PDFs (call, guidelines, nominating agencies); the PDFs were read by extracting the text of the files WebFetch downloaded, because the plain reader returns raw PDF bytes and WebFetch could not decode them. Unchanged: call dated October 2026; 'resident citizens of active member states of the African Union or African Commonwealth countries'; MPhil/PhD applicants under 40 on 1 January 2028; seat by end of January 2027; agency files 17 March 2027 (soft) and 31 March 2027 (hard); tuition caps MUR 100,000 (SADC) and MUR 160,000 (non-SADC); MUR 16,500 monthly allowance as part support; airfare refunded after arrival; 'at least USD 1000' for day-to-day expenses at first. DRC: the 2027 list of nominating agencies still has entry 7, Democratic Republique of Congo, Minister of Higher Education, 6-8 Boulevard Colonel Tshatshi, Kinshasa/Gombe. Changes: application_deadline '' -> 2027-01-31 from 'Apply for a seat in a public HEI by end of January 2027' (the next stage the applicant must meet; the DRC agency's own date is unknown and may be earlier); participation_fee corrected from 'university application fees are not covered in the documents read' to the guidelines' wording (Part I, 2.2.1); one potential issue added."
+  },
+  {
+    "id": "erasmus-mundus-joint-masters-2027",
+    "funding_details": [
+      "European Commission page: 'Full scholarships are available for the best students.' Scholarships 'cover your participation costs and contribute to' travel, visa and a living allowance",
+      "As itemised by one consortium (GLOCAL): full tuition coverage, a monthly subsistence allowance for the whole programme, and an optional contribution to travel and installation costs",
+      "The monthly amount is reported as EUR 1,400 by secondary sources; it was not on the official pages read"
+    ],
+    "potential_issues": [
+      "Every programme has its own deadline, grade threshold and English requirement",
+      "Scholarships are competitive and limited per nationality in some programmes",
+      "The EACEA catalogue warns that some listed programmes do not offer Erasmus Mundus scholarships, because their funding period is ending or they only keep the Erasmus Mundus name after funding",
+      "Two programmes checked earlier no longer offer scholarships: PIONEER (none from the 2027 intake) and GLODEP (EMJM scholarships no longer listed)"
+    ],
+    "action": "Shortlist two or three programmes from the catalogue now, confirm on each programme's own website that it still offers Erasmus Mundus scholarships, and note its scholarship deadline; applications mostly run between October and January.",
+    "last_verified": "2026-11-19",
+    "notes": "19 November 2026: re-read the European Commission EMJM page (the stored URL redirects to https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters; last updated 26 June 2025) and the EACEA catalogue page. Unchanged: 'Students from all over the world are welcome' (all nationalities, so the DRC is included); bachelor's degree or last year of bachelor studies; 'In most cases, you should submit your application between October and January for courses starting the following academic year.' The catalogue now shows 189 projects with selection years up to 2026 and says: 'While many programs offer Erasmus Mundus scholarships, some do not, as they may be reaching the end of their funding period or have been granted a temporary use of the Erasmus Mundus name after funding.' Changes: funding_details first line now quotes the EC wording ('cover your participation costs and contribute to' travel, visa and a living allowance) instead of 'cover ... travel and visa costs and a living allowance'; potential issue added for the catalogue caveat; action updated. GLOCAL and the secondary EUR 1,400 figure were not re-read today (left as stored, labelled as before).",
+    "eligibility_for_me": "POSSIBLY ELIGIBLE"
+  }
+]
