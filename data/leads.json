@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "leads": [
     {
       "id": "fdd9afdcc7e3",
@@ -11,29 +11,12 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NOT CURRENTLY OPEN",
       "score": 85,
       "flags": [],
       "reviewed_on": "2026-11-24",
       "official_page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/programme-de-bourses-de-la-cea-et-de-l-oif-a-l-intention-de-jeunes-traductrices-et-traducteurs-africains"
-    },
-    {
-      "id": "937c76f80105",
-      "title": "Call for Applications: Enterprise Africa Network (EAN) Fellowship Programme Cohort 2 (2026/27)",
-      "url": "https://au.int/en/announcement/call-applications-enterprise-africa-network-ean-fellowship-programme-cohort-2-202627",
-      "source": "African Union Commission - Announcements (calls for applications)",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 85,
-      "flags": [],
-      "exclusion_reason": "The AU call says: 'The EAN Fellowship is open to youth- and women-led small enterprises that are: registered and operating in an AU Member State; formally registered as a business entity; operating for at least two years; and employing a minimum of three full-time staff.' The profile records no registered business. The call also closed ('Application Deadline: 30 September 2026').",
-      "exclusion_page": "https://au.int/en/announcement/call-applications-enterprise-africa-network-ean-fellowship-programme-cohort-2-202627",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "f4ff1d51bcf7",
@@ -48,40 +31,6 @@
       "status": "NEW",
       "score": 80,
       "flags": []
-    },
-    {
-      "id": "f37dbf3e8203",
-      "title": "Formation 21 Bourses d'études en Belgique en 2026",
-      "url": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/21-bourses-d-etudes-en-belgique-en-2026",
-      "source": "Organisation internationale de la Francophonie - Portail jeunesse - opportunités",
-      "source_tier": 1,
-      "language": "fr",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 80,
-      "flags": [],
-      "exclusion_reason": "Not a single call: the portal item is a generic roundup ('Suivez le lien pour en savoir plus et connaitre toutes les meilleures offres de bourses d'études en Belgique pour l'année universitaire 2026 et 2027.') that sends readers to a third-party listing site (unibourses.unifac.net), with no organiser, criteria or deadline.",
-      "exclusion_page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/21-bourses-d-etudes-en-belgique-en-2026",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "bdfafeccecab",
-      "title": "Ibrahim Leadership Fellowships",
-      "url": "https://mo.ibrahim.foundation/fellowships",
-      "source": "Mo Ibrahim Foundation - News and calls",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 80,
-      "flags": [],
-      "exclusion_reason": "The organiser's eligibility criteria require 'minimum 7 years' of relevant work experience' and a 'Master’s degree' ('Fellowships are open annually to young professionals, mid-career and new executives from Africa with relevant work experience and a master’s degree.'). The profile holds a Bachelor's (2024) and records under one year of internships. The 2027 call closes on 20 November 2026 ('Deadline : 20 November 2026').",
-      "exclusion_page": "https://mo.ibrahim.foundation/fellowships",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "4ba8baf8b5bd",
@@ -116,40 +65,6 @@
       "official_page": "https://www.turkiyeburslari.gov.tr/scholarshipsprograms"
     },
     {
-      "id": "fb84a7cdbd77",
-      "title": "24 September 2026 The cloud has a postcode: reflections on the CNBC Africa AI Summit 2026",
-      "url": "https://mo.ibrahim.foundation/news/2026/cloud-has-a-postcode-reflections-cnbc-africa-ai-summit-2026",
-      "source": "Mo Ibrahim Foundation - News and calls",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 78,
-      "flags": [],
-      "exclusion_reason": "The page is a blog/news reflection ('The cloud has a postcode: reflections on the CNBC Africa AI Summit 2026') about AI and data centres; it contains no call, application or programme.",
-      "exclusion_page": "https://mo.ibrahim.foundation/news/2026/cloud-has-a-postcode-reflections-cnbc-africa-ai-summit-2026",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "a2aa314fe4c6",
-      "title": "COMESA and Russia Strengthen Partnership at the Third Russia–Africa Summit",
-      "url": "https://www.comesa.int/comesa-and-russia-strengthen-partnership-at-the-third-russia-africa-summit/",
-      "source": "Common Market for Eastern and Southern Africa - News feed",
-      "source_tier": 1,
-      "language": "en",
-      "published": "2026-11-03",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 78,
-      "flags": [],
-      "exclusion_reason": "News report, not a call: COMESA's Secretary General 'undertook high-level engagements during the Third Russia–Africa Summit held in Moscow from 27 to 31 October 2026'. No application, eligibility or deadline.",
-      "exclusion_page": "https://www.comesa.int/comesa-and-russia-strengthen-partnership-at-the-third-russia-africa-summit/",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "0fe89502af90",
       "title": "Appel à candidatures YouthConnekt Africa Summit 2026 : les inscriptions sont ouvertes",
       "url": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel",
@@ -158,12 +73,56 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "OFFICIAL SOURCE FOUND",
       "score": 78,
       "flags": [],
       "reviewed_on": "2026-11-24",
       "official_page": "https://summit.youthconnektafrica.org/"
+    },
+    {
+      "id": "d8e102f5ef1b",
+      "title": "Women Economic Empowerment Programme",
+      "url": "https://www.sadc.int/pillars/women-economic-empowerment-programme",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "source_tier": 1,
+      "language": "en",
+      "published": "",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 73,
+      "flags": [
+        "check:gender-term:Women"
+      ]
+    },
+    {
+      "id": "46bbb2b8fd2c",
+      "title": "Strengthening National-Regional Linkages (SNRL) Programme Steering Committee reviews implementation progress towards accelerating SADC Regional Integration Agenda",
+      "url": "https://www.sadc.int/latest-news/strengthening-national-regional-linkages-snrl-programme-steering-committee-reviews",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "source_tier": 1,
+      "language": "en",
+      "published": "",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 73,
+      "flags": []
+    },
+    {
+      "id": "22deda61541e",
+      "title": "Grants Annexes Index Structure",
+      "url": "https://www.sadc.int/grants-annexes",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "source_tier": 1,
+      "language": "en",
+      "published": "",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 73,
+      "flags": []
     },
     {
       "id": "d2421b7c42ea",
@@ -180,193 +139,6 @@
       "flags": []
     },
     {
-      "id": "f33ffafba481",
-      "title": "Programme lié à la recherche",
-      "url": "https://www.wbi.be/fr/thematiques/programme-lie-recherche",
-      "source": "Wallonie-Bruxelles International - Actualités (stages, bourses)",
-      "source_tier": 1,
-      "language": "fr",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 73,
-      "flags": [],
-      "exclusion_reason": "Navigation page, not a call: a thematic index of WBI research-support services for Wallonia-Brussels research actors (Hubert Curien Tournesol, Enterprise Europe Network, Walmeet.eu). Page text: 'Le programme lié à la recherche de Wallonie-Bruxelles International est conçu pour soutenir et promouvoir des projets de recherche innovants.' and 'L’objectif du Département Recherche et Innovation (R&I) de WBI est de soutenir l’internationalisation des acteurs du secteur de la R&I en Wallonie-Bruxelles.'",
-      "exclusion_page": "https://www.wbi.be/fr/thematiques/programme-lie-recherche",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "ba41f33b9dcc",
-      "title": "Regional Leadership Centers Leadership training programs for leaders ages 18-35. More about Regional Leadership Centers",
-      "url": "https://yali.state.gov/rlc/",
-      "source": "Young African Leaders Initiative (US Department of State) - YALI programmes and courses",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "PUBLISHED",
-      "score": 73,
-      "flags": [],
-      "record_id": "rlc-east-africa",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "96a287f13814",
-      "title": "Organizational Development for Volunteer-Based Initiatives This course will help those seeking to create a successful plan for their community-oriented, volunteer-based initiatives. Organizational Development for Volunte",
-      "url": "https://yali.state.gov/courses/course-5361/",
-      "source": "Young African Leaders Initiative (US Department of State) - YALI programmes and courses",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "PUBLISHED",
-      "score": 73,
-      "flags": [],
-      "record_id": "yali-network-online-courses",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "95e5674911e7",
-      "title": "Grants Annexes Index Structure",
-      "url": "https://www.sadc.int/index.php/grants-annexes",
-      "source": "Southern African Development Community - Latest news (calls for entries)",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 73,
-      "flags": [],
-      "exclusion_reason": "An index of grant-contract templates for SADC grant beneficiaries ('Annex F – I Special Condition of Grant contract', 'Annex F – V.1 Model interim narrative report'); not an opportunity for individuals.",
-      "exclusion_page": "https://www.sadc.int/grants-annexes",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "8dcf6574a499",
-      "title": "Offre de stage à l'Organisation internationale pour les migrations (OIM)",
-      "url": "https://www.wbi.be/fr/actualites/offre-stage-lorganisation-internationale-migrations-oim",
-      "source": "Wallonie-Bruxelles International - Actualités (stages, bourses)",
-      "source_tier": 1,
-      "language": "fr",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 73,
-      "flags": [],
-      "exclusion_reason": "Six-month IOM internship in Brussels from February 2027 (WBI deadline 5 December 2026). At the time of applying the candidate must meet one of three conditions; the profile (not enrolled, Licence obtained in 2024) meets none: not 'inscrit.e en dernière année d’un programme universitaire de premier cycle', not pursuing graduate studies, and the third condition reads 'Être titulaire d’un diplôme universitaire et, s’il.elle est sélectionné.e, commencer le stage dans l’année suivant l’obtention de leur diplôme.' (a February 2027 start is more than a year after a 2024 degree). The page also states that candidates without a degree from, or studies at, a Fédération Wallonie-Bruxelles institution are ineligible for the WBI grant ('leur profil est considéré comme étant inéligible pour la bourse octroyée par Wallonie-Bruxelles International').",
-      "exclusion_page": "https://www.wbi.be/fr/actualites/offre-stage-lorganisation-internationale-migrations-oim",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "677f18ab7641",
-      "title": "Stage dans le domaine de la recherche",
-      "url": "https://www.wbi.be/fr/thematiques/stage-domaine-recherche",
-      "source": "Wallonie-Bruxelles International - Actualités (stages, bourses)",
-      "source_tier": 1,
-      "language": "fr",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 73,
-      "flags": [],
-      "exclusion_reason": "Navigation page, not a call: a thematic index ('Listes des aides et services') of WBI research-internship services, with no call, deadline or eligibility of its own. Page text: 'Wallonie-Bruxelles International joue un rôle important dans le soutien aux étudiants et chercheurs en offrant des opportunités de stages dans le domaine de la recherche.' The one current offer under this scheme (IOM, lead 8dcf6574a499) requires a Wallonia-Brussels degree.",
-      "exclusion_page": "https://www.wbi.be/fr/thematiques/stage-domaine-recherche",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "49f0899d9a18",
-      "title": "30 Years of the World Programme of Action for Youth",
-      "url": "https://www.un.org/youthaffairs/en/WPAY30",
-      "source": "United Nations Office of the Secretary-General's Envoy on Youth - Youth affairs",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 73,
-      "flags": [],
-      "exclusion_reason": "Not a current opportunity: information page on a one-off General Assembly high-level meeting held on 25 September 2025 for the 30th anniversary of the World Programme of Action for Youth. In-person registration was only for ECOSOC-accredited NGOs and specially accredited organisations and closed long ago ('Registration for in-person participation is now open until 15 August 2025'). No individual call and no funding.",
-      "exclusion_page": "https://www.un.org/youthaffairs/en/WPAY30",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "32f83d2193be",
-      "title": "Mastercard Foundation Fellows Program",
-      "url": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-fellows-program/",
-      "source": "Mastercard Foundation - News and programmes",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 73,
-      "flags": [],
-      "exclusion_reason": "The organiser's page states: 'The Mastercard Foundation Fellows Program is open to First Nations, Inuit, and Métis youth who reside in Canada (aged 22-34).' The profile is a DRC national resident in the DRC. (Not related to the Mastercard Foundation Scholars Program.)",
-      "exclusion_page": "https://mastercardfdn.org/en/what-we-do/our-programs/mastercard-foundation-fellows-program/",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "317eedd2034c",
-      "title": "Enseignement, formation, stage et emploi",
-      "url": "https://www.wbi.be/fr/thematiques/enseignement-formation-stage-emploi",
-      "source": "Wallonie-Bruxelles International - Actualités (stages, bourses)",
-      "source_tier": 1,
-      "language": "fr",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 73,
-      "flags": [],
-      "exclusion_reason": "Navigation page, not a call: a thematic index ('Listes des aides et services') of WBI services for outgoing mobility, with no call, deadline or eligibility of its own. Page text: 'Les programmes soutenus par Wallonie-Bruxelles International en appui d’une mobilité internationale sortante s’adressent à différents types de profils et proposent des projets de mobilité à des fins de formation ou d’apprentissage assez divers.'",
-      "exclusion_page": "https://www.wbi.be/fr/thematiques/enseignement-formation-stage-emploi",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "0c7b4dc53d50",
-      "title": "Women Economic Empowerment Programme",
-      "url": "https://www.sadc.int/index.php/pillars/women-economic-empowerment-programme",
-      "source": "Southern African Development Community - Latest news (calls for entries)",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 73,
-      "flags": [
-        "check:gender-term:Women"
-      ],
-      "exclusion_reason": "A SADC policy (pillar) page about a regional programme for Member States: 'In 2019 SADC adopted the Regional Multi-Dimensional Women’s Economic Empowerment Programme 2020-2030 (RMDWEEP)'. No call, deadline or application route for individuals.",
-      "exclusion_page": "https://www.sadc.int/pillars/women-economic-empowerment-programme",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "0bcfbc5f20e9",
-      "title": "Reflections from the ECOSOC Youth Forum",
-      "url": "https://www.un.org/youthaffairs/en/news/lived-experience-shared-action-reflections-ecosoc-youth-forum",
-      "source": "United Nations Office of the Secretary-General's Envoy on Youth - Youth affairs",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 73,
-      "flags": [],
-      "exclusion_reason": "Not an opportunity: a reflection article by two UN Youth Office Youth Reference Group members about attending the 2026 ECOSOC Youth Forum ('Attending the 2026 ECOSOC Youth Forum as members of the United Nations Youth Office Reference Group was both a collective milestone and a deeply personal experience.'). It contains no call for applications.",
-      "exclusion_page": "https://www.un.org/youthaffairs/en/news/lived-experience-shared-action-reflections-ecosoc-youth-forum",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "8fe918dad649",
       "title": "Yale Visiting African Scholars Fellowship 2027–2028 in the USA | Stipend and Research Support",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/yale-visiting-african-scholars-fellowship-2027-2028-in-the-usa-stipend-and-research-support/",
@@ -375,7 +147,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 65,
       "flags": []
@@ -389,7 +161,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 65,
       "flags": []
@@ -407,23 +179,6 @@
       "status": "NEW",
       "score": 65,
       "flags": []
-    },
-    {
-      "id": "a04f8d6ea80a",
-      "title": "The West African Health Organisation (WAHO) 2026/2027 Doctoral and Master’s Scholarships in Public Health.",
-      "url": "https://www.opportunitiesforafricans.com/the-west-african-health-organisation-waho-2026-2027-doctoral-and-masters-scholarships-in-public-health/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-19",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 65,
-      "flags": [],
-      "exclusion_reason": "The organiser's call page states: 'They are open to nationals of the 12 ECOWAS Member States under 40.' The same page lists the member states (Benin, Cape Verde, Gambia, Ghana, Guinea, Guinea Bissau, Ivory Coast, Liberia, Nigeria, Senegal, Sierra Leone, Togo); the Democratic Republic of the Congo is not among them. (Deadline extended to 31 December 2026.)",
-      "exclusion_page": "https://www.wahooas.org/web-ooas/news/call-applications-36-doctoral-and-masters-scholarships-public-health-2026-2027",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "14002c1a1bbc",
@@ -473,38 +228,6 @@
       "official_page": "https://www.youthassembly.org/2026/10/16/young-african-leaders-scholarships/"
     },
     {
-      "id": "cbcee7028ed3",
-      "title": "E-JUST TICAD9 African Scholarship for STI – Fall 2027",
-      "url": "https://opportunitydesk.org/2026/11/12/e-just-ticad9-african-scholarship-for-sti-fall-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "status": "PUBLISHED",
-      "score": 65,
-      "flags": [],
-      "last_seen": "2026-11-13",
-      "record_id": "e-just-ticad9-fall-2027",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "52fe64b7db30",
-      "title": "Egypt-Japan University of Science and Technology (E-JUST) TICAD9 Postgraduate Scholarship Program 2027 for African graduates. (Fully Funded)",
-      "url": "https://www.opportunitiesforafricans.com/egypt-japan-university-of-science-and-technology-e-just-ticad9-postgraduate-scholarship-program-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-12",
-      "first_seen": "2026-11-13",
-      "status": "PUBLISHED",
-      "score": 65,
-      "flags": [],
-      "last_seen": "2026-11-13",
-      "record_id": "e-just-ticad9-fall-2027",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "111356569984",
       "title": "Africa Dyslexia Teacher Fellowship Program 2027",
       "url": "https://opportunitydesk.org/2026/11/11/africa-dyslexia-teacher-fellowship-program-2027/",
@@ -534,6 +257,81 @@
       "last_seen": "2026-11-11",
       "reviewed_on": "2026-11-24",
       "official_page": "https://ieo.shou.edu.cn/2026/0828/c18223a354919/page.htm"
+    },
+    {
+      "id": "f6b2107424f1",
+      "title": "Call for Applications: Better Futures Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/11/24/better-futures-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "cc0186c4fcae",
+      "title": "Cora Weiss Fellowship for Young Women Peacebuilders 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/25/cora-weiss-fellowship-for-young-women-peacebuilders-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 60,
+      "flags": [
+        "check:gender-term:Women"
+      ]
+    },
+    {
+      "id": "6aed42a03cb8",
+      "title": "Robertson Foundation Global Governance Leadership Lab 2027 (Fully-funded)",
+      "url": "https://opportunitydesk.org/2026/11/24/robertson-foundation-global-governance-leadership-lab-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 60,
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "355f8988978f",
+      "title": "SparkUp Initiative Fellowship 2027",
+      "url": "https://opportunitydesk.org/2026/11/24/sparkup-initiative-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
+      "id": "345990a0e1d4",
+      "title": "Microsoft Datacenter Academy 2026: Free IT Training, Hands-On Datacenter Experience, Mentorship, Internships, Scholarships and Career Opportunities",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/microsoft-datacenter-academy-2026-free-it-training-hands-on-datacenter-experience-mentorship-internships-scholarships-and-career-opportunities/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
     },
     {
       "id": "9e4760c7576d",
@@ -572,7 +370,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -586,7 +384,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -614,7 +412,7 @@
       "language": "en",
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -645,7 +443,7 @@
       "language": "en",
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -690,7 +488,7 @@
       "language": "en",
       "published": "2026-11-20",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -888,26 +686,6 @@
       "last_seen": "2026-11-19"
     },
     {
-      "id": "669c9b19a605",
-      "title": "DAAD Heilbronn AI Fellowship 2027 (Funded)",
-      "url": "https://opportunitydesk.org/2026/11/17/daad-heilbronn-ai-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ],
-      "score": 60,
-      "flags": [],
-      "last_seen": "2026-11-21",
-      "exclusion_reason": "DAAD's scholarship-database entry for the Heilbronn AI Fellowships targets 'International PhD candidates or postdoctoral researchers who obtained a PhD/doctorate no more than five years ago' and says PhD candidates should be in the final year before their dissertation defence. The profile holds a Bachelor's degree only and is not enrolled in a doctorate. (Page answers HTTP 403 to the repo reader; read with WebFetch.)",
-      "exclusion_page": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57883183",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "3577209efa13",
       "title": "iDAC Foundation Summer Fellowship 2027 ($6,000 stipend)",
       "url": "https://opportunitydesk.org/2026/11/17/idac-foundation-summer-fellowship-2027/",
@@ -970,23 +748,6 @@
       "last_seen": "2026-11-19"
     },
     {
-      "id": "9c8f58444ef6",
-      "title": "Leadership and Peace Summit Morocco 2027 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/leadership-and-peace-summit-morocco/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 60,
-      "flags": [],
-      "last_seen": "2026-11-24",
-      "exclusion_reason": "Pay-to-attend summit, not a fully funded one. The only registration page is an Eventbrite ticket page by 'School of Leadership and Diplomacy (SLD)' (the aggregator names a different organiser, 'Voice for Rights International (VFRI)'); it lists the FAQ items 'How much is the fee to apply?' and 'Is the application / Processing Fee refundable if I am not selected?' and states 'No refunds'. 'Fully Funded' appears only on the aggregator, which itself describes '100% waiver of the Conference fee for 10 Delegates'. Unclear organiser plus an application fee: scam screen.",
-      "exclusion_page": "https://www.eventbrite.ca/e/leadership-and-peace-summit-morocco-2027-tickets-2001166056545",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "83848f3ea82f",
       "title": "International Court of Justice Judicial Fellowship Programme 2027-2028",
       "url": "https://opportunitydesk.org/2026/11/16/icj-judicial-fellowship-2027-2028/",
@@ -1016,7 +777,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "also_seen_in": [
         "OYA Opportunities"
       ]
@@ -1050,7 +811,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-24"
+      "last_seen": "2026-11-25"
     },
     {
       "id": "755639a52780",
@@ -1067,7 +828,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-24"
+      "last_seen": "2026-11-25"
     },
     {
       "id": "de2725ae424d",
@@ -1112,24 +873,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-24"
-    },
-    {
-      "id": "6c461f707486",
-      "title": "2027 Fully Funded Youth Delegate Programme: Apply for the Council of Europe Congress in Strasbourg",
-      "url": "https://opportunitiesforyouth.org/2026/11/14/2027-fully-funded-youth-delegate-programme-apply-for-the-council-of-europe-congress-in-strasbourg/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-14",
-      "first_seen": "2026-11-15",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 60,
-      "flags": [],
-      "last_seen": "2026-11-15",
-      "exclusion_reason": "The organiser's own call (Congress of Local and Regional Authorities of the Council of Europe, call dated 4 November 2026, deadline 30 November 2026) lists under 'Profile of candidates' the requirement: 'live in and hold the passport of one of the 46 Council of Europe member States'. The profile records nationality and residence as the Democratic Republic of the Congo, which is not a Council of Europe member State and is not mentioned on the call. The call does fund travel, subsistence and accommodation, but only for delegates who meet that rule. The call is a PDF on rm.coe.int (HTTP 200 to the repo reader as a binary PDF, so the text was extracted from those bytes with a PDF parser; WebFetch gets 403); the aggregator page named by the lead (opportunitiesforyouth.org) reproduces the same sentence.",
-      "exclusion_page": "https://rm.coe.int/call-for-applications-2027-yd-en/48802ea170",
-      "reviewed_on": "2026-11-24"
+      "last_seen": "2026-11-25"
     },
     {
       "id": "66bacd6c0907",
@@ -1247,23 +991,6 @@
       "last_seen": "2026-11-13"
     },
     {
-      "id": "5b650481d03b",
-      "title": "Global Youth Forum 2027 in Italy: €600 Scholarships Available for Eligible Applicants",
-      "url": "https://opportunitiesforyouth.org/2026/11/13/global-youth-forum-2027-in-italy-e600-scholarships-available-for-eligible-applicants/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-13",
-      "first_seen": "2026-11-13",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 60,
-      "flags": [],
-      "last_seen": "2026-11-13",
-      "exclusion_reason": "A paid training course, not a funded forum. The organiser (International Training Centre of the ILO, Turin; Global Youth Forum 2027, 18-29 January 2027) lists the price as Tuition €2,330 and Subsistence €1,620, Total €3,950, and offers only partial awards: ‘ITCILO scholarships of €600 EUR available to nationals of countries included in the DAC list of ODA recipients’ (scholarship applications by 20 November 2026; course deadline 3 December 2026). Even with the award the applicant would pay about €3,350 plus flights and a Schengen visa.",
-      "exclusion_page": "https://www.itcilo.org/courses/global-youth-forum-2027",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "18609da22e53",
       "title": "RC Trust Internship 2027 in Germany (Fully Funded)",
       "url": "https://opportunitiescorners.com/rc-trust-internship-2027/",
@@ -1352,23 +1079,6 @@
       "score": 60,
       "flags": [],
       "last_seen": "2026-11-18"
-    },
-    {
-      "id": "42598d849272",
-      "title": "Young Political Economy Forum Hong Kong 2026 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/young-political-economy-forum-hong-kong-2026/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 60,
-      "flags": [],
-      "last_seen": "2026-11-12",
-      "exclusion_reason": "Fee and closed deadline on the organiser's page (CIPES, with The Hang Seng University of Hong Kong): a paid forum (Self Funded '$ 599 / delegate', Forum Access '$ 200 / delegate') where even the 'Fully Funded' route is listed at '$ 16.99 awarded on merit', and 'Your place is confirmed only once registration and payment are complete beforehand, including for delegates awarded funding.' Only 10 full awards (airfare support 'ranging from USD 300 to USD 1,000'). The page's deadline reads 'NOV 12' and the forum runs 17-20 December 2026, so the call is also closed. The aggregator's 'Fully Funded' title overstates it.",
-      "exclusion_page": "https://thecipes.org/ypef-hongkong-2026",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "3daf4d27b904",
@@ -1562,23 +1272,6 @@
       "last_seen": "2026-11-05"
     },
     {
-      "id": "9d976373aab3",
-      "title": "The International Journalists‘ Programmes (IJP) Southern-African Journalists’ Fellowship Programme 2027 in Germany (3,500 Euro Stipend).",
-      "url": "https://www.opportunitiesforafricans.com/the-international-journalists-programmes-ijp-southern-african-journalists-fellowship-programme-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-02",
-      "first_seen": "2026-11-02",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 60,
-      "flags": [],
-      "last_seen": "2026-11-02",
-      "exclusion_reason": "IJP's own page: 'All journalists from Southern Africa (SADC Member States and Kenya) between the age of 25 and 40 who regularly work for a media organisation can apply.' The profile records three short internships (logistics, public-sector research, vaccination monitoring) and no journalism or media employment. (The DRC itself is eligible as a SADC member; deadline 20 January 2027.)",
-      "exclusion_page": "https://ijp.org/en/programmes/southernafrica/",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "1610795403ac",
       "title": "IDM-Africa Fellowship Programme 2027",
       "url": "https://opportunitydesk.org/2026/10/24/idm-africa-fellowship-programme-2027/",
@@ -1614,6 +1307,34 @@
       "official_page": "https://www.globalsouthopportunities.com/2026/10/23/nrf-6/"
     },
     {
+      "id": "9391ad6dc3f1",
+      "title": "Africa–EU Space Partnership Business Innovation Programme 2027 (Cohort 2): €20,000 Funding, Expert Mentorship and Business Growth Opportunities for African Earth Observation Startups and SMEs",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/africa-eu-space-partnership-business-innovation-programme-2027-cohort-2-e20000-funding-expert-mentorship-and-business-growth-opportunities-for-african-earth-observation-startups-and-smes/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 58,
+      "flags": []
+    },
+    {
+      "id": "0d3c86346d93",
+      "title": "African Union Development Agency Energize Africa Health Fellows Program 2027",
+      "url": "https://opportunitydesk.org/2026/11/25/energize-africa-health-fellows-program-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 58,
+      "flags": []
+    },
+    {
       "id": "237c0faa010a",
       "title": "The AUDA-NEPAD Energize Africa Health Fellows Programme 2026/2027 for African professionals (All-inclusive gross annual remuneration of US$27,200)",
       "url": "https://www.opportunitiesforafricans.com/the-auda-nepad-energize-africa-health-fellows-programme/",
@@ -1622,10 +1343,13 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 58,
-      "flags": []
+      "flags": [],
+      "also_seen_in": [
+        "Common Market for Eastern and Southern Africa - News feed"
+      ]
     },
     {
       "id": "102c1b5e0cdd",
@@ -1636,10 +1360,13 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 58,
-      "flags": []
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
     },
     {
       "id": "ff768a4717c6",
@@ -1650,7 +1377,7 @@
       "language": "en",
       "published": "2026-11-22",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 58,
       "flags": []
@@ -1827,7 +1554,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "also_seen_in": [
         "Opportunities for Youth",
         "OYA Opportunities"
@@ -1846,23 +1573,6 @@
       "score": 55,
       "flags": [],
       "last_seen": "2026-11-10"
-    },
-    {
-      "id": "980212669771",
-      "title": "Morgridge Acceleration Program (MAP) Fellowship 2027 (Funded)",
-      "url": "https://opportunitydesk.org/2026/11/09/morgridge-acceleration-program-fellowship-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-09",
-      "first_seen": "2026-11-10",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 55,
-      "flags": [],
-      "last_seen": "2026-11-10",
-      "exclusion_reason": "The organiser's FAQ: 'Applicants must be based in the United States for the duration of the Fellowship.' and 'Fellows must be based in the United States'. The profile resides in the DRC.",
-      "exclusion_page": "https://morgridgefamilyfoundation.org/morgridge-acceleration-program",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "5bba70dfe33a",
@@ -2150,23 +1860,6 @@
       "last_seen": "2026-11-04"
     },
     {
-      "id": "c9c4c00cf0d6",
-      "title": "The ILO Better Regional Migration Management (BRMM) Programme University Essay Writing Competition 2026 (Fully Funded to Fifth LMAG in Zanzibar)",
-      "url": "https://www.opportunitiesforafricans.com/the-ilo-better-regional-migration-management-brmm-programme-university-essay-writing-competition-2026/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 55,
-      "flags": [],
-      "last_seen": "2026-11-04",
-      "exclusion_reason": "The ILO page says the three BRMM competitions invite entrants from a closed country list that does not include the DRC: 'The International Labour Organization (ILO) has launched three competitions inviting students, researchers, journalists and media creators from Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda'. The essay competition is also for 'university students' and the profile is not enrolled. Entries close on 25 November 2026.",
-      "exclusion_page": "https://www.ilo.org/resource/news/ilo-launches-three-writing-competitions-safe-labour-migration-east-and-horn",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "c47d8d3864f4",
       "title": "CEPS Climate Leadership Program 2027 in Belgium (Fully Funded)",
       "url": "https://opportunitiescorners.com/ceps-climate-leadership-program-2027-in-belgium-fully-funded/",
@@ -2281,26 +1974,6 @@
       "score": 55,
       "flags": [],
       "last_seen": "2026-11-02"
-    },
-    {
-      "id": "66bfb9cc5ea9",
-      "title": "Japan WINTER Culture Camp 2027 (Fully Funded)",
-      "url": "https://opportunitiescorners.com/japan-winter-culture-camp-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-02",
-      "first_seen": "2026-11-02",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ],
-      "score": 55,
-      "flags": [],
-      "last_seen": "2026-11-02",
-      "exclusion_reason": "Pay-to-apply camp, not fully funded. AYFN Academy's own scholarship page makes applicants buy a non-refundable e-book to apply ('The title of the Ebook that you need to purchase for applying the scholarship (Japan Camp) is Travel and Global Career'; 'The Ebook product is non refundable in any circumtances.'). The best award is a program-fee waiver plus a travel grant 'up to USD 750'; the self-funded track costs 'Starts from USD 1,000'. A disguised application fee and 'fully funded' only on the aggregator: scam screen.",
-      "exclusion_page": "https://ayfnhq.org/scholarship-type-and-coverage-winter-japan-culture-camp-2027/",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "42af04ebd586",
@@ -2636,26 +2309,6 @@
       "last_seen": "2026-10-28"
     },
     {
-      "id": "95ac34302040",
-      "title": "Fulbright U.S.-ASEAN Visiting Scholar Program 2027 (Fully-funded)",
-      "url": "https://opportunitydesk.org/2026/10/26/fulbright-us-asean-visiting-scholar-program-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "also_seen_in": [
-        "OYA Opportunities"
-      ],
-      "score": 55,
-      "flags": [],
-      "last_seen": "2026-10-27",
-      "exclusion_reason": "The Philippine-American Educational Foundation (Fulbright Philippines) page says applicants 'must be citizens of one of the 10 ASEAN member states or Timor-Leste'. The Democratic Republic of the Congo is neither. (The Philippine deadline was October 16, 2026.)",
-      "exclusion_page": "https://www.fulbright.org.ph/index.php/fulbright-u-s-asean-visiting-scholar-program",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "31865b128f7d",
       "title": "Comment reconnaître une fausse offre de bourse ou d’emploi",
       "url": "https://afri-carrieres.com/reconnaitre-fausse-offre-de-bourse-ou-demploi/",
@@ -2667,7 +2320,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-24"
+      "last_seen": "2026-11-25"
     },
     {
       "id": "1f187515b03d",
@@ -2819,23 +2472,6 @@
       "last_seen": "2026-10-25"
     },
     {
-      "id": "f854023f7aee",
-      "title": "Human Rights Summit 2027 in Canada (Fully Funded)",
-      "url": "https://opportunitiescorners.com/human-rights-summit-2027-in-canada/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-23",
-      "first_seen": "2026-10-24",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 55,
-      "flags": [],
-      "last_seen": "2026-10-24",
-      "exclusion_reason": "Application fee on the organiser's page (Voice for Rights International, vfri.ca): 'Pay the applicable processing fee and submit your application.' It is not fully funded: only '100% Conference Fee Waiver for 20 selected delegates' with 'Partial Airfare Support in the Form of Reimbursement'; the rest are partially sponsored or self-sponsored delegates. Deadline 30 November 2026; summit 21-24 May 2027 in Vancouver. All nationalities aged 16+ may apply, so the DRC is not excluded; the fee is the problem. 'Fully Funded' appears only on the aggregator.",
-      "exclusion_page": "https://www.vfri.ca/human-rights-summit-canada-2027/",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "bb43ac1e224a",
       "title": "Dalhousie University Scholarships for International Students 2026–2027 in Canada",
       "url": "https://www.globalsouthopportunities.com/2026/10/23/dalhousie/",
@@ -2893,23 +2529,6 @@
       "score": 55,
       "flags": [],
       "last_seen": "2026-10-23"
-    },
-    {
-      "id": "e030979e1ea8",
-      "title": "London Youth Diplomacy Forum 2027 in the UK (Fully Funded)",
-      "url": "https://opportunitiescorners.com/london-youth-diplomacy-forum-2027/",
-      "source": "Opportunities Corners",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "status": "REJECTED - NOT A LEGITIMATE OPPORTUNITY",
-      "score": 55,
-      "flags": [],
-      "last_seen": "2026-10-23",
-      "exclusion_reason": "Fee-based and unverifiable. The only page found is the aggregator post itself, which says 'Complete the Form and pay the required application fees' and lists 'Forum fee waiver of up to $500' (so a forum fee exists) plus a self-funded 'Direct Forum Access' category. The organiser is named only as 'Youth Diplomatic Academy (YDA)'; the post links no official event page of its own, two web searches found no official YDA website (only copies of the same post on other aggregators, one of which gives an application fee of $29), and its two application forms are Cognito Forms pages that show only a title to the readers. The 'fully funded' wording therefore exists only on aggregators and is attached to a paid application.",
-      "exclusion_page": "https://opportunitiescorners.com/london-youth-diplomacy-forum-2027/",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "8bd3550fde69",
@@ -3021,10 +2640,13 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 53,
-      "flags": []
+      "flags": [],
+      "also_seen_in": [
+        "Opportunity Desk"
+      ]
     },
     {
       "id": "6369f2a4c542",
@@ -3063,10 +2685,14 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 53,
-      "flags": []
+      "flags": [],
+      "also_seen_in": [
+        "Opportunity Desk",
+        "OYA Opportunities"
+      ]
     },
     {
       "id": "00266bca3b48",
@@ -3077,20 +2703,6 @@
       "language": "fr",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
-      "status": "NEW",
-      "score": 53,
-      "flags": []
-    },
-    {
-      "id": "9df20819a59e",
-      "title": "United Nations Young Professionals Programme (YPP) 2026–2027",
-      "url": "https://oyaop.com/opportunity/exchange-programs/united-nations-young-professionals-programme-ypp-2026-2027/",
-      "source": "OYA Opportunities",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-23",
-      "first_seen": "2026-11-23",
       "last_seen": "2026-11-24",
       "status": "NEW",
       "score": 53,
@@ -3374,23 +2986,6 @@
       "last_seen": "2026-11-18"
     },
     {
-      "id": "0be73daf4eff",
-      "title": "CitizensNYC Neighborhood Business Grant 2027 (up to $5,000)",
-      "url": "https://opportunitydesk.org/2026/11/17/citizensnyc-neighborhood-business-grant-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 53,
-      "flags": [],
-      "last_seen": "2026-11-18",
-      "exclusion_reason": "The organiser's eligibility section: 'Their business must be located in one of New York City’s five boroughs.' and 'Their business has been operating for at least two years.' The profile resides in the DRC and records no business.",
-      "exclusion_page": "https://www.citizensnyc.org/nbg/",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "b69fe1d94953",
       "title": "Ashoka Young Changemakers Program 2026 | Nominate Young Social Innovators",
       "url": "https://oyaop.com/opportunity/exchange-programs/ashoka-young-changemakers-program-2026-nominate-young-social-innovators/",
@@ -3433,27 +3028,6 @@
       "last_seen": "2026-11-17"
     },
     {
-      "id": "14bfdd2e0e3c",
-      "title": "Zoom AI Launchpad Startup Grants 2027",
-      "url": "https://opportunitydesk.org/2026/11/16/zoom-ai-launchpad-startup-grants-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "also_seen_in": [
-        "Opportunities for Africans",
-        "OYA Opportunities"
-      ],
-      "score": 53,
-      "flags": [],
-      "last_seen": "2026-11-21",
-      "exclusion_reason": "The grant terms on the organiser's page: 'The Program is open to eligible startups and emerging companies building AI-driven products or services'. It gives platform credits, not cash, and 'Participant must maintain a valid payment method or other approved billing arrangement' for overage charges. The profile records no business.",
-      "exclusion_page": "https://www.zoom.ai/ai-launchpad",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "d4b27e579a4a",
       "title": "Council of Europe Grants for Civil Society Organisations 2026 (up to €20,000)",
       "url": "https://opportunitydesk.org/2026/11/14/council-of-europe-grants-for-civil-society-organisations-2026/",
@@ -3470,40 +3044,6 @@
       "score": 53,
       "flags": [],
       "last_seen": "2026-11-19"
-    },
-    {
-      "id": "98da409ac768",
-      "title": "UNICEF USA Youth Council Learning Exchange 2027: Six-Month Virtual Programme Invites U.S. City and County Leaders to Strengthen Youth Participation in Local Government",
-      "url": "https://opportunitiesforyouth.org/2026/11/14/unicef-usa-youth-council-learning-exchange-2027-six-month-virtual-programme-invites-u-s-city-and-county-leaders-to-strengthen-youth-participation-in-local-government/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-14",
-      "first_seen": "2026-11-15",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 53,
-      "flags": [],
-      "last_seen": "2026-11-15",
-      "exclusion_reason": "UNICEF USA's own expression-of-interest form describes a 'Learning Exchange for Cities' within its work 'focused on supporting cities in establishing or strengthening Youth Councils', asks for the 'City/justisdiction you represent' and says 'we'll follow up by the end of December to let you know whether your city has been selected'. It is for local-government staff of (U.S.) cities; the profile holds no such role.",
-      "exclusion_page": "https://www.surveymonkey.com/r/HNY8FTZ",
-      "reviewed_on": "2026-11-24"
-    },
-    {
-      "id": "68ae5926432a",
-      "title": "US-UK Fulbright Commission UK Summer Institutes 2027 (Funded)",
-      "url": "https://opportunitydesk.org/2026/11/13/us-uk-fulbright-commission-uk-summer-institutes-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-13",
-      "first_seen": "2026-11-14",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 53,
-      "flags": [],
-      "last_seen": "2026-11-14",
-      "exclusion_reason": "The US-UK Fulbright Commission page says: 'To be eligible, students must: Be a US citizen and possess a US passport'. The applicant is a DRC citizen. (The programme is also for US undergraduates with at least two years of study remaining.)",
-      "exclusion_page": "https://fulbright.org.uk/our-programmes/undergraduate-and-pre-university-programmes/uk-summer-institutes/",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "d5b0bf408ded",
@@ -3562,23 +3102,6 @@
       "last_seen": "2026-11-23"
     },
     {
-      "id": "03936430eeab",
-      "title": "EY Foundation Step Into Business Programme 2027: Business Training, Six Months of Coaching and a £2,000 Startup Grant for Young Entrepreneurs",
-      "url": "https://opportunitiesforyouth.org/2026/11/13/ey-foundation-step-into-business-programme-2027-business-training-six-months-of-coaching-and-a-2000-startup-grant-for-young-entrepreneurs/",
-      "source": "Opportunities for Youth",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-13",
-      "first_seen": "2026-11-13",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 53,
-      "flags": [],
-      "last_seen": "2026-11-13",
-      "exclusion_reason": "The organiser's 'Who can take part?' list: 'Live in London, Glasgow, Manchester, Bradford or Birmingham', 'Aged 16-19 years of age' and 'Eligible for Free School Meals or the college bursary / Education Maintenance Allowance'. The profile resides in the DRC.",
-      "exclusion_page": "https://www.eyfoundation.com/en_uk/apply/i-m-a-young-person/step-into-business",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "ab2295c00cc7",
       "title": "AllPeopleBeHappy Volunteer Service Award Program 2027 (Funded)",
       "url": "https://opportunitydesk.org/2026/11/12/allpeoplebehappy-volunteer-service-award-program-2027/",
@@ -3591,23 +3114,6 @@
       "score": 53,
       "flags": [],
       "last_seen": "2026-11-12"
-    },
-    {
-      "id": "101bf610f9ba",
-      "title": "Pladis Accelerator Programme 2026",
-      "url": "https://opportunitydesk.org/2026/11/11/pladis-accelerator-programme-2026/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-11",
-      "first_seen": "2026-11-11",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 53,
-      "flags": [],
-      "last_seen": "2026-11-11",
-      "exclusion_reason": "The organiser's 'Are you eligible?' section is for start-ups that 'Have a working technology or product (MVP or post-MVP; beyond concept stage)' ('We are looking for ambitious startups building technologies that can shape the future of snacking.'). The profile records no business or product.",
-      "exclusion_page": "https://www.pladisglobal.com/our-impact/pladis-accelerator-programme",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "da8417104bb1",
@@ -3638,26 +3144,6 @@
       "last_seen": "2026-11-04",
       "reviewed_on": "2026-11-24",
       "official_page": "https://www.eyecity.africa/hei-call-for-applications"
-    },
-    {
-      "id": "b06f4a1bc228",
-      "title": "The SAIS Livestock Investment Readiness Programme 2027 for African start-ups.",
-      "url": "https://www.opportunitiesforafricans.com/the-sais-livestock-investment-readiness-programme-2027-for-african-start-ups/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-04",
-      "first_seen": "2026-11-04",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "also_seen_in": [
-        "Opportunity Desk"
-      ],
-      "score": 53,
-      "flags": [],
-      "last_seen": "2026-11-04",
-      "exclusion_reason": "The organiser's eligibility criteria require a company: 'For-profit and registered in Africa', 'Management team of at least two people' and 'At least MVP, ideally recurring revenue, paying customers and established partnerships'. The profile records no registered business. The 2027 cohort deadline has also passed ('15 November 2026: Deadline to apply').",
-      "exclusion_page": "https://sais-accelerator.com/livestock-apply-now-for-2027/",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "37ce64a4993f",
@@ -3716,6 +3202,20 @@
       "last_seen": "2026-10-25"
     },
     {
+      "id": "d3ed941097f9",
+      "title": "The Caine Prize Award 2027 for African Writing (£10,000 Cash Prize)",
+      "url": "https://www.opportunitiesforafricans.com/the-caine-prize-award-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 50,
+      "flags": []
+    },
+    {
       "id": "f73f761938ed",
       "title": "Appel à candidatures pour la sélection des Jeunes leaders africains engagés dans l’économie verte et la lutte contre le changement climatique",
       "url": "https://www.lesopportunites.com/opportunite/afrique/call-for-papers/environnement/appel-a-candidatures-pour-la-selection-des-jeunes-leaders-africains-engages-dans-leconomie-verte-et-la-lutte-contre-le-changement-climatique/",
@@ -3725,20 +3225,6 @@
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
       "last_seen": "2026-11-23",
-      "status": "NEW",
-      "score": 50,
-      "flags": []
-    },
-    {
-      "id": "63b5c9c68acb",
-      "title": "L’Université Senghor lance les inscriptions à une formation internationale en Management stratégique des enjeux des ports africains",
-      "url": "https://www.lesopportunites.com/opportunite/egypte/formation/gestion-de-projets/luniversite-senghor-lance-les-inscriptions-a-une-formation-internationale-en-management-strategique-des-enjeux-des-ports-africains/",
-      "source": "Opportunites du Monde",
-      "source_tier": 3,
-      "language": "fr",
-      "published": "2026-11-20",
-      "first_seen": "2026-11-21",
-      "last_seen": "2026-11-22",
       "status": "NEW",
       "score": 50,
       "flags": []
@@ -3843,23 +3329,6 @@
       "score": 48,
       "flags": [],
       "last_seen": "2026-11-06"
-    },
-    {
-      "id": "7b468eb471a9",
-      "title": "The Microsoft Imagine Cup Student Startup Competition 2027 for early-stage startups and founders worldwide (US$250,000 in cash prizes and US$1 million in Azure prize credits)",
-      "url": "https://www.opportunitiesforafricans.com/the-microsoft-imagine-cup-student-startup-competition-2027/",
-      "source": "Opportunities for Africans",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 48,
-      "flags": [],
-      "last_seen": "2026-11-06",
-      "exclusion_reason": "Microsoft's Imagine Cup 2027 eligibility page: 'Startup credits offered through the Imagine Cup 2027 competition are available to eligible startups that are two years old or younger (must be a legal entity founded on or after November 2, 2024).' The Official Rules (PDF at https://aka.ms/ImagineCup2027TCs) section 4.1: 'Your Startup must be a legal entity that was founded on or after November 2, 2024'. The profile records no registered business.",
-      "exclusion_page": "https://learn.microsoft.com/en-us/startups/imagine-cup-credits-eligibility",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "5f51972bf998",
@@ -4378,6 +3847,62 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "d119d389b4e8",
+      "title": "Commonwealth Youth Council 2026 Executive Elections: Online Nominations Open for Youth Leadership Positions",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/commonwealth-youth-council-2026-executive-elections-online-nominations-open-for-youth-leadership-positions/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "8d6ed523b6cc",
+      "title": "DOT Climate Innovation Bootcamp 2026: Free 9-Day Online Training for Young Climate Innovators to Scale Their Environmental Impact",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/dot-climate-innovation-bootcamp-2026-free-9-day-online-training-for-young-climate-innovators-to-scale-their-environmental-impact/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "183efd2203b6",
+      "title": "Earth Observation (EO) Excellence Award 2027 (up to €15,000)",
+      "url": "https://opportunitydesk.org/2026/11/24/earth-observation-excellence-award-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "165ff87fff65",
+      "title": "Information and Communication Technology Maintenance Assistant – GS8",
+      "url": "https://www.comesa.int/information-and-communication-technology-maintenance-assistant/",
+      "source": "Common Market for Eastern and Southern Africa - News feed",
+      "source_tier": 1,
+      "language": "en",
+      "published": "2026-11-19",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
       "id": "7bdc4f9140e0",
       "title": "La GIZ et ses partenaires proposent des formations gratuites et certifiantes accessibles à distance, dans plusieurs domaines et disponibles en plusieurs langues",
       "url": "https://www.lesopportunites.com/opportunite/afrique/formation/agriculture/la-giz-et-ses-partenaires-proposent-des-formations-gratuites-et-certifiantes-accessibles-a-distance-dans-plusieurs-domaines-et-disponibles-en-plusieurs-langues/",
@@ -4596,23 +4121,6 @@
       "last_seen": "2026-11-19"
     },
     {
-      "id": "45c556e9a607",
-      "title": "African Union Peace Fund Announces Call for Applications under the Programmatic Windows",
-      "url": "https://au.int/en/announcement/african-union-peace-fund-announces-call-applications-under-programmatic-windows",
-      "source": "African Union Commission - Announcements (calls for applications)",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 45,
-      "flags": [],
-      "exclusion_reason": "The AU Peace Fund call says 'the beneficiaries of the AU Peace Fund under the programmatic windows are: Member States of the African Union; Regional Economic Communities (RECs); Regional Mechanisms (RMs); and The Political Affairs, Peace and Security (PAPS) Department of the African Union Commission.' Individuals cannot apply. The window ran 'from 1st August to 15 September 2026'.",
-      "exclusion_page": "https://au.int/en/announcement/african-union-peace-fund-announces-call-applications-under-programmatic-windows",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "1dcac468ea4f",
       "title": "EAC Honours East Africa’s Quality Champions at Regional Quality Awards in Kigali",
       "url": "https://www.eac.int/press-releases/157-trade/3615-eac-honours-east-africa%E2%80%99s-quality-champions-at-regional-quality-awards-in-kigali",
@@ -4621,7 +4129,7 @@
       "language": "en",
       "published": "2026-11-06",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 45,
       "flags": []
@@ -4781,23 +4289,6 @@
       "last_seen": "2026-11-11"
     },
     {
-      "id": "69c22f1904b2",
-      "title": "ILO Writing Competitions on Safe Labour Migration in East and Horn of Africa 2027",
-      "url": "https://opportunitydesk.org/2026/11/05/ilo-writing-competitions-on-safe-labour-migration-in-east-and-horn-of-africa-2027/",
-      "source": "Opportunity Desk",
-      "source_tier": 3,
-      "language": "en",
-      "published": "2026-11-05",
-      "first_seen": "2026-11-05",
-      "status": "EXCLUDED - CONFIRMED INELIGIBLE",
-      "score": 45,
-      "flags": [],
-      "last_seen": "2026-11-05",
-      "exclusion_reason": "Same ILO BRMM programme as lead c9c4c00cf0d6. The organiser's page: 'The International Labour Organization (ILO) has launched three competitions inviting students, researchers, journalists and media creators from Djibouti, Ethiopia, Kenya, Somalia, South Sudan, Tanzania and Uganda'. The DRC is not on the list. Entries close on 25 November 2026.",
-      "exclusion_page": "https://www.ilo.org/resource/news/ilo-launches-three-writing-competitions-safe-labour-migration-east-and-horn",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "3d546eba01ec",
       "title": "Continental Reinsurance Plc Pan-African Re/Insurance Journalism Awards 2027 for Young African Journalists",
       "url": "https://www.opportunitiesforafricans.com/continental-reinsurance-plc-pan-african-re-insurance-journalism-awards-2027/",
@@ -4813,6 +4304,48 @@
       "score": 45,
       "flags": [],
       "last_seen": "2026-11-02"
+    },
+    {
+      "id": "d93ce25b77be",
+      "title": "SADC convenes Regional Validation Workshop to strengthen fisheries and aquaculture policy frameworks",
+      "url": "https://www.sadc.int/latest-news/sadc-convenes-regional-validation-workshop-strengthen-fisheries-and-aquaculture-policy",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "source_tier": 1,
+      "language": "en",
+      "published": "",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 40,
+      "flags": []
+    },
+    {
+      "id": "9fb11c3b2c54",
+      "title": "Tripartite Simplified Trade Regime (STR) Workshop highlights critical role of simplified trade in advancing Inclusive Regional Trade",
+      "url": "https://www.sadc.int/latest-news/tripartite-simplified-trade-regime-str-workshop-highlights-critical-role-simplified",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "source_tier": 1,
+      "language": "en",
+      "published": "",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 40,
+      "flags": []
+    },
+    {
+      "id": "5284279844ba",
+      "title": "Appel à candidatures Appel à projets de l'OIF : Soutien à la mobilité des artistes et la circulation des biens culturel",
+      "url": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-de-l-oif-soutien-a-la-mobilite-des-artistes-et-la-circulation-des-biens-culturel",
+      "source": "Organisation internationale de la Francophonie - Portail jeunesse - opportunités",
+      "source_tier": 1,
+      "language": "fr",
+      "published": "",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 40,
+      "flags": []
     },
     {
       "id": "e722d24486fd",
@@ -4839,7 +4372,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": [
@@ -4869,7 +4402,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4897,7 +4430,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4911,7 +4444,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4925,7 +4458,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4939,7 +4472,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4953,7 +4486,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4981,7 +4514,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -5009,7 +4542,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -5023,26 +4556,10 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
-    },
-    {
-      "id": "63f0b17a64f0",
-      "title": "Appel à candidatures Appel à projets : #CAP Innovation – Création, Accompagnement, Propulsion : l’OIF aux côtés des jeunes francophones !",
-      "url": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/appel-a-projets-cap-innovation-creation-accompagnement-propulsion-l-oif-aux-cotes-des-jeunes-francophones",
-      "source": "Organisation internationale de la Francophonie - Portail jeunesse - opportunités",
-      "source_tier": 1,
-      "language": "fr",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "PUBLISHED",
-      "score": 40,
-      "flags": [],
-      "record_id": "oif-cap-innovation",
-      "reviewed_on": "2026-11-24"
     },
     {
       "id": "607335e35fc0",
@@ -5053,7 +4570,7 @@
       "language": "en",
       "published": "2026-10-31",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -5095,7 +4612,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -5165,7 +4682,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -5179,7 +4696,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -5199,22 +4716,6 @@
       "flags": []
     },
     {
-      "id": "078780424194",
-      "title": "Mental Health and Wellness In this five-part course on Mental Health and Wellness, learners will explore topics about mental health and its importance to us as individuals and to our communities. Mental Health and Wellne",
-      "url": "https://yali.state.gov/courses/course-5417/",
-      "source": "Young African Leaders Initiative (US Department of State) - YALI programmes and courses",
-      "source_tier": 1,
-      "language": "en",
-      "published": "",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
-      "status": "PUBLISHED",
-      "score": 40,
-      "flags": [],
-      "record_id": "yali-network-online-courses",
-      "reviewed_on": "2026-11-24"
-    },
-    {
       "id": "068fdd54a49a",
       "title": "Appel à candidatures Présélections culturelles nationales : tentez votre chance aux Xes Jeux de la Francophonie !",
       "url": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/preselections-culturelles-nationales-tentez-votre-chance-aux-xes-jeux-de-la-francophonie",
@@ -5223,7 +4724,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NOT CURRENTLY OPEN",
       "score": 40,
       "flags": [],
@@ -5652,6 +5153,41 @@
       ]
     },
     {
+      "id": "95721fb74a1a",
+      "title": "ANSO-CAS-TWAS/UNESCO PhD Scholarship 2026-2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/24/anso-cas-twas-unesco-phd-scholarship-2026-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-24",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 35,
+      "flags": [
+        "audience:level-only:PhD"
+      ],
+      "also_seen_in": [
+        "Opportunities for Africans"
+      ]
+    },
+    {
+      "id": "413a25cf4bbe",
+      "title": "KU Leuven PhD Call 2027–2028 in Economics: Fully Funded PhD Position in Belgium with a Monthly Stipend of at Least €2,750",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/ku-leuven-phd-call-2027-2028-in-economics-fully-funded-phd-position-in-belgium-with-a-monthly-stipend-of-at-least-e2750/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 35,
+      "flags": [
+        "audience:level-only:PhD"
+      ]
+    },
+    {
       "id": "9d6ff5ce840c",
       "title": "Tor Community Fellowship 2027: Applications Open for Human Rights Defenders, Journalists, Technologists, and Researchers",
       "url": "https://opportunitiesforyouth.org/2026/11/23/tor-community-fellowship-2027-applications-open-for-human-rights-defenders-journalists-technologists-and-researchers/",
@@ -5660,7 +5196,7 @@
       "language": "en",
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 35,
       "flags": [
@@ -5719,6 +5255,22 @@
       ]
     },
     {
+      "id": "736ddf558b02",
+      "title": "NipCA Fellowship Programs 2027 at University of Tsukuba, Japan | Fully Funded Master’s Scholarships for Central Asian and Eurasian Students",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/nipca-fellowship-programs-2027-at-university-of-tsukuba-japan-fully-funded-masters-scholarships-for-central-asian-and-eurasian-students/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "status": "NEW",
+      "score": 25,
+      "flags": [
+        "audience:nationality:for Central Asian"
+      ]
+    },
+    {
       "id": "176a6a3cb849",
       "title": "The PPS Foundation’s Bursary Programme 2027 for young South African students.",
       "url": "https://www.opportunitiesforafricans.com/the-pps-foundations-bursary-programme-2027-for-young-south-african-students/",
@@ -5743,7 +5295,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 18,
       "flags": [
@@ -5842,7 +5394,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-25",
       "status": "NEW",
       "score": 15,
       "flags": [

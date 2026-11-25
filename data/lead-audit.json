@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -1952,6 +1952,447 @@
       "source": "Mo Ibrahim Foundation - News and calls",
       "title": "23 November 2026 Africa Must Turn Representation into Results",
       "url": "https://mo.ibrahim.foundation/news/2026/africa-must-turn-representation-into-results",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "d6e010ab484a",
+      "date": "2026-11-25",
+      "source": "Opportunity Desk",
+      "title": "GSMA Innovation Fund for AI-Enabled Financial Health 2027 (up to £250,000)",
+      "url": "https://opportunitydesk.org/2026/11/25/gsma-innovation-fund-for-ai-enabled-financial-health-2027/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "4875371e543d",
+      "date": "2026-11-25",
+      "source": "Opportunities for Youth",
+      "title": "Visiting Fellowship in Berlin, Germany 2027: Network Humanitarian Research (NHF) Recruiting Two Policy Research Fellows at CHA",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/visiting-fellowship-in-berlin-germany-2027-network-humanitarian-research-nhf-recruiting-two-policy-research-fellows-at-cha/",
+      "reason": "not_opportunity",
+      "detail": "Recruit"
+    },
+    {
+      "id": "01f8891e9b75",
+      "date": "2026-11-25",
+      "source": "Opportunities for Youth",
+      "title": "Vital Strategies Vision Access Program Jobs: Regional Deputy Directors in Africa and Asia and Global Program Director Opportunities",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/vital-strategies-vision-access-program-jobs-regional-deputy-directors-in-africa-and-asia-and-global-program-director-opportunities/",
+      "reason": "not_opportunity",
+      "detail": "Jobs"
+    },
+    {
+      "id": "ad173de7983c",
+      "date": "2026-11-25",
+      "source": "Opportunities for Youth",
+      "title": "UNESCO AI and Technologies in Education: Digital Learning, Artificial Intelligence, and the Future of Education",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/unesco-ai-and-technologies-in-education-digital-learning-artificial-intelligence-and-the-future-of-education/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "9954e2c93723",
+      "date": "2026-11-25",
+      "source": "Opportunities for Youth",
+      "title": "IGC Expression of Interest 2026: Submit Your Research Ideas for Upcoming International Growth Centre Funding Opportunities 2027",
+      "url": "https://opportunitiesforyouth.org/2026/11/25/igc-expression-of-interest-2026-submit-your-research-ideas-for-upcoming-international-growth-centre-funding-opportunities-2027/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "06cf0479dbe7",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Action contre la Faim (ACF) recrute un(e) Responsable de Programme Santé Mentale et Soutien Psychosocial (SMSP) en RDC",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/psychologie/action-contre-la-faim-acf-recrute-une-responsable-de-programme-sante-mentale-et-soutien-psychosocial-smsp-en-rdc/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "ac6cb890d1b3",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services (CRS), Programme du Tchad, recrute (02) Assistants Administratifs basés à Abéché/Adré",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/administration/catholic-relief-services-crs-programme-du-tchad-recrute-02-assistants-administratifs-bases-a-abeche-adre/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "4c56a1656f8b",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services (CRS), Programme du Tchad, recrute huit (08) Assistants Magasiniers / Gestionnaires d’entrepôt basés à Adré",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/logistique/catholic-relief-services-crs-programme-du-tchad-recrute-huit-08-assistants-magasiniers-gestionnaires-dentrepot-bases-a-adre/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "b9f00856d5fd",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "International NGO Safety Organisation (INSO) au Tchad recrute quatre (04) Chauffeurs basés à N’Djamena",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/chauffeur/international-ngo-safety-organisation-inso-au-tchad-recrute-quatre-04-chauffeurs-bases-a-ndjamena/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "da9133c90657",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services, Programme du Tchad, recrute un(e) Chargé(e) de la Logistique basé(e) à Abéché",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/chaine-dapprovisionnement/catholic-relief-services-programme-du-tchad-recrute-une-chargee-de-la-logistique-basee-a-abeche/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "d4fcba740a9f",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services, Programme du Tchad, recrute (02) Chargés de l’administration basés à Adré et Abéché",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/administration/catholic-relief-services-programme-du-tchad-recrute-02-charges-de-ladministration-bases-a-adre-et-abeche/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "d678f9d999b9",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services, Programme du Tchad, recrute un Chargé de transport basé à Adré",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/logistique/catholic-relief-services-programme-du-tchad-recrute-un-charge-de-transport-base-a-adre/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "fcbe20c25f45",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services, Programme du Tchad, recrute (08) Chargés d’entrepôt basés à Adré/Abéché",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/logistique/catholic-relief-services-programme-du-tchad-recrute-08-charges-dentrepot-bases-a-adre-abeche/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "5b03f3b644dd",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services, Programme du Tchad, recrute un(e) Chargé(e) des Ressources Humaines basé(e) à Adré",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/administration/catholic-relief-services-programme-du-tchad-recrute-une-chargee-des-ressources-humaines-basee-a-adre/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "adfad788bde0",
+      "date": "2026-11-25",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services, Programme du Tchad, recrute un(e) Responsable des opérations basé(e) à Adré",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/administration-des-affaires/catholic-relief-services-programme-du-tchad-recrute-une-responsable-des-operations-basee-a-adre/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "5967f169efc1",
+      "date": "2026-11-25",
+      "source": "Afri-Carrieres",
+      "title": "Ouvrir un compte bancaire en France quand on est étudiant africain : les meilleures banques en ligne (2026)",
+      "url": "https://afri-carrieres.com/compte-bancaire-en-france-etudiant-africain/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "f8e816ac756d",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Elderly, Disability and Youth",
+      "url": "https://www.sadc.int/pillars/elderly-disability-and-youth",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "13176015dd39",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Gender Equality & Women Empowerment",
+      "url": "https://www.sadc.int/pillars/gender-equality-women-empowerment",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "b6de979a37ca",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Women in Politics & Decision-Making",
+      "url": "https://www.sadc.int/pillars/women-politics-decision-making",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "ac511157145d",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Food, Agriculture & Natural Resources",
+      "url": "https://www.sadc.int/pillars/food-agriculture-natural-resources",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "11746b03d2a8",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Natural Resources and Wildlife",
+      "url": "https://www.sadc.int/pillars/natural-resources-and-wildlife",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "571448e9bc0a",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Environment & Climate Change",
+      "url": "https://www.sadc.int/pillars/environment-climate-change-0",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "5656cf121f8a",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Environment & Climate Change",
+      "url": "https://www.sadc.int/pillars/environment-climate-change",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "a3bfa45ee0bd",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Youth Development & Empowerment",
+      "url": "https://www.sadc.int/pillars/youth-development-empowerment",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "86400ecd931c",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Media Releases and Statements",
+      "url": "https://www.sadc.int/media-releases-and-statements",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "271d08b4d1f2",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Travel to the SADC Region",
+      "url": "https://www.sadc.int/pages/travel-sadc-region",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "b80c861a0b00",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Open Procurement Opportunities",
+      "url": "https://www.sadc.int/procurement-opportunities",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "5b227fc93368",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Closed Tenders/Opportunities",
+      "url": "https://www.sadc.int/closed-procurement-opportunities",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "bd1c62e1ddb5",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Cancellation Notice for Tenders",
+      "url": "https://www.sadc.int/cancellation-notice",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "d590f70564d2",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Memoranda of Understanding",
+      "url": "https://www.sadc.int/memoranda-of-understanding",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "005448bc758b",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Monthly Harmonised Consumer Price Index",
+      "url": "https://www.sadc.int/monthly-harmonised-consumer-price-index",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "915301f3fa56",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "Regional Codes & Policies",
+      "url": "https://www.sadc.int/regional-codes-policies",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "3d1d02853c43",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "SADC Monitoring and Evaluation Reports",
+      "url": "https://www.sadc.int/sadc-monitoring-and-evaluation-reports",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "b0aeca73f0fe",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "SADC Technical and Thematic Reports",
+      "url": "https://www.sadc.int/sadc-technical-and-thematic-reports",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "03660589842a",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "SADC builds capacity of media professionals to communicate impact and benefits of Regional Integration",
+      "url": "https://www.sadc.int/latest-news/sadc-builds-capacity-media-professionals-communicate-impact-and-benefits-regional",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "25b19cae8f71",
+      "date": "2026-11-25",
+      "source": "Southern African Development Community - Latest news (calls for entries)",
+      "title": "SADC Urges Electoral Bodies to Strengthen Democratic Institutions Amid Evolving Electoral Landscape",
+      "url": "https://www.sadc.int/latest-news/sadc-urges-electoral-bodies-strengthen-democratic-institutions-amid-evolving-electoral",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "7fa98d126c99",
+      "date": "2026-11-25",
+      "source": "Common Market for Eastern and Southern Africa - News feed",
+      "title": "Statement By Her Excellency Chileshe Mpundu Kapwepwe, Secretary General of COMESA, On The 16 Days of Activism Against Gender-Based Violence 2026",
+      "url": "https://www.comesa.int/statement-by-her-excellency-chileshe-mpundu-kapwepwe-secretary-general-of-comesa-on-the-16-days-of-activism-against-gender-based-violence-2026/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "e7c32454bf20",
+      "date": "2026-11-25",
+      "source": "Common Market for Eastern and Southern Africa - News feed",
+      "title": "CEHA Expands Market Access for Horticulture Enterprises at HortiLogistica Africa 2026",
+      "url": "https://www.comesa.int/ceha-expands-market-access-for-horticulture-enterprises-at-hortilogistica-africa-2026/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "37fdfbdd8d7a",
+      "date": "2026-11-25",
+      "source": "Common Market for Eastern and Southern Africa - News feed",
+      "title": "COMESA and IOM to Strengthen Migration Data to Support Regional Labour Mobil",
+      "url": "https://www.comesa.int/comesa-and-iom-to-strengthen-migration-data-to-support-regional-labour-mobil/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "3cab634bfea4",
+      "date": "2026-11-25",
+      "source": "Common Market for Eastern and Southern Africa - News feed",
+      "title": "Secretary – GS6",
+      "url": "https://www.comesa.int/secretary-gs6/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "d1d5fcafee6e",
+      "date": "2026-11-25",
+      "source": "Common Market for Eastern and Southern Africa - News feed",
+      "title": "Senior Secretary – GS7",
+      "url": "https://www.comesa.int/senior-secretary-gs7/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "5c9a184c8a16",
+      "date": "2026-11-25",
+      "source": "Common Market for Eastern and Southern Africa - News feed",
+      "title": "Administrative Assistant – GS8",
+      "url": "https://www.comesa.int/administrative-assistant-gs8/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "0396686d3d34",
+      "date": "2026-11-25",
+      "source": "East African Community - Press releases feed",
+      "title": "NOTICE OF INQUIRY INTO MERGER INVOLVING SHALINA HEALTHCARE LIMITED AND DINLAS PHARMA (AFRICA) LIMITED",
+      "url": "https://www.eac.int/press-releases/157-trade/3631-notice-of-inquiry-into-merger-involving-shalina-healthcare-limited-and-dinlas-pharma-africa-limited%20",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "872dec84c4de",
+      "date": "2026-11-25",
+      "source": "East African Community - Press releases feed",
+      "title": "EAC Announces over 50 Job Opportunities across its Organs and Institutions",
+      "url": "https://www.eac.int/press-releases/3628-eac-announces-over-50-job-opportunities-across-its-organs-and-institutions",
+      "reason": "not_opportunity",
+      "detail": "Job"
+    },
+    {
+      "id": "c3ad73092fea",
+      "date": "2026-11-25",
+      "source": "East African Community - Press releases feed",
+      "title": "48th Ordinary Meeting of the EAC Council of Ministers Currently Underway in Kampala, Uganda",
+      "url": "https://www.eac.int/press-releases/3626-48th-ordinary-meeting-of-the-eac-council-of-ministers-currently-underway-in-kampala,-uganda",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "4086913c60bc",
+      "date": "2026-11-25",
+      "source": "East African Community - Press releases feed",
+      "title": "EAC Advances Regional Framework for Trusted Cross-Border Data Flows and Data Protection",
+      "url": "https://www.eac.int/eadrip-news-updates/eardip-press-releases/3625-eac-advances-regional-framework-for-trusted-cross-border-data-flows-and-data-protection%20",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "34f7d2c2d1d8",
+      "date": "2026-11-25",
+      "source": "East African Community - Press releases feed",
+      "title": "Regional Monitoring Committee Calls for Accelerated Implementation of Roadmpad to Achieven Monetary union by 2031",
+      "url": "https://www.eac.int/press-releases/145-financial-sector/3624-regional-monitoring-committee-calls-for-accelerated-implementation-of-roadmpad-to-achieven-monetary-union-by-2031",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "fa2d120246c6",
+      "date": "2026-11-25",
+      "source": "East African Community - Press releases feed",
+      "title": "EAC Urges Partner States to Use Water and Sanitation Data to Close Gaps in Services",
+      "url": "https://www.eac.int/press-releases/3623-eac-urges-partner-states-to-use-water-and-sanitation-data-to-close-gaps-in-services",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "67c75a2a3cd8",
+      "date": "2026-11-25",
+      "source": "East African Community - Press releases feed",
+      "title": "EAC and ESTDEV Sign Cooperation Agreement to Advance Development of Regional Cross-Border Public E-Services",
+      "url": "https://www.eac.int/eadrip-news-updates/eardip-press-releases/3622-eac-and-estdev-sign-cooperation-agreement-to-advance-development-of-regional-cross-border-public-e-services",
       "reason": "no_opportunity_word",
       "detail": ""
     }
