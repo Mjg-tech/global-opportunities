@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -2395,6 +2395,105 @@
       "url": "https://www.eac.int/eadrip-news-updates/eardip-press-releases/3622-eac-and-estdev-sign-cooperation-agreement-to-advance-development-of-regional-cross-border-public-e-services",
       "reason": "no_opportunity_word",
       "detail": ""
+    },
+    {
+      "id": "03b3f5f44648",
+      "date": "2026-11-26",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Comores : l'OIF et l’Union européenne mobilisent les collectivités territoriales autour des plans locaux de développement durable",
+      "url": "https://www.francophonie.org/comores-OIF-et-UE-mobilisent-les-collectivites-territoriales-autour-plans-locaux-developpement-durable-8799",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "434cf8e2e4d2",
+      "date": "2026-11-26",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Addis-Abeba : 2e édition du Séminaire régional sur le multilinguisme",
+      "url": "https://www.francophonie.org/addis-abeba-2e-edition-du-seminaire-regional-sur-le-multilinguisme-8798",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "6b231ee0fcdc",
+      "date": "2026-11-26",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Simulation de négociations en français sur l’utilisation de l’IA dans le domaine militaire",
+      "url": "https://www.francophonie.org/simulation-negociations-en-francais-utilisation-ia-domaine-militaire-8797",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "1f0af19b9c2f",
+      "date": "2026-11-26",
+      "source": "Opportunity Desk",
+      "title": "20 Communications, Talent Management & Creative Job Opportunities Currently Open – November 25, 2026",
+      "url": "https://opportunitydesk.org/2026/11/25/20-communications-talent-management-creative-job-opportunities-currently-open-november-25-2026/",
+      "reason": "not_opportunity",
+      "detail": "Job"
+    },
+    {
+      "id": "77d84a76398a",
+      "date": "2026-11-26",
+      "source": "Opportunity Desk",
+      "title": "Make Your Holidays Count: How to Gain New Skills During the Holiday Season",
+      "url": "https://opportunitydesk.org/2026/11/25/make-your-holidays-count-how-to-gain-new-skills-during-the-holiday-season/",
+      "reason": "not_opportunity",
+      "detail": "How to"
+    },
+    {
+      "id": "47a4f70eb6aa",
+      "date": "2026-11-26",
+      "source": "Opportunity Desk",
+      "title": "How to Boost Your Sales During the Festive Season: 10 Strategies Every Business Owner Should Know",
+      "url": "https://opportunitydesk.org/2026/11/25/how-to-boost-your-sales-during-the-festive-season-10-strategies-every-business-owner-should-know/",
+      "reason": "not_opportunity",
+      "detail": "How to"
+    },
+    {
+      "id": "1973d8a539e6",
+      "date": "2026-11-26",
+      "source": "Opportunities for Youth",
+      "title": "UNFPA Social Media Consultant – Influencer Engagement 2026: Apply for an 11-Month Communications Consultancy in New York",
+      "url": "https://opportunitiesforyouth.org/2026/11/26/unfpa-social-media-consultant-influencer-engagement-2026-apply-for-an-11-month-communications-consultancy-in-new-york/",
+      "reason": "not_opportunity",
+      "detail": "Consultan"
+    },
+    {
+      "id": "ad4d73515de7",
+      "date": "2026-11-26",
+      "source": "Opportunities for Youth",
+      "title": "East African Community (EAC) Jobs 2026: Employment Opportunities, Eligibility Requirements, Benefits and How to Apply",
+      "url": "https://opportunitiesforyouth.org/2026/11/26/east-african-community-eac-jobs-2026-employment-opportunities-eligibility-requirements-benefits-and-how-to-apply/",
+      "reason": "not_opportunity",
+      "detail": "Jobs"
+    },
+    {
+      "id": "9efde73b0fe2",
+      "date": "2026-11-26",
+      "source": "Opportunites du Monde",
+      "title": "L’UNICEF recrute un(e) Responsable de la Protection de l’Enfance pour son bureau basé à Niamey, au Niger",
+      "url": "https://www.lesopportunites.com/opportunite/niger/avis-de-recrutement/developpement-international/lunicef-recrute-une-responsable-de-la-protection-de-lenfance-pour-son-bureau-base-a-niamey-au-niger/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "2434b55057ba",
+      "date": "2026-11-26",
+      "source": "Opportunites du Monde",
+      "title": "207 Postes vacants à pourvoir au sein du Fonds des Nations unies pour l’enfance (UNICEF)",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/avis-de-recrutement/droit/207-postes-vacants-a-pourvoir-au-sein-du-fonds-des-nations-unies-pour-lenfance-unicef/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "9fcb7a524c6f",
+      "date": "2026-11-26",
+      "source": "Opportunites du Monde",
+      "title": "FIDA Tchad lance un avis d’appel d’offres pour le recrutement d’un Cabinet spécialisé chargé de réaliser une mission d’audit des comptes du projet RENFORT pour les exercices clos 2026 et 2027",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/comptabilite-audit/fida-tchad-lance-un-avis-dappel-doffres-pour-le-recrutement-dun-cabinet-specialise-charge-de-realiser-une-mission-daudit-des-comptes-du-projet-renfort-pour-les-exercices-clos-2026-et-2027/",
+      "reason": "not_opportunity",
+      "detail": "avis d’appel"
     }
   ]
 }

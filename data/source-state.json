@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "sources": {
     "oif-jeunesse": {
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "last_http": 200,
       "last_note": "robots.txt allows",
-      "items_last_scan": 19,
-      "total_runs": 8,
+      "items_last_scan": 0,
+      "total_runs": 9,
       "ok_runs": 8,
       "last_successful_scan": "2026-11-25",
-      "fail_streak": 0,
+      "fail_streak": 1,
       "leads_total": 18,
-      "next_check": "2026-11-26",
-      "reliability": "HIGH"
+      "next_check": "2026-11-27",
+      "reliability": "MEDIUM"
     },
     "au-announcements": {
       "last_checked": "2026-11-24",
@@ -94,17 +94,17 @@
       "reliability": "UNRATED"
     },
     "rdc-campusfrance": {
-      "last_checked": "2026-11-23",
+      "last_checked": "2026-11-26",
       "last_http": 200,
       "last_note": "robots.txt allows",
       "items_last_scan": 13,
-      "total_runs": 4,
-      "ok_runs": 2,
+      "total_runs": 5,
+      "ok_runs": 3,
       "fail_streak": 0,
       "leads_total": 1,
-      "next_check": "2026-11-26",
-      "reliability": "UNRATED",
-      "last_successful_scan": "2026-11-23"
+      "next_check": "2026-11-29",
+      "reliability": "MEDIUM",
+      "last_successful_scan": "2026-11-26"
     },
     "un-youth-affairs": {
       "last_checked": "2026-11-24",
@@ -120,15 +120,15 @@
       "reliability": "UNRATED"
     },
     "afdb-news-events": {
-      "last_checked": "2026-11-25",
+      "last_checked": "2026-11-26",
       "last_http": 403,
       "last_note": "no robots.txt",
       "items_last_scan": 0,
-      "total_runs": 8,
+      "total_runs": 9,
       "ok_runs": 0,
-      "fail_streak": 8,
+      "fail_streak": 9,
       "leads_total": 0,
-      "next_check": "2026-11-26",
+      "next_check": "2026-11-27",
       "reliability": "LOW"
     },
     "sadc-latest-news": {

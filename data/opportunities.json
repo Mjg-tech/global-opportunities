@@ -2447,17 +2447,17 @@
       "location_type": "Remote",
       "delivery_mode": "Online",
       "program_dates": "Fellowship year April 2027 to March 2028; Opening Assembly May 2027 via Zoom; Closing Assembly June 2028 (in person only if funding is secured)",
-      "application_deadline": "2026-11-11",
-      "deadline_utc": "2026-11-11T22:00:00Z",
-      "deadline_text": "November 11, 2026: Application deadline (applications and all accompanying materials must be submitted by 22:00 Coordinated Universal Time). Application opened October 1, 2026.",
+      "application_deadline": "",
+      "deadline_utc": "",
+      "deadline_text": "Last cycle closed on 2026-11-11. Next cycle not announced yet.",
       "deadline_timezone": "UTC",
-      "opens_on": "2026-10-01",
+      "opens_on": "",
       "open_now": false,
       "rolling": false,
       "recurring": true,
       "expected_next_cycle": "Not announced. The 2027 call ran from 1 October to 11 November 2026 (22:00 UTC); on 19 November 2026 the apply page is titled '2027 APPLICATION IS NOW CLOSED'.",
-      "last_cycle_deadline": "",
-      "status": "DEADLINE PASSED",
+      "last_cycle_deadline": "2026-11-11",
+      "status": "UPCOMING",
       "funding_type": "Participation Funded",
       "funding_details": [
         "'We do not offer funding for projects.'",
@@ -2516,7 +2516,7 @@
       "source_url": "https://dalailamafellows.com/apply/",
       "source_type": "Official",
       "source_confidence": "HIGH",
-      "verification": "VERIFIED",
+      "verification": "PARTIALLY VERIFIED",
       "sources": [
         {
           "label": "Apply",
@@ -2563,7 +2563,7 @@
       "action": "The 2027 application closed on 11 November 2026. If you lead, or plan, a community project you have worked with for at least six months, watch dalailamafellows.com/apply for the next call (the 2027 call opened on 1 October).",
       "last_verified": "2026-11-19",
       "date_discovered": "2026-10-05",
-      "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed). 2 November 2026 (rerun): apply page re-read; age 20-36 on 1 April 2027, 22:00 UTC deadline, 'We do not offer funding for projects' all unchanged. The 28 October session and the 28 October deadline to ask for a past-Fellow introduction have passed. 9 November 2026: apply page re-read; dates (deadline 11 November 2026, 22:00 UTC), age band and funding wording unchanged. 19 November 2026 (source_changed flag): apply page re-read; it is now titled '2027 APPLICATION IS NOW CLOSED' and no longer lists information-session dates. Key dates (opened 1 October 2026, deadline 11 November 2026 at 22:00 UTC, interviews January 2027, notification February 2027, fellowship year April 2027 to March 2028, Closing Assembly June 2028), age 20-36 on 1 April 2027, English fluency, the six-month community-experience rule and 'We do not offer funding for projects' are unchanged. The Fellowship page still says they aim to 'cover all costs for attending the Assembly such as visa fees, travel, and lodging'. The application portal apply.dalailamafellows.com still loads. Deadline left as it is for the daily job to archive the closed cycle.",
+      "notes": "Previously on the research watchlist: the programme's current host is dalailamafellows.com (contact address at virginia.edu). 12 and 19 October 2026: dates and requirements unchanged (19 October: the 16 October info session has passed). 2 November 2026 (rerun): apply page re-read; age 20-36 on 1 April 2027, 22:00 UTC deadline, 'We do not offer funding for projects' all unchanged. The 28 October session and the 28 October deadline to ask for a past-Fellow introduction have passed. 9 November 2026: apply page re-read; dates (deadline 11 November 2026, 22:00 UTC), age band and funding wording unchanged. 19 November 2026 (source_changed flag): apply page re-read; it is now titled '2027 APPLICATION IS NOW CLOSED' and no longer lists information-session dates. Key dates (opened 1 October 2026, deadline 11 November 2026 at 22:00 UTC, interviews January 2027, notification February 2027, fellowship year April 2027 to March 2028, Closing Assembly June 2028), age 20-36 on 1 April 2027, English fluency, the six-month community-experience rule and 'We do not offer funding for projects' are unchanged. The Fellowship page still says they aim to 'cover all costs for attending the Assembly such as visa fees, travel, and lodging'. The application portal apply.dalailamafellows.com still loads. Deadline left as it is for the daily job to archive the closed cycle. [auto 2026-11-26] Cycle closed. The details below describe the previous cycle and must be re-verified when the next call opens.",
       "match_keywords": [
         "dalai lama fellows"
       ]
@@ -6717,7 +6717,7 @@
       "recurring": true,
       "expected_next_cycle": "",
       "last_cycle_deadline": "",
-      "status": "OPEN",
+      "status": "CLOSING SOON",
       "funding_type": "Fully Funded",
       "funding_details": [
         "'offers 18 full scholarships, including tuition fee waiver and monthly stipend'",
@@ -14648,5 +14648,5 @@
       ]
     }
   ],
-  "status_computed_on": "2026-11-25"
+  "status_computed_on": "2026-11-26"
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "leads": [
     {
       "id": "fdd9afdcc7e3",
@@ -139,6 +139,22 @@
       "flags": []
     },
     {
+      "id": "b25de5a4f2dc",
+      "title": "The Leadership & Advocacy for Women in Africa (LAWA) Fellowship Program 2027/2028 for study at Georgetown University, USA (Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-leadership-advocacy-for-women-in-africa-lawa-fellowship-program-2027-2028/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 65,
+      "flags": [
+        "check:gender-term:Women"
+      ]
+    },
+    {
       "id": "8fe918dad649",
       "title": "Yale Visiting African Scholars Fellowship 2027–2028 in the USA | Stipend and Research Support",
       "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/yale-visiting-african-scholars-fellowship-2027-2028-in-the-usa-stipend-and-research-support/",
@@ -147,7 +163,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 65,
       "flags": []
@@ -257,6 +273,37 @@
       "last_seen": "2026-11-11",
       "reviewed_on": "2026-11-24",
       "official_page": "https://ieo.shou.edu.cn/2026/0828/c18223a354919/page.htm"
+    },
+    {
+      "id": "704cf317c9c4",
+      "title": "Friends of Pakistan Fellowship 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 60,
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Youth"
+      ]
+    },
+    {
+      "id": "075c84af3a83",
+      "title": "Iso Lomso Fellowships 2028 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/25/iso-lomso-fellowships-2028/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
     },
     {
       "id": "f6b2107424f1",
@@ -370,7 +417,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -384,7 +431,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -412,7 +459,7 @@
       "language": "en",
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -443,7 +490,7 @@
       "language": "en",
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -488,7 +535,7 @@
       "language": "en",
       "published": "2026-11-20",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -777,7 +824,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "also_seen_in": [
         "OYA Opportunities"
       ]
@@ -811,7 +858,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "755639a52780",
@@ -828,7 +875,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "de2725ae424d",
@@ -873,7 +920,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "66bacd6c0907",
@@ -1307,6 +1354,20 @@
       "official_page": "https://www.globalsouthopportunities.com/2026/10/23/nrf-6/"
     },
     {
+      "id": "3a03fa238b67",
+      "title": "The SAP Young Professionals Program 2027 for young African graduates.",
+      "url": "https://www.opportunitiesforafricans.com/the-sap-young-professionals-program-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 58,
+      "flags": []
+    },
+    {
       "id": "9391ad6dc3f1",
       "title": "Africa–EU Space Partnership Business Innovation Programme 2027 (Cohort 2): €20,000 Funding, Expert Mentorship and Business Growth Opportunities for African Earth Observation Startups and SMEs",
       "url": "https://opportunitiesforyouth.org/2026/11/25/africa-eu-space-partnership-business-innovation-programme-2027-cohort-2-e20000-funding-expert-mentorship-and-business-growth-opportunities-for-african-earth-observation-startups-and-smes/",
@@ -1377,7 +1438,7 @@
       "language": "en",
       "published": "2026-11-22",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 58,
       "flags": []
@@ -1554,7 +1615,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "also_seen_in": [
         "Opportunities for Youth",
         "OYA Opportunities"
@@ -1719,7 +1780,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "23edec56429b",
@@ -2106,11 +2167,12 @@
       "also_seen_in": [
         "Opportunity Desk",
         "OYA Opportunities",
-        "Opportunities for Youth"
+        "Opportunities for Youth",
+        "Opportunities for Africans"
       ],
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "cf982339968d",
@@ -2320,7 +2382,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     {
       "id": "1f187515b03d",
@@ -2632,6 +2694,90 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "78bf9e59f546",
+      "title": "Commonwealth Fund Grants: Funding Opportunities to Advance Equitable, High-Quality Health Care",
+      "url": "https://opportunitiesforyouth.org/2026/11/26/commonwealth-fund-grants-funding-opportunities-to-advance-equitable-high-quality-health-care/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "6c603770eeec",
+      "title": "The JICA-BCG NINJA Innovation Bridge Program 2027 for growth-stage startups in Kenya and Nigeria (USD 50,000 in funding)",
+      "url": "https://www.opportunitiesforafricans.com/the-jica-bcg-ninja-innovation-bridge-program-2027-for-growth-stage-startups/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "68f9f4cebdd1",
+      "title": "EU–India Young Leaders Exchange Programme 2026–27: Applications Open for 20 Emerging Leaders from Europe and India",
+      "url": "https://opportunitiesforyouth.org/2026/11/26/eu-india-young-leaders-exchange-programme-2026-27-applications-open-for-20-emerging-leaders-from-europe-and-india/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "6684ea835adb",
+      "title": "University of York & NatWest Life Sciences Accelerator 2027 – Free 12-Week Programme in the UK for Global Life Sciences Businesses",
+      "url": "https://opportunitiesforyouth.org/2026/11/26/university-of-york-natwest-life-sciences-accelerator-2027-free-12-week-programme-in-the-uk-for-global-life-sciences-businesses/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "6662f1fa608b",
+      "title": "Television Academy Foundation Summer 2027 Internships: Paid Opportunities in the Television Industry",
+      "url": "https://opportunitiesforyouth.org/2026/11/26/television-academy-foundation-summer-2027-internships-paid-opportunities-in-the-television-industry/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "2749130cce08",
+      "title": "IAFFE Feminist Economics School 2027 (Funded)",
+      "url": "https://opportunitydesk.org/2026/11/25/iaffe-feminist-economics-school-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
       "id": "87ce72690e45",
       "title": "HSEMA Spring 2027 Internship Program: Paid Emergency Management and Homeland Security Internships in Washington, DC",
       "url": "https://opportunitiesforyouth.org/2026/11/24/hsema-spring-2027-internship-program-paid-emergency-management-and-homeland-security-internships-in-washington-dc/",
@@ -2685,7 +2831,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 53,
       "flags": [],
@@ -3847,6 +3993,62 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "9b93eab16eb3",
+      "title": "1776 Reimagined: A Revolution Without the Declaration Essay Competition 2026",
+      "url": "https://opportunitydesk.org/2026/11/25/1776-reimagined-essay-competition-2026/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "8c7eab258fe5",
+      "title": "Google for Startups Accelerator: Sovereign AI 2027",
+      "url": "https://opportunitydesk.org/2026/11/26/google-for-startups-accelerator-sovereign-ai-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "8a2d59964f97",
+      "title": "WHO Academy Free Online Courses 2026 – Enroll in Free WHO Training Courses and Gain Global Health Skills",
+      "url": "https://opportunitiesforyouth.org/2026/11/26/who-academy-free-online-courses-2026-enroll-in-free-who-training-courses-and-gain-global-health-skills/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
+      "id": "64cf628c8444",
+      "title": "ENGYRO Research Proposal Competition 2027",
+      "url": "https://opportunitydesk.org/2026/11/25/engyro-research-proposal-competition-2027/",
+      "source": "Opportunity Desk",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
       "id": "d119d389b4e8",
       "title": "Commonwealth Youth Council 2026 Executive Elections: Online Nominations Open for Youth Leadership Positions",
       "url": "https://opportunitiesforyouth.org/2026/11/25/commonwealth-youth-council-2026-executive-elections-online-nominations-open-for-youth-leadership-positions/",
@@ -4304,6 +4506,25 @@
       "score": 45,
       "flags": [],
       "last_seen": "2026-11-02"
+    },
+    {
+      "id": "f9024db1c89e",
+      "title": "The African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme 2027 for early-career African researchers (Fully Funded, plus US$2,000 monthly stipend)",
+      "url": "https://www.opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 40,
+      "flags": [
+        "audience:level-only:researchers"
+      ],
+      "also_seen_in": [
+        "Opportunities for Youth"
+      ]
     },
     {
       "id": "d93ce25b77be",
@@ -5215,7 +5436,7 @@
       "language": "en",
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 35,
       "flags": [
@@ -5255,6 +5476,38 @@
       ]
     },
     {
+      "id": "36231726033a",
+      "title": "The Heidelberg Laureate Forum 2027 for young Researchers in computer science and mathematics ( Travel grant available to Heidelberg, Germany)",
+      "url": "https://www.opportunitiesforafricans.com/the-heidelberg-laureate-forum-2027/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-25",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 28,
+      "flags": [
+        "audience:level-only:Researchers"
+      ]
+    },
+    {
+      "id": "cbbb7ee7b059",
+      "title": "The KPMG Nigeria University Scholarship Programme 2026 for young Nigerian students.",
+      "url": "https://www.opportunitiesforafricans.com/the-kpmg-nigeria-university-scholarship-programme-2026/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 25,
+      "flags": [
+        "audience:nationality:for young Nigerian"
+      ]
+    },
+    {
       "id": "736ddf558b02",
       "title": "NipCA Fellowship Programs 2027 at University of Tsukuba, Japan | Fully Funded Master’s Scholarships for Central Asian and Eurasian Students",
       "url": "https://opportunitiesforyouth.org/2026/11/25/nipca-fellowship-programs-2027-at-university-of-tsukuba-japan-fully-funded-masters-scholarships-for-central-asian-and-eurasian-students/",
@@ -5284,6 +5537,38 @@
       "score": 23,
       "flags": [
         "audience:nationality:for young South African"
+      ]
+    },
+    {
+      "id": "2d0c4251485d",
+      "title": "The Aradel Undergraduate and Graduate Internship Program 2027 for young Nigerians.",
+      "url": "https://www.opportunitiesforafricans.com/the-aradel-undergraduate-and-graduate-internship-program-2027-for-young-nigerians/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 18,
+      "flags": [
+        "audience:nationality:for young Nigerians"
+      ]
+    },
+    {
+      "id": "122290468a06",
+      "title": "Diageo Business Support Coordinator Graduate Trainee Programme 2027 for young Nigerian graduates.",
+      "url": "https://www.opportunitiesforafricans.com/diageo-business-support-coordinator-graduate-trainee-programme-2027-for-young-nigerian-graduates/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-26",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "status": "NEW",
+      "score": 18,
+      "flags": [
+        "audience:nationality:for young Nigerian"
       ]
     },
     {
@@ -5378,7 +5663,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-23",
+      "last_seen": "2026-11-26",
       "status": "NEW",
       "score": 15,
       "flags": [
