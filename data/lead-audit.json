@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -2494,6 +2494,123 @@
       "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/comptabilite-audit/fida-tchad-lance-un-avis-dappel-doffres-pour-le-recrutement-dun-cabinet-specialise-charge-de-realiser-une-mission-daudit-des-comptes-du-projet-renfort-pour-les-exercices-clos-2026-et-2027/",
       "reason": "not_opportunity",
       "detail": "avis d’appel"
+    },
+    {
+      "id": "47f49eeb7f3c",
+      "date": "2026-11-27",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Formation certifiante « Leadership des jeunes en environnement multilatéral »",
+      "url": "https://www.francophonie.org/formation-certifiante-leadership-des-jeunes-en-environnement-multilateral-8801",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "692e752adeb1",
+      "date": "2026-11-27",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "Employabilité des jeunes traducteurs et interprètes : renforcer le dialogue entre universités africaines et organisations internationales et régionales",
+      "url": "https://www.francophonie.org/employabilite-jeunes-traducteurs-renforcer-dialogue-universites-et-organisations-regionales-8800",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "0403019e09ea",
+      "date": "2026-11-27",
+      "source": "Opportunity Desk",
+      "title": "Beyond the Credential: How an Online DBA Can Reshape the Way You Lead",
+      "url": "https://opportunitydesk.org/2026/11/27/beyond-the-credential-how-an-online-dba-can-reshape-the-way-you-lead/",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "3162d9589a39",
+      "date": "2026-11-27",
+      "source": "Opportunities for Youth",
+      "title": "J-PAL Africa Policy Manager, Firms & Livelihoods Job 2026 in Kenya – Apply for a Senior Economic Development Role",
+      "url": "https://opportunitiesforyouth.org/2026/11/27/j-pal-africa-policy-manager-firms-livelihoods-job-2026-in-kenya-apply-for-a-senior-economic-development-role/",
+      "reason": "not_opportunity",
+      "detail": "Job"
+    },
+    {
+      "id": "8256cacd469b",
+      "date": "2026-11-27",
+      "source": "Opportunities for Youth",
+      "title": "European Investment Bank (EIB) Careers 2026: Explore International Job Opportunities, Salaries, Employee Benefits and How to Apply",
+      "url": "https://opportunitiesforyouth.org/2026/11/27/european-investment-bank-eib-careers-2026-explore-international-job-opportunities-salaries-employee-benefits-and-how-to-apply/",
+      "reason": "not_opportunity",
+      "detail": "Job"
+    },
+    {
+      "id": "8aa02972c529",
+      "date": "2026-11-27",
+      "source": "Opportunites du Monde",
+      "title": "La Caritas Suisse au Tchad lance un avis d’appel d’offres pour l’acquisition de matériels et d’équipements destinés au traitement et au conditionnement des graines de Néré ainsi qu’à la production de différents dérivés du tamarin",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/achat-transport/la-caritas-suisse-au-tchad-lance-un-avis-dappel-doffres-pour-lacquisition-de-materiels-et-dequipements-destines-au-traitement-et-au-conditionnement-des-graines-de-n/",
+      "reason": "not_opportunity",
+      "detail": "avis d’appel"
+    },
+    {
+      "id": "904e90739716",
+      "date": "2026-11-27",
+      "source": "Opportunites du Monde",
+      "title": "World Vision Tchad lance un recrutement pour le poste de Security Manager (H/F), basé à Moundou",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/securite-privee/world-vision-tchad-lance-un-recrutement-pour-le-poste-de-security-manager-h-f-base-a-moundou/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "100db2259a32",
+      "date": "2026-11-27",
+      "source": "Opportunites du Monde",
+      "title": "World Vision Tchad lance un recrutement pour le poste de DMEAL Manager (H/F), basé à Moundou",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/statistique/world-vision-tchad-lance-un-recrutement-pour-le-poste-de-dmeal-manager-h-f-base-a-moundou/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "c9c6b36e0b06",
+      "date": "2026-11-27",
+      "source": "Opportunites du Monde",
+      "title": "La Fédération Luthérienne Mondiale (LWF) au Tchad, lance un avis d’Appel d’offre pour la signature d’un contrat cadre avec une imprimerie pour l’impression de ses visibilités",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/informatique-electronique/la-federation-lutherienne-mondiale-lwf-au-tchad-lance-un-avis-dappel-doffre-pour-la-signature-dun-contrat-cadre-avec-une-imprimerie-pour-limpression-de-ses-visibilites/",
+      "reason": "not_opportunity",
+      "detail": "avis d’Appel"
+    },
+    {
+      "id": "54533ba8c47b",
+      "date": "2026-11-27",
+      "source": "Opportunites du Monde",
+      "title": "Consultez les réponses aux questions des soumissionnaires concernant l’appel d’offres national de Catholic Relief Services (CRS) pour la réalisation d’infrastructures dans la province du Wadi Fira, dans le cadre du projet STaRs",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/appel-doffres/construction/consultez-les-reponses-aux-questions-des-soumissionnaires-concernant-lappel-doffres-national-de-catholic-relief-services-crs-pour-la-realisation-dinfrastructures-dans-la-p/",
+      "reason": "not_opportunity",
+      "detail": "appel d’offres"
+    },
+    {
+      "id": "559240bfcb18",
+      "date": "2026-11-27",
+      "source": "Opportunites du Monde",
+      "title": "Catholic Relief Services, Programme du Tchad, recrute un(e) Assistant(e) Administratif(ve) basé(e) à Amzoer",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/administration/catholic-relief-services-programme-du-tchad-recrute-une-assistante-administratifve-basee-a-amzoer/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "0d4476bfb814",
+      "date": "2026-11-27",
+      "source": "Opportunites du Monde",
+      "title": "World Relief Tchad recrute un Coordonnateur Logistique et Chaîne d’Approvisionnement (H/F) basé à N’Djamena",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/avis-de-recrutement/administration-des-affaires/world-relief-tchad-recrute-un-coordonnateur-logistique-et-chaine-dapprovisionnement-h-f-base-a-ndjamena/",
+      "reason": "not_opportunity",
+      "detail": "recrut"
+    },
+    {
+      "id": "dd1aef9b7e6b",
+      "date": "2026-11-27",
+      "source": "Mo Ibrahim Foundation - News and calls",
+      "title": "27 November 2026 Has COP31 set Africa back rather than moved it forward?",
+      "url": "https://mo.ibrahim.foundation/news/2026/has-cop31-set-africa-back-rather-than-moved-forward",
+      "reason": "no_opportunity_word",
+      "detail": ""
     }
   ]
 }

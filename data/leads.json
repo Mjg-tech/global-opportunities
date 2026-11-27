@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "leads": [
     {
       "id": "fdd9afdcc7e3",
@@ -11,12 +11,29 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NOT CURRENTLY OPEN",
       "score": 85,
       "flags": [],
       "reviewed_on": "2026-11-24",
       "official_page": "https://jeunesse.francophonie.org/opportunites-jeunesse/item/programme-de-bourses-de-la-cea-et-de-l-oif-a-l-intention-de-jeunes-traductrices-et-traducteurs-africains"
+    },
+    {
+      "id": "ba90b4f6986b",
+      "title": "22 September 2026 Applications open for the 2027 Ibrahim Leadership Fellowships",
+      "url": "https://mo.ibrahim.foundation/news/2026/applications-open-2027-ibrahim-leadership-fellowships",
+      "source": "Mo Ibrahim Foundation - News and calls",
+      "source_tier": 1,
+      "language": "en",
+      "published": "",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 80,
+      "flags": [
+        "recurring:seen-before"
+      ],
+      "seen_before": "bdfafeccecab"
     },
     {
       "id": "f4ff1d51bcf7",
@@ -27,7 +44,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 80,
       "flags": []
@@ -41,7 +58,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NOT CURRENTLY OPEN",
       "score": 80,
       "flags": [],
@@ -57,7 +74,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "RECURRING PROGRAMME",
       "score": 80,
       "flags": [],
@@ -73,7 +90,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "OFFICIAL SOURCE FOUND",
       "score": 78,
       "flags": [],
@@ -133,7 +150,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 73,
       "flags": []
@@ -163,7 +180,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 65,
       "flags": []
@@ -275,6 +292,37 @@
       "official_page": "https://ieo.shou.edu.cn/2026/0828/c18223a354919/page.htm"
     },
     {
+      "id": "d3b6ff2a1c6e",
+      "title": "The Queen Elizabeth Commonwealth Scholarships (QECS) 2027/2028 for Master’s degree study in a low or middle-income Commonwealth country. (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/the-queen-elizabeth-commonwealth-scholarships-qecs-2027-2028/",
+      "source": "Opportunities for Africans",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 60,
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Youth"
+      ]
+    },
+    {
+      "id": "2e10b5d1f15f",
+      "title": "20 Fully Funded Scholarships and International Conferences to Apply for in December 2026",
+      "url": "https://oyaop.com/opportunity/scholarships-and-fellowships/20-fully-funded-scholarships-and-international-conferences-to-apply-for-in-december-2026/",
+      "source": "OYA Opportunities",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 60,
+      "flags": []
+    },
+    {
       "id": "704cf317c9c4",
       "title": "Friends of Pakistan Fellowship 2027 (Funded)",
       "url": "https://opportunitydesk.org/2026/11/26/friends-of-pakistan-fellowship-2027/",
@@ -283,7 +331,7 @@
       "language": "en",
       "published": "2026-11-26",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -300,7 +348,7 @@
       "language": "en",
       "published": "2026-11-25",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -417,7 +465,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -431,7 +479,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -459,7 +507,7 @@
       "language": "en",
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 60,
       "flags": [],
@@ -490,7 +538,7 @@
       "language": "en",
       "published": "2026-11-23",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 60,
       "flags": []
@@ -824,7 +872,7 @@
       "status": "NEW",
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "also_seen_in": [
         "OYA Opportunities"
       ]
@@ -858,7 +906,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "755639a52780",
@@ -875,7 +923,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "de2725ae424d",
@@ -920,7 +968,7 @@
       ],
       "score": 60,
       "flags": [],
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "66bacd6c0907",
@@ -1354,6 +1402,20 @@
       "official_page": "https://www.globalsouthopportunities.com/2026/10/23/nrf-6/"
     },
     {
+      "id": "4303d61b728c",
+      "title": "AI Diffusion Pathways for Agriculture 2027: Apply for the Six-Month AI Agritech Programme in Africa",
+      "url": "https://opportunitiesforyouth.org/2026/11/27/ai-diffusion-pathways-for-agriculture-2027-apply-for-the-six-month-ai-agritech-programme-in-africa/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 58,
+      "flags": []
+    },
+    {
       "id": "3a03fa238b67",
       "title": "The SAP Young Professionals Program 2027 for young African graduates.",
       "url": "https://www.opportunitiesforafricans.com/the-sap-young-professionals-program-2027/",
@@ -1362,7 +1424,7 @@
       "language": "en",
       "published": "2026-11-25",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 58,
       "flags": []
@@ -1438,7 +1500,7 @@
       "language": "en",
       "published": "2026-11-22",
       "first_seen": "2026-11-23",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 58,
       "flags": []
@@ -1615,7 +1677,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "also_seen_in": [
         "Opportunities for Youth",
         "OYA Opportunities"
@@ -1780,7 +1842,7 @@
       "status": "NEW",
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "23edec56429b",
@@ -2172,7 +2234,7 @@
       ],
       "score": 55,
       "flags": [],
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     {
       "id": "cf982339968d",
@@ -2694,6 +2756,92 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "d99f1eb29402",
+      "title": "Volt Europa European Parliament Traineeships 2027: Four Paid Policy, Communications and AI Trainee Positions in Brussels",
+      "url": "https://opportunitiesforyouth.org/2026/11/27/volt-europa-european-parliament-traineeships-2027-four-paid-policy-communications-and-ai-trainee-positions-in-brussels/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "a8c54f0a8cb0",
+      "title": "Programme de formation en ligne des Jeunes dirigeants des Nations Unies – Janvier 2027 (Allocation de 750 $)",
+      "url": "https://www.lesopportunites.com/opportunite/suisse/call-for-papers/formation/programme-de-formation-en-ligne-des-jeunes-dirigeants-des-nations-unies-janvier-2027-allocation-de-750/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "8e421e8c9454",
+      "title": "Begin Your Humanitarian Career in Geneva: Inside the ICRC Global Affairs Associate Traineeship",
+      "url": "https://opportunitiesforyouth.org/2026/11/27/begin-your-humanitarian-career-in-geneva-inside-the-icrc-global-affairs-associate-traineeship/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "365067a4da5a",
+      "title": "Amnesty International USA Board of Directors Mentorship Program 2027: An Exclusive Opportunity for Young Human Rights Advocates to Gain Boardroom Leadership Experience",
+      "url": "https://opportunitiesforyouth.org/2026/11/27/amnesty-international-usa-board-of-directors-mentorship-program-2027-an-exclusive-opportunity-for-young-human-rights-advocates-to-gain-boardroom-leadership-experience/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
+      "id": "2ee6b9eafc9b",
+      "title": "Pulitzer Center Gender Equality Grant 2026: Funding for Investigative Journalism Projects Promoting Women’s Rights and Gender Empowerment Worldwide",
+      "url": "https://opportunitiesforyouth.org/2026/11/27/pulitzer-center-gender-equality-grant-2026-funding-for-investigative-journalism-projects-promoting-womens-rights-and-gender-empowerment-worldwide/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 53,
+      "flags": [
+        "check:gender-term:Women"
+      ]
+    },
+    {
+      "id": "023321e14500",
+      "title": "2027 Congressional Leadership Academy for Foster Youth: Six-Month Leadership Program to Advocate for Child Welfare Reform in Washington, DC",
+      "url": "https://opportunitiesforyouth.org/2026/11/27/2027-congressional-leadership-academy-for-foster-youth-six-month-leadership-program-to-advocate-for-child-welfare-reform-in-washington-dc/",
+      "source": "Opportunities for Youth",
+      "source_tier": 3,
+      "language": "en",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 53,
+      "flags": []
+    },
+    {
       "id": "78bf9e59f546",
       "title": "Commonwealth Fund Grants: Funding Opportunities to Advance Equitable, High-Quality Health Care",
       "url": "https://opportunitiesforyouth.org/2026/11/26/commonwealth-fund-grants-funding-opportunities-to-advance-equitable-high-quality-health-care/",
@@ -2716,7 +2864,7 @@
       "language": "en",
       "published": "2026-11-26",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 53,
       "flags": []
@@ -2772,7 +2920,7 @@
       "language": "en",
       "published": "2026-11-25",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 53,
       "flags": []
@@ -2831,7 +2979,7 @@
       "language": "en",
       "published": "2026-11-24",
       "first_seen": "2026-11-24",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 53,
       "flags": [],
@@ -3993,6 +4141,20 @@
       "last_seen": "2026-10-22"
     },
     {
+      "id": "70528d73ba10",
+      "title": "KM International organise à N’Djamena une formation certifiante en bureautique et création graphique",
+      "url": "https://www.lesopportunites.com/opportunite/tchad/formation/informatique-electronique/km-international-organise-a-ndjamena-une-formation-certifiante-en-bureautique-et-creation-graphique/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 45,
+      "flags": []
+    },
+    {
       "id": "9b93eab16eb3",
       "title": "1776 Reimagined: A Revolution Without the Declaration Essay Competition 2026",
       "url": "https://opportunitydesk.org/2026/11/25/1776-reimagined-essay-competition-2026/",
@@ -4001,7 +4163,7 @@
       "language": "en",
       "published": "2026-11-25",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 45,
       "flags": []
@@ -4015,7 +4177,7 @@
       "language": "en",
       "published": "2026-11-26",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 45,
       "flags": []
@@ -4183,7 +4345,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-21",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 45,
       "flags": []
@@ -4508,6 +4670,22 @@
       "last_seen": "2026-11-02"
     },
     {
+      "id": "00a05d0ae34c",
+      "title": "Appel à candidatures – Programme de Bourses de recherche en début de carrière destiné aux chercheurs africains",
+      "url": "https://www.lesopportunites.com/opportunite/afrique/doctorat-et-recherche/recherche-innovationdeveloppt/appel-a-candidatures-programme-de-bourses-de-recherche-en-debut-de-carriere-destine-aux-chercheurs-africains/",
+      "source": "Opportunites du Monde",
+      "source_tier": 3,
+      "language": "fr",
+      "published": "2026-11-27",
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27",
+      "status": "NEW",
+      "score": 40,
+      "flags": [
+        "audience:level-only:chercheurs"
+      ]
+    },
+    {
       "id": "f9024db1c89e",
       "title": "The African Research Universities Alliance (ARUA) Early Career Research Fellowship Programme 2027 for early-career African researchers (Fully Funded, plus US$2,000 monthly stipend)",
       "url": "https://www.opportunitiesforafricans.com/the-african-research-universities-alliance-arua-early-career-research-fellowship-programme-2027/",
@@ -4516,7 +4694,7 @@
       "language": "en",
       "published": "2026-11-26",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": [
@@ -4563,7 +4741,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4593,7 +4771,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": [
@@ -4609,7 +4787,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4637,7 +4815,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4651,7 +4829,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4665,7 +4843,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4679,7 +4857,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4693,7 +4871,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4707,7 +4885,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4721,7 +4899,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4735,7 +4913,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4749,7 +4927,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4763,7 +4941,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4777,7 +4955,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4805,7 +4983,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4833,7 +5011,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4847,7 +5025,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4861,10 +5039,13 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
-      "flags": []
+      "flags": [],
+      "also_seen_in": [
+        "Opportunities for Youth"
+      ]
     },
     {
       "id": "3a7dbcb0ff40",
@@ -4875,7 +5056,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4889,7 +5070,7 @@
       "language": "en",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4903,7 +5084,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4917,7 +5098,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 40,
       "flags": []
@@ -4945,7 +5126,7 @@
       "language": "fr",
       "published": "",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-27",
       "status": "NOT CURRENTLY OPEN",
       "score": 40,
       "flags": [],
@@ -5484,7 +5665,7 @@
       "language": "en",
       "published": "2026-11-25",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 28,
       "flags": [
@@ -5500,7 +5681,7 @@
       "language": "en",
       "published": "2026-11-26",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 25,
       "flags": [
@@ -5548,7 +5729,7 @@
       "language": "en",
       "published": "2026-11-26",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 18,
       "flags": [
@@ -5564,7 +5745,7 @@
       "language": "en",
       "published": "2026-11-26",
       "first_seen": "2026-11-26",
-      "last_seen": "2026-11-26",
+      "last_seen": "2026-11-27",
       "status": "NEW",
       "score": 18,
       "flags": [
