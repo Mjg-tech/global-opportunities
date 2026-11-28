@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "entries": [
     {
       "id": "724c7aa70a44",
@@ -2609,6 +2609,24 @@
       "source": "Mo Ibrahim Foundation - News and calls",
       "title": "27 November 2026 Has COP31 set Africa back rather than moved it forward?",
       "url": "https://mo.ibrahim.foundation/news/2026/has-cop31-set-africa-back-rather-than-moved-forward",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "5a1fa012088a",
+      "date": "2026-11-28",
+      "source": "Organisation internationale de la Francophonie",
+      "title": "État civil au Cameroun : l’OIF mise sur les femmes",
+      "url": "https://www.francophonie.org/etat-civil-au-cameroun-l-oif-mise-sur-les-femmes-8802",
+      "reason": "no_opportunity_word",
+      "detail": ""
+    },
+    {
+      "id": "6e521f32dbbe",
+      "date": "2026-11-28",
+      "source": "Opportunity Desk",
+      "title": "AI Diffusion Pathways for Agriculture (AIDPA) 2027",
+      "url": "https://opportunitydesk.org/2026/11/28/ai-diffusion-pathways-for-agriculture-2027/",
       "reason": "no_opportunity_word",
       "detail": ""
     }

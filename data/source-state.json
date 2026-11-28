@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "sources": {
     "oif-jeunesse": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_http": 200,
       "last_note": "robots.txt allows",
       "items_last_scan": 19,
-      "total_runs": 10,
-      "ok_runs": 9,
-      "last_successful_scan": "2026-11-27",
+      "total_runs": 11,
+      "ok_runs": 10,
+      "last_successful_scan": "2026-11-28",
       "fail_streak": 0,
       "leads_total": 18,
-      "next_check": "2026-11-28",
+      "next_check": "2026-11-29",
       "reliability": "HIGH"
     },
     "au-announcements": {
@@ -120,15 +120,15 @@
       "reliability": "UNRATED"
     },
     "afdb-news-events": {
-      "last_checked": "2026-11-27",
+      "last_checked": "2026-11-28",
       "last_http": 403,
       "last_note": "no robots.txt",
       "items_last_scan": 0,
-      "total_runs": 10,
+      "total_runs": 11,
       "ok_runs": 0,
-      "fail_streak": 10,
+      "fail_streak": 11,
       "leads_total": 0,
-      "next_check": "2026-11-28",
+      "next_check": "2026-11-29",
       "reliability": "LOW"
     },
     "sadc-latest-news": {
